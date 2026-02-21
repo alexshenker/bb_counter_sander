@@ -43,9 +43,11 @@ The evaluation says he "can't improve" because of leave, then penalizes him for 
 
 **Career risk:** Regardless of litigation outcome, if Bloomberg's internal investigation confirms the pattern alleged, your position becomes untenable. Companies settle these cases and then deal with the manager separately. Being the manager at the center of a parental leave retaliation lawsuit -- especially one connected to an existing class action (Ndugga) -- creates reputational and professional exposure that extends beyond this job.
 
-**Criminal risk:** None. This is civil litigation. But document destruction, witness tampering, or altering records after a litigation hold would change that. Do not touch anything.
+**Forecast tampering allegation (NEW -- Feb 21):** Sasha is claiming you deleted his largest sales forecast and reopened it under your own name. He says he has photos. His team flagged FINRA implications. If this is true, it is catastrophic for you personally -- it's not a management judgment call, it's potential revenue fraud, and it gives the plaintiff a motive narrative (suppressed his numbers, then rated him as underperforming). If it's false, Bloomberg's forecast system audit logs will prove that and it dies. Either way, you need to know what those logs show before anyone else pulls them. This is the single most urgent item in this document.
 
-**What to do:** Retain your own employment attorney (separate from Bloomberg's counsel) for personal advice. Do this before Monday. Bloomberg's defense team will prep you as a company witness, but their obligation is to the company, not to you. If settlement discussions involve concessions about your conduct, you need independent counsel looking out for your interests.
+**Criminal/regulatory risk:** The civil litigation itself carries no criminal exposure. But if the forecast tampering allegation is substantiated, it could create separate regulatory risk (FINRA, internal compliance) that is personal to you, not to Bloomberg. Document destruction, witness tampering, or altering records would also create criminal exposure. Do not touch anything.
+
+**What to do:** Retain your own employment attorney (separate from Bloomberg's counsel) for personal advice. Do this before Monday. Bloomberg's defense team will prep you as a company witness, but their obligation is to the company, not to you. If settlement discussions involve concessions about your conduct, or if the forecast allegation creates a conflict between your interests and Bloomberg's, you need independent counsel looking out for you.
 
 ---
 
@@ -64,6 +66,8 @@ The evaluation says he "can't improve" because of leave, then penalizes him for 
 ## Latest Intelligence (Feb 21)
 
 New file `Monday_Playbook.md`: operational attorney outreach playbook with scripted calls, recording instructions (one-party consent), and mandatory upfront disclosure of the WhatsApp "effort" messages to all firms. Cohen Milstein is the lead target. Five firms total (up from 3). The support team has moved from planning to execution.
+
+**NEW ALLEGATION (Feb 21) -- FORECAST TAMPERING (against you personally):** Employee's CASE_STATUS.md claims you deleted his largest sales forecast and reopened it under your own name. He says photos exist. His team flagged FINRA implications and told him not to report until attorney advises (i.e., they're holding it as leverage). This was not in any prior evidence file -- it surfaced very recently and is still marked "unconfirmed" on their end. **You need to determine immediately: (a) did this happen, (b) what do the system audit logs show, and (c) is there a legitimate business explanation.** If the logs are clean, this allegation dies. If they're not, this becomes the most dangerous element of the entire case -- worse than the evaluation, worse than Sam Page -- because it's fraud, not a judgment call.
 
 ---
 

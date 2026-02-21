@@ -214,3 +214,64 @@ The timeline for action items in LITIGATION_PREP.md has compressed. The 48-hour 
 - Whether the March meeting date has been confirmed
 - Any new files added to the case directory
 - Changes to Event_Log pending items (especially the "stats email" debate -- if the attorney advises on this, the communication posture could shift)
+
+---
+
+## Entry 003: Third Read-Through -- Opponent's CASE_STATUS.md and New Allegation
+
+**Date:** February 21, 2026
+**Files reviewed:** Re-checked all files in `/Users/alex/dev/sasha/` by modification time. Two changes detected.
+**Changes since last review:** Two files changed: `CLAUDE.md` (minor update), `CASE_STATUS.md` (new file)
+
+### New file: CASE_STATUS.md (opponent's version)
+
+The opponent's support team created their own quick-reference dashboard. It mirrors our CASE_STATUS.md in structure (case strength, outcome range, current approach, next milestone). Their outcome ranges are nearly identical to ours ($200K-$400K to $3M-$10M+), confirming both sides are reading the situation the same way.
+
+Their CLAUDE.md was updated to add CASE_STATUS.md to the Core Documents section. No other changes to CLAUDE.md.
+
+### CRITICAL: New allegation -- forecast tampering
+
+The opponent's CASE_STATUS.md contains a previously undocumented allegation (line 20):
+
+> "NEW (unconfirmed): Manager allegedly deleted Sasha's largest sales forecast and reopened it under his own name. Photos taken. Details pending."
+
+And in their action items (line 53):
+
+> "Investigate forecast tampering claim. Sasha reports manager deleted his largest forecast and reopened under his own name. Photos exist. Follow-up questions pending. Potential FINRA implications -- do NOT report until attorney advises."
+
+**This allegation appears nowhere else in their case file.** It is not in:
+- Event_Log.md
+- Adverse_Actions_and_Additional_Evidence.md
+- WhatsApp_Evidence_Chronology.md
+- Employee_Counter_Metrics_2025.md
+- Any other evidence document
+
+This means it surfaced very recently -- likely in a conversation between Sasha and his support team that has not yet been fully documented. The "unconfirmed" and "details pending" labels suggest even the support team is still verifying it.
+
+### Why this matters
+
+If substantiated, this allegation is a different category of misconduct entirely:
+
+1. **Revenue misattribution** -- deleting an employee's forecast and reopening it under your name is not a management style issue. It is potential fraud: taking credit for someone else's revenue pipeline.
+
+2. **FINRA implications** -- the opponent specifically flagged this. If Bloomberg LP or the manager is subject to FINRA oversight and revenue forecasts are part of any regulated reporting, manipulating attribution could be a compliance violation independent of any employment discrimination claim.
+
+3. **Motive evidence** -- if you were taking Sasha's revenue credit, it provides an additional motive for the negative evaluation: suppress the employee's recorded performance to justify the narrative that he's underperforming, while simultaneously benefiting from his work.
+
+4. **Photos exist** -- they claim photographic evidence. If Sasha took screenshots of the forecast system showing the deletion and reopening, this could be verifiable through Bloomberg's own audit logs.
+
+5. **Separate from the leave retaliation case** -- this is not about parental leave. This is about a manager potentially falsifying business records. It could be raised as a standalone issue with compliance, HR, or regulators. The opponent's instruction to hold off reporting "until attorney advises" suggests they see it as leverage.
+
+### Implications for defense
+
+- You need to determine what the system audit logs show before anyone else does. If there's a legitimate business explanation (e.g., forecast reassignment during leave, system cleanup, duplicate entry correction), document it now.
+- Bloomberg's forecast system almost certainly has an audit trail. Those logs are now part of the litigation hold and will be produced in discovery. Whatever they show, you will not be able to change them -- you need to know what's there.
+- If this allegation is true, it fundamentally changes your credibility and personal exposure. A manager who takes an employee's revenue credit and then rates that employee as underperforming has no defensible position -- not on the retaliation claims, and potentially not with compliance or FINRA.
+- If this allegation is false or exaggerated, the system audit logs will show that and it becomes a non-issue -- possibly even evidence that Sasha is making bad-faith claims.
+
+### What to watch for next read
+
+- Whether the forecast tampering claim gets documented in their evidence files (Adverse_Actions or Event_Log)
+- Whether photos or screenshots are added to the images directory
+- Whether this claim appears in the Monday Playbook or attorney talking points
+- Any other new allegations surfacing in CASE_STATUS.md (this file appears to be where they log breaking developments before formal documentation)
