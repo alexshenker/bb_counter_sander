@@ -2,7 +2,7 @@
 
 **Prepared:** February 20, 2026
 **For:** Manager's strategic defense preparation
-**Status:** Pre-litigation -- no complaint filed, no attorney retained by employee (as of this date)
+**Status:** Pre-litigation -- no complaint filed, no attorney retained by employee (as of Feb 20). As of Feb 21, a fully operational attorney outreach playbook has been prepared targeting 5 firms. Calls scheduled for Monday, Feb 23. Attorney retention expected within days.
 **Jurisdiction:** Southern District of New York (federal claims); New York Supreme Court, New York County (state/city claims)
 
 ---
@@ -798,9 +798,9 @@ Bloomberg must weigh two competing interests:
 
 3. **Confirm that Sabrina's employment records are intact and preserved.** Same urgency.
 
-### Priority 2: Retain External Employment Counsel (Do Within 48 Hours)
+### Priority 2: Retain External Employment Counsel (URGENT -- Employee Calling Firms Monday Feb 23)
 
-4. **Engage experienced employment defense counsel immediately.** The employee is targeting Outten & Golden, Cohen Milstein, and Phillips & Associates. These are first-tier plaintiff's firms. Bloomberg's defense counsel must be comparably experienced. Recommended: a firm with NYCHRL defense experience and familiarity with financial services industry employment litigation. Do not rely solely on in-house counsel for a case of this complexity and exposure level.
+4. **Engage experienced employment defense counsel immediately.** The employee's outreach playbook targets five firms in this order: (1) Cohen Milstein/Clancy, (2) Phillips & Associates, (3) Outten & Golden, (4) Wigdor LLP, (5) Derek Smith Law Group. Cohen Milstein is the lead target because they are already suing Bloomberg in Ndugga v. Bloomberg (SDNY) -- the employee has been scripted to mention this directly. Wigdor LLP ($1.5B+ in verdicts) and Derek Smith Law Group (record emotional distress verdict) are new additions beyond the three previously identified. Bloomberg's defense counsel must be retained before Monday Feb 23 if possible, or within 24 hours of that date at the latest. Recommended: a firm with NYCHRL defense experience and familiarity with financial services industry employment litigation. Do not rely solely on in-house counsel for a case of this complexity and exposure level.
 
 5. **Brief defense counsel on the full case file.** Provide counsel with this document, the VULNERABILITY_ASSESSMENT.md, the DEFENSE_STRATEGY.md, and all underlying evidence referenced herein. Counsel needs to assess the company's actual exposure with access to Bloomberg's internal data, not just the employee's characterization.
 
@@ -893,7 +893,8 @@ Bloomberg must weigh two competing interests:
 | Feb 17, 2026 | Employee sends follow-up email (partially favorable to defense) | Contains concessions |
 | Feb 18-20, 2026 | Health impact documented; attorney research begins | Damages evidence; litigation imminent |
 | Feb 20, 2026 | Coverage universe data discovered (1,138 vs 6,099); target increase confirmed ($115k to $175k) | Strongest quantitative evidence |
-| ~Feb 24, 2026 | Employee plans to contact attorney firms | Filing expected within weeks to months |
+| ~Feb 21, 2026 | Operational attorney outreach playbook prepared (Monday_Playbook.md) | Escalation from planning to execution |
+| Feb 23, 2026 | Employee scheduled to call 5 attorney firms (Cohen Milstein/Clancy first) | Attorney retention expected within days |
 | ~Mar 5-10, 2026 | Follow-up meeting scheduled with manager | Next critical interaction point |
 
 ---

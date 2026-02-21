@@ -72,7 +72,11 @@ The case file at `/Users/alex/dev/sasha` is well-organized. Read the files in th
 
 After reading the entire case file, create the following documents in THIS project directory (`/Users/alex/dev/sasha-defense/`):
 
-### 1. `VULNERABILITY_ASSESSMENT.md` (Create this FIRST)
+### 0. `CASE_STATUS.md` (Read this FIRST)
+
+The quick-glance summary of where things stand. Contains: current phase, strength of both sides, outcome ranges, recommended next steps, and latest intelligence. This is the file to open at the start of every session. Keep it concise (under 60 lines) and always current.
+
+### 1. `VULNERABILITY_ASSESSMENT.md`
 
 The honest truth about where the company is exposed. For each vulnerability:
 - What the employee has

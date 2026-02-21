@@ -96,3 +96,121 @@ They are holding substantial evidence in reserve for the attorney: counter-metri
 - Any updates to the witness list (especially Sam Page contact)
 - Any new evidence added to Adverse_Actions file
 - Changes to Communications_Strategy principles or draft log
+
+---
+
+## Entry 002: Second Read-Through -- Monday Playbook Discovered
+
+**Date:** February 21, 2026
+**Files reviewed:** All files in `/Users/alex/dev/sasha/` re-read. All defense documents in `/Users/alex/dev/sasha-defense/` cross-checked.
+**Changes since last review:** One new file discovered: `Monday_Playbook.md`
+
+### New file: Monday_Playbook.md
+
+This is a fully operational attorney outreach playbook dated Monday, February 23, 2026. It was not present in the original file inventory (Entry 001). Its existence confirms the employee's support team has moved from evidence collection and strategy into active execution of attorney outreach.
+
+### What the playbook contains
+
+**Firm prioritization (finalized order):**
+
+1. **Cohen Milstein / The Clancy Law Firm** -- Lead priority. The playbook instructs Sasha to call Cohen Milstein first at (212) 838-7797, ask for the Ndugga v. Bloomberg team or employment discrimination practice. If that fails, call Donna Clancy directly at (212) 747-1744. Specific instruction: mention the existing Bloomberg litigation.
+2. **Phillips & Associates** -- (866) 229-9441. Cited for the $1.8M Pardovani verdict. Free consultations.
+3. **Outten & Golden** -- (212) 390-8206. Cited for Rotondo v. JPMorgan Chase ($5M settlement). The playbook says "worth calling even if you retain someone from the first two."
+4. **Wigdor LLP** -- (212) 257-6800. Described as having "$1.5 billion in total verdicts and settlements." Positioned as the high-firepower backup if the first three don't work.
+5. **Derek Smith Law Group** -- (212) 587-0760. Cited for $1.5M paternity leave settlement and "largest emotional distress jury verdict upheld on appeal in the US." Specifically flagged because Sasha has device-recorded physiological data.
+
+**Note on reordering:** In Entry 001, the Event_Log showed a recommended order of (1) Outten & Golden, (2) Cohen Milstein/Clancy, (3) Phillips & Associates. The Monday Playbook has moved Cohen Milstein/Clancy to the #1 position and expanded the list from 3 to 5 firms. This suggests the support team concluded that connecting Sasha's case to the active Ndugga litigation is the highest-value first move.
+
+**Scripted intake call:**
+
+The playbook provides a verbatim opening script:
+
+> "Hi, my name is Aleksandr Akulov. I'm a current employee at Bloomberg LP. I'm calling about a potential parental leave retaliation case. I took about six months of parental leave, and since returning I've experienced retaliation including a negative performance review, loss of client coverage, and threats of a PIP. I have 14 years of tenure and documentation."
+
+For Cohen Milstein specifically, he adds: "I understand your firm is currently representing plaintiffs in a discrimination case against Bloomberg. I think my situation may be relevant to that."
+
+If asked for more detail: "I've been at Bloomberg for 14 years in sales. I took parental leave from approximately July through December 2025. When I returned, my client coverage had been reduced, I received a negative performance review that explicitly referenced my leave, I got no raise and no bonus, and I was verbally threatened with a PIP. I'm still employed. The year-end evaluation was delivered on February 17, 2026."
+
+If asked about documentation: "Yes, I have performance data from the company's own systems, text messages, and a group chat with contemporaneous accounts from colleagues."
+
+**Scripted consultation callback:**
+
+The playbook provides a structured narrative for when a lawyer calls back, organized in seven sections: (1) tenure and track record, (2) the leave details, (3) coverage stripping during leave, (4) the evaluation and return, (5) manager's statements, (6) Sam Page pattern, (7) actual performance data.
+
+**Critical disclosure requirement:**
+
+The playbook makes the WhatsApp disclosure mandatory and non-negotiable. Sasha must tell the attorney about the "pulling back on discretionary effort" messages before they develop any strategy:
+
+> "I should flag something that would come up in discovery. After I found out about the zero raise in early 2025, I vented in a group chat with friends. I said things about pulling back on discretionary effort and being frustrated with the company. Those messages exist and they'd be discoverable. I want you to know about that upfront."
+
+This is significant because it means the attorney will know about the strongest defense weapon from day one and will build strategy around it rather than being blindsided.
+
+**Call recording instructions:**
+
+The playbook instructs Sasha to record every call. New York is a one-party consent state. Method: speaker phone with a second device running a voice recorder. Explicit warning NOT to use iPhone's iOS 18 built-in recording (announces to all parties). Recordings will be transcribed via Otter.ai or Whisper.
+
+This means transcripts of every attorney intake conversation will exist and can be shared with the support team for analysis.
+
+**Firm-specific questions:**
+
+- Cohen Milstein/Clancy: "Would my case be connected to the existing Ndugga litigation, or handled separately?"
+- Derek Smith Law Group: "I have objective health data -- my fitness ring and smartwatch recorded elevated heart rate and stress levels in the days after the evaluation, significantly above my baseline. I also have contemporaneous texts and emails from that same timeframe showing I wasn't sleeping. Is that something you'd use?"
+
+**Post-call instructions:**
+
+- Write down who you spoke with and what they said
+- Do NOT send any Bloomberg documents; only personal records from personal devices
+- Text "Al" (Aleksey Shenker) with updates
+- Do not retain any firm until speaking with at least 2-3
+
+### What hasn't changed
+
+All other files in `/Users/alex/dev/sasha/` appear unchanged from Entry 001:
+
+- PROJECT_CONTEXT.md -- unchanged
+- CLAUDE.md -- unchanged
+- Event_Log.md -- unchanged (still shows 7 events, pending items same)
+- Communications_Strategy.md -- unchanged (8 principles, 3 drafts)
+- Adverse_Actions_and_Additional_Evidence.md -- unchanged
+- Bloomberg_2025_performance_evaluations.md -- unchanged
+- Employee_counter_metrics_2025.md -- unchanged
+- WhatsApp_Evidence_Chronology.md -- unchanged
+- Imessage_evidence_sasha_erb.md -- unchanged
+- Health_impact_evidence.md -- unchanged
+- FIRST_EMAIL_TO_SEND_AFTER_EVAL.md -- unchanged
+
+### Strategic implications for defense
+
+1. **Attorney outreach is operationalized.** This is no longer "planning to call attorneys." The support team has produced a polished execution document with scripts, phone numbers, firm-specific strategies, and recording procedures. Calls happen Monday, February 23 -- two days from now. Attorney retention could follow within days.
+
+2. **Cohen Milstein is now the lead target.** The decision to prioritize the firm already litigating against Bloomberg in Ndugga is a significant escalation signal. If Donna Clancy takes this case, she brings four years of Bloomberg-specific discovery, institutional knowledge, and existing litigation infrastructure. This was identified as a risk in LITIGATION_PREP.md Section 7.6. The Monday Playbook confirms it is now the primary strategy.
+
+3. **Five firms, not three.** Entry 001 documented three target firms. The playbook adds Wigdor LLP and Derek Smith Law Group, increasing the probability that at least one top-tier firm takes the case. Wigdor's presence is notable -- they handle the highest-value Wall Street discrimination cases.
+
+4. **The WhatsApp disclosure strategy is smart.** By disclosing the "pulling back on effort" messages upfront, the employee's team ensures no attorney is blindsided by the strongest defense argument. This means any firm that takes the case has already factored in the WhatsApp risk and concluded the case is still worth pursuing. It also means the attorney will have a prepared counter-narrative (the "retaliation cascade" theory from Adverse_Actions Section F) ready before the company can deploy those messages.
+
+5. **Call recordings create additional evidence.** The transcripts of these intake calls will document exactly how Sasha presents the case. If his oral account is consistent with the written case file, it strengthens credibility. If any firm declines the case, the reason why could also be informative (though attorney-client privilege may limit this).
+
+6. **Derek Smith specifically chosen for health data.** The inclusion of Derek Smith Law Group, with its record emotional distress verdict, and the firm-specific question about physiological data, suggests the support team is building a damages-maximization strategy around the Oura Ring and Apple Watch evidence.
+
+### Updated timeline
+
+| Date | Event | Status |
+|---|---|---|
+| Feb 23, 2026 (Monday) | Sasha calls up to 5 attorney firms using the Monday Playbook | IMMINENT |
+| Feb 23-28, 2026 | Attorney consultations/callbacks expected | IMMINENT |
+| ~Mar 1-7, 2026 | Attorney retention decision (after speaking with 2-3 firms) | NEAR-TERM |
+| ~Mar 5-10, 2026 | Follow-up meeting with manager | NEAR-TERM |
+
+### Impact on defense posture
+
+The timeline for action items in LITIGATION_PREP.md has compressed. The 48-hour window for retaining external employment counsel (Priority 2) is now effectively zero margin. If Sasha calls Cohen Milstein on Monday and Donna Clancy's team is interested (given their active Bloomberg litigation, they almost certainly will be), the employee could have experienced counsel within a week. The company's defense counsel must be retained and briefed before this happens, or the company will be playing catch-up from the start.
+
+### What to watch for next read
+
+- Whether any firm has been retained (check Event_Log.md for new events)
+- Whether the Monday calls happened as planned
+- Whether new communications were sent to the employer
+- Whether the March meeting date has been confirmed
+- Any new files added to the case directory
+- Changes to Event_Log pending items (especially the "stats email" debate -- if the attorney advises on this, the communication posture could shift)
