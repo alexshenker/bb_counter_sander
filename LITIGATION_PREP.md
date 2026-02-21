@@ -1,6 +1,7 @@
 # Litigation Preparation
 
 **Prepared:** February 20, 2026
+**Last updated:** February 21, 2026 (late afternoon -- Sabrina iMessage evidence, forecast tampering, chain of command, expanded discovery/witness sections)
 **For:** Manager's strategic defense preparation
 **Status:** Pre-litigation -- no complaint filed, no attorney retained by employee (as of Feb 20). As of Feb 21, a fully operational attorney outreach playbook has been prepared targeting 5 firms. Calls scheduled for Monday, Feb 23. Attorney retention expected within days.
 **Jurisdiction:** Southern District of New York (federal claims); New York Supreme Court, New York County (state/city claims)
@@ -224,6 +225,23 @@ The following requests should be anticipated. For each, an assessment of how dam
 - **Damage Assessment: VARIABLE.** If other direct reports identified hostility toward leave, micromanagement, or double standards in their reviews of the manager, this corroborates the employee's account. The employee himself mentioned regretting not writing a 180 review.
 - **Privilege:** Depends on Bloomberg's characterization of these reviews. Some companies protect peer/upward reviews as privileged management communications. Likely discoverable over objection.
 
+**Request 14 (Added Feb 21): The complete CRM audit trail for all forecast records associated with Aleksandr Akulov for the period August 1 - October 31, 2025, including but not limited to: creation timestamps, modification timestamps, user IDs of all modifiers, field-level change logs, status changes (including "duplicate" closures), and all associated notes or comments before and after modification.**
+
+- **Damage Assessment: BINARY -- ranges from EXONERATING to DEVASTATING.** The employee alleges the manager closed a ~$58K forecast as "dupe" on 9/5/2025, stripped notes, and reopened the same day. If the audit trail shows routine CRM maintenance (consolidating a genuine duplicate, correcting a data entry), this allegation collapses and the employee's credibility is damaged. If it confirms the employee's account, this is potentially the most dangerous single piece of evidence in the case: it provides a concrete motive narrative (suppress his numbers, then rate him as underperforming) and creates FINRA regulatory exposure for the manager's Series 24 license.
+- **Privilege:** None. Standard business records. Must be produced.
+- **ACTION REQUIRED: Pull this audit trail NOW, before discovery is demanded. The company needs to know what these logs show before anyone else does.**
+
+**Request 15 (Added Feb 21): Sabrina Sparapani's complete HR exit interview notes, including any written documentation, interviewer's notes, typed summaries, or electronic records of her exit interview conducted in approximately July 2025.**
+
+- **Damage Assessment: VARIABLE -- could be LOW or HIGH depending on content.** Sabrina told the plaintiff she was "veeeerrrry honest" in her exit interview about the manager's conduct. If the notes contain specific complaints about leave-based retaliation, they establish that Bloomberg HR had institutional knowledge of the alleged pattern. If the notes are generic (standard complaints about management style without specifics about leave), the institutional knowledge argument is substantially weaker. The actual content is unknown.
+- **Privilege:** Exit interview notes are generally not privileged unless conducted at the direction of counsel for the purpose of providing legal advice. Standard HR exit interviews are discoverable.
+- **ACTION REQUIRED: Pull these notes now. Bloomberg needs to know what they contain before discovery.**
+
+**Request 16 (Added Feb 21): All communications between Rich Santore and the manager, and between Rich Santore and any HR representative, concerning Aleksandr Akulov, his performance, his parental leave, or his evaluation, from January 2023 through the present.**
+
+- **Damage Assessment: VARIABLE.** If Santore expressed concerns about the evaluation or the employee's treatment and the manager disregarded them, this helps the defense (shows institutional pushback). If Santore expressed agreement with or indifference to leave-related adverse actions, it creates co-liability and undermines the "one bad manager" defense. If Santore's communications are clean, his presence at the evaluation can be characterized as standard oversight.
+- **Privilege:** Same as Request 9 -- not privileged unless counsel was specifically involved.
+
 ### 2.2 Interrogatories (Anticipated)
 
 1. Identify all employees under the manager's direct supervision who took parental leave of four or more months since January 2018, and for each, state the leave duration, pre-leave evaluation rating, post-leave evaluation rating, and any subsequent PIP or separation.
@@ -234,6 +252,9 @@ The following requests should be anticipated. For each, an assessment of how dam
 6. State the basis for the non-temporary job posting for the ETS-Listed AMER South team during July 2025, including the requisition approval chain and whether the posting was for Aleksandr Akulov's position.
 7. Identify all employees under the manager's supervision who received 0% raises in February 2025 and February 2026, respectively.
 8. State whether Sam Page was placed on a PIP, and if so, identify the basis for the PIP, the date it was initiated, the date of his separation, and whether a separation agreement was executed.
+9. *(Added Feb 21)* Describe in detail the CRM action taken on or about September 5, 2025 with respect to any forecast associated with Aleksandr Akulov, including who performed the action, the business rationale, and whether a "duplicate" status was applied.
+10. *(Added Feb 21)* State whether Sabrina Sparapani raised any complaints about [the manager] or about treatment of employees who took parental leave during her HR exit interview in approximately July 2025, and identify what was documented from that interview.
+11. *(Added Feb 21)* Identify Rich Santore's role in reviewing, approving, or contributing to the 2025 mid-year and year-end evaluations of Aleksandr Akulov, including whether he reviewed the evaluation content before delivery.
 
 ### 2.3 Depositions (Anticipated)
 
@@ -293,8 +314,10 @@ A litigation hold must be issued immediately. The employee's case file reveals a
 | IT/Records Custodian | Technical | Ensure electronic systems are not purged, overwritten, or auto-deleted per routine schedules. |
 | James Johnston | Team member, comparator | His evaluations, coverage history, and compensation are directly at issue. |
 | Sam Page (employment records) | Former employee | His entire employment file must be preserved. He does not need to receive a hold notice personally (he no longer works there), but his records must be flagged in all systems. |
-| Sabrina (employment records) | Former employee | Same as above. Her departure circumstances and any complaints she filed are relevant. |
+| Sabrina (employment records) | Former employee | Same as above. Her departure circumstances and any complaints she filed are relevant. **Updated Feb 21: Include her HR exit interview notes specifically. Her iMessage statements claim she complained about the manager during that interview.** |
+| **Rich Santore** *(Added Feb 21)* | **Manager's manager, present at Feb 17 evaluation** | **All communications with the manager regarding the employee, regarding Sabrina, regarding leave policies. His review/approval of evaluations. Any communications about the employee's coverage or compensation. Particularly: any awareness of Sabrina's exit interview complaints.** |
 | Any Bloomberg employee who participated in coverage assignment, territory redistribution, or target-setting decisions | Various | Their records of those decisions and any communications about them. |
+| **CRM/Sales Operations Administrator** *(Added Feb 21)* | **Technical** | **CRM audit trail records, forecast modification logs, user access logs for the GDSF system. Specifically: all records related to forecast modifications for the employee's accounts around 9/5/2025.** |
 
 ### 3.3 Systems to Preserve
 
@@ -310,6 +333,9 @@ A litigation hold must be issued immediately. The employee's case file reveals a
 | Compensation System | All compensation recommendations, approvals, and decisions for the team | Jan 2023 - present |
 | 180-Degree / Upward Review System | All reviews submitted for the manager | Jan 2020 - present |
 | Phone Records (if Bloomberg tracks internal calls) | Call logs between manager and employee, manager and HR | Jan 2023 - present |
+| **CRM Forecast Audit Trail** *(Added Feb 21)* | **Complete audit trail for all forecasts associated with the employee: creation, modification, status changes, user IDs, notes content before/after. Includes the 9/5/2025 action specifically.** | **Jul 2025 - present (minimum); Jan 2023 - present (recommended)** |
+| **HR Exit Interview Records** *(Added Feb 21)* | **Sabrina Sparapani's exit interview notes, interviewer identity, typed summaries, electronic records** | **Jul 2025** |
+| **Santore Communications** *(Added Feb 21)* | **All communications between Santore and the manager, and between Santore and HR, regarding the employee, leave policies, evaluations, and Sabrina** | **Jan 2023 - present** |
 
 ### 3.4 What Must NOT Be Done
 
@@ -451,25 +477,84 @@ The employee's team has referenced the following physical/digital items that Blo
 - If Page's PIP and separation were genuinely well-documented and based on pre-leave performance issues, prepare to present this in rebuttal.
 - Defense counsel should consider whether to contact Page through counsel before the plaintiff does. This is a strategic decision with risks: contacting him could be seen as intimidation, but not contacting him cedes the narrative entirely.
 
-### 4.6 Sabrina (Former Employee -- Likely Hostile to Company)
+### 4.6 Sabrina Sparapani (Former Employee -- Likely Hostile to Company) *(Substantially Updated Feb 21)*
 
-**What she likely knows:** The "carried the baby" comment. The manager's general attitude toward leave and toward her own departure. Team dynamics during her tenure.
+**Status change from prior version:** Sabrina's role in this case has expanded significantly. She is no longer just the source of the "carried the baby" comment. New iMessage evidence shows she has first-person accounts of the manager's conduct, claims to be a pattern victim herself, and says she complained to HR in her exit interview. However, her formal willingness to cooperate with a plaintiff's attorney is unconfirmed.
 
-**What she might say under oath:** She will testify that the manager said the employee "shouldn't be taking primary leave for 6 months because it's not like he carried the baby." She may testify about her own experience being "pushed out" and attribute it to similar dynamics.
+**What she likely knows (expanded):**
+- The "carried the baby" comment -- she claims to have heard it directly from the manager.
+- Territory distribution: she told the plaintiff the manager gave him her "shitty accounts" and that coverage was inequitable.
+- Her own experience under the manager, which she characterizes as the "same playbook" as what the plaintiff is experiencing.
+- That Santore "approves those reviews" and, in her view, did not protect her.
+- What she told HR in her exit interview -- she claims she was candid about the manager's conduct.
+- She is now at BlackRock. Her current employer status is relevant to her willingness to testify (she is no longer at Bloomberg and has no retaliation risk from Bloomberg).
 
-**Key questions she will face:**
+**What she might say under oath:** She will testify to the "carried the baby" comment as a direct first-person account. She will describe her own experience under the manager as a pattern of leave-related retaliation. She will say she warned the plaintiff to document everything. She will say she complained to HR in her exit interview. She will say Santore approves the manager's reviews and did not intervene on her behalf. She may describe specific coverage and territory decisions she experienced as retaliatory.
+
+**Key questions she will face (from plaintiff's counsel):**
 - "Did [the manager] say to you that Mr. Akulov should not be taking primary leave because he did not carry the baby?"
 - "When and where did this conversation take place? Who else was present?"
-- "Can you describe the circumstances of your own departure from Bloomberg?"
-- "Did you file any complaints about [the manager] before or after your departure?"
+- "Did [the manager] assign Mr. Akulov accounts that you considered underperforming? What did he say about it?"
+- "In your experience under [the manager], did you observe a pattern of how he treated employees who took extended parental leave?"
+- "You resigned in July 2025. Did you have an exit interview with HR? What did you tell them?"
+- "Did you specifically mention [the manager's] treatment of employees who took parental leave during that exit interview?"
+- "Were you ever told by [the manager] or anyone else that your own coverage or treatment was related to leave?"
+- "You wrote to Mr. Akulov in July 2025: 'he retaliates against people who go on leave especially men.' What is the factual basis for that statement?"
 
-**Risks she creates:**
-- If she testifies credibly about the "carried the baby" comment, this is a gender discrimination finding almost by itself under NYCHRL.
-- If her own departure involved leave- or gender-related issues, she becomes a third data point in the pattern (after the employee and Sam Page).
+**Key questions she will face (from defense counsel on cross-examination):**
+- "You were in the process of resigning when you sent these messages. Correct?"
+- "Were you frustrated with [the manager] at the time you sent these messages?"
+- "You have your own grievances with [the manager], separate from Mr. Akulov's situation. Correct?"
+- "When you say 'same playbook,' are you describing specific documented actions or your general feeling about the manager?"
+- "You said [the manager] gave Mr. Akulov your 'shitty accounts.' Were those accounts underperforming at the time of assignment? Were you consulted on the rationale?"
+- "You said Santore 'approves those reviews.' Were you present when Santore reviewed Mr. Akulov's evaluation? Or is this your inference?"
+- "You communicated with Mr. Akulov by iMessage. Were you aware he was building a legal case? Did he ask you for information that would help his case?"
+
+**Risks she creates (updated):**
+- If she testifies credibly about the "carried the baby" comment as a first-person account, this is a gender discrimination finding almost by itself under NYCHRL. This is no longer hearsay if she testifies -- it is direct testimony from a percipient witness.
+- Her pattern-victim testimony, if believed, transforms this from a single-employee dispute into evidence of systemic conduct under one manager. Two employees (Sasha, Sabrina) -- potentially three with Sam Page -- alleging the same conduct under the same supervisor is qualitatively different from one.
+- If her HR exit interview notes contain specific complaints about the manager's treatment of leave-takers, Bloomberg's "we didn't know" defense is damaged. The company would have had institutional notice.
+- Her iMessage statements ("he retaliates against people who go on leave especially men") are powerful characterizations that, while not independently verified, will be quoted in briefs and potentially read to a jury.
+
+**What limits her impact:**
+- Her formal cooperation is unconfirmed. Chatting with a former colleague over iMessage is not the same as agreeing to sit for a deposition, cooperate with a plaintiff's attorney, and face cross-examination.
+- She is a biased witness. She left the company in circumstances she describes as adversarial. Her characterizations of the manager are colored by her own experience and grievances.
+- Many of her statements are conclusory ("same playbook," "retaliates," "shitty accounts") rather than specific factual descriptions. Under cross-examination, the defense can probe whether each conclusion is supported by documented facts or by her interpretations.
+- She told the plaintiff what to do ("document everything") and may have been actively helping him build a case. This creates a narrative that the two coordinated rather than independently observed the same conduct.
+- The actual content of her HR exit interview is unknown. She says she was honest, but "honest" may mean she complained about general management style, not specifically about leave retaliation.
+
+**Preparation needs (updated):**
+- **URGENT: Pull Sabrina's HR exit interview notes.** What she actually told HR -- not what she told the plaintiff she told HR -- is the critical question. If the notes are specific about leave retaliation, Bloomberg had institutional notice. If they are generic, the institutional knowledge argument is weaker.
+- Review Sabrina's full employment file, evaluations, coverage assignments, and departure documentation. Understand what her actual treatment was (not just her characterization of it). If her file shows legitimate performance management, her "same playbook" characterization can be challenged.
+- Prepare defense counsel to cross-examine Sabrina on her bias, her conclusions vs. her facts, and her coordination with the plaintiff.
+- Assess whether Sabrina signed any separation agreement or release. If so, review its terms.
+- **Do NOT contact Sabrina.** Any outreach will be characterized as witness intimidation.
+
+### 4.7 Rich Santore (Manager's Manager -- Potential Co-Defendant) *(Added Feb 21)*
+
+**What he likely knows:** Present at the February 17, 2026 evaluation meeting. Per Sabrina, he approves the manager's reviews. May have visibility into coverage assignments and compensation decisions at a team level. May know about Sabrina's exit circumstances.
+
+**What he might say under oath:** Will likely support the evaluation as a fair assessment and characterize his presence as standard oversight. May defer to the manager on specific performance details. May say the compensation decision reflected company-wide conditions.
+
+**Key questions he will face:**
+- "You were present at the February 17, 2026 evaluation meeting. Did you review the evaluation before it was delivered?"
+- "Did you notice that the evaluation referenced Mr. Akulov's parental leave in its opening paragraph?"
+- "Did you raise any concerns about evaluating an employee's half-year performance against full-year peers?"
+- "Did you approve this evaluation before it was delivered?"
+- "Were you aware of Sabrina Sparapani's complaints about [the manager] -- either through her exit interview or through any other channel?"
+- "Did [the manager] ever express to you any frustration or concern about Mr. Akulov's parental leave?"
+- "Did [the manager] ever express to you any frustration or concern about any employee's parental leave?"
+
+**Risks he creates:**
+- If he reviewed and approved the evaluation, he shares liability under NYCHRL for its content -- including leave references and half-year-vs-full-year comparison.
+- If he did not review it, Bloomberg has a supervisory negligence problem.
+- If the manager ever expressed leave-related frustration to Santore and Santore failed to act, supervisor liability attaches.
+- If Sabrina's HR exit interview complaints reached Santore (or should have), his inaction creates institutional ratification of the alleged conduct.
 
 **Preparation needs:**
-- Bloomberg must review Sabrina's employment file, departure documentation, and any complaints she filed.
-- If Sabrina's departure was amicable and well-documented, the defense can frame her testimony as unreliable, colored by her own grievances. If her departure was acrimonious, expect a motivated, detailed witness.
+- Must work with defense counsel on a clear account of what he reviewed, when, and whether he raised concerns.
+- Must be prepared for questions about Sabrina's exit and whether her complaints reached him.
+- Bloomberg should pull all communications between Santore and the manager regarding the employee to assess exposure before deposition.
 
 ---
 
@@ -587,7 +672,44 @@ These questions establish the relationship, tenure, and context. They seem innoc
 **Q32:** "Can you identify any employee under your management who took the full six months of parental leave and who did not subsequently receive a negative evaluation, reduced coverage, or adverse compensation?"
 - **Risk:** This is the kill shot. If the manager cannot name one, the pattern is proven. If he can, the defense has a counter-example. The answer must be prepared in advance.
 
-### 5.7 Demeanor Risks
+### 5.7 The Sabrina Questions *(Added Feb 21)*
+
+**Q33:** "Are you aware of a former team member named Sabrina Sparapani?"
+- **Risk:** Establishes the relationship. Follow-up questions will use her iMessage statements.
+
+**Q34:** "Did you ever tell Sabrina Sparapani that Mr. Akulov 'shouldn't be taking primary leave for six months because it's not like he carried the baby'?"
+- **Risk:** If Sabrina has already testified to this as a first-person account, denial destroys the manager's credibility. If he acknowledges it, this is a textbook gender stereotyping admission. If he says "I don't recall," it sounds evasive when a specific statement is at issue.
+
+**Q35:** "Did you ever tell Sabrina Sparapani or any other team member that you assigned Mr. Akulov underperforming accounts? Accounts Sabrina described as her 'shitty accounts'?"
+- **Risk:** Confirms the account-quality allegation from the manager's own mouth, or creates a credibility contest with Sabrina.
+
+**Q36:** "Sabrina Sparapani resigned in July 2025. Were you aware that she raised complaints about you in her HR exit interview?"
+- **Risk:** If yes: "What did you do about it?" If no: "You were unaware that a departing team member complained about your management of employees who took leave?" Either answer is damaging.
+
+**Q37:** "Did Rich Santore ever discuss Sabrina Sparapani's exit interview with you?"
+- **Risk:** Probes whether the chain of command was informed and failed to act.
+
+### 5.8 The Forecast Tampering Questions *(Added Feb 21)*
+
+**Q38:** "On or about September 5, 2025, did you close a CRM forecast associated with Mr. Akulov as a 'duplicate'?"
+- **Risk:** The CRM audit trail will either confirm or deny this. If it confirms, the next questions are devastating. If it denies, this set of questions is defused.
+
+**Q39:** "When you closed that forecast, did you remove or modify any notes associated with it?"
+- **Risk:** "Notes stripped" is the employee's characterization. The audit trail will show what actually happened. If notes were removed, the question is why.
+
+**Q40:** "Did you reopen a similar forecast the same day? Under whose name?"
+- **Risk:** Same-day close-and-reopen is the core of the allegation. The audit trail is the source of truth.
+
+**Q41:** "The year-end evaluation stated 'we were able to book' a deal while Mr. Akulov was on leave. Who is 'we'?"
+- **Risk:** If "we" means the manager and team (excluding the employee), the language corroborates the allegation that credit was redirected. If "we" includes the employee, the language is standard team-speak.
+
+**Q42:** "Are you aware that Mr. Akulov claims this CRM action was intended to suppress his revenue numbers before his evaluation? What is your response?"
+- **Risk:** Forces the manager to provide his version of events. Whatever he says is locked in under oath and will be tested against the audit trail.
+
+**Q43:** "You hold a Series 24 license. Are you aware of FINRA's requirements regarding the integrity of client records and sales attribution?"
+- **Risk:** Establishes the regulatory dimension. If the audit trail is problematic, this question foreshadows a FINRA referral.
+
+### 5.9 Demeanor Risks
 
 Beyond the content of answers, the manager's demeanor under questioning about parental leave will be closely observed. If the manager:
 
@@ -790,21 +912,31 @@ Bloomberg must weigh two competing interests:
 
 ## Section 8: Immediate Action Items
 
+### Priority 0: CRM Audit Trail and HR Exit Interview Notes (Do IMMEDIATELY) *(Added Feb 21)*
+
+**These two items are the most time-sensitive actions in the entire defense. They must be completed before any other action because the answers determine the defense posture on multiple fronts.**
+
+0a. **Pull the complete CRM audit trail for all forecasts associated with Aleksandr Akulov for the period August 1 - October 31, 2025.** Specifically: what happened on or about September 5, 2025? Who modified which forecast, what was changed, were notes removed, was any record closed as "duplicate" and reopened? The employee alleges the manager closed a ~$58K forecast as "dupe," stripped notes, and reopened it. If the audit trail shows routine CRM maintenance, this allegation dies and damages the employee's credibility. If it confirms the employee's account, the manager faces personal regulatory exposure under FINRA (Series 24 license) and the forecast tampering allegation becomes potentially the most dangerous element in the case. **The employee's team is holding this for their attorney. Determine what the logs show before anyone else pulls them. Do not modify any CRM records.**
+
+0b. **Pull Sabrina Sparapani's HR exit interview notes from approximately July 2025.** She told the plaintiff she was "veeeerrrry honest" about the manager in her exit interview. If those notes contain specific complaints about leave-based retaliation, Bloomberg had institutional notice of the alleged conduct. If the notes are generic, the institutional knowledge argument is substantially weaker. The actual content is unknown -- determine what was documented.
+
 ### Priority 1: Litigation Hold (Do Within 24 Hours)
 
-1. **Issue a litigation hold notice to all custodians identified in Section 3.2.** Include IT, HR, the manager, the manager's manager, and records custodians. The notice should specify: do not delete, modify, or destroy any documents relating to Aleksandr Akulov, his team, coverage assignments, performance evaluations, compensation decisions, parental leave, Sam Page, or Sabrina. Suspend all auto-deletion routines for the identified systems and date ranges.
+1. **Issue a litigation hold notice to all custodians identified in Section 3.2** (updated to include Santore and CRM/Sales Operations Administrator). Include IT, HR, the manager, Santore, and records custodians. The notice should specify: do not delete, modify, or destroy any documents relating to Aleksandr Akulov, his team, coverage assignments, performance evaluations, compensation decisions, parental leave, Sam Page, Sabrina Sparapani, or CRM forecast records. Suspend all auto-deletion routines for the identified systems and date ranges.
 
 2. **Confirm that Sam Page's employment records are intact and preserved.** If any records have been destroyed pursuant to routine retention, document when and why. This must be verified within 24 hours.
 
-3. **Confirm that Sabrina's employment records are intact and preserved.** Same urgency.
+3. **Confirm that Sabrina Sparapani's employment records -- including HR exit interview notes -- are intact and preserved.** Same urgency. The exit interview notes are a specific priority.
 
-### Priority 2: Retain External Employment Counsel (URGENT -- Employee Calling Firms Monday Feb 23)
+### Priority 2: Retain External Employment Counsel AND Personal Counsel for Manager (URGENT -- Employee Calling Firms Monday Feb 23) *(Updated Feb 21)*
 
-4. **Engage experienced employment defense counsel immediately.** The employee's outreach playbook targets five firms in this order: (1) Cohen Milstein/Clancy, (2) Phillips & Associates, (3) Outten & Golden, (4) Wigdor LLP, (5) Derek Smith Law Group. Cohen Milstein is the lead target because they are already suing Bloomberg in Ndugga v. Bloomberg (SDNY) -- the employee has been scripted to mention this directly. Wigdor LLP ($1.5B+ in verdicts) and Derek Smith Law Group (record emotional distress verdict) are new additions beyond the three previously identified. Bloomberg's defense counsel must be retained before Monday Feb 23 if possible, or within 24 hours of that date at the latest. Recommended: a firm with NYCHRL defense experience and familiarity with financial services industry employment litigation. Do not rely solely on in-house counsel for a case of this complexity and exposure level.
+4. **Engage experienced employment defense counsel for Bloomberg immediately.** The employee's outreach playbook targets five firms in this order: (1) Cohen Milstein/Clancy, (2) Phillips & Associates, (3) Outten & Golden, (4) Wigdor LLP, (5) Derek Smith Law Group. Cohen Milstein is the lead target because they are already suing Bloomberg in Ndugga v. Bloomberg (SDNY) -- the employee has been scripted to mention this directly. Bloomberg's defense counsel must be retained before Monday Feb 23 if possible, or within 24 hours of that date at the latest.
+
+4a. *(Added Feb 21)* **The manager should retain personal employment counsel, separate from Bloomberg's defense team.** The forecast tampering allegation creates a potential conflict between the manager's personal interests and Bloomberg's interests. If the CRM audit trail is problematic, Bloomberg may seek to distance itself from the manager. Bloomberg's defense team represents Bloomberg, not the manager personally. Under NYCHRL, the manager can be held personally liable as an "aider and abettor" of discriminatory conduct. The manager needs independent counsel to advise on: (a) the FINRA implications of the forecast allegation, (b) individual liability exposure, (c) what to do if Bloomberg's interests and his interests diverge.
 
 5. **Brief defense counsel on the full case file.** Provide counsel with this document, the VULNERABILITY_ASSESSMENT.md, the DEFENSE_STRATEGY.md, and all underlying evidence referenced herein. Counsel needs to assess the company's actual exposure with access to Bloomberg's internal data, not just the employee's characterization.
 
-### Priority 3: Internal Investigation (Begin Within One Week)
+### Priority 3: Internal Investigation (Begin Within One Week) *(Updated Feb 21)*
 
 6. **Conduct a privileged internal investigation under counsel's direction.** The investigation must answer the following questions definitively:
    - What was the employee's coverage universe before his first leave, after his first return, and after his second return? When and why did each change occur?
@@ -815,6 +947,10 @@ Bloomberg must weigh two competing interests:
    - Did HR review the 2025 evaluations before they were delivered? Did anyone flag the leave references?
    - How many other team members received 0% raises in February 2025 and February 2026?
    - Who else took extended (4+ month) parental leave under this manager, and what were their outcomes?
+   - *(Added Feb 21)* What does the CRM audit trail show for 9/5/2025? (Should be answered by Priority 0a above, but must be formally documented under counsel's supervision.)
+   - *(Added Feb 21)* What did Sabrina Sparapani tell HR in her exit interview? What was documented? (Should be answered by Priority 0b above.)
+   - *(Added Feb 21)* What was Santore's role in reviewing the employee's evaluations? Did Sabrina's exit interview complaints reach Santore or any other person in the chain of command?
+   - *(Added Feb 21)* Does Bloomberg have any standard procedures for how managers handle CRM forecast records when employees are on leave?
 
 7. **Pull comparative data immediately:**
    - Revenue targets for all team members (2025, 2026)
@@ -830,8 +966,8 @@ Bloomberg must weigh two competing interests:
 9. **Instruct the manager immediately (through counsel) on the following non-negotiable rules:**
    - Do not reference parental leave in any future communication with the employee, verbal or written.
    - Do not discuss the employee's situation with other team members.
-   - Do not contact Sam Page, Sabrina, or any former employee.
-   - Do not modify, delete, or alter any document.
+   - Do not contact Sam Page, Sabrina Sparapani, or any former employee.
+   - Do not modify, delete, or alter any document -- **especially CRM records**.
    - Do not have any off-the-record conversations with the employee about leave, compensation, or performance that are not also documented.
    - Every interaction with the employee should be professional, documented, and defensible.
 
@@ -894,8 +1030,11 @@ Bloomberg must weigh two competing interests:
 | Feb 18-20, 2026 | Health impact documented; attorney research begins | Damages evidence; litigation imminent |
 | Feb 20, 2026 | Coverage universe data discovered (1,138 vs 6,099); target increase confirmed ($115k to $175k) | Strongest quantitative evidence |
 | ~Feb 21, 2026 | Operational attorney outreach playbook prepared (Monday_Playbook.md) | Escalation from planning to execution |
-| Feb 23, 2026 | Employee scheduled to call 5 attorney firms (Cohen Milstein/Clancy first) | Attorney retention expected within days |
-| ~Mar 5-10, 2026 | Follow-up meeting scheduled with manager | Next critical interaction point |
+| Feb 21, 2026 | Sabrina Sparapani iMessage evidence captured | Pattern victim with first-person statements; HR exit interview claim; chain of command mapped |
+| Feb 21, 2026 | Forecast tampering mechanics described by employee | 9/5/2025 "dupe" closure allegation; CRM audit trail is key evidence; FINRA angle held for attorney |
+| Feb 21, 2026 | Chain of command mapped (Santore, Hal) | Employee preempting Faragher/Ellerth defense |
+| Feb 23, 2026 | Employee scheduled to call 5 attorney firms (Cohen Milstein/Clancy first) | Attorney retention expected within days; Sabrina now named in attorney script |
+| ~Mar 5-10, 2026 | Follow-up meeting scheduled with manager | Next critical interaction point
 
 ---
 

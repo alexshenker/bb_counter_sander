@@ -1,6 +1,6 @@
 # Case Status Brief
 
-**Last updated:** February 21, 2026
+**Last updated:** February 21, 2026 (late afternoon)
 
 ---
 
@@ -14,13 +14,23 @@
 
 ## His Case: STRONG
 
-The evaluation says he "can't improve" because of leave, then penalizes him for not improving. Coverage is 5.4x lower than the comparator who took short leave. He led the team in activity but was rated worst. Manager's statements tying decisions to leave are corroborated by multiple timestamped sources. Sam Page (if he cooperates) turns this from one incident into a pattern. Two consecutive leave-then-punishment cycles. All under NYCHRL's "motivating factor" standard with uncapped damages.
+The evaluation says he "can't improve" because of leave, then penalizes him for not improving. Coverage is 5.4x lower than the comparator who took short leave. He led the team in activity but was rated worst. Manager's statements tying decisions to leave are corroborated by multiple timestamped sources. Two consecutive leave-then-punishment cycles. All under NYCHRL's "motivating factor" standard with uncapped damages.
 
-## Our Defense: MODERATE
+**New developments (Feb 21 afternoon):** Four things changed since this morning, all of which strengthen the employee's position if they hold up:
 
-**What works:** Qualitative deficiencies in the eval (adoptions, visit breadth, day structure). Employee's own "pulling back on effort" WhatsApp messages. His concession email on Feb 17. Mass layoffs provide partial comp cover. Key statements are challengeable as hearsay.
+1. **Sabrina Sparapani iMessage evidence captured.** New transcripts show she wrote "he retaliates against people who go on leave especially men" in July 2025, claims she experienced the same playbook herself, and says she complained about Platt in her HR exit interview. She is at BlackRock. **Caveat:** Her formal willingness to cooperate with an attorney (as opposed to chatting with a friend) is unconfirmed. Some of her statements are still her characterizations of events -- not independently verified.
 
-**What doesn't:** The evaluation contradicts itself on the page. Coverage disparity is from Bloomberg's own systems. No documented rationale for coverage decisions. Sam Page is uninvestigated. "Carried the baby" is facially discriminatory if Sabrina testifies. 52% target increase while coverage is lowest has no obvious explanation.
+2. **Sabrina claims Bloomberg HR was informed.** She says she was "veeeerrrry honest" in her exit interview and that HR "was taking notes." If true, this could establish institutional knowledge. **Caveat:** We do not know what she actually said, what HR recorded, or whether the notes mention leave retaliation specifically. HR exit interviews often capture general complaints. The actual content of those notes is unknown until they surface in discovery.
+
+3. **Chain of command is mapped.** Rich Santore (Platt's boss) was present at the evaluation, and per Sabrina approves Platt's reviews. Hal (Santore's boss) is reportedly Platt's personal friend. This makes internal escalation look impractical -- but it does not establish that Santore or Hal participated in retaliation.
+
+4. **Forecast tampering allegation now has specific mechanics.** Sasha claims Platt closed his ~$58K forecast as "dupe" on 9/5/2025, stripped notes, reopened under his own name. **Caveat:** This is entirely Sasha's account. No photos have been provided or reviewed. Dollar amount doesn't match the evaluation ($58K vs $53,800). The opponent's own team labels it "partially confirmed" and "details pending." It becomes strong evidence only if the CRM audit trail confirms it.
+
+## Our Defense: MODERATE -- but under new pressure
+
+**What works:** Qualitative deficiencies in the eval (adoptions, visit breadth, day structure). Employee's own "pulling back on effort" WhatsApp messages. His concession email on Feb 17. Mass layoffs provide partial comp cover. Sabrina's credibility can be challenged (her own grievances, potential bias, secondhand characterizations of Platt's statements). Forecast tampering is unverified.
+
+**What's weaker than before:** If Sabrina formally cooperates, the "single disgruntled employee" defense erodes because she provides a second data point under the same manager. If the HR exit interview notes contain specific complaints about leave retaliation, the "company didn't know" defense is harder to maintain. The chain of command mapping makes any "you should have complained internally" argument look hollow.
 
 ---
 
@@ -28,46 +38,57 @@ The evaluation says he "can't improve" because of leave, then penalizes him for 
 
 | Scenario | Range | Conditions |
 |---|---|---|
-| Best case | $200K - $400K | Sam Page clean, strong documentation, weaker counsel, pre-discovery settlement |
-| Most likely | $500K - $1.5M | Competent counsel, survives summary judgment, settles before/during trial |
-| Worst case | $1.5M - $3M+ | Sam Page corroborates, Sabrina testifies, NYC jury verdict with punitive damages |
-| Catastrophic | $3M - $10M+ | Cohen Milstein connects to Ndugga class action, pattern finding |
+| Best case | $200K - $400K | Forecast tampering disproven, Sam Page clean, Sabrina declines formal cooperation, strong documentation, weaker counsel, pre-discovery settlement |
+| Most likely | $500K - $1.5M | Competent counsel, survives summary judgment, Sabrina cooperates to some degree, settles before/during trial |
+| Worst case | $1.5M - $3M+ | Sam Page corroborates, Sabrina testifies fully, forecast tampering confirmed, NYC jury verdict with punitive damages |
+| Catastrophic | $3M - $10M+ | Cohen Milstein connects to Ndugga class action, pattern finding, FINRA referral adds regulatory pressure |
+
+These ranges are largely unchanged from prior version. Sabrina's evidence is significant but her formal cooperation is uncertain. If she cooperates AND the HR exit interview notes are damaging AND the forecast tampering is confirmed, the most likely range shifts upward. Those are three separate ifs.
 
 ---
 
 ## Personal Risk to You (the Manager)
 
-**Individual liability:** Under NYCHRL, individual supervisors can be held personally liable as "aiders and abettors" of discriminatory conduct. You are not just a company witness -- you are a potential individual defendant. If Sasha names you personally, your interests and Bloomberg's may diverge. Bloomberg's lawyers represent Bloomberg, not you. You may need your own attorney.
+**Individual liability:** Under NYCHRL, individual supervisors can be held personally liable as "aiders and abettors" of discriminatory conduct. You are not just a company witness -- you are a potential individual defendant.
 
-**Deposition exposure:** You are the primary deposition target. Every attributed statement, every coverage decision, and every line of the evaluation flows through you. Plaintiff's counsel will have the full case file before they question you. A bad deposition performance -- evasiveness, hostility, contradictions with documented evidence -- can individually determine the outcome. See LITIGATION_PREP.md Section 5 for the 32 questions you will face.
+**Deposition exposure:** You are the primary deposition target. Every attributed statement, every coverage decision, and every line of the evaluation flows through you. See LITIGATION_PREP.md Section 5 for the 32 questions you will face.
 
-**Career risk:** Regardless of litigation outcome, if Bloomberg's internal investigation confirms the pattern alleged, your position becomes untenable. Companies settle these cases and then deal with the manager separately. Being the manager at the center of a parental leave retaliation lawsuit -- especially one connected to an existing class action (Ndugga) -- creates reputational and professional exposure that extends beyond this job.
+**Career risk:** If Bloomberg's internal investigation confirms the alleged pattern, your position becomes untenable. Companies settle these cases and then deal with the manager separately.
 
-**Forecast tampering allegation (NEW -- Feb 21):** Sasha is claiming you deleted his largest sales forecast and reopened it under your own name. He says he has photos. His team flagged FINRA implications. If this is true, it is catastrophic for you personally -- it's not a management judgment call, it's potential revenue fraud, and it gives the plaintiff a motive narrative (suppressed his numbers, then rated him as underperforming). If it's false, Bloomberg's forecast system audit logs will prove that and it dies. Either way, you need to know what those logs show before anyone else pulls them. This is the single most urgent item in this document.
+**Sabrina's testimony (if she cooperates):** Her iMessage statements identify you by name and describe specific conduct. If she sits for a deposition, she would describe what she experienced under your management. However, whether she will formally cooperate with a plaintiff's attorney is unknown. Chatting with a former colleague over iMessage is not the same as agreeing to testify.
 
-**Criminal/regulatory risk:** The civil litigation itself carries no criminal exposure. But if the forecast tampering allegation is substantiated, it could create separate regulatory risk (FINRA, internal compliance) that is personal to you, not to Bloomberg. Document destruction, witness tampering, or altering records would also create criminal exposure. Do not touch anything.
+**Santore exposure:** The employee's team has identified that Santore approves your reviews and was present at the evaluation. If Santore's communications are subpoenaed, anything showing he knew about or condoned the alleged treatment is problematic -- and creates a situation where Bloomberg may seek to distance itself from you.
 
-**What to do:** Retain your own employment attorney (separate from Bloomberg's counsel) for personal advice. Do this before Monday. Bloomberg's defense team will prep you as a company witness, but their obligation is to the company, not to you. If settlement discussions involve concessions about your conduct, or if the forecast allegation creates a conflict between your interests and Bloomberg's, you need independent counsel looking out for you.
+**Forecast tampering allegation -- STILL THE MOST URGENT ITEM:** This is the only allegation that, if substantiated, constitutes potential fraud rather than management judgment. Their team has specific mechanics now (9/5/2025, "dupe" closure, same-day reopen) but no independent verification. They are holding it for the attorney and have explicitly told Sasha not to report to FINRA yet. **You need to determine what the audit logs show before anyone else pulls them.** If the logs show a routine business action, this dies. If they confirm what Sasha describes, this becomes the most dangerous element of the case -- it provides a motive narrative (suppressed his numbers, then rated him as underperforming) and creates regulatory exposure that is personal to you.
+
+**What to do:** Retain your own employment attorney (separate from Bloomberg's counsel) for personal advice. Bloomberg's defense team represents Bloomberg, not you. If the forecast allegation creates a conflict between your interests and Bloomberg's, you need independent counsel.
 
 ---
 
 ## What to Do Now
 
-1. **Litigation hold** -- preserve all records (employee, Sam Page, Sabrina, Johnston, full team) back to Jan 2018
+1. **Litigation hold** -- preserve all records (Sasha, Sam Page, Sabrina Sparapani, Johnston, full team, Santore) back to Jan 2018. Include Sabrina's HR exit interview notes.
 2. **Retain defense counsel** -- before Monday if possible; employee is targeting 5 top-tier firms
-3. **Investigate Sam Page** -- his file is the single biggest variable in the case
-4. **Pull comparative data** -- team-wide targets, coverage history, evaluations, comp outcomes
-5. **Coach manager (through counsel)** -- no leave references, no contact with former employees, no document changes
-6. **Prepare for March meeting** -- script responses to coverage/target questions in advance
-7. **Defer PIP** -- at least until Q3 2026; implementing now confirms the employee's predicted playbook
+3. **Retain personal counsel for the manager** -- given forecast tampering allegation and potential interest divergence with Bloomberg
+4. **Determine forecast audit logs** -- what do they show for 9/5/2025? Legitimate business action or what Sasha describes? This is the single most time-sensitive item.
+5. **Pull Sabrina's HR exit interview notes** -- determine what she actually told HR and what was documented
+6. **Investigate Sam Page** -- his file remains a major variable
+7. **Pull comparative data** -- team-wide targets, coverage history, evaluations, comp outcomes
+8. **Prepare for March meeting** -- script responses to coverage/target questions; assume Sasha may have attorney guidance by then
+9. **Defer PIP** -- at least until Q3 2026
+10. **Do not contact Sabrina, Sam Page, or any former employee.** Any outreach will be characterized as witness tampering.
 
 ---
 
-## Latest Intelligence (Feb 21)
+## Latest Intelligence (Feb 21, late afternoon)
 
-New file `Monday_Playbook.md`: operational attorney outreach playbook with scripted calls, recording instructions (one-party consent), and mandatory upfront disclosure of the WhatsApp "effort" messages to all firms. Cohen Milstein is the lead target. Five firms total (up from 3). The support team has moved from planning to execution.
+**New file: `iMessage_Evidence_Sasha_Sabrina.md`.** Full iMessage thread between Sasha and Sabrina spanning two periods: (1) after Sasha's first leave return (~2024), where Sabrina advises him to document everything and lists warning signs; (2) July 2025, where Sabrina resigns, describes her exit interview, and states "he retaliates against people who go on leave especially men." Key items: Platt told Sabrina he was giving Sasha her "shitty accounts"; Sabrina confirms territory distribution was inequitable; Sabrina says Santore approves reviews but didn't protect her; embedded screenshot of Sabrina's text exchange with Santore.
 
-**NEW ALLEGATION (Feb 21) -- FORECAST TAMPERING (against you personally):** Employee's CASE_STATUS.md claims you deleted his largest sales forecast and reopened it under your own name. He says photos exist. His team flagged FINRA implications and told him not to report until attorney advises (i.e., they're holding it as leverage). This was not in any prior evidence file -- it surfaced very recently and is still marked "unconfirmed" on their end. **You need to determine immediately: (a) did this happen, (b) what do the system audit logs show, and (c) is there a legitimate business explanation.** If the logs are clean, this allegation dies. If they're not, this becomes the most dangerous element of the entire case -- worse than the evaluation, worse than Sam Page -- because it's fraud, not a judgment call.
+**Forecast tampering mechanics per Sasha's account.** Date: 9/5/2025. Action: closed ~$58K forecast as "dupe," stripped notes, reopened same day. CRM audit trail exists per Sasha. Photos pending. Dollar reconciliation pending ($58K vs $53,800). Their team treating it as unverified until attorney reviews.
+
+**Client visit miscount alleged.** Sasha claims 19 client visits Jan-Jul 2025 but evaluation cited ~11. Unverified -- may reflect different counting methodologies (all visits vs. CT-only visits).
+
+**Monday Playbook updated with Sabrina evidence.** Attorney consultation script now includes Sabrina as a named witness. The employee will present this as a three-victim pattern (Sasha, Sabrina, Sam Page) to attorneys on Monday. Whether all three cooperate is a separate question from whether the narrative lands on intake calls.
 
 ---
 

@@ -1,6 +1,7 @@
 # Counter-Narrative: The Company's Version of Events
 
 **Prepared:** February 20, 2026
+**Last updated:** February 21, 2026 (late afternoon -- Sabrina iMessage evidence, forecast tampering allegation, chain of command mapping)
 **Purpose:** The coherent, unified account defense counsel would present to a judge or jury. This is the company's story of what happened and why.
 
 ---
@@ -147,13 +148,25 @@ The plaintiff's support team later assessed this email as a tactical mistake bec
 
 ---
 
-## The Sabrina Statement Is Unreliable Hearsay
+## Sabrina Sparapani's Account Reflects Her Own Grievances, Not Objective Evidence
 
-The plaintiff claims that a former team member named Sabrina told him the manager said he "shouldn't be taking primary leave for 6 months because it's not like he carried the baby." This alleged statement reaches the court through multiple layers of transmission: the manager allegedly said it, Sabrina allegedly heard it, Sabrina allegedly told the plaintiff, and the plaintiff told his support team who wrote it down.
+The plaintiff relies heavily on iMessage communications with Sabrina Sparapani, a former team member who resigned in July 2025. These messages span two periods: conversations in 2024 after the plaintiff returned from his first leave, and a thread in July 2025 around the time of Sabrina's own resignation. The plaintiff presents Sabrina as a second victim of the same manager and a corroborating witness to a pattern of leave retaliation.
 
-Sabrina herself was separated from the team. The circumstances of her departure may give her reason to present the manager in an unfavorable light. Her account has not been corroborated by any other witness. The manager can speak to whether he made this statement.
+The defense must address what Sabrina actually said, what her statements mean, and why they are substantially less powerful than the plaintiff frames them.
 
-Even taking the statement at face value, it must be understood in context. Bloomberg's parental leave policy is explicitly gender-neutral. It provides equal leave to fathers and mothers. The company's institutional commitment to equitable leave access is documented in its policies and practiced across the organization. An isolated remark attributed to one manager through a chain of hearsay does not represent company policy, company culture, or the basis for any employment decision made about the plaintiff.
+**The "carried the baby" comment.** Sabrina reports that the manager said the plaintiff "shouldn't be taking primary leave for 6 months because it's not like he carried the baby." This is now a first-person account from Sabrina rather than pure hearsay -- she claims to have heard it directly. However, the statement reaches the case file through an iMessage thread between Sabrina and the plaintiff, two friends commiserating about a shared former manager. The circumstances of the conversation (informal, between friends, during Sabrina's own acrimonious departure) should be considered when evaluating the precision of her characterization.
+
+Bloomberg's parental leave policy is explicitly gender-neutral. It provides equal leave to fathers and mothers regardless of who "carried the baby." The company's institutional commitment to equitable leave access is documented in policy and practiced across the organization. Even if the manager made a comment reflecting a personal view about the biology of childbirth, that comment did not alter the policy, did not prevent the plaintiff from taking full leave, and did not translate into any documented policy deviation. The plaintiff took the full six months. Twice.
+
+**Sabrina as a "pattern victim."** Sabrina's iMessages include statements like "he retaliates against people who go on leave especially men" and descriptions of her own experience that she characterizes as the "same playbook." These statements are Sabrina's conclusions, not independently established facts. She had her own reasons for dissatisfaction with the manager and with the company. She was in the process of resigning when these messages were sent. A departing employee venting to a friend about a former manager is not the same as a neutral witness providing objective testimony.
+
+Critically, Sabrina's formal willingness to cooperate with a plaintiff's attorney is unknown. Sharing grievances over iMessage with a former colleague is fundamentally different from agreeing to sit for a deposition, provide sworn testimony, and subject herself to cross-examination. If Sabrina declines formal cooperation, her iMessage statements are of limited evidentiary value -- the plaintiff cannot compel her to testify to their content without establishing admissibility under rules that may exclude informal text messages as unreliable.
+
+**Sabrina's credibility challenges.** If Sabrina does cooperate formally, the defense can challenge her credibility on several grounds: (1) she left the company voluntarily during what she describes as a dispute with the same manager, giving her a personal grievance that colors her account; (2) her characterizations of events ("same playbook," "retaliates") are conclusory labels she applied, not factual descriptions of specific actions taken against her; (3) she told the plaintiff that the manager gave him her "shitty accounts" -- but whether accounts were underperforming when assigned and whether that assignment was retaliatory or routine portfolio management are separate questions; (4) her complaints about her own coverage and treatment may reflect the normal friction of sales territory management, not a pattern of leave-based retaliation.
+
+**The HR exit interview claim.** Sabrina told the plaintiff she was "veeeerrrry honest" in her HR exit interview and that she told HR about the manager's conduct. This is Sabrina's self-assessment of her own candor. The content of the exit interview is unknown to either the plaintiff or Sabrina's iMessage account. HR exit interviews routinely capture general complaints about management style, workload, and team dynamics. Whether Sabrina specifically described leave retaliation, whether HR recorded those specific complaints, and whether those notes are damaging depends entirely on what the notes actually say -- not on Sabrina's characterization of how honest she was.
+
+**The defense's position on Sabrina:** She is a former employee with her own grievances, providing her personal characterizations in an informal context to a friend who was building a legal case. Her statements should be evaluated with the skepticism appropriate to their source and circumstances. If she cooperates formally, the defense will challenge her credibility, her bias, and the specificity of her claims. If she does not cooperate, her iMessage statements are an incomplete and unreliable foundation for the plaintiff's pattern theory.
 
 ---
 
@@ -166,6 +179,30 @@ What the plaintiff actually has is his own secondhand characterization of a form
 If Sam Page's employment file shows documented, legitimate, specific performance deficiencies that were identified and addressed through Bloomberg's standard performance management process, the parallel the plaintiff draws dissolves. Until the actual facts of Sam Page's situation are examined -- his evaluations, his performance data, the documented basis for any PIP, and the circumstances of his departure -- the plaintiff's characterization is speculation dressed as evidence.
 
 Bloomberg will produce Sam Page's employment records in discovery if required, and those records will speak for themselves.
+
+---
+
+## The Forecast Tampering Allegation Is Unverified and Inconsistent
+
+The plaintiff claims that in September 2025, while he was on parental leave, the manager closed a forecast of approximately $58,000 as a "duplicate," stripped the associated notes, and reopened it under the manager's own name the same day. The plaintiff characterizes this as fraud -- deliberate suppression of his revenue numbers to justify the subsequent negative evaluation.
+
+This allegation rests entirely on the plaintiff's account. No independent evidence has been presented or reviewed. The plaintiff's own support team labels it "partially confirmed" with "details pending." They have explicitly told the plaintiff not to report it to FINRA until an attorney reviews it -- an acknowledgment that the claim needs verification before it can be acted upon.
+
+Several facts undermine the allegation as presented. First, the dollar amounts do not reconcile. The plaintiff says the forecast was approximately $58,000. The evaluation references $53,800 for the Two Seas deal, and the evaluation credited this revenue to the employee -- stating "we were able to book" the deal. If the manager's goal was to steal the employee's revenue credit, he failed: the revenue appears in the evaluation as a positive for the employee. Second, the word "we" in "we were able to book" is standard managerial language describing team accomplishments, not an attempt to strip individual credit. Third, CRM maintenance is a routine part of sales management. Managers regularly clean up forecasts, consolidate duplicates, correct entries, and update deal statuses. Closing a forecast as "duplicate" and reopening it is a workflow action that occurs across Bloomberg's CRM system daily.
+
+The CRM audit trail exists. It will show exactly what happened on September 5, 2025: who created the original entry, who modified it, what the modification was, and whether the action was routine maintenance or something more concerning. If the trail shows a legitimate business action -- consolidating a genuine duplicate, correcting a misattributed entry, or performing standard pipeline cleanup -- the allegation collapses entirely and the plaintiff's credibility is damaged by having raised it. The company should pull this audit trail immediately.
+
+---
+
+## The Chain of Command Does Not Excuse Failure to Use Available Channels
+
+The plaintiff's team has mapped the chain of command above the manager: Rich Santore (the manager's boss, present at the February 17 evaluation) and Hal (Santore's boss, described as the manager's personal friend). The plaintiff frames this as evidence that internal escalation was futile, preempting any argument that he should have complained through Bloomberg's internal channels.
+
+This framing ignores that Bloomberg, like every major financial services company, has formal complaint mechanisms that are independent of the direct reporting chain. The plaintiff could have contacted HR, used an anonymous ethics hotline, spoken to an HR business partner outside his team, or filed a complaint with Bloomberg's compliance department. He did none of these things. The fact that his manager's boss was in the room during the evaluation does not eliminate every other channel available to him.
+
+Santore's presence at the evaluation was standard management practice. Senior managers routinely attend direct-report evaluations. If Santore reviewed the evaluation content and found it reasonable, that represents a second institutional actor who independently assessed the performance data -- oversight, not complicity. The plaintiff's suggestion that Santore's presence proves the chain of command is "compromised" conflates oversight with participation in alleged wrongdoing.
+
+As for Hal, the plaintiff's evidence of his friendship with the manager consists of the plaintiff's recollection that the manager mentioned it and that the plaintiff overheard the manager inviting Hal to his house. A personal acquaintance between executives two levels apart does not establish that Hal participated in, condoned, or was even aware of the alleged treatment. Executives in large organizations know each other socially. This is not evidence of a conspiracy.
 
 ---
 
@@ -280,5 +317,7 @@ The company's door remains open. The evaluation identified the problem. The mana
 This is a performance management case, not a retaliation case. An employee with a thirteen-year track record took extended parental leave, as was his right, and Bloomberg honored that right completely. When the employee returned, his performance during the available working period fell short of his peers and short of the role's expectations. His manager documented specific, measurable deficiencies. The employee himself admitted to friends that he had deliberately reduced his effort. The evaluation reflected what the data showed and what the employee himself confirmed.
 
 The coverage decisions that followed Aleksandr's leaves were driven by business continuity needs, client relationship preservation, and team capacity management. The compensation decisions reflected both the individual evaluation and a company-wide environment in which many employees received no raises. The verbal statements attributed to the manager are the plaintiff's characterizations of private conversations, filtered through an increasingly adversarial lens and organized by a support team that was building a lawsuit before the evaluation was even delivered.
+
+The plaintiff's supporting evidence -- a former team member's iMessage grievances, an unverified forecast tampering allegation, a chain-of-command mapping designed to preempt internal complaint arguments -- adds volume to the narrative without adding verified substance. Sabrina Sparapani is a former employee with her own grievances, sharing characterizations with a friend over text. The forecast tampering claim is the plaintiff's account of a CRM action whose audit trail has not been reviewed. The chain of command theory ignores every formal complaint channel Bloomberg provides.
 
 Bloomberg values its employees. It values parental leave as a benefit and a right. It does not punish employees for using that benefit. What it does require -- of every employee, regardless of leave history -- is performance consistent with the expectations of the role. When performance falls short, Bloomberg provides feedback. That is what happened here. The plaintiff asks you to see retaliation where there is accountability. The evidence does not support that conclusion.
