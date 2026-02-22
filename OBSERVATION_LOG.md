@@ -53,7 +53,7 @@ This is an unusually well-organized pre-litigation file. It was built by a frien
 - Unnamed colleague: "that's what happens when you have a kid"
 - Unnamed female coworker (now at BlackRock): warned "be alert" re: leave
 
-**The email Sasha already sent is a mixed bag.** He sent a thank-you email on Feb 17 that contains concessions ("I appreciate the continued guidance," "I'm aligned on continuing to prioritize"). Their team assessed it as a setback but not fatal. They planned a stronger email that was never sent.
+**The email Sasha already sent is a mixed bag.** ~~He sent a thank-you email on Feb 17 that contains concessions ("I appreciate the continued guidance," "I'm aligned on continuing to prioritize").~~ **CORRECTED in Entry 006:** The actual email is generic boilerplate ("I appreciate the time yesterday and the discussion... I'm focused on Connecticut territory"). It does NOT contain the phrases cited here. Negligible defensive value. Their team correctly assessed it as a non-issue.
 
 ### Attorney status
 
@@ -469,3 +469,64 @@ Per the user's direction to keep analysis grounded in reality, all updates maint
 - The forecast tampering is unverified (Sasha's account only; dollar discrepancy; employee's own team labels it "partially confirmed")
 - Sam Page has not been contacted
 - Chain of command compromise is the employee's framing, not established fact
+
+---
+
+## Entry 006: Fifth Read-Through -- Seven New Gaps Identified and Integrated
+
+**Date:** February 21, 2026 (evening)
+**Files reviewed:** Targeted re-review of updated opponent files, cross-checked against all defense documents.
+**Changes since last review:** Multiple opponent files updated same day (Feb 21). Seven specific items identified that were NOT yet captured in defense documents.
+
+### What was missing from our defense documents
+
+After Entry 004/005 captured the Sabrina evidence, forecast tampering, and chain of command, a more granular review identified seven additional items the opponent had documented but we had not addressed:
+
+1. **Three additional GDSF forecasts with CRM IDs.** The opponent's `Employee_counter_metrics_2025.md` now contains a table showing 4 GDSF forecasts totaling $50,300 (IDs #1398757, #1409461, #1393077, plus one more). The evaluation says "only 1 GDSF forecast booked ($26,300)." This is a provably false factual claim if the CRM confirms 4 forecasts existed. This was not in our defense documents.
+
+2. **"Retaliation Cascade" legal theory (Section F).** The opponent has articulated a formal legal theory that Bloomberg cannot use consequences of first-cycle retaliation to justify second-cycle adverse actions. This directly attacks our strongest weapon (WhatsApp "doing it on purpose" messages) by reframing the disengagement as a consequence chain. This theory was not addressed in our defense strategy.
+
+3. **Visit cherry-picking specifics.** The opponent claims 19 total C-days (each involving multiple meetings) vs the evaluation's ~11. They allege the manager counted CT-only visits for Sasha but all-territory visits for peers. Combined with the GDSF omission, this forms a pattern of selective data presentation. Our previous assessment rated this as LOW; the combined pattern warrants HIGH.
+
+4. **Anthony witness and stack ranking process.** A manager on a separate team asked Sasha "does your wife work?" unprompted. The employee's team theorizes Anthony saw the low stack ranking. More importantly, the stack ranking sessions are documented Bloomberg processes where all managers see all rankings and stated justifications. Those records are discoverable and could show what Platt said when ranking Sasha at the bottom. This was not in our discovery anticipation.
+
+5. **Mariner Pod work-during-leave timeline.** Sasha logged into Bloomberg systems during leave to demo a product migration for a client (Mariner). The manager declined his offer to help, then the evaluation criticized his results. The narrative: "he wanted to work, you said no, then you blamed him for not working." Revenue ($31,600) closed Jan 5, 2026 -- after the eval period but attributable to his leave-period effort.
+
+6. **Opponent's predicted Bloomberg moves (Section G).** Coverage restoration, informal coaching, target adjustment, behavioral changes, delayed PIP -- all pre-framed as "consciousness of guilt." This intelligence means every remedial action must have contemporaneous business documentation that predates Monday Feb 23.
+
+7. **FACTS.md and Questions_for_Sasha.md intelligence on their gaps.** Two new files reveal their knowledge deficits: 267 unconfirmed facts, 77 unanswered questions. Key gaps: pre-leave coverage baseline, Sam Page details, target-setting methodology, Johnston's leave decisions, GDSF counting methodology, Anthony's identity. These gaps represent areas where the defense may have information the employee does not.
+
+### CRITICAL CORRECTION: Feb 17 email text
+
+Discovered that our defense documents (DEFENSE_STRATEGY.md, VULNERABILITY_ASSESSMENT.md, COUNTER_NARRATIVE.md, OBSERVATION_LOG.md Entry 001, timeline in LITIGATION_PREP.md) all contained incorrect email text. The actual confirmed email does NOT contain "I appreciate the continued guidance," "I'm aligned on continuing to prioritize those relationships and opportunities," or "Thank you again for taking the time to meet today."
+
+**Actual verbatim email:**
+> Rich and Teddy,
+> I appreciate the time yesterday and the discussion.
+> As discussed, I'm focused on Connecticut territory and related accounts. I'm continuing to build relationships and drive activity across that coverage.
+> I've set a time for us to reconnect and will keep pushing forward on the opportunities.
+> Thanks Alex
+
+**Impact:** This was previously assessed as a defensive asset ("concession email"). It is actually generic boilerplate with negligible defensive value. All defense documents have been corrected.
+
+### Documents updated in this session
+
+| Document | Changes |
+|---|---|
+| **DEFENSE_STRATEGY.md** | Feb 17 email corrected; GDSF forecast defense updated (4 vs 1); Allegation 20 upgraded from LOW to HIGH (selective data presentation); Added Allegations 21-24 (Retaliation Cascade, Mariner Pod, Anthony/stack ranking, opponent's counter-moves); Priority matrix updated; Urgent actions expanded from 5 to 7 |
+| **VULNERABILITY_ASSESSMENT.md** | Feb 17 email section corrected; 6D upgraded from "Client Visit Miscount (LOW)" to "Selective Data Presentation (HIGH)"; Added GDSF omission to 6D; Feb 17 email defense factor downgraded; Added vulnerabilities 19-21 (Retaliation Cascade, Anthony/stack ranking, opponent's intelligence on our moves); Bottom Line Assessment updated with 7 new developments |
+| **COUNTER_NARRATIVE.md** | Feb 17 email section completely rewritten with correct text; Counter-metrics section updated to address GDSF forecast discrepancy; Deliberate disengagement section expanded to rebut Retaliation Cascade theory; Added Mariner/RFQE work-during-leave section |
+| **LITIGATION_PREP.md** | Added Discovery Requests 17-18 (GDSF team-wide records, stack ranking documents); Added Interrogatories 12-13 (GDSF methodology, stack ranking justifications); Added Witness 4.8 (Anthony); Added Retaliation Cascade note to NYCHRL theory; Fixed timeline entry for Feb 17 email; Added Appendix on opponent's known gaps |
+| **CASE_STATUS.md** | Defense posture updated; Feb 17 email correction noted; Action items expanded from 10 to 13; Latest Intelligence rewritten with all 7 new items |
+| **OBSERVATION_LOG.md** | This entry (006) |
+
+### What to watch for next read
+
+- Whether attorney calls happened Monday Feb 23 and which firms engaged
+- Whether GDSF forecast count is reconciled in their files (they may pull updated data)
+- Whether Anthony's last name is identified
+- Whether Sam Page has been contacted
+- Whether the forecast tampering photos have been reviewed
+- Whether new communications were sent to the employer
+- Whether the March 5-10 meeting date is confirmed
+- Any new evidence or witness developments

@@ -46,7 +46,9 @@ The plaintiff will present aggregate activity numbers showing that Aleksandr had
 
 Bloomberg does not evaluate its sales professionals solely on how many phone calls they make or how many firms they contact. It evaluates them on whether those interactions produce results: revenue bookings, sustained product adoptions, pipeline that converts to bookable forecasts, and strategic client development. By those measures -- the measures that actually drive the business -- Aleksandr's first half of 2025 was not consistent with the expectations of the role.
 
-Consider the specifics. His 648 interactions and 177 unique firms generated one bookable forecast ($26,300) at the mid-year mark. His three strategic adoptions resulted in single-use trials that were never repeated. His Connecticut coverage -- 11 client-visit days across 18 accounts -- showed insufficient breadth given the density of opportunity in that corridor. High activity with low conversion is not high performance. It is an indication that something in the approach is not working, which is exactly what the evaluation identified.
+Consider the specifics. His 648 interactions and 177 unique firms generated limited bookable revenue at the mid-year mark. His three strategic adoptions resulted in single-use trials that were never repeated. His Connecticut coverage -- the primary territory assigned to him -- showed insufficient breadth given the density of opportunity in that corridor. High activity with low conversion is not high performance. It is an indication that something in the approach is not working, which is exactly what the evaluation identified.
+
+The plaintiff will raise the number of GDSF forecasts in the CRM system, claiming the evaluation undercounted. Revenue forecasting in Bloomberg's system involves multiple stages, products, and qualification criteria. The evaluation's characterization of bookable forecasts reflected the methodology used consistently across the team -- distinguishing between qualified, bookable pipeline and earlier-stage entries. If any forecast was miscounted, it was an oversight in a multi-product, multi-stage pipeline, not a deliberate suppression of the plaintiff's numbers. The defense must verify the exact CRM records and be prepared to explain the counting methodology that was applied to all team members equally.
 
 The plaintiff's prorated revenue analysis -- claiming $80,100 against a prorated half-year target of approximately $57,500, or 139% of pace -- requires additional context. The $80,100 includes $53,800 in revenue that was booked while Aleksandr was on leave, from a Two Seas deal that his pre-leave pipeline work contributed to. The company has always acknowledged that revenue, and it was credited to him in the evaluation. But at the actual mid-year mark, when Aleksandr was present and being compared against peers who were also present, his bookable revenue consisted of one deal for $26,300. The Q3 revenue represents the delayed recognition of pre-leave work -- a standard feature of the sales cycle. It does not change what the midyear snapshot showed about Aleksandr's performance relative to his peers at that point in time.
 
@@ -126,25 +128,31 @@ These are not the words of an employee who was performing at a high level and wa
 
 The manager's evaluation found that Aleksandr's effort was insufficient, that his days were too short, that his client visit breadth was inadequate, and that feedback from the prior year had not been implemented. The plaintiff's own contemporaneous statements confirm every one of those findings. He was not a victim of a fabricated narrative. He was an employee who chose to disengage, and his evaluation reflected that choice.
 
-The plaintiff's legal team will argue that the disengagement was itself caused by the first leave's retaliatory aftermath -- that the 0% raise in February 2025 triggered the pullback. This is a self-serving characterization. Employees who are dissatisfied with compensation decisions have options: they can discuss their concerns with management, they can pursue internal transfers, they can seek employment elsewhere, they can file complaints through HR or regulatory channels. What they cannot do is deliberately reduce their performance, document themselves doing so, and then claim the resulting negative evaluation was retaliation for an unrelated protected activity. The causal chain the plaintiff proposes -- leave, retaliation, disengagement, underperformance, more retaliation -- requires accepting that the first link (the 0% raise was retaliatory) was proven rather than alleged. It was not. The 0% raise followed a period where the employee was absent for half the evaluation year and his available performance data did not support an increase.
+The plaintiff's legal team will argue that the disengagement was itself caused by the first leave's retaliatory aftermath -- that the 0% raise in February 2025 triggered the pullback. They frame this as a "Retaliation Cascade": retaliation in Cycle 1 caused the disengagement, which caused the underperformance, which caused the Cycle 2 evaluation, making the entire chain retaliatory. This theory requires accepting that the first link was retaliatory -- which it was not.
+
+The 0% raise in February 2025 followed a period where the employee was absent for half the evaluation year. The employee's available performance data during his active period did not support an increase. Multiple employees across the organization received comparable compensation outcomes. The 0% raise was a legitimate compensation decision, not a retaliatory act, and the causal chain the plaintiff proposes collapses at its foundation.
+
+Moreover, even if the plaintiff felt the compensation decision was unfair, the law does not excuse deliberate performance reduction as a response. Employees who are dissatisfied with compensation decisions have options: they can discuss concerns with management, pursue internal transfers, seek employment elsewhere, or file complaints through HR or regulatory channels. What they cannot do is deliberately reduce their performance, document themselves doing so in text messages to friends, and then claim the resulting negative evaluation was retaliation for an unrelated protected activity. The plaintiff chose to disengage. The evaluation reflected that choice. The attempt to retroactively recharacterize a voluntary decision to underperform as a consequence of retaliation does not change what happened or why.
 
 ---
 
-## The February 17, 2026 Email Confirms the Plaintiff Viewed This as Constructive
+## The February 17, 2026 Email Shows Professional Engagement
 
-On the same day as the evaluation meeting, February 17, 2026, the plaintiff sent his manager an email. In that email, he wrote:
+On the same day as the evaluation meeting, February 17, 2026, the plaintiff sent an email to his manager and his manager's boss:
 
-"Thank you again for taking the time to meet today, and for the follow-up discussion afterward."
+> Rich and Teddy,
+>
+> I appreciate the time yesterday and the discussion.
+>
+> As discussed, I'm focused on Connecticut territory and related accounts. I'm continuing to build relationships and drive activity across that coverage.
+>
+> I've set a time for us to reconnect and will keep pushing forward on the opportunities.
+>
+> Thanks Alex
 
-"I appreciate the continued guidance."
+This email is professional and forward-looking. The plaintiff acknowledged the meeting, restated his focus on the agreed coverage area, and committed to continued effort. He did not raise any concerns about the evaluation, did not complain about the process, and did not suggest the meeting was hostile or retaliatory. The email reflects an employee who participated in a constructive performance discussion and was moving forward with the feedback he received.
 
-"I'm aligned on continuing to prioritize those relationships and opportunities."
-
-"I'm looking forward to continuing to work with the clients and opportunities across this coverage."
-
-These are not the words of a man who had just been victimized by workplace retaliation. They are the words of a professional who received feedback, understood it, and committed to moving forward. The plaintiff thanked the manager for the meeting. He expressed appreciation for the guidance. He said he was aligned with the path forward. He said he was looking forward to the work.
-
-The plaintiff's support team later assessed this email as a tactical mistake because it contained "concessions." That assessment reveals an important truth: the email was written before the plaintiff's support team had fully activated their strategic framework. It reflects the plaintiff's genuine, unfiltered reaction to the evaluation -- and that reaction was acceptance, not outrage. The outrage came later, after his friends told him he should be outraged.
+The absence of any protest, complaint, or expression of distress in the immediate aftermath of the evaluation is notable. The plaintiff's support team subsequently assessed this email as a non-issue -- and that assessment is itself revealing: there was nothing in the email for the plaintiff to walk back because the email simply confirmed professional engagement with the process.
 
 ---
 
@@ -309,6 +317,16 @@ Bloomberg LP has invested thirteen and a half years in Aleksandr Akulov. It paid
 This is not the behavior of a company trying to push out an employee for taking parental leave. This is the behavior of a company trying to retain a veteran employee by being honest with him about where he stands and what he needs to do. The manager wrote: "Alex historically has proven that he has the skill set to be successful in the group." That is not a man building a case for termination. That is a manager who believes in his employee's potential and is frustrated that the potential is not being realized.
 
 The company's door remains open. The evaluation identified the problem. The manager provided the path forward. The question is whether Aleksandr Akulov will walk through that door -- or whether he will let a support team convince him that the door is a trap.
+
+---
+
+## The Mariner/RFQE Work During Leave Shows Management Responsiveness
+
+The plaintiff will point out that he logged into Bloomberg systems during his second parental leave to conduct a product demo for a client (Mariner), which his manager acknowledged. The plaintiff frames this as evidence of exceptional commitment that went unrecognized.
+
+The evaluation explicitly acknowledges the Mariner RFQE onboard. It states the engagement "did not lead to any bookable events in 2025" because the resulting revenue ($31,600) closed on January 5, 2026 -- after the evaluation period. The plaintiff will receive credit for that revenue in 2026. Nothing was omitted; the evaluation accurately reflected what had occurred within the evaluation period.
+
+As for the plaintiff's voluntary engagement during leave: that is commendable, and the company does not discourage employees from staying connected if they choose to. But the evaluation assessed the active working period (January through July 2025), not leave-period activity. The manager's decision not to require or even encourage work during leave was actually protecting the plaintiff's leave rights -- exactly the opposite of what the plaintiff claims the company was doing.
 
 ---
 

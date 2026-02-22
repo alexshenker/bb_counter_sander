@@ -1,6 +1,6 @@
 # Case Status Brief
 
-**Last updated:** February 21, 2026 (late afternoon)
+**Last updated:** February 21, 2026 (evening)
 
 ---
 
@@ -28,9 +28,14 @@ The evaluation says he "can't improve" because of leave, then penalizes him for 
 
 ## Our Defense: MODERATE -- but under new pressure
 
-**What works:** Qualitative deficiencies in the eval (adoptions, visit breadth, day structure). Employee's own "pulling back on effort" WhatsApp messages. His concession email on Feb 17. Mass layoffs provide partial comp cover. Sabrina's credibility can be challenged (her own grievances, potential bias, secondhand characterizations of Platt's statements). Forecast tampering is unverified.
+**What works:** Qualitative deficiencies in the eval (adoptions, visit breadth, day structure). Employee's own "pulling back on effort" WhatsApp messages. Mass layoffs provide partial comp cover. Sabrina's credibility can be challenged (her own grievances, potential bias). Forecast tampering is unverified. Their own gaps (pre-leave coverage baseline, target methodology, Sam Page details) remain unfilled.
 
-**What's weaker than before:** If Sabrina formally cooperates, the "single disgruntled employee" defense erodes because she provides a second data point under the same manager. If the HR exit interview notes contain specific complaints about leave retaliation, the "company didn't know" defense is harder to maintain. The chain of command mapping makes any "you should have complained internally" argument look hollow.
+**What's weaker than before (updated evening):**
+- Feb 17 email is NOT the defensive asset we thought. ~~His "concession email"~~ is actually generic boilerplate ("I appreciate the time yesterday"). No acceptance of the evaluation, no "I'm aligned," no gratitude for guidance. Negligible defensive value.
+- GDSF forecast count: eval says "only 1 GDSF forecast ($26,300)" but employee has identified 4 forecasts totaling $50,300 with specific CRM IDs. If confirmed, this is a provably false statement in the evaluation.
+- Client visit count: eval cited ~11 CT visits, employee claims 19 total C-days. Two instances of understated metrics form a selective data presentation pattern.
+- Their "Retaliation Cascade" theory directly neutralizes the WhatsApp "doing it on purpose" messages -- our strongest defense weapon -- by reframing disengagement as a consequence of the first-cycle retaliation.
+- If Sabrina formally cooperates, the "single disgruntled employee" defense erodes. If the HR exit interview notes contain specific complaints, the "company didn't know" defense is harder. The chain of command mapping makes "you should have complained internally" look hollow.
 
 ---
 
@@ -67,28 +72,41 @@ These ranges are largely unchanged from prior version. Sabrina's evidence is sig
 
 ## What to Do Now
 
-1. **Litigation hold** -- preserve all records (Sasha, Sam Page, Sabrina Sparapani, Johnston, full team, Santore) back to Jan 2018. Include Sabrina's HR exit interview notes.
+1. **Litigation hold** -- preserve all records (Sasha, Sam Page, Sabrina Sparapani, Johnston, full team, Santore, stack ranking docs) back to Jan 2018. Include Sabrina's HR exit interview notes and CRM forecast audit trails.
 2. **Retain defense counsel** -- before Monday if possible; employee is targeting 5 top-tier firms
 3. **Retain personal counsel for the manager** -- given forecast tampering allegation and potential interest divergence with Bloomberg
 4. **Determine forecast audit logs** -- what do they show for 9/5/2025? Legitimate business action or what Sasha describes? This is the single most time-sensitive item.
 5. **Pull Sabrina's HR exit interview notes** -- determine what she actually told HR and what was documented
-6. **Investigate Sam Page** -- his file remains a major variable
-7. **Pull comparative data** -- team-wide targets, coverage history, evaluations, comp outcomes
-8. **Prepare for March meeting** -- script responses to coverage/target questions; assume Sasha may have attorney guidance by then
-9. **Defer PIP** -- at least until Q3 2026
-10. **Do not contact Sabrina, Sam Page, or any former employee.** Any outreach will be characterized as witness tampering.
+6. **Pull GDSF forecast records for ALL team members** -- the eval says "only 1 GDSF forecast ($26,300)" but the employee claims 4 totaling $50,300 with specific CRM IDs. Verify what the CRM shows and understand the counting methodology used. If the eval is provably wrong, prepare an explanation.
+7. **Investigate Sam Page** -- his file remains a major variable
+8. **Pull comparative data** -- team-wide targets, coverage history, evaluations, comp outcomes, visit counts (CT-only vs all-territory for all team members)
+9. **Implement remedial coverage/target actions BEFORE Monday Feb 23** -- every remedial action has been pre-framed as "consciousness of guilt" by their team. Act now with documented business rationale (territory optimization, Q1 planning) before attorney outreach begins. After a demand letter, it's a concession.
+10. **Identify Anthony (last name unknown)** -- manager on separate team who asked Sasha "does your wife work?" If he's a friendly witness, good. If he asked because he knew about the stack ranking, bad. Find him before they do.
+11. **Prepare for March meeting** -- script responses to coverage/target questions; assume Sasha may have attorney guidance by then
+12. **Defer PIP** -- at least until Q3 2026
+13. **Do not contact Sabrina, Sam Page, or any former employee.** Any outreach will be characterized as witness tampering.
 
 ---
 
-## Latest Intelligence (Feb 21, late afternoon)
+## Latest Intelligence (Feb 21, evening)
 
-**New file: `iMessage_Evidence_Sasha_Sabrina.md`.** Full iMessage thread between Sasha and Sabrina spanning two periods: (1) after Sasha's first leave return (~2024), where Sabrina advises him to document everything and lists warning signs; (2) July 2025, where Sabrina resigns, describes her exit interview, and states "he retaliates against people who go on leave especially men." Key items: Platt told Sabrina he was giving Sasha her "shitty accounts"; Sabrina confirms territory distribution was inequitable; Sabrina says Santore approves reviews but didn't protect her; embedded screenshot of Sabrina's text exchange with Santore.
+**Seven items identified from opponent's files not previously captured in defense documents (now integrated):**
 
-**Forecast tampering mechanics per Sasha's account.** Date: 9/5/2025. Action: closed ~$58K forecast as "dupe," stripped notes, reopened same day. CRM audit trail exists per Sasha. Photos pending. Dollar reconciliation pending ($58K vs $53,800). Their team treating it as unverified until attorney reviews.
+1. **GDSF forecast omission (CRITICAL).** Evaluation says "only 1 GDSF forecast booked ($26,300)" but employee has 4 forecasts totaling $50,300 with CRM IDs #1398757, #1409461, #1393077 plus one more. If CRM confirms 4, the evaluation contains a provably false factual claim.
 
-**Client visit miscount alleged.** Sasha claims 19 client visits Jan-Jul 2025 but evaluation cited ~11. Unverified -- may reflect different counting methodologies (all visits vs. CT-only visits).
+2. **Retaliation Cascade legal theory.** Employee's team (Section F) argues first-cycle retaliation caused the disengagement that caused the underperformance that caused the second-cycle evaluation. This directly neutralizes the WhatsApp defense by reframing it as a consequence chain. Must break at the first link (proving the 0% raise was legitimate).
 
-**Monday Playbook updated with Sabrina evidence.** Attorney consultation script now includes Sabrina as a named witness. The employee will present this as a three-victim pattern (Sasha, Sabrina, Sam Page) to attorneys on Monday. Whether all three cooperate is a separate question from whether the narrative lands on intake calls.
+3. **Visit cherry-picking specifics.** 19 total C-days vs 11 CT-only cited in eval. Allegation: manager counted narrower methodology for Sasha while counting all-territory visits for peers. Combined with GDSF omission, forms a "selective data presentation" pattern.
+
+4. **Anthony witness + stack ranking.** Manager on separate team asked Sasha "does your wife work?" unprompted. Employee's theory: Anthony saw low stack ranking. Stack ranking sessions are documented Bloomberg processes where all managers see all rankings. Those session records are discoverable.
+
+5. **Mariner Pod work-during-leave.** Sasha logged in during leave to demo product to client. Manager declined his offer to help, then criticized his results. "He wanted to work, you said no, then you blamed him for not working."
+
+6. **Opponent's pre-framed counter-moves (Section G).** Every remedial action (coverage restoration, target adjustment, coaching plan, behavioral changes, delayed PIP) has been pre-characterized as "consciousness of guilt." Does not mean we shouldn't act -- just means everything needs contemporaneous business documentation.
+
+7. **Intelligence from their gaps (FACTS.md, Questions_for_Sasha.md).** They have 267 unconfirmed facts and 77 unanswered questions. Key gaps: pre-leave coverage baseline, Sam Page details, target-setting methodology, Johnston's leave decisions, GDSF counting methodology, Anthony's identity, Sabrina's formal cooperation, exact timeline of coverage changes.
+
+**Previously reported (still current):** Sabrina iMessage evidence, forecast tampering mechanics (9/5/2025), chain of command mapping, Monday Playbook targeting 5 firms starting Monday Feb 23.
 
 ---
 

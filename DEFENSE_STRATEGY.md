@@ -55,12 +55,12 @@ The evaluation was a genuine assessment of legitimate performance concerns durin
 
 3. **The counter-metrics tell an incomplete story.** The employee highlights volume metrics (total interactions, visits, firms engaged) but the evaluation addressed specific qualitative concerns:
    - Only 3 strategic adoptions, and those users tried workflows once and did not actually adopt
-   - Only 1 GDSF forecast booked ($26,300) at the midyear mark
-   - CT coverage: 11 C days, 45 in-person meetings at only 18 accounts -- insufficient breadth
+   - ~~Only 1 GDSF forecast booked ($26,300) at the midyear mark~~ **CORRECTED (Feb 21): This claim is now provably false.** The employee has identified 4 GDSF forecasts totaling $50,300 with specific Bloomberg CRM forecast IDs (#1398757 Macquarie $12K, #1409461 RJA $6K, #1393077 Teza $6K, plus the original Leverage Shares $26.3K). Three of four forecasts and 48% of forecast dollar value were omitted from the evaluation. These are system records -- verifiable in Bloomberg's own CRM. **This transforms the evaluation from biased judgment into demonstrably inaccurate data presentation.** The defense cannot rely on the "only 1 forecast" claim; it must instead explain why 3 forecasts were omitted, or abandon this defense point entirely.
+   - CT coverage: 11 C days, 45 in-person meetings at only 18 accounts -- insufficient breadth. **UPDATE (Feb 21): The employee now claims 19 total C days (highest on team; JJ had 18, Emily had 13), of which 11 were in CT and 8 in Houston/Albany. The evaluation counted only the 11 CT C days for Sasha while counting all territories for peers.** If confirmed, this is a second instance of selective data presentation in the same evaluation -- the manager chose the number that made Sasha look worst while using the complete number for peers.
    - Shortened days (beginning at 10 AM, ending before market close)
    - Failure to implement feedback about more complete days with broader client range, a concern first raised the prior year
 
-4. **Revenue figures require context.** The $80,100 total includes $53,800 booked while the employee was on leave from pipeline. The midyear revenue was $26,300 from a single forecast. Comparing that single booking against prorated targets obscures the fact that the employee had one meaningful revenue event in six months of active work.
+4. **Revenue figures require context.** The $80,100 total includes $53,800 booked while the employee was on leave from pipeline. ~~The midyear revenue was $26,300 from a single forecast.~~ **CORRECTED (Feb 21): The midyear GDSF forecast total was $50,300 across four forecasts, not $26,300 from one.** The evaluation's "only 1 forecast" claim is verifiably false against Bloomberg's own CRM records (forecast IDs #1398757, #1409461, #1393077). **This defense point is severely weakened.** Instead of arguing the employee had a single revenue event, the defense must now explain why the manager omitted 3 of 4 documented forecasts from the evaluation. Possible explanations: (a) the forecasts were for different products (EMSX API vs RBLD) and the manager was evaluating RBLD-specific performance; (b) manager error/oversight; (c) the forecasts had not reached a stage the manager considered "booked." Each of these is defensible if documented but much weaker than the original "single forecast" framing. The Teza forecast (#1393077) was generated from Houston -- a stripped territory -- which further undercuts the coverage stripping defense.
 
 5. **"Historically successful" is accurate, not damaging.** The manager acknowledged the employee's historical competence precisely to frame the feedback constructively. Noting past capability while identifying current shortfalls is standard management practice. The decline in performance does coincide with the leave periods, but the leave itself is not the cause; the cause is reduced effort, shortened days, and failure to adopt feedback.
 
@@ -963,45 +963,202 @@ This is contextual evidence that supports the larger narrative -- it explains wh
 
 ---
 
-## ALLEGATION 20: Client Visit Miscount (Added Feb 21)
+## ALLEGATION 20: Selective Data Presentation in Evaluation -- Visit Count and Forecast Omission (Updated Feb 21)
 
 ### The Allegation
 
-The employee claims he made 19 client visits during Jan-Jul 2025, but the evaluation cited approximately 11.
+The employee claims the evaluation systematically cherry-picked data to understate his performance. Two specific instances:
+
+1. **Visit count:** Sasha had 19 total C days (highest on team; JJ had 18, Emily had 13). The evaluation cited only 11 -- the CT-only C days -- while counting all territories for peers. At ~4 meetings per C day (the evaluation's own ratio: 11 CT days = 45 meetings), Sasha's 19 total C days produced approximately 75+ meetings, not the 45 cited.
+
+2. **Forecast omission:** The evaluation stated "only 1 GDSF forecast booked at Leverage Shares for $26,300." Sasha had 4 GDSF forecasts totaling $50,300, with CRM forecast IDs: #1398757 (Macquarie $12K), #1409461 (RJA $6K), #1393077 (Teza $6K). Three forecasts and 48% of forecast dollars were omitted.
 
 ### Their Evidence
 
-- **Sasha's account of 19 visits.** Not yet verified against Bloomberg records.
-- **The evaluation states 11 CT C-days with 45 in-person meetings across 18 accounts.**
+- **C day counts from Bloomberg's activity system:** Sasha 19 (highest), JJ 18, Emily 13. Sasha confirmed 11 were CT, 8 were Houston/Albany.
+- **GDSF forecast IDs in Bloomberg CRM.** System records with timestamps, dollar amounts, and attribution. These are not Sasha's claims -- they are verifiable Bloomberg data.
+- **The evaluation's own numbers establish the cherry-picking.** The document says "11 C days" for Sasha (CT only) while counting all territories for peers. It says "only 1 forecast" when 4 exist in the system.
 
-### Strength Assessment: LOW
+### Strength Assessment: HIGH (upgraded from LOW)
 
-The discrepancy may reflect different counting methodologies (all visits vs. CT-only, formal meetings vs. informal, etc.). An 8-visit difference over 6+ months is not independently significant. However, it adds incremental weight to the "evaluation understated performance" narrative.
+This is no longer a minor counting discrepancy. When combined, two instances of selective data presentation in the same evaluation establish a pattern: the manager chose the numbers that made Sasha look worst and excluded numbers that made him look strong. One instance could be a methodology choice. Two instances in the same document, both favoring the same conclusion, look deliberate. A plaintiff's attorney will present them together as evidence the evaluation was manufactured to support a predetermined rating.
 
 ### The Defense
 
-1. **The evaluation specifically referenced CT C-days.** If Sasha's 19 includes visits in other geographies, the evaluation's 11 is accurate for the metric it was measuring.
-2. **Bloomberg's activity tracking system is the definitive source.** Whatever the system shows is what the system shows.
+1. **The evaluation was measuring territory-specific performance.** CT was Sasha's primary assigned territory. Evaluating CT C days specifically reflects performance in the territory he was responsible for. Visits in Houston and Albany were in territories no longer formally assigned to him -- those visits, while commendable, did not reflect work in his core coverage area.
+
+2. **The three additional forecasts may not have qualified as "booked" GDSF forecasts under Bloomberg's definitions.** Two of the three (Macquarie and RJA) started as RBLD conversations and "landed as EMSX API." If the evaluation was specifically measuring RBLD GDSF forecasts, the product-shift may explain the omission. The Teza forecast was also a different product context. **However:** this defense requires documented evidence that the evaluation was measuring RBLD-specific forecasts, not GDSF generally. The evaluation says "GDSF forecast" without a product qualifier.
+
+3. **Methodology was consistent across evaluations.** If other team members' evaluations also focused on territory-specific metrics and product-specific forecasts, the approach was standard, not targeted.
 
 ### Evidence Needed
 
-- **Activity tracking data for Sasha's visits by geography.** Reconcile the 19 vs. 11 discrepancy.
+- **Evaluation documents for all team members for the same period.** Did peer evaluations count all-territory C days? Did they count all-product GDSF forecasts? If yes, the cherry-picking argument is confirmed. If peers were also evaluated on primary-territory-only metrics, the defense holds.
+- **Bloomberg's GDSF system definition of "booked."** Were the three additional forecasts (Macquarie, RJA, Teza) at a stage that would qualify as "booked" under normal reporting? If the system shows them as booked/active, the omission is indefensible.
+- **Historical evaluation methodology.** Were prior evaluations of this employee (or other employees) conducted using the same territory-specific, product-specific approach? Consistency supports the defense. A switch to narrower metrics coinciding with the leave cycle supports the plaintiff.
 
 ### Recommended Actions
 
-1. **Pull the visit data.** Determine whether the evaluation's count was accurate for the metric being measured. If it was, this allegation is meritless. If it wasn't, determine why the evaluation used a different number.
+1. **Pull the GDSF system data for all team members at midyear.** Determine the actual forecast counts and amounts for each person. If Sasha's 4 forecasts were visible in the system and comparable peers had similar or fewer forecasts counted in their evaluations, the omission is indefensible.
 
-**Severity: LOW**
+2. **Pull peer evaluation documents.** Determine whether all-territory or primary-territory C day counting was used for JJ and Emily.
+
+3. **Prepare an explanation for the forecast omission.** "Methodology difference" is the best available defense, but it requires supporting evidence. "Oversight" is worse because it admits the evaluation was inaccurate. "The other forecasts were too small to matter" is terrible because $24K on a $115K target is 21% -- not trivial.
+
+**Severity: HIGH** (upgraded from LOW -- the combined visit + forecast pattern of selective data presentation materially damages evaluation credibility)
+
+---
+
+## ALLEGATION 21: "Retaliation Cascade" Legal Theory (Added Feb 21)
+
+### The Allegation
+
+The employee's team has developed a formal legal theory connecting the two leave cycles causally. Their argument: the employer cannot use the consequences of its own first-cycle retaliation (Sasha's expressed demoralization and reduced discretionary effort after the 0% raise) as justification for second-cycle adverse actions. The chain: Leave -> Retaliation (0% raise, coverage stripping) -> Demoralization -> "Underperformance" -> More Retaliation. If the first link is proven retaliatory, every subsequent link inherits the taint.
+
+### Their Evidence
+
+- First cycle: 0% raise after first leave, manager attributed to leave "off the record," coverage stripped
+- Sasha's WhatsApp messages (March-April 2025) explicitly linking his reduced effort to the 0% raise: "Given my raise," "They fucked me"
+- Despite expressed frustration, his activity metrics were STILL the highest on the team (648 interactions, 178 visits, 177 unique firms)
+- Second cycle repeats the identical pattern
+
+### Strength Assessment: MEDIUM-HIGH
+
+This theory directly attacks our strongest defense weapon -- the WhatsApp disengagement messages. Instead of those messages being evidence of voluntary underperformance, the Retaliation Cascade reframes them as the predictable consequence of the employer's own prior retaliation. Under NYCHRL's "motivating factor" standard, this theory has force.
+
+### The Defense
+
+1. **The causal chain breaks at the employee's choice.** Demoralization is understandable. Deliberate disengagement is a choice. Employees who receive feedback they disagree with have options: HR complaints, transfers, job searches, discussions with management. Choosing to reduce effort is a volitional act, not an automatic consequence.
+
+2. **The first cycle was not retaliatory.** If the 0% raise and coverage changes in 2024-2025 were based on legitimate performance concerns (the employee was absent for 6 months, metrics during that period were naturally lower), the first link in the chain is not proven, and the cascade theory collapses.
+
+3. **The metrics paradox works both ways.** If Sasha's "reduced effort" still produced team-leading activity numbers, it suggests either (a) his prior effort level was exceptional and the new level was merely good -- but qualitative performance still declined, or (b) the activity metrics don't capture what actually matters in the role. Either way, the evaluation's qualitative criticisms (shortened days, insufficient breadth, one-time trial adoptions) remain.
+
+4. **Internal channels were available.** The employee never filed an HR complaint, never requested a transfer, never used Bloomberg's ethics hotline. The "futility" argument (chain of command compromised) requires proving the formal channels were genuinely useless, not just inconvenient.
+
+### Evidence Needed
+
+- **Documentation that the first-cycle actions (0% raise, coverage changes) were based on legitimate performance data**, not leave. If the 2024-2025 evaluation cycle has supporting documentation independent of leave references, the first link breaks.
+- **Bloomberg's HR complaint records.** Has the employee ever used any internal complaint mechanism? If not, it undermines the "futility" argument.
+- **Comparators for the first cycle.** Were other employees evaluated similarly in the 2024-2025 cycle for legitimate performance reasons?
+
+### Recommended Actions
+
+1. **Prepare a defense against this specific theory.** It will be raised by plaintiff's counsel. The strongest counter is that the first cycle was legitimate, breaking the chain at the first link.
+
+2. **Do not concede the first cycle was retaliatory.** If Bloomberg settles or admits problems with the second cycle while maintaining the first was legitimate, the cascade theory loses its foundation.
+
+**Severity: MEDIUM-HIGH** (directly threatens the WhatsApp defense, which was our strongest weapon)
+
+---
+
+## ALLEGATION 22: Work During Leave Contradicts "Checked Out" Narrative (Added Feb 21)
+
+### The Allegation
+
+The employee claims he actively worked during his second parental leave, setting up the Mariner Pod deal that generated $31,600 in revenue. Timeline: logged in Jul 18 to demo and set up the pod (one of the first migrating off Bloomberg's legacy OMS), first live trade Aug 25, confirmed downstream execution Sep 3, deal closed Jan 5 for $31,600. He also offered to help the short-staffed team during leave (declined by manager) and continued engaging Mariner to penetrate additional pods.
+
+### Their Evidence
+
+- Bloomberg system reference: {PROS N 77949 501893<GO>} documents the engagement
+- The year-end evaluation acknowledges the Mariner/RFQE onboard but says it "did not lead to any bookable events in 2025" -- the $31,600 closed Jan 5, 2026
+- The evaluation says "we were able to book" the Two Seas deal as if Sasha was uninvolved, despite Sasha cultivating it pre-leave
+
+### Strength Assessment: MEDIUM
+
+Undermines the "disengaged employee" narrative. An employee who logs in during protected leave to demo a complex product migration is the opposite of checked out. The manager's failure to acknowledge this work in the evaluation adds to the selective presentation pattern.
+
+### The Defense
+
+1. **Voluntary engagement during leave does not change the evaluation's substance.** The evaluation was based on the active working period (Jan-Jul 2025), not the leave period. Work during leave is commendable but not what was being evaluated.
+
+2. **The Mariner revenue ($31,600) was booked in January 2026 -- it is 2026 revenue.** It was not omitted from the evaluation; it simply fell outside the evaluation period. The employee will get credit for it in 2026.
+
+3. **Working during leave is the employee's choice.** The company did not ask him to work during leave. If anything, the manager declining his offer to help was protecting the employee's leave rights.
+
+### Risk
+
+The plaintiff will use this to show Sasha was self-motivated and productive even during leave, making the "underperformer" characterization less credible. The manager declining his offer to help and then criticizing his results creates a damaging narrative: "he wanted to work, you said no, then you blamed him for not working."
+
+**Severity: MEDIUM**
+
+---
+
+## ALLEGATION 23: Anthony Witness and Stack Ranking Visibility (Added Feb 21)
+
+### The Allegation
+
+A manager named Anthony (last name unknown) on a separate team asked Sasha unprompted: "Does your wife work?" between his leave return (Dec 28, 2025) and the Feb 17 evaluation. The employee's team theorizes Anthony saw Sasha ranked low in Bloomberg's collective stack ranking process (where managers convene and rank employees across teams, visible to all managers in the group) and was asking out of concern about the financial impact of a potential termination.
+
+### Their Evidence
+
+- Sasha's direct account of the conversation
+- Bloomberg's stack ranking process confirmed: managers rank individually, then collectively rank across teams -- all managers see all rankings
+
+### Strength Assessment: LOW-MEDIUM
+
+The question itself is odd but not independently significant. However, the stack ranking process is valuable discovery: the collective ranking sessions would document where Platt placed Sasha relative to peers, what reasons he gave, and whether any manager questioned the ranking. If Platt had to justify ranking a 13.5-year veteran who led team activity metrics at the bottom, his stated reasons are on record.
+
+### The Defense
+
+1. **Anthony's question was casual conversation.** "Does your wife work?" is a common small-talk question among colleagues. It does not require a sinister explanation.
+
+2. **Stack ranking is a standard management process.** Collective ranking sessions exist to ensure fairness and calibration, not to broadcast targeting. The fact that managers see each other's rankings is a feature of the calibration process.
+
+### Evidence Needed
+
+- **Stack ranking session documentation.** What was discussed when Sasha's ranking was presented? What reasons were given? Were there written notes or minutes?
+- **Anthony's identity and willingness to cooperate.** If Anthony is identified and deposed, what would he say about why he asked the question?
+
+### Recommended Actions
+
+1. **Identify Anthony's full name** before the employee's team does. If he would testify that the question was casual, he's a defense witness. If he would testify that he asked because he knew Sasha was being targeted, he's devastating.
+
+2. **Preserve stack ranking session documentation.** These are now within the litigation hold scope.
+
+**Severity: LOW-MEDIUM** (the question itself is minor; the stack ranking discovery exposure is the real risk)
+
+---
+
+## ALLEGATION 24: Opponent's Prepared Counter-Moves (Added Feb 21)
+
+This is not an allegation but strategic intelligence. The employee's team has documented anticipated Bloomberg moves in their `Adverse_Actions_and_Additional_Evidence.md` Section G and prepared counter-narratives for each:
+
+| Bloomberg Move | Their Prepared Counter-Narrative |
+|---|---|
+| **Coverage restoration** | "Consciousness of guilt -- they recognized the disparity was indefensible and corrected under legal pressure. Too-late remedial measure that doesn't undo 2+ years of harm." |
+| **Informal coaching plan instead of PIP** | "De facto PIP under a different name. The name doesn't change the function. Same retaliation analysis applies." |
+| **Target adjustment downward** | "Same consciousness of guilt framing. Confirms the original target was unfair." |
+| **Manager behavioral changes (more formal, leave-neutral)** | "Sudden shift from prior behavior is itself evidence they recognized the prior behavior was problematic." |
+| **Delayed PIP (Q3 2026 or later)** | "Temporal distance doesn't change the two-cycle pattern, coverage disparity, or manager's statements." |
+
+**Why this matters for the defense:** Every remedial action we might take has been pre-framed as evidence of wrongdoing. This does not mean we should avoid remedial actions -- failing to act is worse. But it means every action must be documented with a contemporaneous business rationale that predates any legal filing. Remedial measures taken after litigation is filed (or threatened) will be characterized as we-got-caught corrections regardless of intent.
+
+**Recommended action:** Any coverage restoration, target adjustment, or process change must be implemented NOW, before the attorney is retained (Monday Feb 23 at the earliest), and must have a documented business rationale that does not reference the employee's leave, the evaluation, or any legal concern.
 
 ---
 
 ## CROSS-CUTTING DEFENSE CONSIDERATIONS
 
-### The Email Sasha Already Sent
+### The Email Sasha Already Sent -- CORRECTED (Feb 21)
 
-The employee sent a follow-up email on February 17 that contains language favorable to the defense: "Thank you again for taking the time to meet today," "I appreciate the continued guidance," and "I'm aligned on continuing to prioritize those relationships and opportunities." The employee's own team assessed this as damaging to their case because it reads as acceptance of the evaluation and the reduced coverage.
+**IMPORTANT CORRECTION:** The verbatim text of this email has now been confirmed. It does NOT contain "I appreciate the continued guidance," "I'm aligned," or "Thank you again for taking the time to meet today." Those phrases appeared in an earlier approximation. The actual email reads:
 
-**How to use this:** In any future proceeding, this email should be cited as evidence that (a) the employee viewed the evaluation as constructive guidance, not retaliation, (b) the employee accepted his current coverage scope, and (c) the employee expressed appreciation for the process. The employee's team has identified how to work around these concessions, but the words are in writing and cannot be unsent.
+> Rich and Teddy,
+>
+> I appreciate the time yesterday and the discussion.
+>
+> As discussed, I'm focused on Connecticut territory and related accounts. I'm continuing to build relationships and drive activity across that coverage.
+>
+> I've set a time for us to reconnect and will keep pushing forward on the opportunities.
+>
+> Thanks Alex
+
+**Revised assessment:** This email is generic boilerplate. It contains no expression of agreement with the evaluation, no "I'm aligned," no gratitude for guidance, no endorsement of the reduced coverage. "I appreciate the time yesterday" is standard professional courtesy after any meeting. "I'm focused on Connecticut territory" is a factual statement about current work, not an acceptance of coverage decisions.
+
+**Defensive value: SIGNIFICANTLY REDUCED.** The employee's team correctly assessed this as a non-issue. Bloomberg can still argue the email shows professional engagement rather than protest, but there is very little to work with. The strongest phrase is "I appreciate the time" and no jury will treat that as acceptance of retaliation.
+
+**What remains useful:** The email was sent to both Rich Santore and Teddy Platt, confirming both were involved. The absence of any complaint or pushback in the immediate aftermath is mildly helpful but far less than what we previously assessed.
 
 ### The "Doing It on Purpose" Admissions
 
@@ -1049,13 +1206,16 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 | Firing Jokes (4) | Medium-High | Moderate | MEDIUM |
 | Job Posting During Leave (10) | Medium | Potentially strong | MEDIUM |
 | Health Impact (17) | Medium | Moderate | MEDIUM |
-| Client Visit Miscount (20) | Low | Strong if counting methodology explains gap | LOW |
+| Selective Data Presentation (20) | High | Weak -- two instances in same eval | HIGH |
+| Retaliation Cascade Theory (21) | Medium-High | Moderate -- break the first link | HIGH |
+| Work During Leave / Mariner (22) | Medium | Moderate -- timing defense | MEDIUM |
+| Anthony / Stack Ranking (23) | Low-Medium | Strong if Anthony cooperates | MEDIUM |
 | Pregnancy Questions (11) | Low-Medium | Strong | LOW |
 | WFH Denied (14) | Low-Medium | Strong | LOW |
 | Mandatory Review During Leave (12) | Low | Strong | LOW |
 | Seat Reassignment (13) | Low | Strong | LOW |
 
-### Five Most Urgent Actions
+### Seven Most Urgent Actions (Updated Feb 21 evening)
 
 1. **Pull the CRM audit trail for 9/5/2025 IMMEDIATELY.** This is the single most time-sensitive item. The forecast tampering allegation is uniquely binary: if the audit trail shows routine CRM maintenance, it dies and damages the employee's credibility. If it shows what Sasha describes (closed as "dupe," notes stripped, same-day reopen), it is potentially the most dangerous element in the entire case and creates personal regulatory exposure for the manager under FINRA. The employee's team is holding this for their attorney. Resolve what the logs show before anyone else pulls them.
 
@@ -1066,3 +1226,7 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 4. **Preserve Sam Page's file.** If Page cooperates with the employee, this case becomes materially harder. If Page's file shows a legitimate, well-documented performance termination, it becomes a defense asset. Either way, the file must be preserved immediately.
 
 5. **Engage employment counsel -- and the manager should retain personal counsel separately.** The employee's team is targeting five firms: Cohen Milstein/Clancy, Phillips & Associates, Outten & Golden, Wigdor LLP, and Derek Smith Law Group. These are first-tier plaintiff's firms. Bloomberg needs equally competent defense representation. Separately, the forecast tampering allegation creates a potential conflict between the manager's personal interests and Bloomberg's interests. If the audit trail is problematic, Bloomberg's defense team represents Bloomberg, not the manager. The manager needs independent counsel for personal advice on the FINRA implications and individual liability exposure under NYCHRL.
+
+6. **Pull GDSF forecast records for all team members.** The employee's team has identified 4 specific forecasts (IDs #1398757, #1409461, #1393077, plus one more) totaling $50,300 -- contradicting the evaluation's characterization of "only 1 GDSF forecast booked ($26,300)." This is a factual discrepancy in the evaluation that cannot be explained away if CRM records confirm 4 forecasts existed. Pull the full GDSF data for Sasha and all team members for the evaluation period to (a) understand what the CRM actually shows, (b) determine whether the evaluation's "1 forecast" claim was an error or a deliberate omission, and (c) prepare a credible explanation before the employee's attorney subpoenas the records. The visit count data should also be pulled: the evaluation cited 11 client visits in CT, but the employee claims 19 total C-days (each involving multiple meetings). If the evaluation cherry-picked CT-only visits while counting all-territory visits for peers, that pattern of selective presentation compounds the forecast omission.
+
+7. **Implement remedial coverage and target actions BEFORE Monday Feb 23.** The employee's team is calling attorneys Monday. Their Section G explicitly frames every remedial action Bloomberg takes as "consciousness of guilt." This creates a paradox: acting looks bad, but not acting looks worse because the coverage disparity is indefensible on the merits. The solution is to act NOW with a documented business rationale that predates any legal filing. Restore reasonable coverage, recalibrate targets to account for coverage levels, and document the rationale as a routine Q1 business planning action. The contemporaneous documentation must reference business factors (territory optimization, client relationship continuity, Q1 planning cycle) and must NOT reference the evaluation, the employee's leave, or any legal concern. If this is done before Monday, it is a proactive management decision. If done after an attorney sends a demand letter, it is a concession.
