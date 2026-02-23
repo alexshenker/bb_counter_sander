@@ -1,9 +1,9 @@
 # Litigation Preparation
 
 **Prepared:** February 20, 2026
-**Last updated:** February 21, 2026 (evening -- GDSF forecast discrepancy, Retaliation Cascade theory, Anthony/stack ranking discovery, selective data presentation, intelligence on opponent's gaps)
+**Last updated:** February 23, 2026 (evening -- national origin discrimination, attorney engagement, Bryan Baptist witness, updated settlement ranges)
 **For:** Manager's strategic defense preparation
-**Status:** Pre-litigation -- no complaint filed, no attorney retained by employee (as of Feb 20). As of Feb 21, a fully operational attorney outreach playbook has been prepared targeting 5 firms. Calls scheduled for Monday, Feb 23. Attorney retention expected within days.
+**Status:** Pre-litigation -- no complaint filed. As of Feb 23, Phillips & Associates has conducted a 50-minute substantive consultation and wants to represent the employee at 40% contingency. Retainer imminent. Outten & Golden also contacted. Attorney retention expected within days.
 **Jurisdiction:** Southern District of New York (federal claims); New York Supreme Court, New York County (state/city claims)
 
 ---
@@ -250,6 +250,17 @@ The following requests should be anticipated. For each, an assessment of how dam
 - **Privilege:** None. Standard business records. Must be produced.
 - **ACTION REQUIRED: Pull this data now. The employee has specific forecast IDs -- the defense must verify what those IDs represent before an attorney subpoenas them.**
 
+**Request 19 (Added Feb 23): All documents relating to Bryan Baptist's employment at Bloomberg, including evaluations, coverage assignments, departure documentation, and any complaints filed by or about him.**
+
+- **Damage Assessment: POTENTIALLY HIGH.** Baptist is the second alleged national origin discrimination target. His employment file may reveal whether any complaints were made about the "Rahul" misnaming, how his coverage was redistributed (and why the employee was excluded), and the circumstances of his departure. If Baptist was a strong performer who left voluntarily, his departure and the coverage redistribution create a coverage-stripping narrative. If complaints about the manager exist in his file, Bloomberg had additional institutional notice.
+- **Privilege:** None. Standard employment records.
+- **ACTION REQUIRED: Review Baptist's file now. Understand what it contains before the plaintiff's attorney contacts Baptist.**
+
+**Request 20 (Added Feb 23): All documents relating to Bloomberg's anti-harassment and anti-discrimination training, including completion records for the manager, training materials, and any guidance specifically addressing national origin discrimination, ethnic stereotyping, or the use of nicknames or informal names in the workplace.**
+
+- **Damage Assessment: VARIABLE.** If the manager completed training that specifically addressed ethnic stereotyping and then continued using "Comrade" and "Rahul," the training records prove he knew the behavior was wrong. If no training addressed this topic, Bloomberg has a gap that undermines institutional defense. If the manager skipped training, it demonstrates negligence.
+- **Privilege:** None. Standard HR records.
+
 **Request 18 (Added Feb 21 evening): All documents relating to Bloomberg's stack ranking or calibration sessions for the ETS-Listed AMER South team and any cross-team ranking sessions that included Aleksandr Akulov, including meeting notes, written rankings, manager justifications, and any dissents or questions raised about rankings, from January 2023 through the present.**
 
 - **Damage Assessment: VARIABLE.** The employee's team has identified that Bloomberg uses a collective stack ranking process where managers convene and rank employees across teams, with all managers seeing all rankings. If these sessions are documented (and at Bloomberg, they likely are), the records will show what justification the manager gave for ranking the employee at the bottom. If the stated justification referenced leave, absence, or anything that could be construed as leave-related, this is direct evidence of retaliatory animus in a formal management setting. If the justification was purely performance-based and leave-neutral, this helps the defense.
@@ -270,6 +281,9 @@ The following requests should be anticipated. For each, an assessment of how dam
 10. *(Added Feb 21)* State whether Sabrina Sparapani raised any complaints about [the manager] or about treatment of employees who took parental leave during her HR exit interview in approximately July 2025, and identify what was documented from that interview.
 11. *(Added Feb 21)* Identify Rich Santore's role in reviewing, approving, or contributing to the 2025 mid-year and year-end evaluations of Aleksandr Akulov, including whether he reviewed the evaluation content before delivery.
 12. *(Added Feb 21 evening)* Describe the methodology used to count "booked" GDSF forecasts in Aleksandr Akulov's 2025 evaluations, including the criteria for what constitutes a "booked" forecast, and identify how many GDSF forecasts each member of the ETS-Listed AMER South team had at the mid-year evaluation point.
+14. *(Added Feb 23)* State whether the manager regularly addressed Aleksandr Akulov as "Comrade," including how frequently, over what period, in whose presence, and when and why the manager stopped using the term.
+15. *(Added Feb 23)* State whether the manager addressed Bryan Baptist as "Rahul," including how frequently, over what period, and whether Baptist or anyone else raised a complaint about this practice.
+16. *(Added Feb 23)* Identify all anti-harassment or anti-discrimination training the manager completed from January 2020 through the present, including dates, topics covered, and whether the training addressed national origin discrimination or the use of ethnically-coded nicknames.
 13. *(Added Feb 21 evening)* Describe Bloomberg's stack ranking or calibration process for the ETS-Listed AMER South team, including how frequently sessions occur, what documentation is created, and what justification the manager provided for Aleksandr Akulov's ranking in each session from January 2024 through the present.
 
 ### 2.3 Depositions (Anticipated)
@@ -283,7 +297,8 @@ Plaintiff's counsel will seek to depose at minimum:
 5. **Sam Page** -- If located and willing. Will be asked about his leave, coverage stripping, PIP, and separation. His testimony is the make-or-break for the pattern claim.
 6. **Sabrina** -- Will be asked about the "carried the baby" comment, her own departure, and the manager's general attitude toward leave-takers.
 7. **Corey Levine** -- Will be asked about the manager's statement that his promotion was blocked because he took six months off.
-8. **Bloomberg HR Director or 30(b)(6) Designee** -- Corporate representative deposition on topics including leave policy, evaluation standards for leave-takers, coverage assignment methodology, and any prior complaints about the manager.
+8. **Bloomberg HR Director or 30(b)(6) Designee** -- Corporate representative deposition on topics including leave policy, evaluation standards for leave-takers, coverage assignment methodology, anti-harassment training, and any prior complaints about the manager.
+9. *(Added Feb 23)* **Bryan Baptist** -- Will be asked about the "Rahul" misnaming, the manager's use of "Comrade" with the employee, coverage redistribution when he left (and the employee's exclusion), and general observations about the manager's treatment of team members.
 
 ### 2.4 Electronic Discovery
 
@@ -309,6 +324,10 @@ Plaintiff's counsel will seek to depose at minimum:
 - "fired" or "fire" or "terminate" combined with "leave" or "paternity"
 - "baby" or "pregnant" or "pregnancy" or "carried"
 - "six months" or "6 months"
+- *(Added Feb 23)* "Comrade" (in any context involving the employee)
+- *(Added Feb 23)* "Rahul" (in any context involving Bryan Baptist)
+- *(Added Feb 23)* "Baptist" or "Bryan Baptist"
+- *(Added Feb 23)* "nickname" or "name" combined with "Russian" or "Indian"
 
 ---
 
@@ -332,6 +351,7 @@ A litigation hold must be issued immediately. The employee's case file reveals a
 | Sam Page (employment records) | Former employee | His entire employment file must be preserved. He does not need to receive a hold notice personally (he no longer works there), but his records must be flagged in all systems. |
 | Sabrina (employment records) | Former employee | Same as above. Her departure circumstances and any complaints she filed are relevant. **Updated Feb 21: Include her HR exit interview notes specifically. Her iMessage statements claim she complained about the manager during that interview.** |
 | **Rich Santore** *(Added Feb 21)* | **Manager's manager, present at Feb 17 evaluation** | **All communications with the manager regarding the employee, regarding Sabrina, regarding leave policies. His review/approval of evaluations. Any communications about the employee's coverage or compensation. Particularly: any awareness of Sabrina's exit interview complaints.** |
+| **Bryan Baptist (employment records)** *(Added Feb 23)* | **Former employee** | **His employment file, evaluations, coverage assignments, departure documentation, and any complaints. Specifically: any record of the "Rahul" misnaming or any related complaint. His coverage redistribution records (who received his accounts and why the employee was excluded).** |
 | Any Bloomberg employee who participated in coverage assignment, territory redistribution, or target-setting decisions | Various | Their records of those decisions and any communications about them. |
 | **CRM/Sales Operations Administrator** *(Added Feb 21)* | **Technical** | **CRM audit trail records, forecast modification logs, user access logs for the GDSF system. Specifically: all records related to forecast modifications for the employee's accounts around 9/5/2025.** |
 
@@ -593,6 +613,37 @@ The employee's team has referenced the following physical/digital items that Blo
 - Assess his likely testimony. If he would testify the question was casual, he's a defense witness. If he would testify he asked out of concern, the defense needs to know this now.
 - Note: Anthony is on a different team. His testimony about his own manager or his own observations of the manager's conduct is limited. The value is in what he knew about the stack ranking.
 
+### 4.9 Bryan Baptist (Former Employee -- Potential Plaintiff's Witness) *(Added Feb 23)*
+
+**What he likely knows:** Baptist was on the same team. He experienced the "Rahul" misnaming firsthand and was visibly annoyed by it. His coverage (Florida) was redistributed when he left -- to everyone on the team except the employee. He would have witnessed team dynamics, coverage assignments, and the manager's behavior toward team members.
+
+**What he might say under oath:** If cooperative with the plaintiff, Baptist will testify that the manager repeatedly called him "Rahul" despite his actual name being Bryan, that this was ethnic (he is Indian), and that it was recurring. He may also testify about coverage distribution and the manager's general management style. He may corroborate the "Comrade" usage if he witnessed it. He may testify that his Florida coverage was redistributed to peers but not to the employee, which he may characterize as selective exclusion.
+
+**Key questions he will face (from plaintiff's counsel):**
+- "Did [the manager] call you 'Rahul'? How frequently? Over what period?"
+- "Is Rahul your name? Is it a name associated with Indian ethnicity?"
+- "How did you feel about being called 'Rahul'?"
+- "Did you ever ask [the manager] to stop? If not, why not?"
+- "Did you hear [the manager] call Aleksandr Akulov 'Comrade'? How frequently?"
+- "When you left Bloomberg, was your Florida coverage redistributed? To whom? Was Mr. Akulov included in that redistribution?"
+- "Did you observe how [the manager] treated employees who took parental leave?"
+
+**Key questions he will face (from defense counsel on cross-examination):**
+- "Did you ever file a complaint about being called 'Rahul'?"
+- "Is it possible the manager simply confused your name with someone else's?"
+- "Did you leave Bloomberg voluntarily? Were you satisfied with your experience?"
+- "Have you been contacted by Mr. Akulov or his attorneys about this case?"
+
+**Risks he creates:**
+- If he testifies credibly that the manager called him "Rahul" because he is Indian, this corroborates the cross-category national origin pattern. Two employees from two different ethnic backgrounds, same manager, same type of behavior.
+- If he testifies that his coverage was redistributed to peers but not to the employee, this is an independent source for the coverage-stripping allegation who has no personal stake in the leave retaliation claims.
+- He has no loyalty to Bloomberg (he left) and no fear of retaliation. He is a freely available witness.
+
+**Preparation needs:**
+- **Do NOT contact Baptist.** Any outreach will be characterized as witness intimidation or tampering.
+- Review his employment file, evaluations, and departure documentation to understand his experience and assess his likely testimony.
+- Prepare defense counsel for cross-examination focused on: whether "Rahul" was genuinely offensive to him vs. a minor annoyance he barely remembers, whether his departure was positive (undermining a bias narrative), and whether he has been influenced by the plaintiff.
+
 ---
 
 ## Section 5: Deposition Risks -- The Manager's Deposition
@@ -746,7 +797,33 @@ These questions establish the relationship, tenure, and context. They seem innoc
 **Q43:** "You hold a Series 24 license. Are you aware of FINRA's requirements regarding the integrity of client records and sales attribution?"
 - **Risk:** Establishes the regulatory dimension. If the audit trail is problematic, this question foreshadows a FINRA referral.
 
-### 5.9 Demeanor Risks
+### 5.10 The National Origin Questions *(Added Feb 23)*
+
+**Q44:** "Did you regularly call Mr. Akulov 'Comrade'?"
+- **Risk:** If he denies, three team witnesses (Emily, JJ, Sabrina) can contradict him, destroying his credibility. If he admits, every follow-up question is devastating.
+
+**Q45:** "Mr. Akulov is Russian. You are aware of that. When you called him 'Comrade,' were you aware that 'Comrade' is a term historically associated with Soviet Russia?"
+- **Risk:** Denial of awareness is implausible -- "Comrade" is universally recognized as a Soviet/Communist reference. Acknowledgment confirms the ethnic dimension.
+
+**Q46:** "How often did you call Mr. Akulov 'Comrade' compared to using his actual name?"
+- **Risk:** The employee says more often than his actual name. If witnesses corroborate, the manager cannot minimize the frequency.
+
+**Q47:** "Who was present when you called Mr. Akulov 'Comrade'?"
+- **Risk:** Team members were present. This was not private -- it was public, recurring ethnic labeling in front of the team.
+
+**Q48:** "You stopped calling Mr. Akulov 'Comrade' at some point. When did you stop? Why?"
+- **Risk:** This is potentially the most devastating question in the national origin sequence. Any answer confirming he stopped acknowledges the behavior existed. The "why" forces him to either (a) admit he recognized it was wrong, (b) claim Sasha asked him to stop (which Sasha denies), or (c) say he just naturally stopped (which the jury will not believe given the timing).
+
+**Q49:** "Did you call Bryan Baptist 'Rahul'?"
+- **Risk:** If Baptist has already testified, denial is suicidal. If he admits, the cross-category pattern is established from his own mouth.
+
+**Q50:** "Is 'Rahul' a common Indian name? Is Bryan Baptist Indian?"
+- **Risk:** Establishes that the manager knew the ethnic association and applied it anyway.
+
+**Q51:** "So you called your Russian employee 'Comrade' and your Indian employee 'Rahul.' Did you give any of your non-minority team members ethnically-coded nicknames?"
+- **Risk:** This is the kill shot for the national origin claim. If the answer is no -- only the Russian and Indian employees received ethnic labels -- the pattern is proven. If the answer is "I gave everyone nicknames," the follow-up is "what was James Johnston's nickname?" and the manager will struggle to produce one.
+
+### 5.11 Demeanor Risks
 
 Beyond the content of answers, the manager's demeanor under questioning about parental leave will be closely observed. If the manager:
 
@@ -845,6 +922,48 @@ Beyond the content of answers, the manager's demeanor under questioning about pa
 
 ---
 
+### Theory 9: NYCHRL National Origin Discrimination / Hostile Work Environment (NYC Admin Code Section 8-107) *(Added Feb 23)*
+
+**Statutory Basis:** The NYCHRL prohibits discrimination based on national origin, including the creation of a hostile work environment through unwelcome conduct based on an employee's national origin. Under NYCHRL, a plaintiff need not show that the conduct was "severe or pervasive" (the federal standard); the question is whether the employee was treated less well than others because of their national origin. Even a single incident can suffice if it is sufficient to raise an issue of fact. Recurring conduct over a year easily clears this bar.
+
+**How the Evidence Maps:**
+
+- **"Comrade" as recurring greeting:** The manager regularly addressed the employee (who is Russian) as "Comrade" rather than his actual name for over a year, in front of team members Emily, JJ, and Sabrina. The term is a culturally-charged reference to the employee's Russian national origin (Soviet/Communist connotation). It was used more frequently than the employee's actual name. The manager has since stopped -- the employee says "he knows I'll use it against him."
+- **"Rahul" misnaming:** The same manager repeatedly called Indian team member Bryan Baptist by the stereotypically Indian name "Rahul." Baptist was visibly annoyed but did not formally object. This was recurring, not a one-time mistake.
+- **Cross-category pattern:** Two employees from two different ethnic backgrounds, both subjected to ethnically-coded name substitutions by the same manager. This demonstrates a pattern of national origin-based conduct, not an isolated joke with one individual.
+- **Self-correction as consciousness of guilt:** The manager stopped using "Comrade" because, per the employee, "he knows I'll use it against him." Under employment law, self-correction without prompting is often treated as evidence that the individual recognized the behavior was wrongful.
+- **Witnesses:** Three team members (Emily, JJ, Sabrina) witnessed the "Comrade" usage. Bryan Baptist experienced the "Rahul" misnaming firsthand and has left Bloomberg (no retaliation risk for cooperating).
+
+**Company's Strongest Defense:** (a) "Comrade" was an informal, affectionate greeting -- like "buddy" or "chief" -- with no discriminatory intent. The employee never objected. (b) "Rahul" was an innocent name mix-up, not an ethnic epithet. (c) Bloomberg has strong anti-harassment policies and the manager completed required training. (d) The employee is using normal workplace banter to manufacture a claim after deciding to pursue litigation.
+
+**Key Risk:** This theory is extremely dangerous under NYCHRL:
+
+1. **NYCHRL's low threshold.** The "treated less well" standard does not require proof that the conduct was severe or pervasive. Recurring ethnic name substitutions over a year, witnessed by the team, clear the bar easily.
+2. **Cross-category corroboration.** "Comrade" for the Russian + "Rahul" for the Indian = pattern evidence nearly impossible to explain as coincidental office banter.
+3. **Self-correction kills the "innocent intent" defense.** If the term was genuinely innocent, why stop? The manager's behavioral change demonstrates awareness of wrongdoing.
+4. **Broadens the case narrative.** Transforms the litigation from "leave retaliation" to "discriminatory manager who targeted employees based on national origin AND family status." Multi-category pattern dramatically increases damages exposure.
+5. **Bryan Baptist as independent witness.** Left Bloomberg, annoyed by misnaming, coverage redistributed to everyone except the employee. He has personal knowledge of both national origin conduct and coverage stripping.
+
+**Statute of Limitations:** Three years under NYCHRL for filing in court. The "Comrade" usage over the past year falls well within the window. Under the continuing violation doctrine, the entire period of recurring conduct is actionable.
+
+---
+
+### 6.9 NYCHRL National Origin Defense *(Added Feb 23)*
+
+**Affirmative Defense:** "Comrade" was an informal, affectionate greeting used in a casual workplace environment. No discriminatory intent. The employee never objected or complained. "Rahul" was a genuine name confusion, not an ethnic epithet. Bloomberg has strong anti-harassment policies and provides regular training to all managers.
+
+**Strongest Precedent/Argument:** Under NYCHRL, the employer can argue that the conduct, while perhaps insensitive, did not rise to the level of treating the employee "less well" in a manner that would affect the terms and conditions of employment. Informal nicknames are common in financial services sales environments. The employee's failure to object for over a year, combined with his apparent participation in the informal workplace culture, suggests the term was not unwelcome at the time -- it only became "discrimination" after the employee decided to pursue litigation.
+
+**Weakest Point:** Nearly every element of this defense has a devastating counter:
+- "No discriminatory intent" -- then why stop? Self-correction demonstrates awareness.
+- "He never objected" -- NYCHRL does not require an employee to object. And the power dynamic (manager vs. subordinate) explains why he wouldn't.
+- "Name confusion" for "Rahul" -- the same manager applying ethnic labels to employees from two different backgrounds establishes a pattern, not a one-time mistake.
+- "Common in the workplace" -- only if other non-minority employees also received ethnically-coded nicknames. If only the Russian and Indian employees got ethnic labels, this defense collapses.
+
+**Evidence That Would Strengthen It:** (a) Evidence that the manager used informal nicknames or terms of address with ALL team members, not just ethnic minorities; (b) evidence that "Comrade" was used in a context where it had no ethnic connotation (e.g., team-wide inside joke unrelated to Russia); (c) evidence that Bryan Baptist used "Rahul" as a joke himself or otherwise indicated it was not offensive to him; (d) completion records for Bloomberg's anti-harassment training.
+
+---
+
 ## Section 7: Settlement Considerations
 
 ### 7.1 When Settlement Becomes Cheaper Than Litigation
@@ -870,11 +989,12 @@ Beyond the content of answers, the manager's demeanor under questioning about pa
 | NY PFL | Penalties imposed by Workers' Compensation Board + reinstatement | Administrative penalties typically modest ($500 - $5,000 per violation) | The PFL complaint is more useful as leverage than as a damages vehicle. |
 | Title VII | Compensatory + punitive (capped at $300K for 500+ employee employer) + attorney's fees | $100K - $300K (capped) | The cap limits exposure but the EEOC investigation risk is the real cost. |
 | NYSHRL | Uncapped compensatory + punitive + attorney's fees | Overlaps with NYCHRL; allows recovery of uncapped damages at the state level | Provides an alternative forum and additional recovery mechanism. |
+| NYCHRL National Origin *(Added Feb 23)* | Uncapped compensatory + punitive + attorney's fees | $200K - $800K+ | Independent claim that adds baseline settlement value. Cross-category pattern (Russian + Indian) strengthens all other claims. Adds to jury sympathy and overall damages. |
 
 **Aggregate Individual Exposure:** Accounting for the fact that damages from overlapping theories are not fully cumulative, the realistic individual exposure range is:
 
-- **Low end (strong defense, weak plaintiff's counsel):** $200,000 - $400,000 (settlement value)
-- **Middle (competent counsel both sides, jury trial):** $500,000 - $1,500,000
+- **Low end (strong defense, weaker plaintiff's counsel):** $250,000 - $450,000 (settlement value). National origin claim adds baseline value even in best case.
+- **Middle (competent counsel both sides, jury trial):** $550,000 - $1,500,000. National origin claim adds settlement leverage and broadens the case.
 - **High end (Sam Page corroborates, strong plaintiff's counsel, NYC jury verdict):** $1,500,000 - $3,000,000+
 - **Catastrophic (pattern finding, connection to Ndugga class action, punitive damages):** $3,000,000 - $10,000,000+
 
@@ -965,11 +1085,11 @@ Bloomberg must weigh two competing interests:
 
 3. **Confirm that Sabrina Sparapani's employment records -- including HR exit interview notes -- are intact and preserved.** Same urgency. The exit interview notes are a specific priority.
 
-### Priority 2: Retain External Employment Counsel AND Personal Counsel for Manager (URGENT -- Employee Calling Firms Monday Feb 23) *(Updated Feb 21)*
+### Priority 2: Retain External Employment Counsel AND Personal Counsel for Manager (CRITICAL -- Employee Already Has Interested Counsel) *(Updated Feb 23)*
 
-4. **Engage experienced employment defense counsel for Bloomberg immediately.** The employee's outreach playbook targets five firms in this order: (1) Cohen Milstein/Clancy, (2) Phillips & Associates, (3) Outten & Golden, (4) Wigdor LLP, (5) Derek Smith Law Group. Cohen Milstein is the lead target because they are already suing Bloomberg in Ndugga v. Bloomberg (SDNY) -- the employee has been scripted to mention this directly. Bloomberg's defense counsel must be retained before Monday Feb 23 if possible, or within 24 hours of that date at the latest.
+4. **Engage experienced employment defense counsel for Bloomberg immediately.** Phillips & Associates has conducted a 50-minute substantive consultation and wants to represent the employee at 40% contingency. Outten & Golden has also been contacted. Attorney retention by the employee is imminent -- days, not weeks. Bloomberg's defense counsel must be retained NOW.
 
-4a. *(Added Feb 21)* **The manager should retain personal employment counsel, separate from Bloomberg's defense team.** The forecast tampering allegation creates a potential conflict between the manager's personal interests and Bloomberg's interests. If the CRM audit trail is problematic, Bloomberg may seek to distance itself from the manager. Bloomberg's defense team represents Bloomberg, not the manager personally. Under NYCHRL, the manager can be held personally liable as an "aider and abettor" of discriminatory conduct. The manager needs independent counsel to advise on: (a) the FINRA implications of the forecast allegation, (b) individual liability exposure, (c) what to do if Bloomberg's interests and his interests diverge.
+4a. *(Updated Feb 23)* **The manager MUST retain personal employment counsel, separate from Bloomberg's defense team.** The need for personal counsel has intensified. In addition to the forecast tampering allegation, the national origin discrimination claims ("Comrade" and "Rahul") are attributed to the manager's personal conduct -- not management decisions Bloomberg can defend as business judgment. Bloomberg may distance itself from this behavior specifically. Under NYCHRL, the manager can be held personally liable as an "aider and abettor" of discriminatory conduct. The manager needs independent counsel to advise on: (a) the FINRA implications of the forecast allegation, (b) individual liability exposure for national origin discrimination, (c) personal exposure for the "Comrade"/"Rahul" conduct that Bloomberg may not defend, and (d) what to do if Bloomberg's interests and his interests diverge.
 
 5. **Brief defense counsel on the full case file.** Provide counsel with this document, the VULNERABILITY_ASSESSMENT.md, the DEFENSE_STRATEGY.md, and all underlying evidence referenced herein. Counsel needs to assess the company's actual exposure with access to Bloomberg's internal data, not just the employee's characterization.
 
@@ -988,6 +1108,10 @@ Bloomberg must weigh two competing interests:
    - *(Added Feb 21)* What did Sabrina Sparapani tell HR in her exit interview? What was documented? (Should be answered by Priority 0b above.)
    - *(Added Feb 21)* What was Santore's role in reviewing the employee's evaluations? Did Sabrina's exit interview complaints reach Santore or any other person in the chain of command?
    - *(Added Feb 21)* Does Bloomberg have any standard procedures for how managers handle CRM forecast records when employees are on leave?
+   - *(Added Feb 23)* Did the manager use the term "Comrade" to address the employee? How frequently? Who witnessed it? When and why did the manager stop?
+   - *(Added Feb 23)* Did the manager call Bryan Baptist "Rahul"? How frequently? Were any complaints filed?
+   - *(Added Feb 23)* What anti-harassment training has the manager completed? Does it cover national origin discrimination or ethnic stereotyping?
+   - *(Added Feb 23)* Review Bryan Baptist's employment file -- evaluations, coverage assignments, departure documentation, and coverage redistribution records.
 
 7. **Pull comparative data immediately:**
    - Revenue targets for all team members (2025, 2026)
@@ -1007,6 +1131,8 @@ Bloomberg must weigh two competing interests:
    - Do not modify, delete, or alter any document -- **especially CRM records**.
    - Do not have any off-the-record conversations with the employee about leave, compensation, or performance that are not also documented.
    - Every interaction with the employee should be professional, documented, and defensible.
+   - *(Added Feb 23)* Do not use any informal names, nicknames, ethnic references, or culturally-coded greetings with ANY team member. "Comrade," "Rahul," or any similar term must never be used again.
+   - *(Added Feb 23)* Prepare a single, consistent explanation for the "Comrade" usage before any formal proceeding. Do not improvise under oath.
 
 ### Priority 5: Documentation Audit (Complete Within Two Weeks)
 
@@ -1038,6 +1164,7 @@ Bloomberg must weigh two competing interests:
 | **Pardovani v. [Employer]** (S.D.N.Y.) | $1.8M verdict for paternity leave retaliation ($800K compensatory + $1M punitive). Phillips & Associates as plaintiff's counsel. | $1.8M jury verdict. |
 | **Price Waterhouse v. Hopkins** (490 U.S. 228, 1989) | Established that gender stereotyping constitutes sex discrimination. The "carried the baby" comment invokes this theory directly. | Landmark ruling -- gender stereotyping is actionable. |
 | **Mihalik v. Credit Agricole Cheuvreux N. Am.** (2d Cir. 2013) | Applied NYCHRL's broad, independent construction. Reaffirmed "motivating factor" standard and disfavoring of summary judgment. | Affirmed NYCHRL's plaintiff-favorable framework. |
+| **Williams v. NYC Housing Auth.** (2d Cir. 2017, applying NYCHRL) | NYCHRL hostile work environment does not require "severe or pervasive" conduct; only that plaintiff was treated "less well" because of protected class. Relevant to recurring "Comrade" usage. | Lower threshold than federal standard for hostile work environment. |
 
 ---
 
@@ -1070,7 +1197,8 @@ Bloomberg must weigh two competing interests:
 | Feb 21, 2026 | Sabrina Sparapani iMessage evidence captured | Pattern victim with first-person statements; HR exit interview claim; chain of command mapped |
 | Feb 21, 2026 | Forecast tampering mechanics described by employee | 9/5/2025 "dupe" closure allegation; CRM audit trail is key evidence; FINRA angle held for attorney |
 | Feb 21, 2026 | Chain of command mapped (Santore, Hal) | Employee preempting Faragher/Ellerth defense |
-| Feb 23, 2026 | Employee scheduled to call 5 attorney firms (Cohen Milstein/Clancy first) | Attorney retention expected within days; Sabrina now named in attorney script |
+| Feb 23, 2026 | Outten & Golden intake call (11 min); Phillips & Associates consultation (50 min) -- attorney wants to represent at 40% contingency | Attorney substantively engaged; "definitely seems like a retaliation case"; compensation confirmed ($240K/yr) |
+| Feb 23, 2026 | National origin discrimination evidence disclosed to attorneys -- "Comrade" (Russian) and "Rahul" (Indian) | New NYCHRL theory; broadens case to multi-category discrimination; self-correction evidence (manager stopped) |
 | ~Mar 5-10, 2026 | Follow-up meeting scheduled with manager | Next critical interaction point
 
 ---
@@ -1094,6 +1222,10 @@ The employee's case file includes two documents that reveal their known weakness
 7. **Sabrina's formal cooperation.** They do not know whether Sabrina will actually cooperate with an attorney. They are treating her iMessage statements as if she will testify, but the gap between texting a friend and sitting for a deposition is real.
 
 8. **Exact timeline of coverage changes.** They have approximate dates for when territories were stripped but not precise dates from Bloomberg's systems. The precise dates matter for establishing temporal proximity to leave.
+
+9. *(Added Feb 23)* **"Comrade" witness corroboration.** They know Emily, JJ, and Sabrina witnessed the "Comrade" usage, but have not confirmed whether any of them would testify to it. Sabrina is likely cooperative; the others are unknown. If Emily and JJ would deny or not recall, the allegation weakens to Sasha's word only.
+
+10. *(Added Feb 23)* **Bryan Baptist's cooperation.** They know Baptist was called "Rahul" and was annoyed, but have not contacted him. His willingness to cooperate is unknown. He left Bloomberg -- if he left on good terms, he may not want to get involved. If he left on bad terms, he may be eager to cooperate.
 
 **How to use this:** Focus the internal investigation on the areas where the defense has information the employee does not. If the data in those areas supports the defense (pre-leave coverage was already low, target increase was team-wide, Sam Page's file is clean), the defense posture improves significantly. If the data is bad, at least the defense knows before the employee's attorney discovers it.
 
