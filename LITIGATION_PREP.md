@@ -1,7 +1,7 @@
 # Litigation Preparation
 
 **Prepared:** February 20, 2026
-**Last updated:** February 24, 2026 (Clear Street live evidence, mid-year review denial, Phillips retainer analysis, expanded Sabrina evidence)
+**Last updated:** February 24, 2026 (Clear Street live evidence, mid-year review denial, Phillips retainer analysis, expanded Sabrina evidence, Oura baseline eliminates parenthood defense)
 **For:** Manager's strategic defense preparation
 **Status:** Pre-litigation -- no complaint filed. Phillips & Associates retainer received Feb 23 (40% contingency, PRE-LITIGATION ONLY per Section 11 -- covers through EEOC/agency filing, drops at Right to Sue). Sasha has not signed; sent clarifying questions Feb 24 on fee negotiation, scope, and support team confidentiality. Comparing with Outten & Golden (awaiting callback), Cohen Milstein/Clancy, Wigdor, Derek Smith (not yet called). Attorney retention expected within days.
 **Jurisdiction:** Southern District of New York (federal claims); New York Supreme Court, New York County (state/city claims)
@@ -261,6 +261,12 @@ The following requests should be anticipated. For each, an assessment of how dam
 - **Damage Assessment: VARIABLE.** If the manager completed training that specifically addressed ethnic stereotyping and then continued using "Comrade" and "Rahul," the training records prove he knew the behavior was wrong. If no training addressed this topic, Bloomberg has a gap that undermines institutional defense. If the manager skipped training, it demonstrates negligence.
 - **Privilege:** None. Standard HR records.
 
+**Request 21 (Added Feb 24): Oura Ring monthly trend data (Sep 2025 - Feb 2026) showing plaintiff's daytime stress levels over a six-month period.**
+
+- **Damage Assessment: HIGH.** The data shows a 5-month stable baseline at approximately 2h 22m daytime stress with a newborn at home, followed by a February spike to 3h 12m -- an approximately 50% increase. This eliminates the company's planned "new parenthood" defense (arguing that the plaintiff's stress data reflects the demands of caring for a young child, not the evaluation). Five months of flat stress while caring for an infant destroys that argument. The spike correlates exclusively with the February 17 evaluation, not with parenthood. This data is objective, device-recorded, timestamped, and cannot be retroactively manipulated. Plaintiff's counsel will use it to isolate causation of emotional distress to the workplace evaluation.
+- **Privilege:** None. This is the plaintiff's personal health data that he will produce voluntarily to support his damages claim.
+- **DEFENSE NOTE: Do NOT argue "new parenthood" as a defense for this health data. The baseline eliminates it. See Section 8 action items.**
+
 **Request 18 (Added Feb 21 evening): All documents relating to Bloomberg's stack ranking or calibration sessions for the ETS-Listed AMER South team and any cross-team ranking sessions that included Aleksandr Akulov, including meeting notes, written rankings, manager justifications, and any dissents or questions raised about rankings, from January 2023 through the present.**
 
 - **Damage Assessment: VARIABLE.** The employee's team has identified that Bloomberg uses a collective stack ranking process where managers convene and rank employees across teams, with all managers seeing all rankings. If these sessions are documented (and at Bloomberg, they likely are), the records will show what justification the manager gave for ranking the employee at the bottom. If the stated justification referenced leave, absence, or anything that could be construed as leave-related, this is direct evidence of retaliatory animus in a formal management setting. If the justification was purely performance-based and leave-neutral, this helps the defense.
@@ -418,6 +424,7 @@ The employee's team has referenced the following physical/digital items that Blo
 - *(Added Feb 24)* "When the Clear Street client generated 403 million notional in trading volume that same day, you wrote that the client 'prob doesnt know about switch.' Why did you frame this client's success as a gap in Mr. Akulov's work?"
 - *(Added Feb 24)* "During Mr. Akulov's second parental leave, you scheduled his mid-year review. He offered to dial in. You required in-person attendance. The meeting never took place. You posted the review without conducting it. Can you explain why?"
 - *(Added Feb 24)* "Is it your practice to post performance reviews without meeting with the employee? Did you do this with any other employee on your team?"
+- *(Added Feb 24)* "Mr. Akulov's wearable device shows his stress levels were stable for five months while caring for a newborn. The only spike occurred in February, the month you delivered his evaluation. How do you respond to the suggestion that your evaluation, not parenthood, caused his documented stress?"
 
 **Risks he creates:**
 - If he denies making statements that are corroborated by contemporaneous messages from multiple sources, his credibility is destroyed.
@@ -859,6 +866,12 @@ These questions establish the relationship, tenure, and context. They seem innoc
 **Q57:** "Your year-end evaluation stated that Mr. Akulov couldn't improve his standing because he was on leave. But you also denied him the mid-year feedback session that would have told him what to improve. How was he supposed to improve?"
 - **Risk:** This closes the logical loop. The manager acknowledged the employee couldn't improve because of leave. He also denied the employee the feedback mechanism that might have enabled improvement. This is a self-sealing system: deny feedback, then penalize for failure to improve.
 
+### 5.14 Health Data / Oura Ring Deposition Risk *(Added Feb 24)*
+
+The plaintiff will present 6 months of Oura Ring data showing flat stress during parental leave and a 50% spike in the evaluation month. Our planned defense (new parenthood caused the stress) is contradicted by the data. The manager should not attempt this argument at deposition -- it will be immediately rebutted with the baseline data, damaging credibility. The data shows ~2h 22m average daytime stress for September 2025 through January 2026 (five months with a newborn at home), then a jump to 3h 12m in February 2026 when the evaluation was delivered. The single-day reading of 7 hours (3.5x baseline) on February 18 is extreme even within the elevated monthly average.
+
+If the manager testifies that the employee's stress was caused by becoming a new parent, plaintiff's counsel will produce the baseline data on the spot and ask: "If caring for a newborn caused Mr. Akulov's stress, why was his stress flat for the five months he was caring for that newborn? Why did it spike only in the month you delivered his evaluation?" There is no good answer. The manager must be instructed to avoid this line of defense entirely. If asked about the health data, the manager should decline to speculate about medical data he has not reviewed and has no expertise to interpret.
+
 ### 5.13 Demeanor Risks
 
 Beyond the content of answers, the manager's demeanor under questioning about parental leave will be closely observed. If the manager:
@@ -1036,6 +1049,8 @@ Beyond the content of answers, the manager's demeanor under questioning about pa
 
 **Feb 24 impact on settlement calculus:** The Clear Street exchanges and mid-year review denial raise the settlement floor. Live, timestamped evidence in Bloomberg's own enterprise systems is qualitatively different from historical recollections and personal messages. It is harder to challenge in discovery, harder to contextualize at deposition, and more intuitive to a jury. The opponent's support team characterized this as "real-time evidence of ongoing retaliatory behavior." They are correct.
 
+**Oura baseline impact on damages (Added Feb 24):** The Oura baseline data strengthens the emotional distress damages component. Objective device data isolating causation to the evaluation makes emotional distress damages more likely to be awarded and harder to minimize. Five months of flat stress while caring for a newborn, followed by a 50% spike correlating exclusively with the manager's evaluation, is the kind of clean before/after evidence that juries find compelling. This is not self-reported -- it is sensor-recorded biological data with timestamps that cannot be retroactively altered. This may add $25K-$75K to settlement value and makes minimization of emotional distress damages significantly harder at trial.
+
 **Phillips retainer scope note:** The retainer is pre-litigation only (Section 11 -- drops at RTS). This means the initial phase will be a demand letter and/or EEOC/agency filing, not a full lawsuit. Settlement pressure during pre-litigation is lower than during active litigation, which may create a narrow window for resolution at lower cost. However, if Sasha retains a full-service litigation firm (Outten & Golden, Wigdor, Cohen Milstein), the pre-litigation limitation disappears.
 
 ### 7.3 Non-Monetary Costs of Litigation
@@ -1201,6 +1216,12 @@ Bloomberg must weigh two competing interests:
 20. **(Added Feb 24)** Pull Platt's MSG history with all team members. Compare the frequency and tone of account-assignment questions to Sasha vs. other team members. If the pattern is asymmetric, prepare for the comparator argument.
 
 21. **(Added Feb 24)** Preserve the Feb 24 Clear Street MSG exchanges in the litigation hold. These are now primary evidence.
+
+22. **(Added Feb 24)** Do NOT argue "new parenthood" as a defense for the health data. The 5-month baseline with flat stress readings while caring for a newborn eliminates this argument. Prepare an alternative framing (evaluation-season stress, return-to-work adjustment) but understand both alternatives are weak given January was also flat.
+
+23. **(Added Feb 24)** Tommy has been identified as a new hire. The Clear Street "reassignment to Tommy" is now: manager tried to strip an account from a 14-year veteran and give it to a new team member. This must be addressed in the coverage stripping defense.
+
+24. **(Added Feb 24)** "Oops" = opportunities. Clear Street had many open opportunities. Platt's reluctance to assign a high-opportunity account to Sasha supports the "engineering failure" argument. Prepare a business rationale for why opportunity-rich accounts might appropriately go to newer team members (onboarding, development) if this comes up in deposition.
 
 ---
 

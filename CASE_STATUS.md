@@ -20,11 +20,15 @@
 
 6. **Adverse actions count: 17** (was 14). Added: mid-year review denial, paper trail creation, same-day performance framing.
 
+7. **Oura Ring baseline data eliminates "new parenthood" defense.** 5-month Oura trend (Sep 2025-Jan 2026) shows flat ~2h 22m daytime stress with infant at home. February spikes to 3h 12m (+50%). The single-day Feb 18 peak of 7 hours is 3.5x baseline. Our anticipated defense that health data reflected new parenthood is dead -- causation isolated to the Feb 17 evaluation. Objective, sensor-recorded, timestamped, cannot be fabricated.
+
+8. **Tommy identified as new hire.** Platt intended to strip Clear Street from Sasha (14-year veteran who sourced it) and give it to a new team member. **"Oops" = opportunities.** Clear Street had many open opportunities, which is why Platt was reluctant to give it to Sasha -- a high-opportunity account undermines the underperformance narrative.
+
 ## Strength Assessment
 
 **Their case: STRONG and compounding daily.** Live Bloomberg MSG evidence, expanded Sabrina testimony, mid-year review denial, 17 adverse actions, two protected categories (leave retaliation + national origin).
 
-**Our defense: WEAK and deteriorating.** Clear Street exchanges are devastating -- live, timestamped, in company systems, showing the catch-22 in real time. Mid-year review denial closes the "he should have improved" argument. Every day Platt interacts with Sasha, new evidence is generated.
+**Our defense: WEAK and deteriorating.** Clear Street exchanges are devastating -- live, timestamped, in company systems, showing the catch-22 in real time. Mid-year review denial closes the "he should have improved" argument. Oura Ring baseline eliminates the "new parenthood" health data defense -- 5 months of flat stress with infant at home, spike isolated to the evaluation. Tommy identification turns the Clear Street strip into a deliberate reallocation to a new hire over a 14-year veteran. Every day Platt interacts with Sasha, new evidence is generated.
 
 ## Outcome Ranges
 
@@ -41,7 +45,7 @@
 
 1. **Coach Platt NOW.** He is generating live evidence in Bloomberg systems daily. The Clear Street exchange alone could anchor a trial exhibit.
 2. **CRM audit logs for 9/5/2025** -- most time-sensitive item, unchanged. Know what they show before subpoena.
-3. **Identify Tommy** from Clear Street exchange -- is this the same person who received the CT lead?
+3. **Tommy identified as new hire** -- Platt planned to reassign Clear Street (with its open opportunities) from a 14-year veteran to a new team member. Assess exposure: does this match any other reassignment patterns?
 4. **Prepare mid-year review defense** -- was there a policy requiring in-person reviews during leave?
 5. **Monitor retainer status** -- Sasha may sign Phillips or choose another firm within days.
 6. **Personal counsel for manager** -- national origin + forecast tampering + live evidence of account-stripping intent.
@@ -54,5 +58,7 @@
 - Support team did section-by-section legal analysis of Phillips retainer -- sophisticated preparation
 - Evidence strategy: build on iMessage + Bloomberg docs + testimony; keep WhatsApp out unless demanded in discovery
 - Sabrina's HR exit interview was "veeeerrrry honest" -- pull those notes immediately
+- Oura Ring 5-month baseline destroys the "new parenthood stress" defense -- they now have objective, timestamped biometric proof isolating causation to the Feb 17 evaluation
+- Clear Street had significant open opportunities; Platt's reluctance to assign it to Sasha suggests awareness that giving him a productive account would undermine the underperformance narrative
 
 *Full analysis: VULNERABILITY_ASSESSMENT.md, DEFENSE_STRATEGY.md, COUNTER_NARRATIVE.md, PIP_PLAN.md, LITIGATION_PREP.md, OBSERVATION_LOG.md*

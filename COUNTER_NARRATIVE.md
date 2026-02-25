@@ -1,7 +1,7 @@
 # Counter-Narrative: The Company's Version of Events
 
 **Prepared:** February 20, 2026
-**Last updated:** February 24, 2026 (mid-year review denial, Clear Street exchanges, expanded Sabrina evidence)
+**Last updated:** February 24, 2026 (mid-year review denial, Clear Street exchanges, expanded Sabrina evidence, Oura baseline data)
 **Purpose:** The coherent, unified account defense counsel would present to a judge or jury. This is the company's story of what happened and why.
 
 ---
@@ -280,6 +280,8 @@ Receiving a negative performance review is stressful. That is true for any emplo
 
 Additionally, the plaintiff had just returned from parental leave with a young infant. Sleep disruption, elevated resting heart rate, and stress indicators are well-documented features of new parenthood. The plaintiff's physiological data from the days following his evaluation cannot be attributed exclusively to the evaluation when there are obvious confounding variables -- including a baby at home who was approximately five months old.
 
+The employee has presented wearable device data (Oura Ring) showing a stress increase in February 2026. While the company does not dispute that the employee experienced stress, it notes that February 2026 coincided with the employee's return to full-time work after six months of leave, the annual evaluation cycle that applies to every team member, and the normal pressures of re-engaging with a client portfolio. Stress is an inherent part of professional life, particularly during evaluation periods and career transitions. The company provided honest feedback through its standard evaluation process, which is what responsible employers do. The fact that an employee found honest feedback stressful does not transform the feedback into retaliation.
+
 The plaintiff was also awake at 4:51 AM researching "NYC Paternity Leave Notice" on ChatGPT and consulting with his support team about legal strategy. His elevated stress may reflect the anxiety of contemplating litigation as much as the anxiety of receiving feedback. The device data does not distinguish between these causes.
 
 ---
@@ -363,6 +365,10 @@ As for the plaintiff's voluntary engagement during leave: that is commendable, a
 **The Clear Street exchange.** The narrative frames this as routine management oversight. The vulnerability is the "I thought I had reassigned to Tommy" statement, which suggests intent to strip the account. If Tommy was never actually assigned, this admission is difficult to contextualize.
 
 **Sabrina's expanded testimony.** The narrative addresses Sabrina as a dissatisfied departing employee. The vulnerability is the specificity and accuracy of her predictions -- she predicted the February retaliation 5 months in advance. If her prediction came true exactly as she described, the "subjective personal opinion" framing becomes harder to maintain.
+
+**Oura Ring baseline data.** The narrative frames February stress as return-to-work and evaluation-season pressure. The vulnerability is devastating: 5 months of flat stress readings (Sep-Jan) with a newborn at home, then a 50% spike exclusively in February. The employee returned to work January 1 -- if return-to-work was the cause, January would show the spike, not February. The evaluation was delivered February 17. The jury inference is simple and the defense framing is thin.
+
+**Tommy as new hire.** The narrative frames account reassignment as routine. The vulnerability: "Tommy" is a new team member. Platt intended to take an account that a 14-year veteran sourced and give it to a new hire. This is very difficult to frame as "optimal team coverage" or business judgment.
 
 ---
 

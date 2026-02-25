@@ -1,7 +1,7 @@
 # Performance Improvement Plan: Design, Attack Analysis, and Strategic Assessment
 
 **Prepared:** February 20, 2026
-**Last updated:** February 24, 2026 (mid-year review denial, Clear Street live evidence, expanded Sabrina corroboration, attorney retainer received)
+**Last updated:** February 24, 2026 (mid-year review denial, Clear Street live evidence, expanded Sabrina corroboration, attorney retainer received, Oura baseline data, Tommy identified)
 **For:** Manager's strategic defense preparation
 **Employee:** Aleksandr "Sasha" Akulov, ETS-Listed AMER South
 **Tenure:** ~13.5 years (start June 11, 2012)
@@ -323,6 +323,8 @@ For every element of the PIP above, the employee's legal team will mount specifi
 
 **(Updated Feb 24 -- Clear Street evidence strengthens this attack significantly):** The Feb 24 Bloomberg MSG exchange demonstrates this dynamic in real time. Platt assigned Sasha the Clear Street account during a 1:1, then questioned whether Sasha self-assigned it one week later via formal MSG, then revealed he intended to strip it ("I thought I had reassigned to Tommy"), then framed the account's same-day revenue (403mm notional) as a gap in Sasha's coverage. This is a single-day evidence arc showing the manager controlling inputs (assigning, then attempting to strip), evaluating outputs (framing success as failure), and creating documentation (formal MSG) -- exactly the circular logic this attack alleges. If a PIP is implemented after this exchange is in the record, the "manager controls everything" argument becomes almost impossible to defeat.
 
+**(Further updated Feb 24 -- Tommy identified as new hire):** Tommy has been identified as a new hire on the team. Platt's "I thought I had reassigned to Tommy" from the Clear Street exchange means the manager intended to strip an account from Sasha (14-year veteran who sourced and initiated the client relationship) and give it to a new team member. If a PIP is implemented while the manager is actively redirecting high-opportunity accounts away from Sasha and toward new hires, the "manager controls inputs" attack becomes unanswerable. The PIP targets require pipeline and revenue generation. The manager is simultaneously removing the accounts that would generate that pipeline and revenue.
+
 ### 3.6 Attack: "Sam Page went through this exact sequence -- and Sabrina confirms the pattern" *(Updated Feb 21)*
 
 **The argument:** Sam Page allegedly experienced: leave, coverage stripped, negative evaluation, PIP, pushed out. The employee is now experiencing: leave, coverage stripped, negative evaluation, PIP threatened. The PIP would complete the pattern and prove the playbook.
@@ -503,6 +505,8 @@ This is the most important section of this document. The question is not "how do
 **Live evidence of ongoing coverage manipulation.** *(Added Feb 24)* The Feb 24 Clear Street exchanges show Platt actively questioning and potentially stripping Sasha's accounts in real time. Implementing a PIP while the manager is simultaneously undermining the employee's coverage universe makes the PIP indefensible. If the attorney presents the PIP alongside the Clear Street MSG thread -- "On the same day your client started building his PIP file, his manager was trying to take away the accounts he needs to hit his targets" -- the PIP narrative collapses.
 
 **Attorney is now analyzing the retainer.** *(Added Feb 24)* Phillips & Associates sent a retainer agreement Feb 23. Sasha is reviewing it and sent structured questions about scope, fees, and confidentiality. The retainer is pre-litigation only (Section 11), covering through EEOC/agency filing. Once signed, all of Sasha's actions will be attorney-directed. The March meeting becomes a coached event. Any PIP delivered after attorney retention will be immediately analyzed and challenged.
+
+**Emotional distress evidence is now objectively documented.** *(Added Feb 24)* Sasha has provided 6 months of Oura Ring data showing flat daytime stress (~2h 22m) from Sep 2025 through Jan 2026 -- the entire period with a newborn at home -- followed by a 50% spike to 3h 12m in February, the month the evaluation was delivered. If a PIP is implemented, the plaintiff's attorney will present this data alongside the PIP to argue: "The evaluation caused documented physiological harm. The company's response to that harm was not to investigate or remediate -- it was to escalate to a PIP." This converts the PIP from a performance management tool into evidence of escalating retaliation. The emotional distress claim gets stronger with each adverse action, and a PIP is an adverse action.
 
 ### 6.2 Factors Arguing For a PIP
 

@@ -1,7 +1,7 @@
 # Defense Strategy
 
 **Prepared:** February 20, 2026
-**Last updated:** February 24, 2026 (Clear Street live evidence, mid-year review denial, expanded Sabrina evidence, Phillips retainer analysis)
+**Last updated:** February 24, 2026 (Clear Street live evidence, mid-year review denial, expanded Sabrina evidence, Phillips retainer analysis, Oura baseline eliminates parenthood defense, Tommy identified)
 **For:** Manager's strategic defense preparation
 **Scope:** Every allegation in the employee's case file with counter-arguments, evidence assessment, and recommended actions
 
@@ -114,6 +114,8 @@ This is the most dangerous allegation because it is quantified with Bloomberg's 
 The fact that this data comes from Bloomberg's own internal systems means it cannot be challenged as fabricated. Any explanation must account for why one employee has 1,138 firms while a comparable peer has 6,099.
 
 **UPGRADED from HIGH to CRITICAL after Feb 24 Clear Street exchange.** The catch-22 is no longer historical -- it is documented happening in real time in Bloomberg's own systems. Platt questioning whether Sasha self-assigned an account that Platt himself assigned, then admitting he intended to reassign it to Tommy, then framing the account's same-day success as a coverage gap rather than a win -- all of this is timestamped in Bloomberg MSG. This is not a recollection or a paraphrased account; it is enterprise-system evidence of the stripping pattern occurring live.
+
+**(Updated Feb 24 -- Tommy identified, "oops" clarified):** Tommy has been identified as a new hire on the team. The intended reassignment was not veteran-to-veteran rebalancing; it was stripping an account from a 14-year employee who sourced it and giving it to someone new. "Oops" in Bloomberg terminology means "opportunities" -- Clear Street had many open opportunities in the system. Platt's reluctance to assign a high-opportunity account to the employee he characterizes as underperforming is consistent with engineering failure: withhold accounts with the most potential, then cite low conversion as evidence of underperformance.
 
 ### The Defense
 
@@ -852,6 +854,8 @@ Under NYCHRL, however, emotional distress does not require medical documentation
 
 4. **The distress appears to be primarily about the anticipation of litigation, not the evaluation itself.** The employee was awake at 4:51 AM researching "NYC Paternity Leave Notice" on ChatGPT. His distress was about planning his legal strategy, not about the evaluation's content.
 
+**(Updated Feb 24 -- primary defense eliminated):** Our planned argument that elevated stress readings reflected new parenthood (5-month-old infant) is no longer viable. Sasha has provided a 6-month Oura monthly trend showing flat ~2h 22m daytime stress from Sep 2025 through Jan 2026 -- the entire period he had a newborn/infant at home. February spikes to 3h 12m (+50% above baseline). The single-day Feb 18 peak of 7 hours is 3.5x baseline. The data isolates causation to the Feb 17 evaluation. Remaining defenses: (1) self-reported device data may not be admissible as medical evidence (weak -- NYCHRL doesn't require medical evidence for emotional distress), (2) February stress could reflect return-to-work adjustment rather than the evaluation specifically (weak -- he returned Jan 1 and January was flat), (3) correlation is not causation (technically true but the jury inference from a 5-month stable baseline + sharp spike on the exact date of the adverse action is overwhelming).
+
 ### Evidence Needed
 
 - **The employee's medical history.** Has he sought treatment? Does he have any pre-existing anxiety or stress conditions?
@@ -1287,10 +1291,13 @@ The company's arguments:
 - Platt's "prob doesnt know about switch" was a legitimate coaching observation, not performance framing. Helping the employee educate a client on additional products is supportive management.
 - Platt's overall tone ("Happy for you to cover them," "which is great") was positive and encouraging.
 
+**(Updated Feb 24 -- Tommy identified, "oops" clarified):** Tommy has been identified as a new hire on the team. Platt's "I thought I had reassigned to Tommy" means he intended to strip an account that Sasha (14-year veteran) sourced and initiated contact on, and give it to a new team member. This compounds the coverage stripping narrative: not only is Sasha getting the smallest book, but when he proactively finds new business, the manager tries to take it away and give it to someone with zero history on the account. Additionally, "oops" has been identified as Bloomberg terminology for "opportunities." Clear Street had many open opportunities in the system. Platt's reluctance to assign a high-opportunity account to Sasha -- the employee he's characterizing as underperforming -- is consistent with engineering failure: withhold the accounts with the most potential, then cite low conversion as a performance problem.
+
 ### Evidence Needed
 
-- Was Tommy ever actually assigned to Clear Street? If yes, when and why?
-- Who is Tommy? Is he the same person who received the CT lead reassignment (Adverse Actions Section A.4)?
+- ~~Was Tommy ever actually assigned to Clear Street? If yes, when and why?~~
+- ~~Who is Tommy? Is he the same person who received the CT lead reassignment (Adverse Actions Section A.4)?~~
+- **RESOLVED:** Tommy is a new hire on the team. This makes the intended reassignment worse, not better, for the defense.
 - What is Platt's typical MSG communication style with Sasha? Are these exchanges normal or abnormal in tone/formality?
 - Were there other account assignment questions from Platt to other team members (showing this is routine, not targeted)?
 
