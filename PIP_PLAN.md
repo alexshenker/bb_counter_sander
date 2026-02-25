@@ -1,7 +1,7 @@
 # Performance Improvement Plan: Design, Attack Analysis, and Strategic Assessment
 
 **Prepared:** February 20, 2026
-**Last updated:** February 21, 2026 (late afternoon -- forecast tampering implications, Sabrina pattern evidence, PIP decision prerequisites expanded)
+**Last updated:** February 24, 2026 (mid-year review denial, Clear Street live evidence, expanded Sabrina corroboration, attorney retainer received)
 **For:** Manager's strategic defense preparation
 **Employee:** Aleksandr "Sasha" Akulov, ETS-Listed AMER South
 **Tenure:** ~13.5 years (start June 11, 2012)
@@ -321,6 +321,8 @@ For every element of the PIP above, the employee's legal team will mount specifi
 - System-generated metrics (revenue in GDSF, activity in CRM) provide objective measurement that the manager cannot manipulate. The data is what the data is.
 - If feasible, have a second manager or HR representative co-administer the PIP checkpoints. This removes the single-manager bottleneck.
 
+**(Updated Feb 24 -- Clear Street evidence strengthens this attack significantly):** The Feb 24 Bloomberg MSG exchange demonstrates this dynamic in real time. Platt assigned Sasha the Clear Street account during a 1:1, then questioned whether Sasha self-assigned it one week later via formal MSG, then revealed he intended to strip it ("I thought I had reassigned to Tommy"), then framed the account's same-day revenue (403mm notional) as a gap in Sasha's coverage. This is a single-day evidence arc showing the manager controlling inputs (assigning, then attempting to strip), evaluating outputs (framing success as failure), and creating documentation (formal MSG) -- exactly the circular logic this attack alleges. If a PIP is implemented after this exchange is in the record, the "manager controls everything" argument becomes almost impossible to defeat.
+
 ### 3.6 Attack: "Sam Page went through this exact sequence -- and Sabrina confirms the pattern" *(Updated Feb 21)*
 
 **The argument:** Sam Page allegedly experienced: leave, coverage stripped, negative evaluation, PIP, pushed out. The employee is now experiencing: leave, coverage stripped, negative evaluation, PIP threatened. The PIP would complete the pattern and prove the playbook.
@@ -333,6 +335,8 @@ For every element of the PIP above, the employee's legal team will mount specifi
 - Investigate Sam Page's file immediately (recommended in DEFENSE_STRATEGY.md). If Page's PIP was well-documented, based on genuine performance deficiencies, and Page was given real support and opportunity, the parallel weakens.
 - If Page's PIP was poorly documented or looks pretextual in retrospect, the company should strongly consider NOT implementing a PIP for this employee. See Section 6.
 - For Sabrina: review her employment file to determine whether her treatment was legitimate performance management or whether it mirrors the alleged pattern. If her file shows documented performance issues unrelated to leave, her "same playbook" characterization can be challenged.
+
+**(Further updated Feb 24):** Sabrina's evidence is now substantially expanded. A full iMessage transcript has been documented by the opponent's team. Key additions: (1) Sabrina predicted the February 2026 retaliation 5 months in advance ("I have a feeling they will. Because he retaliates against people who go on leave especially men" -- dated ~September 9, 2025). (2) Sabrina confirmed Platt described accounts being given to Sasha as "shitty." (3) Sabrina independently confirmed territory distribution is inequitable. (4) Sabrina confirmed Santore approves Platt's reviews. (5) Sabrina experienced the identical mid-year review denial. She is no longer a secondary corroborating witness -- she is a pattern victim with documented first-person experience of the same playbook, whose prediction came true exactly as stated.
 - Any PIP implemented for this employee must differ from Page's PIP in structure, criteria, timeline, and support. If the two PIPs are structurally similar (same metrics, same timeline, same outcome), the pattern argument writes itself. This is one reason the PIP in Section 2 includes extensive support provisions, a 4-of-6 pass threshold, and employee self-assessment opportunities -- features that presumably did not exist in Page's PIP.
 
 ### 3.7 Attack: "The success criteria use metrics that the manager can subjectively interpret"
@@ -357,6 +361,8 @@ For every element of the PIP above, the employee's legal team will mount specifi
 - If the employee's Q1/Q2 2026 performance is strong -- activity metrics remain high, revenue comes in, pipeline develops -- the PIP should not be implemented, period. Implementing a PIP against an employee who is clearly performing undermines the entire defense.
 - If the employee's Q1/Q2 2026 performance genuinely lags, document it with system data, compare it to peers, and use that data as the PIP basis. The evaluation becomes background; the current performance is foreground.
 
+**(Updated Feb 24 -- mid-year review denial compounds this attack):** The evaluation's vulnerability is now compounded by the mid-year review denial. Platt scheduled the mid-year review during Sasha's leave, required in-person attendance (employee offered remote), then never held the meeting and posted the review unilaterally. Sabrina confirms she experienced the identical pattern. The year-end evaluation then penalized Sasha for not improving -- after Platt denied him the feedback session that would have told him what to improve. This closed loop makes any PIP built on the evaluation doubly pretextual: the underlying evaluation was built on data the manager selectively presented, using criteria from a feedback process the manager sabotaged.
+
 ---
 
 ## Section 4: Timing and Sequencing
@@ -376,6 +382,10 @@ The employee proactively scheduled this meeting. This is the single most importa
 **What the manager should document after this meeting:**
 
 A brief email to the employee (and HR if possible) summarizing the key points discussed: the specific goals for Q1/Q2, any coverage decisions, support offered, and the next check-in date. This email becomes the baseline for the PIP predicate.
+
+**(Updated Feb 24 -- attorney will likely be retained before this meeting):** The March meeting is now almost certainly an attorney-coached event. Phillips retainer is under review; Sasha is comparing firms. Once retained, the attorney will review the pre-meeting email the support team has drafted, coach Sasha on what to say and ask, and instruct him to document everything. Expect Sasha to arrive with a prepared agenda, specific questions about coverage and targets designed to create documented evidence, and instructions to follow up in writing within 24 hours. The manager's approach at this meeting must be reviewed by defense counsel before it occurs.
+
+Additional preparation needed: The manager must be prepared to answer questions about (1) coverage restoration, (2) specific written 2026 targets, (3) PIP status, and (4) the mid-year review that was not conducted. Every answer will be documented and forwarded to the employee's attorney.
 
 ### 4.2 Sequencing Timeline
 
@@ -404,6 +414,7 @@ Before the PIP is delivered, the following must be true:
 - [ ] The PIP has been reviewed by employment counsel
 - [ ] The Sam Page file has been reviewed and the PIP design accounts for any pattern-evidence risk
 - [ ] The employee has been offered support (coaching, training, coverage review) and his acceptance or declination has been documented
+- [ ] The mid-year review denial has been addressed. The employee was denied the mid-year feedback session during his leave -- Platt required in-person attendance, the employee offered remote, the meeting never happened, and the review was posted unilaterally. Any PIP must demonstrate that the employee received substantive feedback and a genuine opportunity to improve AFTER the mid-year session was missed. If the March meeting does not provide this, the PIP will be attacked as building on a process where the employee was deliberately denied the chance to improve.
 
 ---
 
@@ -486,6 +497,12 @@ This is the most important section of this document. The question is not "how do
 **The "8 and 8" and "we didn't cut your pay" comments exist.** The manager has made multiple documented statements linking compensation and performance assessment to leave. Any PIP initiated by this manager carries the taint of those statements, regardless of how carefully the PIP is designed.
 
 **Sabrina's HR exit interview may establish institutional knowledge.** *(Added Feb 21)* If Sabrina's exit interview notes contain specific complaints about the manager's treatment of leave-takers, and Bloomberg did nothing, a PIP implemented after institutional knowledge of the pattern compounds the company's exposure. The company knew about the alleged pattern (via Sabrina's complaints) and proceeded to execute the next step of the alleged playbook anyway.
+
+**The mid-year review denial undermines the PIP's foundation.** *(Added Feb 24)* A PIP is supposed to be the consequence of an employee who received feedback, was given the opportunity to improve, and failed. Sasha was denied the mid-year feedback session -- Platt required in-person, Sasha offered remote, the meeting never happened, the review was posted without discussion. Any PIP will be attacked as: "You skipped the improvement step and went straight to punishment." The mid-year review denial must be remedied (through substantive feedback at the March meeting, documented coaching, and a genuine improvement period) before any PIP is defensible.
+
+**Live evidence of ongoing coverage manipulation.** *(Added Feb 24)* The Feb 24 Clear Street exchanges show Platt actively questioning and potentially stripping Sasha's accounts in real time. Implementing a PIP while the manager is simultaneously undermining the employee's coverage universe makes the PIP indefensible. If the attorney presents the PIP alongside the Clear Street MSG thread -- "On the same day your client started building his PIP file, his manager was trying to take away the accounts he needs to hit his targets" -- the PIP narrative collapses.
+
+**Attorney is now analyzing the retainer.** *(Added Feb 24)* Phillips & Associates sent a retainer agreement Feb 23. Sasha is reviewing it and sent structured questions about scope, fees, and confidentiality. The retainer is pre-litigation only (Section 11), covering through EEOC/agency filing. Once signed, all of Sasha's actions will be attorney-directed. The March meeting becomes a coached event. Any PIP delivered after attorney retention will be immediately analyzed and challenged.
 
 ### 6.2 Factors Arguing For a PIP
 

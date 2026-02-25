@@ -1,7 +1,7 @@
 # Counter-Narrative: The Company's Version of Events
 
 **Prepared:** February 20, 2026
-**Last updated:** February 23, 2026 (evening -- national origin discrimination allegations, attorney engagement)
+**Last updated:** February 24, 2026 (mid-year review denial, Clear Street exchanges, expanded Sabrina evidence)
 **Purpose:** The coherent, unified account defense counsel would present to a judge or jury. This is the company's story of what happened and why.
 
 ---
@@ -25,6 +25,8 @@ The mid-year evaluation found that Aleksandr had booked only one GDSF forecast d
 Most significantly, the manager identified a pattern of insufficient client engagement that had been flagged in prior evaluation periods. Aleksandr's primary coverage was in Connecticut, one of the densest financial services corridors in the country. Yet in the first half of 2025, he made only 11 client-visit days in Connecticut, conducting 45 in-person meetings across just 18 accounts. For an outside sales role where coverage breadth and face-time frequency are core competencies, these numbers reflected inadequate effort. His days on the road typically began around 10:00 AM and ended before the market close, cutting short the window for client engagement. The manager had raised this exact concern -- the need for more complete days and a broader range of client visits -- in the prior year's evaluation. Aleksandr had not made the changes.
 
 These are not manufactured criticisms assembled after the fact. They are documented, specific, measurable performance observations recorded in Bloomberg's evaluation system before the second leave began. The mid-year evaluation was written before Aleksandr went on leave. It assessed performance during a period when he was working full-time, compared against peers who were also working full-time over the same January-to-July window. The leave did not cause these shortfalls. The shortfalls existed while Aleksandr was present, active, and working every day.
+
+The mid-year review timing presented a practical challenge. The employee was on parental leave, and Bloomberg's standard practice is to conduct performance reviews as substantive in-person conversations, not perfunctory phone calls. Rather than intrude on the employee's leave with a remote performance discussion -- which could itself be characterized as interfering with protected leave -- the manager made the decision to post the administrative mid-year notation and defer the substantive performance conversation to the employee's return. The year-end evaluation, delivered in person with both the manager and his manager present, served as the comprehensive feedback session that covered both mid-year and year-end performance. The employee received detailed, specific feedback on every dimension of his performance, with concrete examples and clear expectations going forward.
 
 ---
 
@@ -65,6 +67,8 @@ When Aleksandr returned from his first leave, a business judgment was made about
 This same principle applied to the redistribution of Bryan Baptist's accounts when Baptist left the company during Aleksandr's second leave. The team was managing active client relationships under reduced headcount. Coverage from Baptist's departure was distributed based on each remaining team member's existing geographic footprint, current capacity, active deal flow, and client relationships. Aleksandr was on leave and had no active client relationships during the distribution period. His manager was working with the team members who were present and actively covering clients. This was a practical staffing decision made under real-time operational pressure, not a deliberate exclusion.
 
 Regarding the Connecticut lead that was assigned to another team member: leads are routed based on existing client relationships, deal context, and who is best positioned to convert the opportunity. A single lead assignment is a routine management decision. It does not constitute evidence of a conspiracy.
+
+The February 24, 2026 exchange about the Clear Street account illustrates normal management oversight, not retaliation. The manager oversees multiple account assignments across the team and routinely verifies coverage allocations to ensure accuracy in the CRM system. When the manager noticed a new assignment, he asked a routine clarifying question. Upon learning that the assignment had been discussed during their recent one-on-one, the manager confirmed his support for the coverage ("Happy for you to cover them... which is great since I think they trade a lot of ETFs"). His suggestion about the "switch" product was a coaching observation -- helping the employee identify a cross-selling opportunity with a high-volume client. This is precisely the kind of proactive management guidance the evaluation encouraged.
 
 The plaintiff emphasizes the difference in coverage universe size between Aleksandr (1,138 firms) and other team members, particularly James Johnston (6,099 firms). This comparison, while numerically accurate, strips away every relevant variable other than raw count. Coverage universes are not fungible. The firms assigned to each team member differ in size, product usage, revenue potential, geographic density, and relationship maturity. Aleksandr's Connecticut territory encompasses a concentrated financial services corridor where a single account can generate significant revenue. A team member covering a geographically dispersed territory with thousands of smaller firms has a larger count but not necessarily greater revenue opportunity per assigned firm. Coverage is assigned based on product specialization, geographic alignment, client tier, historical relationship ownership, and demonstrated capacity to service accounts -- not leave duration.
 
@@ -193,6 +197,8 @@ Critically, Sabrina's formal willingness to cooperate with a plaintiff's attorne
 **The HR exit interview claim.** Sabrina told the plaintiff she was "veeeerrrry honest" in her HR exit interview and that she told HR about the manager's conduct. This is Sabrina's self-assessment of her own candor. The content of the exit interview is unknown to either the plaintiff or Sabrina's iMessage account. HR exit interviews routinely capture general complaints about management style, workload, and team dynamics. Whether Sabrina specifically described leave retaliation, whether HR recorded those specific complaints, and whether those notes are damaging depends entirely on what the notes actually say -- not on Sabrina's characterization of how honest she was.
 
 **The defense's position on Sabrina:** She is a former employee with her own grievances, providing her personal characterizations in an informal context to a friend who was building a legal case. Her statements should be evaluated with the skepticism appropriate to their source and circumstances. If she cooperates formally, the defense will challenge her credibility, her bias, and the specificity of her claims. If she does not cooperate, her iMessage statements are an incomplete and unreliable foundation for the plaintiff's pattern theory.
+
+**Sabrina's departure and expanded statements.** Sabrina Sparapani departed Bloomberg in mid-2025 for a position at BlackRock. Like many departing employees, she expressed dissatisfaction with aspects of her experience during her exit. Her characterization of territory distribution as inequitable reflects a subjective assessment -- territory allocation involves multiple factors including client relationships, geographic proximity, product expertise, and business development history that are not visible from any single team member's vantage point. Her statement that the manager "retaliates against people who go on leave especially men" is a personal opinion formed during a period of professional transition, not a factual observation supported by data. Bloomberg takes all exit interview feedback seriously, and any concerns raised through that process are reviewed by HR in the normal course.
 
 ---
 
@@ -347,6 +353,16 @@ The plaintiff will point out that he logged into Bloomberg systems during his se
 The evaluation explicitly acknowledges the Mariner RFQE onboard. It states the engagement "did not lead to any bookable events in 2025" because the resulting revenue ($31,600) closed on January 5, 2026 -- after the evaluation period. The plaintiff will receive credit for that revenue in 2026. Nothing was omitted; the evaluation accurately reflected what had occurred within the evaluation period.
 
 As for the plaintiff's voluntary engagement during leave: that is commendable, and the company does not discourage employees from staying connected if they choose to. But the evaluation assessed the active working period (January through July 2025), not leave-period activity. The manager's decision not to require or even encourage work during leave was actually protecting the plaintiff's leave rights -- exactly the opposite of what the plaintiff claims the company was doing.
+
+---
+
+## What This Narrative Must Account For -- Known Vulnerabilities
+
+**The mid-year review denial.** The narrative explains the mid-year review as a practical accommodation (deferring substantive feedback to avoid intruding on leave) rather than a denial. However, this argument is weakened by the fact that the employee actively offered to participate remotely. The defense must be prepared for the follow-up: "If you were trying to accommodate his leave, why didn't you accept his offer to call in?"
+
+**The Clear Street exchange.** The narrative frames this as routine management oversight. The vulnerability is the "I thought I had reassigned to Tommy" statement, which suggests intent to strip the account. If Tommy was never actually assigned, this admission is difficult to contextualize.
+
+**Sabrina's expanded testimony.** The narrative addresses Sabrina as a dissatisfied departing employee. The vulnerability is the specificity and accuracy of her predictions -- she predicted the February retaliation 5 months in advance. If her prediction came true exactly as she described, the "subjective personal opinion" framing becomes harder to maintain.
 
 ---
 

@@ -1,9 +1,9 @@
 # Litigation Preparation
 
 **Prepared:** February 20, 2026
-**Last updated:** February 23, 2026 (evening -- national origin discrimination, attorney engagement, Bryan Baptist witness, updated settlement ranges)
+**Last updated:** February 24, 2026 (Clear Street live evidence, mid-year review denial, Phillips retainer analysis, expanded Sabrina evidence)
 **For:** Manager's strategic defense preparation
-**Status:** Pre-litigation -- no complaint filed. As of Feb 23, Phillips & Associates has conducted a 50-minute substantive consultation and wants to represent the employee at 40% contingency. Retainer imminent. Outten & Golden also contacted. Attorney retention expected within days.
+**Status:** Pre-litigation -- no complaint filed. Phillips & Associates retainer received Feb 23 (40% contingency, PRE-LITIGATION ONLY per Section 11 -- covers through EEOC/agency filing, drops at Right to Sue). Sasha has not signed; sent clarifying questions Feb 24 on fee negotiation, scope, and support team confidentiality. Comparing with Outten & Golden (awaiting callback), Cohen Milstein/Clancy, Wigdor, Derek Smith (not yet called). Attorney retention expected within days.
 **Jurisdiction:** Southern District of New York (federal claims); New York Supreme Court, New York County (state/city claims)
 
 ---
@@ -306,6 +306,7 @@ Plaintiff's counsel will seek to depose at minimum:
 
 - Bloomberg internal email (all custodians listed in Section 3)
 - Bloomberg instant messaging / chat system (if one exists)
+- Bloomberg MSG (internal messaging system) *(Added Feb 24)* -- specifically the manager's MSG history with the employee and all team members. The Feb 24 Clear Street exchange is timestamped and stored in this system. All MSG threads between Platt and Sasha from Jan 2023 to present must be preserved.
 - Bloomberg HR information system (evaluations, compensation records, PIP documentation)
 - Bloomberg CRM / coverage assignment system
 - Bloomberg recruiting system (job postings, requisitions)
@@ -328,6 +329,9 @@ Plaintiff's counsel will seek to depose at minimum:
 - *(Added Feb 23)* "Rahul" (in any context involving Bryan Baptist)
 - *(Added Feb 23)* "Baptist" or "Bryan Baptist"
 - *(Added Feb 23)* "nickname" or "name" combined with "Russian" or "Indian"
+- *(Added Feb 24)* "Clear Street" or "clear street"
+- *(Added Feb 24)* "Tommy" (in context of account assignment or reassignment)
+- *(Added Feb 24)* "assign" or "reassign" combined with employee name or account names
 
 ---
 
@@ -354,6 +358,7 @@ A litigation hold must be issued immediately. The employee's case file reveals a
 | **Bryan Baptist (employment records)** *(Added Feb 23)* | **Former employee** | **His employment file, evaluations, coverage assignments, departure documentation, and any complaints. Specifically: any record of the "Rahul" misnaming or any related complaint. His coverage redistribution records (who received his accounts and why the employee was excluded).** |
 | Any Bloomberg employee who participated in coverage assignment, territory redistribution, or target-setting decisions | Various | Their records of those decisions and any communications about them. |
 | **CRM/Sales Operations Administrator** *(Added Feb 21)* | **Technical** | **CRM audit trail records, forecast modification logs, user access logs for the GDSF system. Specifically: all records related to forecast modifications for the employee's accounts around 9/5/2025.** |
+| **Bloomberg MSG System Administrator** *(Added Feb 24)* | **Technical** | **All MSG threads involving the manager with the employee and all team members. The MSG system contains timestamped, enterprise-stored exchanges that are now active evidence. Specifically: Feb 24, 2026 Clear Street exchange.** |
 
 ### 3.3 Systems to Preserve
 
@@ -372,6 +377,7 @@ A litigation hold must be issued immediately. The employee's case file reveals a
 | **CRM Forecast Audit Trail** *(Added Feb 21)* | **Complete audit trail for all forecasts associated with the employee: creation, modification, status changes, user IDs, notes content before/after. Includes the 9/5/2025 action specifically.** | **Jul 2025 - present (minimum); Jan 2023 - present (recommended)** |
 | **HR Exit Interview Records** *(Added Feb 21)* | **Sabrina Sparapani's exit interview notes, interviewer identity, typed summaries, electronic records** | **Jul 2025** |
 | **Santore Communications** *(Added Feb 21)* | **All communications between Santore and the manager, and between Santore and HR, regarding the employee, leave policies, evaluations, and Sabrina** | **Jan 2023 - present** |
+| **Bloomberg MSG System** *(Added Feb 24)* | **All MSG threads to/from the manager, the employee, and all team members. Includes message content, timestamps, read receipts, attachments (GRABs), and metadata.** | **Jan 2023 - present** |
 
 ### 3.4 What Must NOT Be Done
 
@@ -407,6 +413,11 @@ The employee's team has referenced the following physical/digital items that Blo
 - Questions about every attributed verbal statement.
 - Questions about the specific rationale for every coverage decision.
 - Questions about whether he reviewed Bloomberg's leave policies before writing the evaluation.
+- *(Added Feb 24)* "On February 24, 2026, you sent Mr. Akulov a message asking whether he had self-assigned the Clear Street account. You had personally assigned that account to him during a one-on-one meeting the previous week. Why did you ask?"
+- *(Added Feb 24)* "In your response, you wrote 'I thought I had reassigned to Tommy.' Who is Tommy? Why were you planning to take this account away from Mr. Akulov one week after assigning it to him?"
+- *(Added Feb 24)* "When the Clear Street client generated 403 million notional in trading volume that same day, you wrote that the client 'prob doesnt know about switch.' Why did you frame this client's success as a gap in Mr. Akulov's work?"
+- *(Added Feb 24)* "During Mr. Akulov's second parental leave, you scheduled his mid-year review. He offered to dial in. You required in-person attendance. The meeting never took place. You posted the review without conducting it. Can you explain why?"
+- *(Added Feb 24)* "Is it your practice to post performance reviews without meeting with the employee? Did you do this with any other employee on your team?"
 
 **Risks he creates:**
 - If he denies making statements that are corroborated by contemporaneous messages from multiple sources, his credibility is destroyed.
@@ -414,6 +425,9 @@ The employee's team has referenced the following physical/digital items that Blo
 - If he cannot articulate a clear, non-leave-related rationale for each coverage decision, the jury will infer leave was the reason.
 - He wrote the evaluations. Every internal contradiction in those documents will be explored exhaustively.
 - His demeanor under questioning about parental leave will be observed by a jury. If he displays dismissiveness, contempt, or impatience with the concept of extended paternal leave, the jury will see the animus the employee is alleging.
+- *(Added Feb 24)* The Clear Street MSG exchange creates a new category of deposition risk: the manager's own written words, timestamped in Bloomberg's enterprise system, showing him questioning an assignment he made, revealing intent to strip it, and framing a client success as a deficiency. He cannot claim these messages don't exist or were taken out of context -- they are complete, timestamped, and in sequence.
+- *(Added Feb 24)* The "I thought I had reassigned to Tommy" statement will require explanation. If Tommy was never assigned, Platt fabricated the claim. If Tommy was assigned, Platt was actively stripping coverage. Neither answer is good.
+- *(Added Feb 24)* The mid-year review questions are a closed loop he cannot escape. If he says in-person was required by policy, the plaintiff asks for the policy. If he says it was his judgment, the plaintiff asks why he didn't accept the remote alternative. If he says the review was deferred to protect the employee's leave, the plaintiff asks why he posted it without the meeting.
 
 **Preparation needs:**
 - Must work with defense counsel to review every attributed statement and prepare a consistent account of each conversation.
@@ -823,7 +837,29 @@ These questions establish the relationship, tenure, and context. They seem innoc
 **Q51:** "So you called your Russian employee 'Comrade' and your Indian employee 'Rahul.' Did you give any of your non-minority team members ethnically-coded nicknames?"
 - **Risk:** This is the kill shot for the national origin claim. If the answer is no -- only the Russian and Indian employees received ethnic labels -- the pattern is proven. If the answer is "I gave everyone nicknames," the follow-up is "what was James Johnston's nickname?" and the manager will struggle to produce one.
 
-### 5.11 Demeanor Risks
+### 5.11 The Clear Street Account Questions *(Added Feb 24)*
+
+**Q52:** "You assigned Mr. Akulov to the Clear Street account during a one-on-one meeting. One week later, you asked him in writing whether he had self-assigned it. Do you remember assigning it?"
+- **Risk:** The manager's own MSG, timestamped in Bloomberg's enterprise system, shows him questioning an assignment he personally made. Either he forgot (undermining his competence on coverage decisions) or he was laying groundwork to strip the account. Neither answer is good.
+
+**Q53:** "You wrote 'I thought I had reassigned to Tommy.' When did you decide to reassign it? Before or after Mr. Akulov began generating revenue from the account?"
+- **Risk:** This question forces a timeline. If the reassignment decision came after revenue materialized, the pattern is: assign, watch the employee generate value, strip it. If the decision predated the revenue, the manager was planning to strip coverage from a recently-returned leave-taker within a week of assigning it.
+
+**Q54:** "The client generated 403 million in notional trading volume on February 24. Instead of acknowledging that, you wrote that the client 'prob doesnt know about switch.' Is that how you typically respond when a team member's client generates significant volume?"
+- **Risk:** Reframing a client success as a gap is the core of the "setup to fail" narrative. The jury hears: the employee's client generated hundreds of millions in volume, and the manager's response was to note the client hadn't been told about the reassignment yet.
+
+### 5.12 The Mid-Year Review Questions *(Added Feb 24)*
+
+**Q55:** "You scheduled Mr. Akulov's mid-year review during his paternity leave. He offered to participate by phone. You told him it had to be in person. Then you posted the review without having the meeting. Is that correct?"
+- **Risk:** This is a three-part factual predicate that the manager must either confirm or deny. If confirmed, the follow-up questions are devastating. If denied, the employee has contemporaneous documentation.
+
+**Q56:** "Ms. Sparapani testified that the same thing happened to her -- her mid-year review was posted without a meeting. Is it your practice to post reviews without conducting the review meeting?"
+- **Risk:** If Sabrina has testified, this establishes a pattern of denying leave-takers the feedback meeting while still posting adverse evaluations. If the manager says it is his practice generally, the follow-up asks why non-leave employees received meetings. If he says it is not his practice, the plaintiff asks why two leave-takers were treated differently.
+
+**Q57:** "Your year-end evaluation stated that Mr. Akulov couldn't improve his standing because he was on leave. But you also denied him the mid-year feedback session that would have told him what to improve. How was he supposed to improve?"
+- **Risk:** This closes the logical loop. The manager acknowledged the employee couldn't improve because of leave. He also denied the employee the feedback mechanism that might have enabled improvement. This is a self-sealing system: deny feedback, then penalize for failure to improve.
+
+### 5.13 Demeanor Risks
 
 Beyond the content of answers, the manager's demeanor under questioning about parental leave will be closely observed. If the manager:
 
@@ -993,10 +1029,14 @@ Beyond the content of answers, the manager's demeanor under questioning about pa
 
 **Aggregate Individual Exposure:** Accounting for the fact that damages from overlapping theories are not fully cumulative, the realistic individual exposure range is:
 
-- **Low end (strong defense, weaker plaintiff's counsel):** $250,000 - $450,000 (settlement value). National origin claim adds baseline value even in best case.
-- **Middle (competent counsel both sides, jury trial):** $550,000 - $1,500,000. National origin claim adds settlement leverage and broadens the case.
+- **Low end (strong defense, weaker plaintiff's counsel):** $300,000 - $500,000 (settlement value). National origin claim adds baseline value even in best case.
+- **Middle (competent counsel both sides, jury trial):** $600,000 - $1,500,000. National origin claim adds settlement leverage and broadens the case. Floor raised by live contemporaneous evidence.
 - **High end (Sam Page corroborates, strong plaintiff's counsel, NYC jury verdict):** $1,500,000 - $3,000,000+
 - **Catastrophic (pattern finding, connection to Ndugga class action, punitive damages):** $3,000,000 - $10,000,000+
+
+**Feb 24 impact on settlement calculus:** The Clear Street exchanges and mid-year review denial raise the settlement floor. Live, timestamped evidence in Bloomberg's own enterprise systems is qualitatively different from historical recollections and personal messages. It is harder to challenge in discovery, harder to contextualize at deposition, and more intuitive to a jury. The opponent's support team characterized this as "real-time evidence of ongoing retaliatory behavior." They are correct.
+
+**Phillips retainer scope note:** The retainer is pre-litigation only (Section 11 -- drops at RTS). This means the initial phase will be a demand letter and/or EEOC/agency filing, not a full lawsuit. Settlement pressure during pre-litigation is lower than during active litigation, which may create a narrow window for resolution at lower cost. However, if Sasha retains a full-service litigation firm (Outten & Golden, Wigdor, Cohen Milstein), the pre-litigation limitation disappears.
 
 ### 7.3 Non-Monetary Costs of Litigation
 
@@ -1151,6 +1191,16 @@ Bloomberg must weigh two competing interests:
 15. **Assess whether a PIP should be deferred.** Implementing a PIP within the next three months, against an employee who was evaluated using leave-impacted data, with the smallest coverage on the team and a 52% target increase, will look retaliatory to any jury, judge, or mediator regardless of how well the PIP is designed. Counsel should advise on the timing calculus: is the benefit of formal performance management worth the litigation risk of confirming the employee's predicted playbook?
 
 16. **Prepare for the employee's follow-up meeting (~March 5-10).** The employee has scheduled a meeting with his manager. This meeting is an evidence-generation opportunity for both sides. The manager must be prepared (through counsel) to handle this meeting in a way that is documented, professional, and does not create additional admissions. If the employee raises coverage or targets, the response must be prepared in advance.
+
+17. **(Added Feb 24)** Coach Platt immediately on Bloomberg MSG usage. He is generating live, timestamped evidence in Bloomberg's enterprise systems. Every exchange questioning Sasha's assignments or framing successes as gaps is being screenshot and forwarded to the support team (and soon to an attorney) within hours.
+
+18. **(Added Feb 24)** Identify Tommy. Who is he? Was he ever assigned to Clear Street? Is he the same person who received the CT lead reassignment? His identity and role in account assignments is now directly relevant.
+
+19. **(Added Feb 24)** Determine Bloomberg's policy on mid-year reviews during employee leave. Is in-person required? Were remote reviews ever conducted for other leave-taking employees? If there's no policy and the in-person requirement was discretionary, prepare an explanation.
+
+20. **(Added Feb 24)** Pull Platt's MSG history with all team members. Compare the frequency and tone of account-assignment questions to Sasha vs. other team members. If the pattern is asymmetric, prepare for the comparator argument.
+
+21. **(Added Feb 24)** Preserve the Feb 24 Clear Street MSG exchanges in the litigation hold. These are now primary evidence.
 
 ---
 
