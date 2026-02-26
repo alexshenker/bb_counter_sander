@@ -1,7 +1,7 @@
 # Counter-Narrative: The Company's Version of Events
 
 **Prepared:** February 20, 2026
-**Last updated:** February 24, 2026 (mid-year review denial, Clear Street exchanges, expanded Sabrina evidence, Oura baseline data)
+**Last updated:** February 25, 2026 (Platt "admission of method" allegation, Anthony CT coverage overheard, expanded Sam Page pattern targets)
 **Purpose:** The coherent, unified account defense counsel would present to a judge or jury. This is the company's story of what happened and why.
 
 ---
@@ -118,6 +118,32 @@ The defense does not need to prove that every one of these statements was fabric
 
 ---
 
+## The Alleged "Admission" Is a Misremembered Conversation From Four Years Ago
+
+The employee claims the manager told him in approximately 2022, during a conversation about staffing changes, how he handles difficult personnel situations. The employee characterizes this as an "admission of method" -- that the manager confessed to deliberately undermining employees he wanted to push out by giving them negative evaluations. This is a recollection of a casual conversation from approximately four years ago, reported for the first time on February 25, 2026, at the exact moment the employee was building a legal case and had just completed intake conversations with a plaintiff's employment attorney.
+
+Sales management involves difficult conversations about performance. Managers discuss personnel challenges with each other and with team members. A statement about being direct with underperformers -- about "talking straight" rather than avoiding hard truths -- is not evidence of evaluation weaponization. It is evidence of a manager who takes performance accountability seriously rather than avoiding confrontation. The plaintiff has reconstructed this conversation through the lens of his current grievances, transforming a manager's candid discussion about the challenges of performance management into an alleged confession of systematic misconduct.
+
+The employee claims the manager named specific individuals -- Ryan Ron, Bryan Stewart (approximately 15 years at Bloomberg), and John Calabro -- alongside the previously alleged Sam Page. This is the employee's recollection of names mentioned in passing during a conversation he is now reconstructing years later to support a predetermined narrative. The circumstances of those individuals' tenures and departures are documented in Bloomberg's employment records and will speak for themselves. If those records show standard performance management, voluntary departures, or routine career transitions, the employee's recharacterization of a casual conversation into a hit list collapses.
+
+Memory of casual conversations degrades substantially over four years. Research on eyewitness memory demonstrates that recalled dialogue is particularly unreliable -- people do not store verbatim transcripts of conversations, especially ones they did not consider significant at the time. The employee is not reporting a contemporaneous note or recording. He is reporting what he believes he heard, filtered through years of subsequent experience and current litigation motivation. The degree to which recalled dialogue conforms to the recaller's present beliefs rather than the original speaker's intent is well-documented in cognitive psychology.
+
+The timing of this disclosure speaks to its purpose. The employee had years to mention this alleged statement. He had a WhatsApp group chat where he documented every perceived workplace slight. He had a support team actively compiling evidence. He had intake calls with attorneys. Yet this alleged "admission" -- which, if it occurred as described, would have been among the most significant things his manager ever said to him -- appeared for the first time on February 25, 2026, after an attorney expressed interest in his case and the need to strengthen pattern evidence became apparent. Its emergence is strategic, not organic.
+
+---
+
+## Overheard Fragments Are Not Evidence of a Conspiracy
+
+The employee claims he overheard a colleague named Anthony make a remark about Connecticut coverage on February 25, 2026. The employee was wearing headphones at the time. He reports Anthony said something about "Connecticut coverage to be seen if you catch my drift" to another colleague. The precise words, context, tone, and intent of a comment made by someone who believed the employee could not hear are unknowable from the employee's perspective.
+
+Anthony is a manager on a different team. He does not make coverage decisions for the employee's team. His offhand remark to a colleague -- whatever it may have been -- does not represent management decisions, company policy, or the employee's manager's intentions. A colleague on a different team speculating about possible coverage changes is not evidence of a coordinated retaliatory plan. It is a hallway conversation.
+
+The employee's interpretation of this overheard fragment as evidence of planned retaliation reflects the same pattern documented throughout this case: the employee assumes the worst interpretation of every workplace interaction and fits it into his predetermined narrative. A manager discussing coverage changes on a different team -- or even speculating about changes -- is routine workplace conversation, not evidence of coordination or conspiracy. Coverage assignments are discussed and reconsidered regularly across Bloomberg's sales organization. The fact that a discussion is occurring does not establish that any resulting decision is retaliatory.
+
+If coverage assignments for Connecticut are being reviewed, that is normal management activity. Teams review coverage regularly based on market conditions, client needs, and team capacity. The employee's assumption that any coverage discussion involving his territory must be evidence of retaliation reveals the lens through which he interprets his work environment -- not the reality of what is occurring.
+
+---
+
 ## "Comrade" Was an Informal Greeting, Not a Slur
 
 The plaintiff has recently added a national origin discrimination claim, alleging that the manager regularly called him "Comrade" because he is Russian, and that the same manager called Indian team member Bryan Baptist "Rahul." The plaintiff frames this as evidence of pervasive national origin discrimination on top of leave retaliation.
@@ -210,7 +236,11 @@ What the plaintiff actually has is his own secondhand characterization of a form
 
 If Sam Page's employment file shows documented, legitimate, specific performance deficiencies that were identified and addressed through Bloomberg's standard performance management process, the parallel the plaintiff draws dissolves. Until the actual facts of Sam Page's situation are examined -- his evaluations, his performance data, the documented basis for any PIP, and the circumstances of his departure -- the plaintiff's characterization is speculation dressed as evidence.
 
-Bloomberg will produce Sam Page's employment records in discovery if required, and those records will speak for themselves.
+The employee has now expanded his characterization of the manager's treatment to include three additional individuals -- Ryan Ron, Bryan Stewart (approximately 15 years at Bloomberg), and John Calabro -- named in an allegedly recalled conversation from approximately 2022. These names appeared for the first time on February 25, 2026, more than four years after the alleged conversation and in the same week the employee was finalizing attorney intake. Bloomberg's employment records for these individuals will document the actual circumstances of their tenures and departures. If those records show standard performance management, voluntary transitions, or unremarkable employment histories, the employee's attempt to retroactively designate them as "targets" based on a reconstructed memory will undermine rather than strengthen his pattern theory.
+
+The employee's expanding list of alleged targets -- growing from two (Sam Page and the employee himself) to six in a matter of days -- reflects the escalating demands of his legal narrative, not the emergence of new facts. A plaintiff who discovers four additional "victims" of the same alleged pattern at the precise moment he needs to demonstrate a pattern for his attorney is not uncovering evidence. He is manufacturing it from years-old memories reshaped to fit a present-day legal strategy.
+
+Bloomberg will produce Sam Page's employment records in discovery if required, and those records will speak for themselves. The company is equally prepared to produce records for Ryan Ron, Bryan Stewart, and John Calabro, all of which will document the actual basis for any management decisions made during their tenures.
 
 ---
 

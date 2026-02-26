@@ -1,7 +1,7 @@
 # Performance Improvement Plan: Design, Attack Analysis, and Strategic Assessment
 
 **Prepared:** February 20, 2026
-**Last updated:** February 24, 2026 (mid-year review denial, Clear Street live evidence, expanded Sabrina corroboration, attorney retainer received, Oura baseline data, Tommy identified)
+**Last updated:** February 25, 2026 (Platt admission of method, CT coverage stripping signal, attorney retention imminent 48-72hrs)
 **For:** Manager's strategic defense preparation
 **Employee:** Aleksandr "Sasha" Akulov, ETS-Listed AMER South
 **Tenure:** ~13.5 years (start June 11, 2012)
@@ -103,6 +103,22 @@ HR must review and approve the PIP before delivery. HR involvement serves multip
 - It provides a witness to the process who is not the manager
 
 HR should also review the coverage disparity data and the target. If HR signs off on a PIP with a $175,000 target and 1,138 firms while a peer has 6,099 firms and the same target, HR becomes complicit in the setup-to-fail narrative and the company loses the "one bad manager" defense.
+
+### 1.6 The Platt Admission Creates a New PIP Risk *(Added Feb 25)*
+
+Sasha's case file now contains a direct statement attributed to Platt (~2022): **"When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can."** This is a self-described methodology for managing employees out. If a PIP is implemented, opposing counsel will argue it is the execution of this admitted method -- that Platt described exactly how he removes employees and is now following the script. The PIP must therefore be so transparently fair, so scrupulously documented, and so genuinely achievable that it cannot reasonably be characterized as "talking shit."
+
+**What this means concretely:**
+
+- Every criterion must be objectively measurable with Bloomberg system data. No subjective metrics. No manager interpretation.
+- Every metric must be achievable by someone with 1,138 firms. The math must work on paper before the PIP is delivered.
+- Every checkpoint must include documented support -- not just documented deficiencies.
+- The pass threshold (4 of 6 objectives) must remain. An all-or-nothing structure plays directly into the admission.
+- HR and a second reviewer must co-administer. A PIP run solely by the manager who made this statement is indefensible.
+
+If the PIP can be summarized as "here's what we need and here's how we'll help you get there," it survives the admission. If it can be summarized as "here's an impossible bar designed to justify firing," the admission destroys it. A plaintiff's attorney will put these two sentences side by side in front of a jury: Platt's description of how he removes people, and the PIP's terms. They must not match.
+
+**Impact on Section 6 analysis:** This admission materially strengthens the argument against implementing a PIP at all. See Section 6.1 for the updated factors.
 
 ---
 
@@ -402,7 +418,15 @@ Additional preparation needed: The manager must be prepared to answer questions 
 | Jul-Oct 2026 | PIP period (90 days) | Checkpoints at Days 14, 30, 60, 90. |
 | Oct 2026 | PIP outcome determined | Pass or fail based on documented, system-verified metrics. |
 
-### 4.3 Prerequisites That Must Be Met Before Implementation
+### 4.3 WARNING: CT Coverage Stripping Would Kill Any PIP *(Added Feb 25)*
+
+**If CT coverage is stripped before or during a PIP, the PIP is dead on arrival.** Anthony's Feb 25 overheard statement -- "Connecticut coverage to be seen if you catch my drift" -- signals that CT coverage stripping is being discussed at the management level. Connecticut is Sasha's last remaining territory. If his territory is reduced to zero and then a PIP is issued requiring revenue production, the PIP is not a performance improvement plan -- it is a termination paper trail. No attorney, no judge, and no jury will see it otherwise.
+
+The company must ensure that coverage remains stable or increases before any PIP is implemented. If anything, coverage should be restored (Houston, upstate NY) as a good-faith gesture before the PIP period begins. A PIP delivered to an employee whose territory has been reduced to zero firms is not a performance management document. It is an exhibit in a retaliation lawsuit.
+
+**Immediate action required:** If there is any discussion of stripping CT coverage, it must be stopped and documented as having been stopped. If CT coverage is stripped before a PIP, the PIP option is permanently foreclosed. The company's only defensible path at that point is the alternatives discussed in Section 6.3.
+
+### 4.4 Prerequisites That Must Be Met Before Implementation
 
 Before the PIP is delivered, the following must be true:
 
@@ -508,6 +532,12 @@ This is the most important section of this document. The question is not "how do
 
 **Emotional distress evidence is now objectively documented.** *(Added Feb 24)* Sasha has provided 6 months of Oura Ring data showing flat daytime stress (~2h 22m) from Sep 2025 through Jan 2026 -- the entire period with a newborn at home -- followed by a 50% spike to 3h 12m in February, the month the evaluation was delivered. If a PIP is implemented, the plaintiff's attorney will present this data alongside the PIP to argue: "The evaluation caused documented physiological harm. The company's response to that harm was not to investigate or remediate -- it was to escalate to a PIP." This converts the PIP from a performance management tool into evidence of escalating retaliation. The emotional distress claim gets stronger with each adverse action, and a PIP is an adverse action.
 
+**Platt's admission of method makes any PIP a litigation exhibit.** *(Added Feb 25)* Platt told Sasha (~2022): "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can." This is a direct, attributed statement describing the manager's approach to removing employees. A PIP initiated by this manager will be framed by opposing counsel as the execution of the described method. The year-end evaluation ("talking shit") followed by a PIP (the removal mechanism) maps directly onto the admission. See Section 1.6 for the full analysis. This admission, combined with the Sam Page pattern and Sabrina's corroboration, creates a narrative where the manager has described his playbook, been observed running it against multiple employees, and is now running it again. A PIP does not merely risk being characterized as pretextual -- it confirms the pretext the manager himself described.
+
+**CT coverage stripping signal suggests the setup-to-fail is still in motion.** *(Added Feb 25)* Anthony's Feb 25 statement -- "Connecticut coverage to be seen if you catch my drift" -- indicates that management is discussing stripping Sasha's last remaining territory. If CT is stripped, the PIP question is moot: there is no defensible PIP for an employee with zero coverage. But even if CT is not stripped, the fact that it was discussed and that the employee may become aware of the discussion (or the statement is documented in the case file, as it now is) adds another data point to the "engineered failure" narrative. See Section 4.3 for the full warning.
+
+**Attorney retention is imminent -- the PIP window is effectively closed.** *(Added Feb 25)* Two firms are actively interested. Both calls are scheduled for Thursday (Feb 27). Attorney retention is expected within 48-72 hours. A PIP issued after the employee retains counsel will be immediately challenged through counsel. The attorney will request the PIP documentation, compare criteria to peers, and potentially file an agency charge arguing the PIP itself is a retaliatory adverse action. The window for implementing a PIP without it being attorney-reviewed in real time has effectively closed. Any PIP must now be designed assuming it will be scrutinized by top-tier plaintiff's employment counsel within days of delivery. This does not make a PIP impossible, but it raises the execution standard to near-perfection: every metric must survive adversarial analysis, every support commitment must be ironclad, and every peer comparison must be documented before delivery.
+
 ### 6.2 Factors Arguing For a PIP
 
 **The employee may genuinely be underperforming.** High activity does not necessarily equal effective selling. If the employee is making many calls and visits but not converting pipeline, not driving sustained adoption, and not developing new revenue opportunities, a PIP is a legitimate management tool. The evaluation cites specific qualitative deficiencies (strategic adoptions were trials not sustained, C-day productivity was low, days were short) that activity volume does not address.
@@ -544,13 +574,13 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 *Disadvantages:* No formal accountability mechanism. If the employee is building a case, the absence of a PIP does not stop the lawsuit. The employee's claims are based on the evaluations, coverage stripping, and manager statements -- none of which require a PIP to be actionable. The PIP, if it existed and the employee failed it, would actually provide the company with a performance-based justification for any eventual separation.
 
-### 6.4 Recommendation *(Updated Feb 21)*
+### 6.4 Recommendation *(Updated Feb 25)*
 
-**Do not implement a formal PIP before Q3 2026 at the earliest -- and possibly not at all if the forecast tampering allegation is confirmed. Pursue Option 2 (coverage restoration with clear expectations) as the primary approach, combined with elements of Option 3 (monitored observation with documentation).**
+**Do not implement a formal PIP before Q3 2026 at the earliest -- and strongly consider not implementing one at all. The Platt admission, CT coverage stripping signal, and imminent attorney retention have collectively shifted the calculus further against a PIP. Pursue Option 2 (coverage restoration with clear expectations) as the primary approach, combined with elements of Option 3 (monitored observation with documentation).**
 
 **Rationale:**
 
-1. **The coverage disparity must be resolved regardless of whether a PIP is implemented.** It is the single most dangerous factual element in the case. Restoring coverage is the highest-value defensive action available. It should happen at the March meeting or shortly thereafter.
+1. **The coverage disparity must be resolved regardless of whether a PIP is implemented.** It is the single most dangerous factual element in the case. Restoring coverage is the highest-value defensive action available. It should happen at the March meeting or shortly thereafter. **CT coverage must not be stripped under any circumstances.** If there is any internal discussion about removing CT from Sasha, it must be stopped immediately (see Section 4.3).
 
 2. **Q1/Q2 2026 performance data is the key asset.** If the employee performs well with restored coverage, the company's best outcome is an employee who is productive and whose legal claims are weakened by positive performance. If the employee performs poorly with restored coverage, the company has an unimpeachable basis for a PIP: "We gave him the resources, the support, and the time. He still underperformed. Here is the data."
 
@@ -560,9 +590,13 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 5. *(Added Feb 21)* **Sabrina's evidence and HR exit interview notes should be reviewed before any PIP.** If the HR exit interview notes contain specific complaints about the manager's treatment of leave-takers, implementing a PIP after the company had institutional knowledge of the alleged pattern is significantly more risky. The company knew -- and did the thing the departing employee warned them about.
 
-6. **The employee's attorney status must be known.** If the employee retains Outten & Golden or Cohen Milstein, a PIP should be reviewed by those firms' track record and litigation approach before implementation. Defense counsel should assess the specific risk.
+6. **The employee's attorney status must be known.** *(Updated Feb 25)* Two firms are actively interested, with calls scheduled for Thursday Feb 27. Attorney retention is expected within 48-72 hours. Once counsel is retained, any PIP will be immediately analyzed, challenged, and potentially used as the basis for an agency filing. Defense counsel must assess the specific firm retained and its litigation approach before any PIP is considered. If the employee retains counsel before the March meeting, the March meeting itself becomes a coached event and the PIP calculus changes entirely.
 
 7. **Time favors the defense on this specific issue.** The longer the gap between leave return and PIP, the weaker the temporal proximity argument. Every month that passes without a PIP reduces the retaliation inference. If the PIP must come, it is far better at month 6 than month 3.
+
+8. *(Added Feb 25)* **The Platt admission makes any PIP a litigation centerpiece.** Platt's statement -- "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can" -- will be Exhibit A next to any PIP document. The evaluation can be characterized as the "talking shit" phase. The PIP becomes the "getting rid of" phase. This admission alone may not foreclose a PIP, but it raises the bar for PIP design to a level that may be practically unachievable: the PIP must be so fair, so well-supported, and so genuinely oriented toward improvement that no reasonable person could see it as the execution of the described method. Given everything else in this case -- coverage stripping, Sam Page pattern, Sabrina corroboration, mid-year review denial -- reaching that bar may not be possible.
+
+9. *(Added Feb 25)* **CT coverage stripping would permanently foreclose the PIP option.** If Connecticut is stripped, Sasha has zero territory. A PIP requiring revenue from zero territory is not performance management. It is a termination mechanism. The Anthony statement signals this is under discussion. If it happens, the PIP analysis in this document becomes academic.
 
 **If a PIP becomes necessary after Q3 2026,** it should follow the model in Section 2, with every prerequisite in Section 1 met, every attack in Section 3 armored against, and every prohibition in Section 5 observed. The PIP should be co-administered by HR, use system-generated metrics that the manager cannot manipulate, and include genuine support provisions that are actually provided and documented.
 

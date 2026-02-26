@@ -1,7 +1,7 @@
 # Defense Strategy
 
 **Prepared:** February 20, 2026
-**Last updated:** February 24, 2026 (Clear Street live evidence, mid-year review denial, expanded Sabrina evidence, Phillips retainer analysis, Oura baseline eliminates parenthood defense, Tommy identified)
+**Last updated:** February 25, 2026 (Platt's admission of evaluation weaponization method, Anthony CT coverage stripping signal, Sam Page pattern upgrade)
 **For:** Manager's strategic defense preparation
 **Scope:** Every allegation in the employee's case file with counter-arguments, evidence assessment, and recommended actions
 
@@ -106,6 +106,7 @@ The employee claims the manager systematically reduced his client base to engine
 - **Per-firm revenue requirement:** At $175k target with 1,138 firms, the employee needs $153.78/firm vs. $28.69/firm for the peer with 6,099 firms at the same target.
 - **Platt's Bloomberg MSG from Feb 24, 2026:** questioned whether Sasha self-assigned the Clear Street account -- an account Platt himself assigned during a 1:1 the previous week. Platt's reply: "I just dont remember assigning it" and "I thought I had reassigned to Tommy" -- admission of intent to strip coverage caught mid-act. Timestamped in Bloomberg's enterprise messaging system.
 - **Same day:** Clear Street generated 403mm notional, ~$1,950 base fees. Platt framed it as a gap ("prob doesnt know about switch"). Sasha responded with metrics showing he was already on it.
+- **Anthony's overheard statement (Feb 25, 2026 ~9:20 AM):** Anthony (manager, separate team -- same person who asked "does your wife work?" pre-evaluation) was overheard telling a colleague: "Connecticut coverage to be seen if you catch my drift." Sasha was wearing headphones; Anthony appeared to believe he couldn't hear. Connecticut is Sasha's last remaining territory. This is real-time evidence of the next retaliatory step being discussed at the management level before it happens.
 
 ### Strength Assessment: CRITICAL
 
@@ -116,6 +117,8 @@ The fact that this data comes from Bloomberg's own internal systems means it can
 **UPGRADED from HIGH to CRITICAL after Feb 24 Clear Street exchange.** The catch-22 is no longer historical -- it is documented happening in real time in Bloomberg's own systems. Platt questioning whether Sasha self-assigned an account that Platt himself assigned, then admitting he intended to reassign it to Tommy, then framing the account's same-day success as a coverage gap rather than a win -- all of this is timestamped in Bloomberg MSG. This is not a recollection or a paraphrased account; it is enterprise-system evidence of the stripping pattern occurring live.
 
 **(Updated Feb 24 -- Tommy identified, "oops" clarified):** Tommy has been identified as a new hire on the team. The intended reassignment was not veteran-to-veteran rebalancing; it was stripping an account from a 14-year employee who sourced it and giving it to someone new. "Oops" in Bloomberg terminology means "opportunities" -- Clear Street had many open opportunities in the system. Platt's reluctance to assign a high-opportunity account to the employee he characterizes as underperforming is consistent with engineering failure: withhold accounts with the most potential, then cite low conversion as evidence of underperformance.
+
+**(Updated Feb 25 -- Anthony CT signal):** The Anthony overheard statement adds a new dimension: the stripping of Connecticut -- Sasha's last remaining territory -- is being discussed at the management level before it happens. This is no longer a pattern that must be inferred retrospectively; it is a plan being executed in real time with advance warning captured by the employee. Combined with the Clear Street exchange from the day before, the employee now has two consecutive days of real-time evidence documenting the coverage stripping mechanism. If Platt proceeds to strip CT coverage, the employee's attorney will have advance notice it was planned, which eliminates any possibility of framing it as a routine business decision made after the fact.
 
 ### The Defense
 
@@ -151,6 +154,10 @@ Coverage assignment decisions are routine management functions driven by busines
 3. **Determine whether the target increase was team-wide.** If other team members received similar percentage increases, document this immediately. If the increase was disproportionate to this employee, this needs to be explained with a business reason (e.g., change in product line responsibility, different quota methodology) before litigation begins.
 
 4. **Prepare a territory assignment rationale memo.** Work with whoever tracks coverage to produce a document explaining the methodology for assigning firms. If the methodology is objective (geography, product specialization, client tier), document it. If it is purely at the manager's discretion with no documented methodology, that is a problem.
+
+5. **Identify Anthony's full last name before the plaintiff's team does.** Anthony is now a two-time witness: (a) the "does your wife work?" question before the evaluation, and (b) the "Connecticut coverage to be seen if you catch my drift" statement. His identity and role need to be understood. If Anthony is on Platt's management level or reports to someone in the same chain, his statements create institutional knowledge exposure beyond Platt individually.
+
+6. **If Platt is planning to strip CT coverage, that plan must be stopped immediately.** Doing so now, with the Anthony statement in the case file, would be catastrophic. It completes the Sam Page pattern (leave -> coverage stripped -> PIP -> fired) and the plaintiff's attorney will have advance warning it was planned. Connecticut is Sasha's last remaining territory. Stripping it would: (a) reduce his coverage to near-zero, making any performance standard impossible to meet; (b) confirm the pattern the employee's case alleges across three employees; (c) be supported by contemporaneous evidence (Anthony's overheard comment) proving it was discussed at the management level beforehand; (d) trigger an immediate attorney filing if Sasha has retained counsel by that point.
 
 ---
 
@@ -342,14 +349,15 @@ The employee claims a former colleague, Sam Page, experienced an identical seque
 - **The employee's own account** of Sam Page's experience. The employee told his support team that Page experienced the same playbook.
 - **The account is secondhand.** The employee knows Page's experience from being on the same team, not from Page's direct testimony.
 - **No direct contact with Page documented yet.** The support team has identified Page as the "single most important potential corroborating witness" and prioritized establishing contact.
+- **Platt's admission of method (~2022):** Platt told Sasha "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can" while actively pushing out Sam Page. The admission was made during the Sam Page termination process, connecting the method to a specific outcome. Platt also named Ryan Ron, Bryan Stewart (~15 years at Bloomberg), and John Calabro as prior targets of the same method, expanding the known victim list to potentially 6 employees (Page, Sasha, Sabrina, Ron, Stewart, Calabro).
 
-### Strength Assessment: POTENTIALLY CRITICAL (Currently Medium)
+### Strength Assessment: POTENTIALLY CRITICAL (Currently HIGH -- upgraded from Medium after Platt admission)
 
 If Sam Page cooperates and provides testimony consistent with the employee's account, this becomes the single most devastating element in the case. Pattern evidence from a second victim under the same manager is transformative. It shifts the narrative from "one underperformer got tough feedback" to "this manager has a playbook for pushing out fathers who take full leave."
 
-Currently, this is medium because it is entirely secondhand. The employee is reporting what he believes happened to Page, without Page's direct corroboration, without documentary evidence, and without knowing whether Page's departure had other explanations.
+**Upgraded from Medium to HIGH after Platt's admission of method (Feb 25).** The ~2022 admission -- "When I want to get rid of someone... I talk as much shit as I can" -- was made while Page was being pushed out. This is no longer purely secondhand observation of Page's experience; it is a direct statement from Platt describing his method, made during the execution of that method on Page. The admission also names three additional targets (Ryan Ron, Bryan Stewart, John Calabro), expanding the potential pattern from 3 employees (Page, Sasha, Sabrina) to 6. Even without Page's direct cooperation, the admission itself links Platt's method to Page's outcome. If any of the six named individuals corroborate the pattern -- either through testimony or through employment records showing similar sequences -- the case becomes a serial conduct case, not an isolated dispute.
 
-The defense must prepare for both scenarios: Page cooperates (critical threat) or Page does not cooperate (substantially weakened).
+The defense must prepare for both scenarios: Page cooperates (critical threat) or Page does not cooperate (weakened but no longer substantially so, given the admission).
 
 ### The Defense
 
@@ -1094,39 +1102,58 @@ The plaintiff will use this to show Sasha was self-motivated and productive even
 
 ---
 
-## ALLEGATION 23: Anthony Witness and Stack Ranking Visibility (Added Feb 21)
+## ALLEGATION 23: Anthony Witness and Stack Ranking Visibility (Added Feb 21, Updated Feb 25)
 
 ### The Allegation
 
-A manager named Anthony (last name unknown) on a separate team asked Sasha unprompted: "Does your wife work?" between his leave return (Dec 28, 2025) and the Feb 17 evaluation. The employee's team theorizes Anthony saw Sasha ranked low in Bloomberg's collective stack ranking process (where managers convene and rank employees across teams, visible to all managers in the group) and was asking out of concern about the financial impact of a potential termination.
+A manager named Anthony (last name unknown) on a separate team is now a two-incident witness:
+
+1. **Incident 1 (~Jan-Feb 2026):** Between Sasha's leave return (Dec 28, 2025) and the Feb 17 evaluation, Anthony asked Sasha unprompted: "Does your wife work?" The employee's team theorizes Anthony saw Sasha ranked low in Bloomberg's collective stack ranking process (where managers convene and rank employees across teams, visible to all managers in the group) and was asking out of concern about the financial impact of a potential termination.
+
+2. **Incident 2 (Feb 25, 2026 ~9:20 AM):** Anthony was overheard telling a colleague: "Connecticut coverage to be seen if you catch my drift." Sasha was wearing headphones; Anthony appeared to believe he couldn't hear. Connecticut is Sasha's last remaining territory. This is real-time evidence of the next retaliatory step being discussed at the management level before it happens.
 
 ### Their Evidence
 
-- Sasha's direct account of the conversation
+- Sasha's direct account of the "does your wife work?" conversation
 - Bloomberg's stack ranking process confirmed: managers rank individually, then collectively rank across teams -- all managers see all rankings
+- **(Added Feb 25):** Sasha's direct account of overhearing the "Connecticut coverage to be seen if you catch my drift" statement. The statement was made to a colleague, not to Sasha, and Anthony did not appear to know Sasha could hear.
 
-### Strength Assessment: LOW-MEDIUM
+### Strength Assessment: MEDIUM-HIGH (upgraded from LOW-MEDIUM after Feb 25 CT signal)
 
-The question itself is odd but not independently significant. However, the stack ranking process is valuable discovery: the collective ranking sessions would document where Platt placed Sasha relative to peers, what reasons he gave, and whether any manager questioned the ranking. If Platt had to justify ranking a 13.5-year veteran who led team activity metrics at the bottom, his stated reasons are on record.
+The two incidents together form a devastating testimony pair. Incident 1 suggests Anthony knew about Sasha's vulnerable position (possibly from stack ranking visibility). Incident 2 captures Anthony discussing the stripping of Sasha's last territory before it happens. Together, they establish: (a) organizational awareness of Sasha's situation beyond Platt, (b) advance discussion of the next retaliatory action at the management level, and (c) a witness who can speak to what was being discussed among managers about Sasha's coverage.
+
+The stack ranking discovery remains valuable: the collective ranking sessions would document where Platt placed Sasha relative to peers, what reasons he gave, and whether any manager questioned the ranking.
+
+The CT coverage statement is particularly dangerous because it is advance notice. If CT is subsequently stripped, the employee's attorney can prove it was discussed at the management level beforehand, which eliminates the "routine business decision" defense entirely.
 
 ### The Defense
 
-1. **Anthony's question was casual conversation.** "Does your wife work?" is a common small-talk question among colleagues. It does not require a sinister explanation.
+1. **Anthony's "does your wife work?" question was casual conversation.** "Does your wife work?" is a common small-talk question among colleagues. It does not require a sinister explanation.
 
 2. **Stack ranking is a standard management process.** Collective ranking sessions exist to ensure fairness and calibration, not to broadcast targeting. The fact that managers see each other's rankings is a feature of the calibration process.
+
+3. **(Added Feb 25)** **"Connecticut coverage to be seen" was office speculation, not a plan.** Anthony is not on Platt's team and has no decision-making authority over Sasha's coverage. Colleagues speculate about organizational changes constantly. An overheard fragment of a hallway conversation is not evidence of a coordinated plan.
+
+4. **(Added Feb 25)** **Sasha's account of "overhearing" is unreliable.** He was wearing headphones. He may have misheard, heard only a fragment, or is interpreting ambiguous words through his litigation lens. "Connecticut coverage to be seen" could refer to any number of topics involving CT coverage broadly, not specifically Sasha's territory.
 
 ### Evidence Needed
 
 - **Stack ranking session documentation.** What was discussed when Sasha's ranking was presented? What reasons were given? Were there written notes or minutes?
-- **Anthony's identity and willingness to cooperate.** If Anthony is identified and deposed, what would he say about why he asked the question?
+- **Anthony's identity and willingness to cooperate.** If Anthony is identified and deposed, what would he say about both incidents?
+- **(Added Feb 25):** **Anthony's relationship to Platt and the coverage decision chain.** Is Anthony in a position to know about coverage changes before they happen? Does he attend meetings where such decisions are discussed? If he has no visibility into Platt's coverage decisions, his statement is speculation. If he does, the organizational exposure widens.
+- **(Added Feb 25):** **Context for what Anthony was discussing.** Was there a broader conversation about territory changes across multiple teams? If CT coverage was being discussed in a team-wide or org-wide context, the statement is less targeted.
 
 ### Recommended Actions
 
-1. **Identify Anthony's full name** before the employee's team does. If he would testify that the question was casual, he's a defense witness. If he would testify that he asked because he knew Sasha was being targeted, he's devastating.
+1. **Identify Anthony's full name IMMEDIATELY** before the employee's team does. He is now a two-incident witness. If subpoenaed, "does your wife work?" + "Connecticut coverage to be seen if you catch my drift" form a devastating testimony pair. The defense needs to understand who he is, what he knows, and what he would say under oath.
 
-2. **Preserve stack ranking session documentation.** These are now within the litigation hold scope.
+2. **Determine how Anthony knew about CT coverage plans.** If Platt discussed Sasha's coverage with Anthony or in a forum Anthony attended, the retaliation extends beyond Platt to an organizational awareness level. If Anthony was speculating based on rumors, the exposure is lower but the appearance is still damaging.
 
-**Severity: LOW-MEDIUM** (the question itself is minor; the stack ranking discovery exposure is the real risk)
+3. **Preserve stack ranking session documentation.** These are now within the litigation hold scope.
+
+4. **If Platt has discussed coverage changes with anyone outside his direct reporting line, those communications must be preserved and reviewed.** Anthony's statement suggests either Platt shared plans outside his team or the plans are common knowledge among managers. Neither is good.
+
+**Severity: MEDIUM-HIGH** (upgraded from LOW-MEDIUM; two-incident witness with advance notice of coverage stripping; organizational visibility of the retaliation)
 
 ---
 
@@ -1312,6 +1339,65 @@ The company's arguments:
 
 ---
 
+## ALLEGATION 28: Platt's Admission of Evaluation Weaponization (Added Feb 25)
+
+### The Allegation
+
+The employee claims Platt told him directly ~2022 that his method for getting rid of employees is to deliberately trash them in evaluations: "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can." Said while actively pushing out Sam Page. Named Ryan Ron, Bryan Stewart (~15 years at Bloomberg), and John Calabro as prior targets of the same method.
+
+### Their Evidence
+
+- **Sasha's direct account, reported Feb 25, 2026.** One-on-one conversation on a work trip, no witnesses, no recording, ~2022.
+- **The method described matches documented outcomes** for Sam Page (PIP'd, fired), Sabrina Sparapani (PIP'd, resigned), and Sasha (negative eval, PIP threatened). Three employees, same manager, same described method, same outcome pattern.
+- **Three additional named targets** -- Ryan Ron, Bryan Stewart, and John Calabro -- expand the potential victim list from 3 to 6 under the same manager.
+- **Timing context:** The statement was made during the Sam Page termination process, connecting the admitted method to a specific outcome being executed at the time.
+
+### Strength Assessment: HIGH (would be CRITICAL if corroborated by any of the named targets)
+
+This is high rather than critical because it is a single uncorroborated account of a ~4-year-old conversation. Platt will deny it. However, the described method aligns perfectly with the documented pattern across three employees, which gives it powerful circumstantial corroboration. The statement is not an ambiguous remark that could be interpreted multiple ways -- "I talk as much shit as I can" is a direct description of weaponizing evaluations.
+
+The danger is multiplicative. A plaintiff's attorney will use this admission as the organizing principle of the entire case: Platt told Sasha how he operates, then operated exactly that way on Sasha. Every negative evaluation, every "toward low of the stack" ranking, every "significantly underperformed" characterization gets reframed as the admitted method in action. The jury does not need to believe the admission happened if the pattern evidence is strong enough on its own -- but if they do believe it, it transforms circumstantial pattern evidence into a confessed playbook.
+
+If Sam Page, Ryan Ron, Bryan Stewart, or John Calabro confirm either the statement or the method being used on them, this escalates immediately to critical. At that point, the case is not about one employee's parental leave -- it is about a serial management practice of fabricating performance deficiencies to push out targeted employees.
+
+### The Defense
+
+1. **Platt denies making the statement.** There are no witnesses and no recording. It is the employee's word against the manager's, with a ~4-year gap and no contemporaneous documentation.
+
+2. **Even if something like this was said, it was casual workplace talk taken out of context years later by a disgruntled employee building a legal case.** Sales floor banter about tough management is common. "Talking shit" in a colloquial sense does not mean fabricating evaluations -- it means giving blunt, unfiltered feedback. The employee is interpreting an off-the-cuff remark through the lens of his current litigation posture.
+
+3. **The employee's recollection of a ~4-year-old conversation is inherently unreliable.** Memory distortion, reconstruction bias, and current litigation motivation all affect accuracy. The specific phrasing -- conveniently self-incriminating -- may reflect what the employee now wishes Platt said rather than what was actually said.
+
+4. **The named targets (Ron, Stewart, Calabro) were never mentioned by the employee until Feb 25, 2026 -- after attorney consultations were underway.** The timing suggests the employee is expanding his narrative to strengthen his case. If these individuals were genuinely discussed in 2022, why were they not mentioned in the original case file, the WhatsApp evidence, or the Phillips consultation?
+
+5. **If any of the named individuals departed through documented, legitimate performance processes, the "talking shit" characterization is baseless.** If Ron, Stewart, and Calabro had genuine performance issues documented in their files, Platt's management of those situations was substantive, not retaliatory -- and the employee's characterization of the conversation is either fabricated or a fundamental misunderstanding.
+
+### Evidence Needed
+
+- **Employment records for Ryan Ron, Bryan Stewart, and John Calabro.** Were they on Platt's team? When did they leave? What were the circumstances? Did any take parental leave? Were any PIP'd or managed out?
+- **If any were PIP'd or managed out with documented performance issues**, the "I talk as much shit as I can" characterization is less damaging -- the evaluations had substance, not just trash talk.
+- **If any departed amicably or for reasons unrelated to Platt**, the admission narrative weakens.
+- **Whether any signed separation agreements with releases.** If so, their cooperation may be constrained -- but releases do not prevent them from being subpoenaed as witnesses.
+- **Platt's evaluation history for all direct reports over his tenure.** If Platt has a track record of both positive and negative evaluations that correlate with actual performance (not leave status), the "I weaponize evaluations" interpretation is undercut. If negative evaluations cluster around employees who took leave or who Platt wanted removed, the pattern corroborates the admission.
+
+### Recommended Actions
+
+1. **Pull employment records for Ron, Stewart, and Calabro immediately.** The plaintiff's attorney will subpoena these. Know what they show before opposing counsel does. If any of them were pushed out through the same leave -> negative eval -> PIP -> separation sequence, the defense needs to know now, not during discovery.
+
+2. **Prepare Platt for deposition questioning on this statement.** He will be asked: "Did you ever tell Mr. Akulov how you get rid of employees?" and "Did you ever describe your evaluation approach as 'talking as much shit as you can'?" The answer needs to be prepared, consistent, and credible. A flat denial is only safe if Platt is certain the employee has no corroboration. If Platt acknowledges something was said but contextualizes it differently, the contextualization must be prepared in advance.
+
+3. **Investigate whether any of the three named individuals signed separation agreements with releases.** Releases constrain but do not eliminate their ability to participate in this case as witnesses. Understanding the scope of any release is essential.
+
+4. **If any of the three were managed out through documented performance processes that were legitimate, prepare those files as rebuttal evidence.** A documented, substantive PIP with measurable criteria that the employee failed to meet is the strongest counter to the "trash talk" characterization.
+
+5. **Assess whether Platt has discussed his management approach with anyone else in similar terms.** If other colleagues, managers, or HR professionals heard Platt describe his approach to managing out underperformers, those accounts need to be identified and understood before the plaintiff's team finds them.
+
+6. **Consider the interaction with Allegation 6 (Sam Page Pattern).** The admission was made during Page's termination. If Page's file shows a process that looks legitimate on paper, the defense can argue Platt was describing blunt management, not fabrication. If Page's file shows a thin performance basis followed by rapid escalation, the admission becomes a roadmap to how the file was constructed.
+
+**Severity: HIGH** (uncorroborated but method matches documented pattern across 3+ employees; escalates to CRITICAL if any named target corroborates)
+
+---
+
 ## CROSS-CUTTING DEFENSE CONSIDERATIONS
 
 ### The Email Sasha Already Sent -- CORRECTED (Feb 21)
@@ -1361,7 +1447,7 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 
 ## PRIORITY MATRIX
 
-*Updated February 24, 2026*
+*Updated February 25, 2026*
 
 | Allegation | Strength | Defense Quality | Priority |
 |---|---|---|---|
@@ -1375,9 +1461,10 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 | "We Didn't Cut Your Pay" (8) | High | Moderate | HIGH |
 | Compensation Retaliation (9) | High | Moderate | HIGH |
 | PIP Threat (15) | High | Moderate | HIGH |
-| Sam Page Pattern (6) | Potentially Critical | Unknown | HIGH |
+| Sam Page Pattern (6) | **Potentially Critical (upgraded to HIGH base, Feb 25)** | Weak -- admission links method to outcome | **IMMEDIATE** |
 | Mid-Year Review Denied (26) | High | Moderate -- policy-dependent | HIGH |
 | Real-Time Paper Trail / Clear Street (27) | High | Moderate -- enterprise system evidence | HIGH |
+| Evaluation Weaponization Admission (28) | High (Critical if corroborated) | Moderate -- uncorroborated, but method matches pattern | **IMMEDIATE** |
 | Chain of Command Compromise (19) | Medium | Moderate -- Faragher/Ellerth defense available | MEDIUM |
 | Firing Jokes (4) | Medium-High | Moderate | MEDIUM |
 | Job Posting During Leave (10) | Medium | Potentially strong | MEDIUM |
@@ -1392,7 +1479,7 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 | Mandatory Review During Leave (12) | Low | Strong | LOW |
 | Seat Reassignment (13) | Low | Strong | LOW |
 
-### Eight Most Urgent Actions (Updated Feb 23 evening)
+### Ten Most Urgent Actions (Updated Feb 25)
 
 1. **Pull the CRM audit trail for 9/5/2025 IMMEDIATELY.** This is the single most time-sensitive item. The forecast tampering allegation is uniquely binary: if the audit trail shows routine CRM maintenance, it dies and damages the employee's credibility. If it shows what Sasha describes (closed as "dupe," notes stripped, same-day reopen), it is potentially the most dangerous element in the entire case and creates personal regulatory exposure for the manager under FINRA. The employee's team is holding this for their attorney. Resolve what the logs show before anyone else pulls them.
 
@@ -1409,3 +1496,7 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 7. **Implement remedial coverage and target actions IMMEDIATELY.** The employee already contacted attorneys today (Feb 23). Phillips & Associates wants to represent him. Their Section G explicitly frames every remedial action Bloomberg takes as "consciousness of guilt." This creates a paradox: acting looks bad, but not acting looks worse because the coverage disparity is indefensible on the merits. The solution is to act NOW with a documented business rationale that predates any legal filing. Restore reasonable coverage, recalibrate targets to account for coverage levels, and document the rationale as a routine Q1 business planning action. The contemporaneous documentation must reference business factors (territory optimization, client relationship continuity, Q1 planning cycle) and must NOT reference the evaluation, the employee's leave, or any legal concern. If this is done before Monday, it is a proactive management decision. If done after an attorney sends a demand letter, it is a concession.
 
 8. **Prepare the "Comrade" defense and assess witness exposure (NEW -- Feb 23).** The national origin discrimination allegation is now in the attorney's case knowledge. Three team members (Emily, JJ, Sabrina) are potential corroborating witnesses. The manager must: (a) settle on a single, consistent explanation for "Comrade" before any formal proceeding -- "term of affection" or "casual greeting," not both; (b) understand that Bryan Baptist is now a potential witness on both the "Rahul" misnaming AND the coverage redistribution that excluded Sasha; (c) stop all informal names, ethnic references, or nicknames with any team member immediately and permanently; (d) understand this allegation significantly strengthens the argument for separate personal counsel, as Bloomberg may distance itself from personal discriminatory conduct.
+
+9. **Pull employment records for Ryan Ron, Bryan Stewart, and John Calabro IMMEDIATELY (NEW -- Feb 25).** Platt's admission names these three as prior targets of the same evaluation-weaponization method. The plaintiff's attorney will subpoena their files. The defense must know what those files show first: (a) Were they on Platt's team? (b) When and how did they leave? (c) Did any take parental leave? (d) Were any PIP'd or managed out? (e) Did any sign separation agreements with releases? If their files show the same leave -> negative eval -> PIP -> separation sequence, the case transforms from a two-employee pattern (Page, Sasha) into a six-employee serial conduct case. If their files show legitimate, well-documented departures unrelated to Platt's evaluations, that is significant defense evidence. Either way, the defense cannot afford to be surprised by what discovery reveals.
+
+10. **STOP the Connecticut coverage stripping plan IMMEDIATELY (NEW -- Feb 25).** Anthony was overheard saying "Connecticut coverage to be seen if you catch my drift." CT is Sasha's last territory. If Platt strips it: (a) it completes the Sam Page pattern (leave -> coverage stripped -> PIP -> fired) on Sasha; (b) the employee's attorney has advance notice from Anthony's overheard statement that it was planned; (c) combined with Platt's admission of method, it is the admitted playbook being executed in real time with the plaintiff's attorney watching. This action, if taken, would likely be the single exhibit that ends any chance of winning at trial. The plan must be stopped and Platt must be told explicitly: no coverage changes for Sasha without HR and counsel review.

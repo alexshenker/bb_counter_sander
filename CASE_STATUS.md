@@ -1,64 +1,70 @@
 # Case Status Brief
 
-**Last updated:** February 24, 2026
-**Phase:** ESCALATED. Attorney retainer received, not yet signed. Live evidence generation ongoing.
-**Next critical dates:** Retainer signing (days). March 5-10 follow-up meeting (attorney-coached).
+**Last updated:** February 25, 2026
+**Phase:** CRITICAL -- ESCALATING. Two firms actively interested. Outten & Golden advancing past intake (call Thursday Feb 27). Phillips retainer call Thursday Feb 26. Platt admission of method discovered. Real-time coverage stripping overheard.
+**Next critical dates:** Thursday Feb 26 PM (Phillips call with Melissa, Sasha has scripted talking points). Thursday Feb 27 (O&G direct call with Sasha). CT coverage strip may be imminent.
 
 ---
 
-## What Changed Today (Feb 24)
+## What Changed (Feb 25 update)
 
-1. **EVENT 014 -- Clear Street account stripping caught live.** Bloomberg MSG, 7:47 AM: Platt questioned whether Sasha self-assigned Clear Street -- an account Platt himself assigned during a 1:1 the prior week. Platt: "I just dont remember assigning it" and "I thought I had reassigned to Tommy." Same day, Clear Street generated 403mm notional / ~$1,950 base fees. Platt still framed it as Sasha's gap ("prob doesnt know about switch"). This is timestamped, contemporaneous evidence in Bloomberg's own systems showing account-stripping intent mid-act.
+### 1. Platt's direct admission of method (~2022) -- DEVASTATING
 
-2. **EVENT 015 -- Mid-year review denial confirmed.** During second leave, Platt scheduled Sasha's mid-year review, required in-person attendance, said he'd "check with HR," then posted it unilaterally without Sasha's input. Sabrina confirmed: "Smh we never had one he posted the review." Closed-loop trap: blocked feedback, then penalized for not improving. Now Adverse Action A.7.
+On a work trip (~2022), Platt told Sasha directly: **"When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can."** Said while actively pushing out Sam Page. In the same conversation, Platt named additional targets: **Ryan Ron, Bryan Stewart (~15 yrs at Bloomberg), and John Calabro.** Known Platt target list now **6 people.** One-on-one conversation, no witnesses.
 
-3. **Sabrina evidence expanded.** Full iMessage thread transcribed (standalone file). Key: "he retaliates against people who go on leave especially men" dated ~September 9, 2025 -- five months before Feb 2026 eval. Also confirmed: Platt called Sasha's accounts "shitty," territory inequity, Santore approves reviews, HR exit interview was "veeeerrrry honest."
+### 2. Anthony signals Connecticut coverage stripping (Feb 25 ~9:20 AM)
 
-4. **Phillips retainer: PRE-LITIGATION ONLY.** 40% on gross. Section 11: P&A drops at Right to Sue letter. Section 5(2): confidentiality clause restricts Sasha from discussing case without attorney consent (threatens support team). Section 3(b): may let P&A claim recovery share after they stop representing. Sasha sent structured clarifying questions Feb 24. Still comparing firms (Outten & Golden awaiting callback; Cohen Milstein/Wigdor/Derek Smith not yet called).
+Anthony (same person who asked "does your wife work?" pre-evaluation) overheard telling a colleague: **"Connecticut coverage to be seen if you catch my drift."** Sasha was wearing headphones; Anthony believed he couldn't hear. CT is Sasha's last remaining territory. This is real-time evidence of the next retaliatory action being planned and discussed openly on the desk.
 
-5. **Platt behavioral shift.** Uncharacteristically formal WFH email (Feb 23). Clear Street exchange uses performatively supportive tone. May indicate HR/legal coaching or heightened self-awareness.
+### 3. Outten & Golden advancing
 
-6. **Adverse actions count: 17** (was 14). Added: mid-year review denial, paper trail creation, same-day performance framing.
+O&G wants to speak directly with Sasha. Call expected Thursday Feb 27. This is past intake -- they are evaluating. Two firms now actively interested simultaneously.
 
-7. **Oura Ring baseline data eliminates "new parenthood" defense.** 5-month Oura trend (Sep 2025-Jan 2026) shows flat ~2h 22m daytime stress with infant at home. February spikes to 3h 12m (+50%). The single-day Feb 18 peak of 7 hours is 3.5x baseline. Our anticipated defense that health data reflected new parenthood is dead -- causation isolated to the Feb 17 evaluation. Objective, sensor-recorded, timestamped, cannot be fabricated.
+### 4. Phillips retainer response (Feb 25)
 
-8. **Tommy identified as new hire.** Platt intended to strip Clear Street from Sasha (14-year veteran who sourced it) and give it to a new team member. **"Oops" = opportunities.** Clear Street had many open opportunities, which is why Platt was reluctant to give it to Sasha -- a high-opportunity account undermines the underperformance narrative.
+Phillips answered 8 of 9 questions. 40% non-negotiable. Severance negotiations in scope. Key answer: pre-litigation resolution "typically towards separation" -- confirms constructive discharge trajectory. Three items unresolved (Section 3(b)+11 interaction, Section 5(2) support network, Q6 social media). Phone call with Melissa Thursday Feb 26 PM. Sasha has scripted talking points for that call.
+
+---
 
 ## Strength Assessment
 
-**Their case: STRONG and compounding daily.** Live Bloomberg MSG evidence, expanded Sabrina testimony, mid-year review denial, 17 adverse actions, two protected categories (leave retaliation + national origin).
+**Their case: STRONG and compounding daily.** Platt's own words admitting his method ("I talk as much shit as I can") is a jury-ready soundbite. Anthony is now a two-incident witness (pre-eval question + CT coverage signal). Live Bloomberg MSG evidence, expanded Sabrina testimony, mid-year review denial, 17+ adverse actions, two protected categories (leave retaliation + national origin), six named Platt targets, and O&G interest level validates case quality.
 
-**Our defense: WEAK and deteriorating.** Clear Street exchanges are devastating -- live, timestamped, in company systems, showing the catch-22 in real time. Mid-year review denial closes the "he should have improved" argument. Oura Ring baseline eliminates the "new parenthood" health data defense -- 5 months of flat stress with infant at home, spike isolated to the evaluation. Tommy identification turns the Clear Street strip into a deliberate reallocation to a new hire over a 14-year veteran. Every day Platt interacts with Sasha, new evidence is generated.
+**Our defense: WEAK and deteriorating rapidly.** The Platt admission transforms this from "pattern inference" to "pattern confession." Anthony is leaking plans in real time. CT coverage strip, if executed, completes the Sam Page sequence exactly. Oura Ring baseline eliminates the health data defense. Every day without intervention generates new evidence against us.
 
 ## Outcome Ranges
 
 | Scenario | Range | Key drivers |
 |---|---|---|
-| Best case | $300K - $500K | Forecast tampering disproven, Sam Page declines, Sabrina declines formal cooperation, pre-discovery settlement |
-| Most likely | $600K - $1.2M | Phillips or better counsel, Clear Street + mid-year denial + expanded Sabrina, settles before trial |
-| Worst case | $1.5M - $3M+ | Sam Page corroborates, full pattern finding, national origin claim sticks, NYC jury |
-| Catastrophic | $3M - $10M+ | Cohen Milstein / class-action connection, FINRA referral, multiple employees |
+| Best case | $300K - $500K | Platt admission uncorroborated (1:1), Sam Page declines, Sabrina declines, pre-discovery settlement |
+| Most likely | $600K - $1.2M | Phillips or O&G counsel, Platt admission + Clear Street + mid-year denial + Sabrina, settles before trial |
+| Worst case | $1.5M - $3M+ | Sam Page corroborates, Platt admission admitted, 6 named targets located, national origin claim sticks, NYC jury |
+| Catastrophic | $3M - $10M+ | Multiple Platt targets (Ron, Stewart, Calabro, Page) testify to pattern, class-action connection, FINRA referral |
 
 ---
 
 ## Immediate Actions
 
-1. **Coach Platt NOW.** He is generating live evidence in Bloomberg systems daily. The Clear Street exchange alone could anchor a trial exhibit.
-2. **CRM audit logs for 9/5/2025** -- most time-sensitive item, unchanged. Know what they show before subpoena.
-3. **Tommy identified as new hire** -- Platt planned to reassign Clear Street (with its open opportunities) from a 14-year veteran to a new team member. Assess exposure: does this match any other reassignment patterns?
-4. **Prepare mid-year review defense** -- was there a policy requiring in-person reviews during leave?
-5. **Monitor retainer status** -- Sasha may sign Phillips or choose another firm within days.
-6. **Personal counsel for manager** -- national origin + forecast tampering + live evidence of account-stripping intent.
+1. **URGENT: Coach Platt NOW -- Anthony is leaking plans.** Platt's team is openly discussing the CT strip on the desk. If CT is stripped from Sasha, it completes the exact Sam Page pattern and hands plaintiff's counsel a before/after exhibit. The window to prevent this is hours, not days.
+2. **Identify Anthony's full last name before plaintiff's team does.** He is now a two-incident witness. If subpoenaed, "does your wife work?" + "CT coverage to be seen if you catch my drift" form a devastating testimony pair.
+3. **Investigate Ryan Ron, Bryan Stewart, John Calabro employment records immediately.** If any of these three experienced similar sequences under Platt (coverage strip, negative review, push-out), the pattern expands from 2-3 to 6+ and approaches systemic conduct. Pull their performance records, departure circumstances, and any HR complaints.
+4. **Prepare for CT coverage stripping.** If Platt strips CT, document the legitimate business reason NOW, before it happens. If there is no legitimate reason, prevent the action.
+5. **Prepare for constructive discharge theory.** Phillips confirmed pre-litigation resolution "typically towards separation." Sasha is building toward a framed resignation. Document that his working conditions are normal and comparable to peers.
+6. **Attorney retention is imminent -- two firms, two Thursday calls.** Brief the company's legal team now. If O&G takes this, the threat level increases substantially (they won the $5M JPMorgan Chase paternity verdict).
+7. **CRM audit logs for 9/5/2025** -- know what they show before subpoena.
+8. **Personal counsel for manager** -- Platt admission, national origin allegations, forecast tampering, live evidence of account-stripping intent.
+9. **Preserve all Bloomberg MSG data** -- exchanges are being screenshotted and forwarded to support team in real time.
 
 ---
 
 ## Latest Intelligence
 
-- Sasha screenshots Bloomberg MSG exchanges and forwards to support team within hours ("I really need a lawyer")
-- Support team did section-by-section legal analysis of Phillips retainer -- sophisticated preparation
-- Evidence strategy: build on iMessage + Bloomberg docs + testimony; keep WhatsApp out unless demanded in discovery
-- Sabrina's HR exit interview was "veeeerrrry honest" -- pull those notes immediately
-- Oura Ring 5-month baseline destroys the "new parenthood stress" defense -- they now have objective, timestamped biometric proof isolating causation to the Feb 17 evaluation
-- Clear Street had significant open opportunities; Platt's reluctance to assign it to Sasha suggests awareness that giving him a productive account would undermine the underperformance narrative
+- **Platt admission is a devastating jury soundbite.** "When I want to get rid of someone... I talk as much shit as I can" -- said directly to Sasha while pushing out Sam Page. Even uncorroborated (1:1), a jury hearing this quote alongside the documented pattern will find it credible.
+- **Six named Platt targets.** Sam Page, Sasha, Ryan Ron, Bryan Stewart (~15 yrs), John Calabro, plus at least one more unnamed. If even two of these six corroborate the pattern, the case becomes near-unwinnable.
+- **Anthony is a two-incident witness.** "Does your wife work?" (pre-eval, caregiver bias) + "CT coverage to be seen if you catch my drift" (real-time coverage stripping signal). Both incidents involve Sasha's protected status.
+- **O&G interest level validates case strength.** Outten & Golden does not advance past intake for weak cases. Their involvement signals top-tier plaintiff's counsel sees merit.
+- **Phillips "typically towards separation" confirms constructive discharge trajectory.** Sasha is being guided toward a framed resignation, not a fight-from-inside strategy.
+- **Sasha has scripted talking points for Thursday Phillips call.** Sophisticated, support-team-assisted preparation continues. Three unresolved retainer items will be addressed.
+- **CT strip would complete the Sam Page pattern exactly.** Coverage strip during/after leave, negative review, territory reduction to zero, push-out. If it happens, plaintiff's counsel has a template case.
 
 *Full analysis: VULNERABILITY_ASSESSMENT.md, DEFENSE_STRATEGY.md, COUNTER_NARRATIVE.md, PIP_PLAN.md, LITIGATION_PREP.md, OBSERVATION_LOG.md*
