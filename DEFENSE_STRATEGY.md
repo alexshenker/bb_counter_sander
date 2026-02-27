@@ -1,7 +1,7 @@
 # Defense Strategy
 
 **Prepared:** February 20, 2026
-**Last updated:** February 25, 2026 (Platt's admission of evaluation weaponization method, Anthony CT coverage stripping signal, Sam Page pattern upgrade)
+**Last updated:** February 27, 2026 (O&G "very strong case" at 35%, Sabrina BlackRock performance evidence, "stay and fight" scenario)
 **For:** Manager's strategic defense preparation
 **Scope:** Every allegation in the employee's case file with counter-arguments, evidence assessment, and recommended actions
 
@@ -295,18 +295,20 @@ The "carried the baby" comment alone is medium-strength (secondhand, Sabrina's r
 
 **(Updated Feb 24):** Sabrina's evidence has been substantially expanded. A full iMessage transcript is now documented in the opponent's file (iMessage_Evidence_Sasha_Sabrina.md). Key additions: (1) Dating confirmed -- her "he retaliates against people who go on leave especially men" statement is from ~September 9, 2025, 5 months before the Feb 2026 eval. She predicted the February retaliation. (2) Sabrina confirmed Platt described accounts being given to Sasha as "shitty." (3) Sabrina independently confirmed territory distribution is inequitable. (4) Sabrina confirmed Santore approves Platt's reviews and did not have her back ("Nope"). (5) Sabrina confirmed she was "veeeerrrry honest" in her HR exit interview. (6) Sabrina experienced identical mid-year review denial. She is now the strongest corroborating witness in the case. Her statements go well beyond a single hearsay comment -- she is a pattern victim with first-person experience of the same playbook.
 
+**(Updated Feb 27):** Sabrina's evidence has expanded again. On Feb 26, she texted Sasha screenshots of two internal BlackRock emails: (1) NYSTRS client praised her engagement, Mackenzie Prust emailed directors/MDs calling her "a fantastic addition to the team"; (2) GMO's CTO and COO praised her work, relayed by Nate Volpert to senior leadership. Sabrina then wrote: **"So yeah Teddy can shove everything he was trying to do to me last year up his ass."** She left Platt's team ~July 2025, joined BlackRock ~September 2025. Within 5 months, she is receiving director/MD-level client praise at a major competitor. This is devastating to the "poor performer" defense: the same employee Platt allegedly rated as underperforming is thriving under different management. The BlackRock evidence is third-party (clients have no stake in Sasha's case), making it objective proof of Sabrina's competence. The "everything he was trying to do to me" language is another unprompted, contemporaneous statement attributing her treatment to Platt's deliberate actions.
+
 **Critical caveats:**
-- Sabrina has not agreed to formally cooperate with an attorney. Texting a former colleague is not the same as sitting for a deposition.
+- Sabrina has not agreed to formally cooperate with an attorney. However, her continued voluntary communication with Sasha, willingness to share internal BlackRock documents, and open criticism of Platt suggest the gap between informal texting and formal cooperation is narrowing.
 - Her characterizations are opinions ("he retaliates," "needs someone to bully"), not proven facts.
-- She has her own grievances, creating a bias argument.
+- She has her own grievances, creating a bias argument -- though the bias argument is now weaker because her BlackRock performance proves competence independent of her feelings about Platt.
 - The HR exit interview contents are unknown -- "veeeerrrry honest" is her self-assessment.
-- Her performance file may show legitimate reasons for her PIP and departure.
+- Her Bloomberg performance file may show legitimate reasons for her PIP and departure -- but that defense is now fighting against third-party evidence of her competence at a competitor.
 
 ### The Defense
 
 1. **Sabrina has a personal axe to grind.** She experienced what she perceived as unfair treatment, resigned, and now characterizes everything through the lens of her own grievance. Her statements to a friend over iMessage are emotional venting, not objective evidence. Her "retaliates against people who go on leave especially men" statement is an opinion based on her own unhappy experience, not a factual finding.
 
-2. **Sabrina's own performance may have justified her treatment.** If Bloomberg's records show that Sabrina's PIP was based on documented, measurable performance deficiencies -- low revenue, insufficient client activity, missed targets -- then her experience is not a "pattern of retaliation" but a second employee who independently underperformed. Her departure was voluntary (she resigned to go to BlackRock); she was not fired.
+2. **Sabrina's Bloomberg performance may have justified her treatment -- but this defense is now weaker.** If Bloomberg's records show that Sabrina's PIP was based on documented, measurable performance deficiencies -- low revenue, insufficient client activity, missed targets -- then her experience is not a "pattern of retaliation" but a second employee who independently underperformed. Her departure was voluntary (she resigned to go to BlackRock); she was not fired. **Feb 27 caveat:** This defense must now contend with the fact that Sabrina is demonstrably succeeding at BlackRock. NYSTRS and GMO client praise within 5 months undermines the "she genuinely underperformed" narrative. The plaintiff will argue: she only "underperformed" under Platt because Platt engineered the underperformance, and her success at BlackRock proves it. The defense must pivot from "she was a poor performer" to "Bloomberg's standards and role demands may differ from BlackRock's" or "different team, different coverage, different role scope." This is a thinner argument.
 
 3. **The "carried the baby" comment remains hearsay.** Sabrina relaying what she says Platt said. The manager can deny it. No other witness has corroborated this specific statement.
 
@@ -332,9 +334,11 @@ The "carried the baby" comment alone is medium-strength (secondhand, Sabrina's r
 
 3. **Assess whether Sabrina will formally cooperate.** She is at BlackRock and communicating with Sasha over iMessage. But the gap between informal texting and formal legal participation is real. Defense counsel should assess the likelihood.
 
-4. **Prepare the bias defense.** If Sabrina does cooperate, the defense should be ready to challenge her credibility: she has personal grievances, she's supporting a friend, her characterizations are opinions, and her own performance file may tell a different story.
+4. **Prepare the bias defense -- but acknowledge the BlackRock limitation.** If Sabrina does cooperate, the defense should challenge her credibility: she has personal grievances, she's supporting a friend, her characterizations are opinions. However, the "poor performer" attack is now substantially weakened by the BlackRock evidence. Pivot credibility challenges toward her bias and coordination with Sasha rather than her competence. Argue that her relationship with Sasha colors her characterization of events, not that she was a bad employee.
 
 5. **Do not contact Sabrina.** Any outreach will be characterized as witness intimidation. All assessment of her potential testimony must be done through Bloomberg's own records.
+
+6. **Prepare for the BlackRock contrast.** If Sabrina testifies and presents her BlackRock performance data, Bloomberg needs to be prepared to explain why the same employee underperformed at Bloomberg but thrived at BlackRock. Possible arguments: (a) different role scope at BlackRock; (b) different client set or coverage model; (c) her departure from Bloomberg was a fresh start that re-engaged her professionally. These are available but weak -- a jury will intuitively reach the simpler conclusion that the problem was the manager.
 
 ---
 

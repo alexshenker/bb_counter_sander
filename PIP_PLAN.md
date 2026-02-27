@@ -1,7 +1,7 @@
 # Performance Improvement Plan: Design, Attack Analysis, and Strategic Assessment
 
 **Prepared:** February 20, 2026
-**Last updated:** February 25, 2026 (Platt admission of method, CT coverage stripping signal, attorney retention imminent 48-72hrs)
+**Last updated:** February 27, 2026 (O&G "very strong case" at 35%, "stay and fight" scenario, Sabrina BlackRock performance evidence)
 **For:** Manager's strategic defense preparation
 **Employee:** Aleksandr "Sasha" Akulov, ETS-Listed AMER South
 **Tenure:** ~13.5 years (start June 11, 2012)
@@ -119,6 +119,32 @@ Sasha's case file now contains a direct statement attributed to Platt (~2022): *
 If the PIP can be summarized as "here's what we need and here's how we'll help you get there," it survives the admission. If it can be summarized as "here's an impossible bar designed to justify firing," the admission destroys it. A plaintiff's attorney will put these two sentences side by side in front of a jury: Platt's description of how he removes people, and the PIP's terms. They must not match.
 
 **Impact on Section 6 analysis:** This admission materially strengthens the argument against implementing a PIP at all. See Section 6.1 for the updated factors.
+
+### 1.7 The "Stay and Fight" Scenario Creates a New PIP Risk Category *(Added Feb 27)*
+
+On February 26, Outten & Golden attorney Nina told Sasha he **can stay at Bloomberg** and that Bloomberg "might offer him more to leave" once the case is in motion. This is a fundamentally different posture from Phillips' separation-oriented approach. If Sasha signs with O&G, the PIP will be implemented against an employee who is:
+
+1. **Represented by the firm that won the $5M Rotondo paternity leave settlement.**
+2. **Intentionally remaining at Bloomberg to generate evidence.**
+3. **Having every management interaction reviewed by counsel in real time.**
+
+**What this means for the PIP:**
+
+- **Every PIP document becomes a litigation exhibit from day one.** The PIP itself, every checkpoint note, every coaching session summary, every metric report -- all of it will be reviewed by O&G before Sasha responds and will be used in discovery.
+- **Every checkpoint meeting is a potential deposition-prep session.** Sasha will know what questions are coming because his attorney will tell him. His self-assessments at checkpoints will be attorney-drafted to create favorable evidence.
+- **The manager cannot have a genuine coaching conversation.** Every word Platt says in a PIP checkpoint will be relayed to O&G. Platt must assume everything he says is being recorded (if Sasha is in a one-party consent state) or immediately documented and forwarded.
+- **If Sasha passes the PIP, the case becomes "even the PIP couldn't hide his competence."** If he fails, it's "the PIP was designed to fail, exactly as Platt described his method."
+- **If Sasha is terminated after a PIP failure, the damages model shifts from "hostile work environment and lost compensation" to "wrongful termination + back pay + front pay + emotional distress."** O&G's "stay and fight" advice means a termination during representation dramatically increases damages.
+
+**The PIP is now a lose-lose proposition under the "stay and fight" scenario:**
+
+| PIP Outcome | Plaintiff's Argument | Company's Position |
+|---|---|---|
+| Sasha passes | "He proved he could perform despite Platt's sabotage. The PIP confirms the evaluations were pretextual." | Marginally better -- at least the PIP was genuine. But the underlying claims remain. |
+| Sasha fails | "Platt executed his admitted method: 'talk as much shit as I can.' The PIP was the final step in the strip-evaluate-PIP-fire playbook, identical to Sam Page." | Defensible only if the PIP was scrupulously fair, coverage was equalized, and the failure is documented in system data. The Platt admission makes this much harder. |
+| Sasha is terminated | "Retaliation confirmed. Fired for exercising leave rights, represented by counsel, under a pretextual PIP. Full back pay, front pay, emotional distress, and punitive damages." | Worst outcome. Termination of a represented employee under these facts is extremely difficult to defend. |
+
+**Recommendation:** The "stay and fight" scenario dramatically strengthens the argument against implementing a PIP at all. If Sasha is represented by O&G and has been told to stay, a PIP serves the plaintiff's interests more than the company's. See Section 6 for the full alternative analysis.
 
 ---
 
@@ -574,9 +600,9 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 *Disadvantages:* No formal accountability mechanism. If the employee is building a case, the absence of a PIP does not stop the lawsuit. The employee's claims are based on the evaluations, coverage stripping, and manager statements -- none of which require a PIP to be actionable. The PIP, if it existed and the employee failed it, would actually provide the company with a performance-based justification for any eventual separation.
 
-### 6.4 Recommendation *(Updated Feb 25)*
+### 6.4 Recommendation *(Updated Feb 27)*
 
-**Do not implement a formal PIP before Q3 2026 at the earliest -- and strongly consider not implementing one at all. The Platt admission, CT coverage stripping signal, and imminent attorney retention have collectively shifted the calculus further against a PIP. Pursue Option 2 (coverage restoration with clear expectations) as the primary approach, combined with elements of Option 3 (monitored observation with documentation).**
+**Do not implement a formal PIP. The "stay and fight" scenario, O&G as likely counsel, Sabrina BlackRock evidence, Platt admission, CT coverage stripping signal, and effective attorney retention have collectively made a PIP more dangerous than beneficial. Pursue Option 2 (coverage restoration with clear expectations) as the primary approach, combined with elements of Option 3 (monitored observation with documentation).**
 
 **Rationale:**
 
@@ -594,11 +620,15 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 7. **Time favors the defense on this specific issue.** The longer the gap between leave return and PIP, the weaker the temporal proximity argument. Every month that passes without a PIP reduces the retaliation inference. If the PIP must come, it is far better at month 6 than month 3.
 
-8. *(Added Feb 25)* **The Platt admission makes any PIP a litigation centerpiece.** Platt's statement -- "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can" -- will be Exhibit A next to any PIP document. The evaluation can be characterized as the "talking shit" phase. The PIP becomes the "getting rid of" phase. This admission alone may not foreclose a PIP, but it raises the bar for PIP design to a level that may be practically unachievable: the PIP must be so fair, so well-supported, and so genuinely oriented toward improvement that no reasonable person could see it as the execution of the described method. Given everything else in this case -- coverage stripping, Sam Page pattern, Sabrina corroboration, mid-year review denial -- reaching that bar may not be possible.
+8. *(Added Feb 27)* **The "stay and fight" scenario makes the PIP a lose-lose.** O&G told Sasha to stay at Bloomberg. If a PIP is implemented, it will be reviewed by O&G counsel in real time. Every checkpoint meeting is a coached event. Every document is a pre-analyzed exhibit. If Sasha passes, the plaintiff argues the evaluations were pretextual. If Sasha fails, the plaintiff argues the PIP was the final step in the admitted playbook. If Sasha is terminated, damages escalate to wrongful termination (back pay, front pay, emotional distress, punitive). There is no PIP outcome that favors the defense under these conditions. See Section 1.7 for the full analysis.
+
+9. *(Added Feb 27)* **Sabrina's BlackRock evidence strengthens the "engineered failure" narrative.** Sabrina -- allegedly a poor performer under Platt -- is demonstrably succeeding at BlackRock within 5 months. If a PIP is implemented and Sasha fails it, plaintiff's counsel will argue: "The same thing happened to Sabrina. She 'underperformed' under this manager, left, and immediately thrived. The PIP didn't measure performance -- it measured whether this manager wanted you to succeed."
+
+10. *(Added Feb 25)* **The Platt admission makes any PIP a litigation centerpiece.** Platt's statement -- "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can" -- will be Exhibit A next to any PIP document. The evaluation can be characterized as the "talking shit" phase. The PIP becomes the "getting rid of" phase. This admission alone may not foreclose a PIP, but it raises the bar for PIP design to a level that may be practically unachievable: the PIP must be so fair, so well-supported, and so genuinely oriented toward improvement that no reasonable person could see it as the execution of the described method. Given everything else in this case -- coverage stripping, Sam Page pattern, Sabrina corroboration, mid-year review denial -- reaching that bar may not be possible.
 
 9. *(Added Feb 25)* **CT coverage stripping would permanently foreclose the PIP option.** If Connecticut is stripped, Sasha has zero territory. A PIP requiring revenue from zero territory is not performance management. It is a termination mechanism. The Anthony statement signals this is under discussion. If it happens, the PIP analysis in this document becomes academic.
 
-**If a PIP becomes necessary after Q3 2026,** it should follow the model in Section 2, with every prerequisite in Section 1 met, every attack in Section 3 armored against, and every prohibition in Section 5 observed. The PIP should be co-administered by HR, use system-generated metrics that the manager cannot manipulate, and include genuine support provisions that are actually provided and documented.
+**If a PIP becomes necessary after Q3 2026 despite the above,** it should follow the model in Section 2, with every prerequisite in Section 1 met (including Section 1.7 -- the "stay and fight" analysis), every attack in Section 3 armored against, and every prohibition in Section 5 observed. The PIP should be co-administered by HR, use system-generated metrics that the manager cannot manipulate, and include genuine support provisions that are actually provided and documented. Under the "stay and fight" scenario, the PIP must also be designed assuming O&G counsel will review it before Sasha responds and will use every element of it in discovery. This means the standard is not "would this survive judicial review" but "would this survive being presented side-by-side with Platt's admission, Sabrina's BlackRock success, the coverage disparity data, and the Sam Page pattern in front of an NYC jury."
 
 **If the CRM audit trail confirms the forecast tampering allegation,** a formal PIP should not be implemented under any timeline. The company's strategic posture should shift entirely to settlement preparation (see LITIGATION_PREP.md Section 7). The manager's position within the company becomes a separate question that Bloomberg will need to address independently of the employee's case.
 

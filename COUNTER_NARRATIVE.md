@@ -1,7 +1,7 @@
 # Counter-Narrative: The Company's Version of Events
 
 **Prepared:** February 20, 2026
-**Last updated:** February 25, 2026 (Platt "admission of method" allegation, Anthony CT coverage overheard, expanded Sam Page pattern targets)
+**Last updated:** February 27, 2026 (O&G "very strong case" at 35%, Sabrina BlackRock performance evidence, "stay and fight" scenario)
 **Purpose:** The coherent, unified account defense counsel would present to a judge or jury. This is the company's story of what happened and why.
 
 ---
@@ -226,6 +226,10 @@ Critically, Sabrina's formal willingness to cooperate with a plaintiff's attorne
 
 **Sabrina's departure and expanded statements.** Sabrina Sparapani departed Bloomberg in mid-2025 for a position at BlackRock. Like many departing employees, she expressed dissatisfaction with aspects of her experience during her exit. Her characterization of territory distribution as inequitable reflects a subjective assessment -- territory allocation involves multiple factors including client relationships, geographic proximity, product expertise, and business development history that are not visible from any single team member's vantage point. Her statement that the manager "retaliates against people who go on leave especially men" is a personal opinion formed during a period of professional transition, not a factual observation supported by data. Bloomberg takes all exit interview feedback seriously, and any concerns raised through that process are reviewed by HR in the normal course.
 
+**Sabrina's success at BlackRock does not invalidate her Bloomberg evaluations.** The plaintiff will present Sabrina's early performance at BlackRock -- client praise from NYSTRS and GMO within approximately five months of starting -- as evidence that her Bloomberg treatment was retaliatory. This comparison is superficial. BlackRock is a different firm with different clients, different coverage expectations, and different performance standards. Sabrina joined BlackRock with a fresh portfolio and fresh relationships, free of the history and context that informed her Bloomberg evaluations. An employee who underperforms in one environment and succeeds in another is not unusual -- it may reflect a better fit for the new role, different management expectations, a reset in professional engagement, or simply the energy that comes from a new start. It does not retroactively prove that her Bloomberg evaluations were pretextual.
+
+Furthermore, Sabrina's BlackRock performance is measured over five months. Initial client praise during a honeymoon period at a new firm does not establish sustained performance. Her Bloomberg evaluations reflected years of observation. Comparing five months of early tenure at a new company to multi-year evaluations at a previous employer is not an apples-to-apples analysis.
+
 ---
 
 ## The Sam Page Comparison Is Speculative
@@ -394,7 +398,7 @@ As for the plaintiff's voluntary engagement during leave: that is commendable, a
 
 **The Clear Street exchange.** The narrative frames this as routine management oversight. The vulnerability is the "I thought I had reassigned to Tommy" statement, which suggests intent to strip the account. If Tommy was never actually assigned, this admission is difficult to contextualize.
 
-**Sabrina's expanded testimony.** The narrative addresses Sabrina as a dissatisfied departing employee. The vulnerability is the specificity and accuracy of her predictions -- she predicted the February retaliation 5 months in advance. If her prediction came true exactly as she described, the "subjective personal opinion" framing becomes harder to maintain.
+**Sabrina's expanded testimony and BlackRock performance.** The narrative addresses Sabrina as a dissatisfied departing employee. The vulnerability is threefold: (1) the specificity and accuracy of her predictions -- she predicted the February retaliation 5 months in advance; (2) her BlackRock performance (NYSTRS and GMO client praise within 5 months) directly contradicts the "poor performer" characterization and will resonate powerfully with a jury; (3) her continued voluntary communication with Sasha and open criticism of Platt ("Teddy can shove everything he was trying to do to me last year up his ass") suggests increasing willingness to cooperate. The "different firm, different standards" rebuttal is available but thin -- a jury will reach the simpler conclusion that the problem was the manager.
 
 **Oura Ring baseline data.** The narrative frames February stress as return-to-work and evaluation-season pressure. The vulnerability is devastating: 5 months of flat stress readings (Sep-Jan) with a newborn at home, then a 50% spike exclusively in February. The employee returned to work January 1 -- if return-to-work was the cause, January would show the spike, not February. The evaluation was delivered February 17. The jury inference is simple and the defense framing is thin.
 
