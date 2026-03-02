@@ -1,9 +1,9 @@
 # Litigation Preparation
 
 **Prepared:** February 20, 2026
-**Last updated:** February 27, 2026 (O&G "very strong case" at 35%, Sabrina BlackRock performance evidence, "stay and fight" scenario)
+**Last updated:** March 2, 2026 (O&G follow-up call TODAY, Wigdor LLP interested, Platt work phone discovery implications, RFQe revenue manipulation, Jake Sung internal disclosure, attorney briefing document prepared)
 **For:** Manager's strategic defense preparation
-**Status:** Pre-litigation -- no complaint filed. Attorney selection imminent. **Outten & Golden:** Nina spoke with Sasha Feb 26 -- "very strong case," 35% contingency, $1,500 consultation waived. Follow-up Monday March 2. Told Sasha he can stay at Bloomberg -- "stay and fight" posture. **Phillips & Associates:** 40% non-negotiable, pre-litigation only, three items unresolved. O&G is the clear frontrunner. **CRITICAL: O&G won the $5M Rotondo settlement for paternity leave discrimination -- nearly identical fact pattern.** If O&G handles full litigation at 35%, this is the worst-case opposing counsel scenario. **Platt admitted his method** (~2022). **Anthony signals CT coverage stripping** (Feb 25). **Sabrina thriving at BlackRock** -- NYSTRS and GMO client praise within 5 months, destroying "poor performer" credibility attack (Feb 26).
+**Status:** Pre-litigation -- no complaint filed. Attorney retention expected THIS WEEK. **Outten & Golden:** Follow-up call with Sasha scheduled TODAY (March 2). "Very strong case," 35% contingency. "Stay and fight" posture. O&G remains the frontrunner. **Phillips & Associates:** 40% non-negotiable, pre-litigation only, three items unresolved. **Wigdor LLP:** Third firm interested (Feb 27). Known for aggressive representation and large verdicts against financial institutions. Three competing firms signals high case value. **CRITICAL: O&G won the $5M Rotondo settlement for paternity leave discrimination -- nearly identical fact pattern.** If O&G handles full litigation at 35%, this is the worst-case opposing counsel scenario. **Platt admitted his method** (~2022). **Anthony signals CT coverage stripping** (Feb 25). **Sabrina thriving at BlackRock** -- NYSTRS and GMO client praise within 5 months, destroying "poor performer" credibility attack (Feb 26). **NEW: Platt uses only Bloomberg work phone -- no personal device. All communications on employer-owned infrastructure. Discovery scope expands dramatically.** **NEW: Jake Sung (internal Bloomberg employee) informed of potential legal action. Bloomberg may learn informally. Any adverse action after learning = additional retaliation.** **NEW: 190-line attorney briefing document + PDF prepared for consultations. Opponent is fully prepared for today's O&G call.**
 **Jurisdiction:** Southern District of New York (federal claims); New York Supreme Court, New York County (state/city claims)
 
 ---
@@ -311,6 +311,19 @@ The following requests should be anticipated. For each, an assessment of how dam
 - **Privilege:** None.
 - **ACTION REQUIRED: Identify Anthony's full name immediately to scope this request.**
 
+**Request 24 (Added March 2): A complete forensic image or production of all data from the Bloomberg-issued mobile device assigned to the manager (Teddy Platt), including all text messages, call logs, voicemails, application data, and messaging platform content, from January 2023 through the present.**
+
+- **Damage Assessment: POTENTIALLY DEVASTATING.** Intelligence confirms that Platt uses only his Bloomberg-issued work phone and does not carry a personal device. This means every text message, every phone call log, and every communication Platt has sent or received is stored on Bloomberg-owned infrastructure. Bloomberg cannot argue that relevant communications are on a personal device outside the scope of discovery. If Platt texted anyone about Sasha, about leave-takers, about pushing employees out, about coverage stripping plans, or about any of the attributed verbal statements, it is all on Bloomberg's servers. Plaintiff's counsel will demand a full forensic search of this device and its associated server-side records. The scope is comprehensive: every communication channel on the device, not just Bloomberg MSG.
+- **Privilege:** None for substantive communications. Bloomberg may attempt to withhold IT metadata on administrative grounds, but the content of all messages and calls is standard business records. If Platt communicated with in-house counsel via the device, those specific communications may be privileged, but the rest is not.
+- **Why this is different from other e-discovery:** Most discovery requests target specific systems (email, MSG, CRM). This request targets the single device that captures ALL of Platt's communications across every platform. It eliminates any gap between "what Platt said in writing" and "what can be found." If there is a text to Santore venting about Sasha's leave, a text to a peer about pushing someone out, or a call log showing contact with Sam Page around the time of his departure, it is all discoverable from this one source.
+- **ACTION REQUIRED: Issue litigation hold for Platt's work phone records IMMEDIATELY. Bloomberg IT must preserve all data associated with this device. This is now the single most important preservation target. If any auto-purge or device rotation destroys these records, the spoliation inference will be catastrophic.**
+
+**Request 25 (Added March 2): All records relating to RFQe revenue booking for Aleksandr Akulov, including but not limited to: the $30K+ RFQe revenue generated in late 2025 but booked in January 2026, the authorization for the January booking date, the standard practice for RFQe revenue recognition timing, and any communications about when to book this revenue.**
+
+- **Damage Assessment: HIGH.** This is now the second alleged instance of revenue timing manipulation affecting the employee. Revenue generated in 2025 but booked in January 2026 reduces the employee's 2025 numbers (supporting the "underperformance" narrative for the year-end evaluation) while shifting it into 2026 (where it does not help his 2025 case). If the booking timing was non-standard or discretionary, it supports the "engineered failure" narrative: the manager suppressed 2025 numbers and then evaluated the employee as an underperformer based on those suppressed numbers. Combined with the 9/5/2025 "dupe" forecast closure allegation, this creates a pattern of manipulating the employee's metrics.
+- **Privilege:** None. Standard business records.
+- **ACTION REQUIRED: Determine Bloomberg's standard RFQe revenue recognition policy. When is RFQe revenue typically booked -- at generation, at settlement, at a periodic cutoff? Was the January booking consistent with policy or an exception? Who authorized the booking date? If it was Platt's discretion, this is another piece of the metrics manipulation narrative.**
+
 ### 2.2 Interrogatories (Anticipated)
 
 1. Identify all employees under the manager's direct supervision who took parental leave of four or more months since January 2018, and for each, state the leave duration, pre-leave evaluation rating, post-leave evaluation rating, and any subsequent PIP or separation.
@@ -332,6 +345,8 @@ The following requests should be anticipated. For each, an assessment of how dam
 17. *(Added Feb 25)* State whether Ryan Ron, Bryan Stewart, and John Calabro were employees under the manager's direct supervision. For each, identify the dates of employment, whether they took parental leave (and if so, the duration), their pre-departure evaluation ratings, whether they were placed on a PIP, and the circumstances of their departure from Bloomberg.
 18. *(Added Feb 25)* Identify any conversation in which the manager described his approach to evaluating or removing employees, including but not limited to any statement to the effect of "talking as much shit as I can" about employees he wanted to remove.
 19. *(Added Feb 25)* Identify the full name and role of the manager referred to as "Anthony" who is a manager on a separate team, and state whether Anthony participated in any stack ranking or calibration session that included Aleksandr Akulov's ranking, and whether Anthony had any knowledge of or involvement in decisions regarding Aleksandr Akulov's coverage assignments.
+20. *(Added March 2)* Identify the mobile device(s) assigned to the manager (Teddy Platt) by Bloomberg, including device type, number, and all communication applications installed. State whether the manager carries a personal mobile device in addition to the Bloomberg-issued device. Produce all text messages, call logs, and messaging application data from the Bloomberg-issued device from January 2023 through the present.
+21. *(Added March 2)* Describe Bloomberg's standard practice for RFQe revenue recognition timing. Specifically: when RFQe revenue is generated in one calendar year, state the standard policy for when that revenue is booked. Identify who authorized the booking of $30K+ in RFQe revenue generated by Aleksandr Akulov in late 2025 to January 2026 instead of 2025, and state whether this timing was consistent with standard practice or an exception.
 
 ### 2.3 Depositions (Anticipated)
 
@@ -348,6 +363,7 @@ Plaintiff's counsel will seek to depose at minimum:
 9. *(Added Feb 23)* **Bryan Baptist** -- Will be asked about the "Rahul" misnaming, the manager's use of "Comrade" with the employee, coverage redistribution when he left (and the employee's exclusion), and general observations about the manager's treatment of team members.
 10. *(Added Feb 25)* **Ryan Ron, Bryan Stewart, John Calabro** -- If located and cooperative. Named by Platt as targets of his admitted evaluation-weaponization method. Will be asked about their experience under Platt: evaluations, coverage changes, PIPs, departures. Bryan Stewart's ~15 years at Bloomberg makes his testimony particularly significant. If any corroborates the pattern, the case expands to serial conduct.
 11. *(Added Feb 25)* **Anthony [last name TBD]** -- Two-incident witness. Will be asked about the "does your wife work?" question, the "Connecticut coverage to be seen if you catch my drift" statement, his visibility into stack ranking sessions, and any conversations with Platt about Sasha's coverage or employment status.
+12. *(Added March 2)* **Jake Sung** -- Internal Bloomberg employee whom Sasha told he is "thinking about" legal action. Will be asked: what exactly did Sasha tell him, when, who else he told (if anyone), and whether any Bloomberg manager or HR representative subsequently learned about Sasha's legal intentions through him. If Bloomberg took any adverse action after learning of legal plans through Sung (directly or indirectly), Sung's testimony establishes the causal chain for an additional retaliation claim.
 
 ### 2.4 Electronic Discovery
 
@@ -360,7 +376,8 @@ Plaintiff's counsel will seek to depose at minimum:
 - Bloomberg CRM / coverage assignment system
 - Bloomberg recruiting system (job postings, requisitions)
 - Bloomberg performance management portal
-- Manager's personal devices (if Bloomberg brings a BYOD counterclaim or if the manager used personal devices for work communications)
+- **Manager's Bloomberg-issued work phone** *(Added March 2)* -- **CRITICAL NEW DISCOVERY TARGET.** Intelligence confirms Platt carries only a Bloomberg work phone and no personal device. This means ALL of Platt's mobile communications -- text messages, phone calls, any messaging app data -- are on Bloomberg-owned infrastructure. This is the single most comprehensive discovery source in the case. A forensic image of this device (or its server-side records) will capture everything Platt has communicated outside of email and MSG. Plaintiff's counsel will demand a full forensic search. Bloomberg cannot argue that relevant communications are on an inaccessible personal device.
+- Manager's personal devices -- Per the intelligence above, Platt does not carry a personal phone. This eliminates the typical "personal device" discovery gap but also eliminates any defense argument that relevant communications are outside Bloomberg's control. Every communication is on Bloomberg infrastructure.
 
 **Date ranges:** January 2018 through the present. The extended date range is necessary to capture Sam Page's tenure, the manager's full management history, and baseline evaluation data.
 
@@ -381,6 +398,8 @@ Plaintiff's counsel will seek to depose at minimum:
 - *(Added Feb 24)* "Clear Street" or "clear street"
 - *(Added Feb 24)* "Tommy" (in context of account assignment or reassignment)
 - *(Added Feb 24)* "assign" or "reassign" combined with employee name or account names
+- *(Added March 2)* "RFQe" combined with "booking" or "revenue" or "Akulov"
+- *(Added March 2)* "Jake Sung" or "Sung" (in context of the employee or legal action)
 
 ---
 
@@ -410,6 +429,7 @@ A litigation hold must be issued immediately. The employee's case file reveals a
 | **Bloomberg MSG System Administrator** *(Added Feb 24)* | **Technical** | **All MSG threads involving the manager with the employee and all team members. The MSG system contains timestamped, enterprise-stored exchanges that are now active evidence. Specifically: Feb 24, 2026 Clear Street exchange.** |
 | **Ryan Ron, Bryan Stewart, John Calabro (employment records)** *(Added Feb 25)* | **Former employees** | **Named by the manager as targets of his admitted evaluation-weaponization method. Their entire employment files -- evaluations, PIPs, coverage assignments, separation agreements, departure documentation, and any complaints. These records must be preserved before the plaintiff's attorney subpoenas them.** |
 | **Anthony [last name TBD]** *(Added Feb 25)* | **Manager, separate team** | **Two-incident witness. All communications between Anthony and the manager, and any management meeting notes or agendas where Sasha's coverage assignments were discussed. Stack ranking session documentation involving Anthony.** |
+| **Jake Sung** *(Added March 2)* | **Internal Bloomberg employee** | **Sasha disclosed to Sung that he is "thinking about" legal action. Sung is a potential conduit through which Bloomberg management or HR may learn about the complaint before formal notice. All communications between Sung and any manager, HR representative, or other Bloomberg employee referencing Sasha, legal action, or the employee's situation must be preserved. If Bloomberg takes any adverse action after information flows through Sung, the chain of knowledge is directly relevant.** |
 
 ### 3.3 Systems to Preserve
 
@@ -429,6 +449,8 @@ A litigation hold must be issued immediately. The employee's case file reveals a
 | **HR Exit Interview Records** *(Added Feb 21)* | **Sabrina Sparapani's exit interview notes, interviewer identity, typed summaries, electronic records** | **Jul 2025** |
 | **Santore Communications** *(Added Feb 21)* | **All communications between Santore and the manager, and between Santore and HR, regarding the employee, leave policies, evaluations, and Sabrina** | **Jan 2023 - present** |
 | **Bloomberg MSG System** *(Added Feb 24)* | **All MSG threads to/from the manager, the employee, and all team members. Includes message content, timestamps, read receipts, attachments (GRABs), and metadata.** | **Jan 2023 - present** |
+| **Manager's Bloomberg-Issued Work Phone** *(Added March 2)* | **Complete forensic preservation of all data on Platt's Bloomberg work phone: text messages (SMS/iMessage/any platform), call logs, voicemails, app data, messaging platform content. Platt carries no personal device -- this phone captures ALL mobile communications. Server-side records (carrier logs, cloud backups) must also be preserved.** | **Jan 2018 - present** |
+| **RFQe Revenue Booking Records** *(Added March 2)* | **All RFQe booking records for Aleksandr Akulov, including revenue generation dates, booking dates, who authorized the booking date, and standard vs. actual practices for RFQe revenue recognition timing. Specifically: the $30K+ generated late 2025, booked January 2026.** | **Jan 2025 - present** |
 
 ### 3.4 What Must NOT Be Done
 
@@ -761,6 +783,34 @@ Anthony may know: Sasha's ranking in the collective stack ranking sessions; whet
 - **Do NOT contact any of them.** Any outreach will be characterized as witness intimidation, especially given that the defense knows their names from the plaintiff's case file.
 - If their files show legitimate, well-documented performance management unrelated to leave or Platt's admitted method, prepare those files as rebuttal evidence.
 
+### 4.11 Jake Sung (Internal Bloomberg Employee -- Potential Disclosure Conduit) *(Added March 2)*
+
+**Context:** Sasha told Jake Sung, an internal Bloomberg employee, that he is "thinking about" taking legal action. This is the first known disclosure of legal intentions to anyone inside Bloomberg (other than the support network). Sung is not a witness to any of the underlying events. His significance is as a potential conduit: if word of Sasha's legal plans reaches Bloomberg management or HR through Sung (directly or through a chain of internal conversations), and Bloomberg subsequently takes any adverse action, Sung's disclosure becomes the critical link establishing that Bloomberg knew about the legal threat and retaliated in response.
+
+**What he likely knows:** Only what Sasha told him -- that he is considering legal action. He may know some of the underlying facts if Sasha provided context, but the level of detail is unknown. He does not have access to the case file or the support network's strategy.
+
+**What he might say under oath:** Sung will be asked exactly what Sasha told him, when, who else was present, and whether he repeated the information to anyone. If he told a colleague, a manager, or an HR representative, plaintiff's counsel will trace the chain to determine whether Bloomberg's decision-makers learned about the legal threat.
+
+**Key questions he will face:**
+- "When did Aleksandr Akulov tell you he was considering legal action?"
+- "What exactly did he say?"
+- "Did you tell anyone else about this conversation? Who? When?"
+- "Did you discuss this with any manager, HR representative, or anyone in a supervisory role?"
+- "After that conversation, did you observe any change in how Mr. Akulov was treated?"
+
+**Risks he creates:**
+- If Sung repeated the information to anyone in management and Bloomberg subsequently took adverse action (PIP, further coverage stripping, termination), the plaintiff gains an additional retaliation theory: retaliation not just for taking leave, but for threatening legal action. Protected activity retaliation under NYCHRL and FMLA.
+- If Bloomberg can be shown to have known about the legal threat through Sung and then escalated adverse treatment, the temporal proximity between disclosure and adverse action is devastating.
+- Even if Sung kept the information to himself, plaintiff's counsel may argue that the disclosure itself shows the hostile work environment was severe enough that the employee felt compelled to warn colleagues he might sue.
+- Sung is a current Bloomberg employee. His willingness to testify honestly may be affected by his employment status. If he is pressured not to cooperate, that becomes a separate obstruction issue.
+
+**Preparation needs:**
+- **Determine whether Sung has already told anyone inside Bloomberg.** If the information has spread, the defense must immediately freeze all pending adverse actions against Sasha until counsel can assess whether they would appear retaliatory in light of Bloomberg's knowledge.
+- **Do NOT instruct or suggest to Sung that he should not cooperate with any legal process.** Any such instruction becomes witness tampering.
+- **Add Sung to the litigation hold custodian list.** All communications between Sung and any Bloomberg employee referencing Sasha, legal action, or the employee's situation must be preserved.
+- **Prepare for the scenario where Bloomberg management learns of legal plans informally.** If Platt or Santore hear through the grapevine that Sasha is "talking to lawyers," any change in their behavior toward Sasha after that point becomes evidence. Counsel must instruct Platt and Santore that their treatment of Sasha must not change regardless of what they hear from informal channels.
+- **Monitor for any adverse action following the Sung disclosure.** If a PIP, a coverage change, or any negative decision follows within weeks of Bloomberg learning about Sasha's legal plans (through Sung or otherwise), the defense has a new and independent retaliation theory to contend with.
+
 ---
 
 ## Section 5: Deposition Risks -- The Manager's Deposition
@@ -990,7 +1040,29 @@ The plaintiff will present 6 months of Oura Ring data showing flat stress during
 
 If the manager testifies that the employee's stress was caused by becoming a new parent, plaintiff's counsel will produce the baseline data on the spot and ask: "If caring for a newborn caused Mr. Akulov's stress, why was his stress flat for the five months he was caring for that newborn? Why did it spike only in the month you delivered his evaluation?" There is no good answer. The manager must be instructed to avoid this line of defense entirely. If asked about the health data, the manager should decline to speculate about medical data he has not reviewed and has no expertise to interpret.
 
-### 5.13 Demeanor Risks
+### 5.15 The Work Phone Questions *(Added March 2)*
+
+**Q37:** "Mr. Platt, do you carry a personal cell phone?"
+- **Risk:** If Platt confirms he only uses a Bloomberg device, plaintiff's counsel has established that every communication is discoverable. If Platt claims he has a personal phone that contradicts the intelligence, he may be impeached with testimony from team members who know he only carries the work phone.
+
+**Q38:** "So every text message, every phone call you have made or received since you received this Bloomberg device is stored on Bloomberg infrastructure. Correct?"
+- **Risk:** Establishes the scope of what is available. Any claim that "I don't have those texts" or "I don't remember" is undermined by the fact that the records exist and can be produced.
+
+**Q39:** "Did you ever text anyone about Mr. Akulov's parental leave? About his performance? About his coverage? About whether he might leave the company?"
+- **Risk:** If he says no, the forensic analysis will verify. If he says yes or "I don't recall," plaintiff's counsel will demand the full forensic image. Either answer leads to production.
+
+### 5.16 The RFQe Revenue Questions *(Added March 2)*
+
+**Q40:** "Mr. Akulov generated over $30,000 in RFQe revenue in late 2025. That revenue was booked in January 2026 instead of 2025. Were you aware of that?"
+- **Risk:** If Platt was aware, he approved or acquiesced to a booking that reduced Sasha's 2025 numbers. If Platt was not aware, the question is who controlled the timing and whether it was standard practice.
+
+**Q41:** "If that $30,000 had been booked in 2025, it would have increased Mr. Akulov's 2025 revenue figure. Would it have changed your assessment of his performance?"
+- **Risk:** Forces Platt to either admit the revenue matters (undermining the evaluation) or dismiss it as immaterial (contradicting the evaluation's emphasis on revenue as a performance metric). There is no clean answer.
+
+**Q42:** "Is this the second time Mr. Akulov's revenue figures were affected by unusual timing? We also have the September 5 forecast closure."
+- **Risk:** Establishes the pattern. Two separate instances of metrics being manipulated in ways that reduce the employee's numbers is far more damaging than one.
+
+### 5.17 Demeanor Risks *(renumbered from 5.13)*
 
 Beyond the content of answers, the manager's demeanor under questioning about parental leave will be closely observed. If the manager:
 
@@ -1169,7 +1241,13 @@ Beyond the content of answers, the manager's demeanor under questioning about pa
 
 **Oura baseline impact on damages (Added Feb 24):** The Oura baseline data strengthens the emotional distress damages component. Objective device data isolating causation to the evaluation makes emotional distress damages more likely to be awarded and harder to minimize. Five months of flat stress while caring for a newborn, followed by a 50% spike correlating exclusively with the manager's evaluation, is the kind of clean before/after evidence that juries find compelling. This is not self-reported -- it is sensor-recorded biological data with timestamps that cannot be retroactively altered. This may add $25K-$75K to settlement value and makes minimization of emotional distress damages significantly harder at trial.
 
-**Opposing counsel scope note (Updated Feb 27):** Phillips is pre-litigation only (Section 11 -- drops at RTS). However, O&G is now the frontrunner. If O&G handles full litigation at 35%, there is no pre-litigation handoff vulnerability for the plaintiff. Bloomberg would face a single firm from demand letter through trial -- a firm that obtained the $5M Rotondo settlement for paternity leave discrimination. The narrow pre-litigation settlement window that Phillips' limitations created may no longer exist.
+**Opposing counsel scope note (Updated March 2):** Three firms are now actively interested:
+
+- **Outten & Golden (frontrunner):** Follow-up call with Sasha TODAY (March 2). "Very strong case" assessment, 35% contingency. "Stay and fight" advice. O&G won the $5M Rotondo settlement for paternity leave discrimination. If retained, Bloomberg faces a nationally known firm with pattern-case expertise from demand letter through trial.
+- **Phillips & Associates:** 40% non-negotiable, pre-litigation only (Section 11 -- drops at RTS). Three items unresolved. Phillips obtained $1.8M Pardovani verdict.
+- **Wigdor LLP (new -- Feb 27):** Third firm competing. Wigdor is known for aggressive representation, large verdicts, and high-profile cases against major financial institutions (Goldman Sachs, JPMorgan, Bloomberg itself). Wigdor's involvement signals that the case is being evaluated at the top tier of plaintiff's employment firms in New York. Three firms independently interested in representation on contingency is an external market validation of case strength. If Wigdor competes with O&G for retention, both firms may offer more aggressive terms or strategies to win the engagement.
+
+The three-firm competition has strategic implications for Bloomberg. First, it eliminates any possibility that a single firm passed on the case -- three independent evaluations all concluded the case has value. Second, if O&G does not take the case for any reason, Wigdor is a comparable threat. Third, the competitive dynamic may push whichever firm is retained toward more aggressive initial demands to justify their selection. The narrow pre-litigation settlement window that Phillips' limitations created no longer exists regardless of which firm is retained.
 
 **Feb 24 retainer response intelligence -- impact on settlement calculus:**
 
@@ -1179,7 +1257,7 @@ Beyond the content of answers, the manager's demeanor under questioning about pa
 
 3. **O&G is now the frontrunner, not Phillips.** O&G's "very strong case" assessment, 35% fee, and "stay and fight" advice represent a worse outcome for Bloomberg than Phillips. O&G obtained the $5M Rotondo settlement for paternity leave discrimination. They have pattern-case expertise. If they handle full litigation, Bloomberg faces a nationally known firm from demand letter through trial at a lower fee than Phillips. The competitive pressure between firms has resolved largely in O&G's favor.
 
-4. **Pre-litigation window is nearly closed.** O&G follow-up is Monday March 2. Once Sasha signs (likely within days of that call), a demand letter or agency filing could follow within 2-4 weeks. Bloomberg's window for proactive investigation and settlement positioning is measured in days, not weeks.
+4. **Pre-litigation window is nearly closed.** O&G follow-up is TODAY (March 2). Once Sasha signs (likely within days of this call), a demand letter or agency filing could follow within 2-4 weeks. Bloomberg's window for proactive investigation and settlement positioning is measured in days, not weeks.
 
 **Feb 27 impact on settlement calculus -- O&G and Sabrina BlackRock:**
 
@@ -1194,6 +1272,28 @@ Beyond the content of answers, the manager's demeanor under questioning about pa
 - **Middle:** $700K-$1.5M (O&G's Rotondo expertise, Sabrina cooperation with armored credibility, "stay and fight" pressure)
 - **High end:** $1.5M-$3M+ (Sam Page corroborates, national origin sticks, jury trial)
 - **Catastrophic:** $3M-$10M+ (multiple Platt targets, class-action connection, FINRA referral)
+
+**March 2 impact on settlement calculus -- work phone, Wigdor, RFQe, Sung disclosure, attorney briefing document:**
+
+9. **Three competing firms validates case value externally.** When three independent plaintiff's employment firms -- including two nationally recognized names (O&G and Wigdor) -- independently conclude a case is worth taking on contingency, this is market-validated case strength. A mediator or judge will note that this is not a case where one hungry solo practitioner agreed to roll the dice. Three sophisticated firms with reputational capital at stake all concluded the expected value justifies their investment. This raises both the settlement floor and the credibility of the claim at every stage.
+
+10. **Platt's work phone transforms the discovery landscape.** The fact that Platt carries only a Bloomberg-issued phone and no personal device means every mobile communication he has ever sent is on Bloomberg infrastructure. This eliminates the most common discovery gap in employment litigation -- the "personal device" defense where a manager claims relevant communications were on a phone outside the employer's control. If Platt ever texted anyone about Sasha's leave, about pushing employees out, about coverage decisions, or anything else related to the case, it is all discoverable with a single forensic request to Bloomberg IT. This has two effects on settlement calculus: (a) it increases the likelihood that damaging communications exist and will be found, and (b) it removes Bloomberg's ability to credibly claim that all relevant communications have already been produced. Plaintiff's counsel will demand comprehensive forensic analysis of the device, and Bloomberg must comply or face a spoliation inference. The expected cost of this discovery alone ($50K-$150K for forensic analysis and review) increases the litigation-cost component of settlement.
+
+11. **RFQe revenue manipulation is the second metrics-tampering allegation.** Combined with the 9/5/2025 "dupe" forecast closure, this creates a pattern: the manager (or the revenue recognition system he influences) has twice manipulated the employee's numbers in ways that reduce his reported 2025 performance. Once is an error. Twice is a pattern that plaintiff's counsel will present as deliberate suppression of the employee's metrics to justify the "underperformer" narrative. If the January booking date was discretionary rather than policy-mandated, the defense must explain why this discretion was exercised in a way that hurt the employee. If the booking was policy-mandated, this particular allegation weakens. The answer is in Bloomberg's RFQe booking records.
+
+12. **Jake Sung disclosure creates a ticking clock for additional retaliation.** Bloomberg may now learn informally that Sasha is considering legal action. If any adverse action follows -- a PIP, a coverage change, a negative interaction -- the temporal proximity to Bloomberg's knowledge creates a new, independent retaliation claim: retaliation for engaging in protected activity (threatening legal action). This is distinct from the leave retaliation claims and adds a separate theory. The defense must assume Bloomberg will learn and must ensure that nothing that could be characterized as responsive adverse action occurs.
+
+13. **The attorney briefing document shows litigation readiness.** Sasha's team has prepared a 190-line professional case summary with a PDF for attorney consultations. This is not a disgruntled employee venting to a lawyer. This is a prepared plaintiff with organized evidence, specific questions about strategy, and a support team that has been building the case for weeks. The questions they are asking attorneys (March follow-up guidance, dispute email timing, demand letter timing, Sam Page contact method, FINRA angle, safety of continuing to work, settlement expectations, litigation scope) show that they are thinking about execution, not whether to act. The "whether" question has been answered. The briefing document means any attorney who reviews it will be able to assess the case quickly and move to engagement rapidly.
+
+14. **Revenue target confirmed at $115K (2025).** Updated from prior references. The target increase to $175K for 2026 is a 52% increase from a confirmed $115K baseline, not an estimate. This removes any ambiguity about the magnitude of the increase.
+
+15. **Sam Page contact deferred to legal.** The plaintiff's support team has decided that locating and contacting Sam Page is now a task for the retained attorney, not the informal support network. This means Page will be contacted through professional legal channels with a proper witness interview framework, which makes his testimony more credible and better prepared than if a friend had cold-called him. The defense window for getting ahead of the Page question is narrowing further.
+
+16. **Revised settlement ranges reflecting March 2 developments:**
+- **Low end:** $400K-$600K (three-firm validation, work phone discovery exposure, RFQe second tampering allegation, and Sung disclosure risk all raise the floor)
+- **Middle:** $800K-$1.5M (O&G or Wigdor as counsel, comprehensive device forensics, metrics manipulation pattern)
+- **High end:** $1.5M-$3M+ (Sam Page corroborates, national origin sticks, work phone forensics reveal damaging texts, jury trial)
+- **Catastrophic:** $3M-$10M+ (multiple Platt targets, class-action connection, FINRA referral, work phone texts confirm animus)
 
 ### 7.3 Non-Monetary Costs of Litigation
 
@@ -1312,6 +1412,9 @@ Bloomberg must weigh two competing interests:
    - *(Added Feb 25)* Were Ryan Ron, Bryan Stewart, and John Calabro under the manager's supervision? When and how did each depart? Did any take parental leave? Were any PIP'd or managed out? Do their files show the same leave -> negative eval -> PIP -> separation pattern? Did any sign separation agreements with releases?
    - *(Added Feb 25)* Has the manager discussed Sasha's coverage assignments with any manager outside his direct team, including the person referred to as "Anthony"? Was Connecticut coverage discussed in any management meeting or informal conversation in February 2026?
    - *(Added Feb 25)* What is the manager's complete evaluation record for all direct reports over his tenure? Do negative evaluations correlate with leave usage or with documented performance issues predating leave?
+   - *(Added March 2)* What does a forensic review of Platt's Bloomberg work phone reveal? Are there any text messages, call logs, or communications referencing Sasha, parental leave, coverage stripping, pushing employees out, or any of the other alleged conduct? This is now the highest-priority forensic task.
+   - *(Added March 2)* What is Bloomberg's standard RFQe revenue recognition policy? Was the $30K+ revenue generated by Sasha in late 2025 booked in January 2026 per standard policy or as an exception? Who authorized the booking date? Were comparable RFQe revenues for other team members booked on the same or different schedule?
+   - *(Added March 2)* Has Jake Sung told anyone inside Bloomberg about Sasha's mention of potential legal action? If so, who knows? Has any manager or HR representative taken any action or changed their approach toward Sasha after learning of this?
 
 7. **Pull comparative data immediately:**
    - Revenue targets for all team members (2025, 2026)
@@ -1378,6 +1481,18 @@ Bloomberg must weigh two competing interests:
 
 29. **(Added Feb 25)** Attorney retention is imminent -- two firms, two Thursday calls. Phillips call Thursday Feb 26 PM (three unresolved retainer items). O&G direct call with Sasha Thursday Feb 27. Brief the company's defense team now. If O&G takes this, the threat level increases substantially.
 
+30. **(Added March 2) CRITICAL: Issue litigation hold for Platt's Bloomberg work phone IMMEDIATELY.** Platt carries only a Bloomberg-issued phone and no personal device. Every text, call, and message he has ever sent is on Bloomberg infrastructure. This is now the single most important preservation target in the case. Bloomberg IT must preserve all data associated with this device, including server-side records, carrier logs, and any cloud backups. If any auto-purge, device rotation, or refresh cycle destroys these records, the spoliation inference will be catastrophic. Plaintiff's counsel will demand forensic analysis of this device as one of the first discovery requests. Bloomberg must know what is on this phone before opposing counsel asks.
+
+31. **(Added March 2) Determine RFQe revenue booking standards and pull records.** The $30K+ RFQe revenue generated in late 2025 but booked in January 2026 is now the second alleged revenue timing manipulation (after the 9/5 "dupe" closure). Determine: (a) Bloomberg's standard policy for when RFQe revenue is booked, (b) who authorized the January booking date for this specific revenue, (c) whether the timing was consistent with policy or an exception, and (d) whether comparable RFQe revenue for other team members was booked on a different schedule. If the booking was discretionary and Platt influenced the timing, this is another piece of the "engineered failure" narrative. If the booking was policy-standard, document that immediately for the defense.
+
+32. **(Added March 2) Monitor for informal Bloomberg awareness of legal threat via Jake Sung.** Sasha told Sung he is "thinking about" legal action. If this information reaches Platt, Santore, or HR through internal channels, it changes the dynamic immediately. Any adverse action taken after Bloomberg learns of the legal threat -- through Sung or any other channel -- becomes an independent retaliation claim (retaliation for protected activity). Instruct Platt and Santore through counsel that their treatment of Sasha must not change regardless of what they hear informally. If they have already heard something, document their knowledge and freeze all pending adverse actions until counsel can assess.
+
+33. **(Added March 2) Prepare for Wigdor LLP as potential opposing counsel.** Wigdor is the third firm interested, known for aggressive tactics, large verdicts against financial institutions, and willingness to take cases to trial. Even if O&G is retained, Wigdor's interest is evidence of case strength that the plaintiff's attorney can cite in demand letter negotiations. If Wigdor is ultimately retained instead of O&G, the litigation posture may be even more aggressive than the O&G "stay and fight" scenario.
+
+34. **(Added March 2) Attorney retention is happening NOW.** O&G follow-up call is TODAY (March 2). Sasha's team has prepared a 190-line briefing document with 8 specific strategic questions. This is not a preliminary intake -- this is a prepared plaintiff with organized evidence meeting a firm that has already said "very strong case." Retention is expected this week. Once retained, the timeline accelerates: demand letter or agency filing within 2-4 weeks. Bloomberg must have defense counsel retained, internal investigation underway, and key preservation actions complete BEFORE the demand letter arrives. There is no more lead time.
+
+35. **(Added March 2) Assess implications of Sasha's 8 questions to attorney.** The attorney briefing document includes questions about: (a) March follow-up meeting guidance -- Sasha is asking his lawyer how to handle the upcoming meeting with Platt, meaning that meeting will be strategically managed from the plaintiff's side; (b) dispute email timing -- he is asking when to send a formal dispute of the evaluation, meaning a documented objection is coming; (c) demand letter timing -- he is asking about the optimal time to send a demand letter; (d) Sam Page contact method -- the attorney will locate and contact Page professionally; (e) FINRA angle -- he is asking whether the forecast tampering creates FINRA regulatory exposure for Platt; (f) safety of continuing to work -- he is asking whether it is safe to stay at Bloomberg per O&G's "stay and fight" advice; (g) settlement expectations -- he is asking what range to expect; (h) litigation scope -- he is asking how broad the case should be. Each of these questions signals a specific upcoming action the defense must prepare for.
+
 ---
 
 ## Appendix: Key Case References
@@ -1391,6 +1506,7 @@ Bloomberg must weigh two competing interests:
 | **Price Waterhouse v. Hopkins** (490 U.S. 228, 1989) | Established that gender stereotyping constitutes sex discrimination. The "carried the baby" comment invokes this theory directly. | Landmark ruling -- gender stereotyping is actionable. |
 | **Mihalik v. Credit Agricole Cheuvreux N. Am.** (2d Cir. 2013) | Applied NYCHRL's broad, independent construction. Reaffirmed "motivating factor" standard and disfavoring of summary judgment. | Affirmed NYCHRL's plaintiff-favorable framework. |
 | **Williams v. NYC Housing Auth.** (2d Cir. 2017, applying NYCHRL) | NYCHRL hostile work environment does not require "severe or pervasive" conduct; only that plaintiff was treated "less well" because of protected class. Relevant to recurring "Comrade" usage. | Lower threshold than federal standard for hostile work environment. |
+| **Wigdor LLP notable cases** *(Added March 2)* | Wigdor has represented plaintiffs in high-profile discrimination and retaliation cases against Goldman Sachs, JPMorgan, and Bloomberg itself. Known for aggressive litigation, large verdicts, and willingness to take cases to trial. Their interest in this case signals top-tier case evaluation. | Multiple multi-million dollar verdicts and settlements. |
 
 ---
 
@@ -1433,6 +1549,14 @@ Bloomberg must weigh two competing interests:
 | Feb 25, 2026 | Anthony overheard: "Connecticut coverage to be seen if you catch my drift" (~9:20 AM) | Real-time evidence of CT stripping being discussed at management level; Anthony now two-incident witness |
 | Feb 25, 2026 | Outten & Golden advancing past intake -- direct call with Sasha scheduled Thursday Feb 27 | Top-tier plaintiff's counsel evaluating; two firms actively interested simultaneously |
 | Feb 25, 2026 | Phillips answered 8 of 9 retainer questions -- 40% non-negotiable, three items unresolved | Phone call Thursday Feb 26 PM; Sasha has scripted talking points for 3(b)+11, 5(2), social media |
+| Feb 27, 2026 | Wigdor LLP expresses interest -- third firm competing | Three-firm competition validates case value; eliminates "one firm rolled the dice" defense |
+| Feb 28, 2026 | Intelligence: Platt uses only Bloomberg work phone, no personal device | ALL mobile communications on employer infrastructure; discovery scope expands dramatically |
+| Feb 28, 2026 | RFQe revenue manipulation alleged -- $30K+ booked Jan 2026 instead of 2025 | Second instance of metrics timing manipulation; combined with 9/5 "dupe" closure creates pattern |
+| Feb 28, 2026 | Jake Sung (internal Bloomberg employee) told about potential legal action | Bloomberg may learn informally; any subsequent adverse action = additional retaliation claim |
+| Feb 28, 2026 | Revenue target confirmed $115K (2025) from METC screen | Removes ambiguity; 52% increase to $175K (2026) confirmed from hard data |
+| Mar 1, 2026 | 190-line attorney briefing document + PDF prepared for consultations | Plaintiff fully litigation-ready; 8 specific strategic questions for attorney |
+| Mar 2, 2026 | O&G follow-up call with Sasha -- attorney retention expected this week | Once retained, demand letter or agency filing within 2-4 weeks |
+| Mar 2, 2026 | Sam Page contact deferred to retained attorney | Professional legal outreach increases Page testimony credibility and preparation quality |
 | ~Mar 5-10, 2026 | Follow-up meeting scheduled with manager | Next critical interaction point
 
 ---
@@ -1467,7 +1591,13 @@ The employee's case file includes two documents that reveal their known weakness
 
 13. *(Added Feb 25)* **Anthony's full identity.** Still unknown. The CT coverage statement is powerful but the witness cannot be contacted, deposed, or evaluated without a full name. The defense should identify him first -- if he would characterize both incidents as innocent, he is a defense witness.
 
-**How to use this:** Focus the internal investigation on the areas where the defense has information the employee does not. If the data in those areas supports the defense (pre-leave coverage was already low, target increase was team-wide, Sam Page's file is clean), the defense posture improves significantly. If the data is bad, at least the defense knows before the employee's attorney discovers it.
+14. *(Added March 2)* **Jake Sung's downstream disclosures.** The plaintiff's team knows Sasha told Sung about potential legal action, but they may not know whether Sung repeated this to anyone inside Bloomberg. If Sung kept it to himself, the disclosure has no operational impact. If Sung told a manager or HR, and Bloomberg has already begun reacting, the plaintiff's team does not yet know that Bloomberg knows. The defense has a brief window to assess what Bloomberg management is aware of and to freeze any responsive actions before they become evidence.
+
+15. *(Added March 2)* **Platt's work phone contents.** The plaintiff's team knows Platt uses only a Bloomberg phone, but they do not yet have access to its contents. They are holding this for discovery. The defense has the advantage of being able to examine what is on this phone NOW, before anyone else. If the phone contains nothing damaging (no texts about Sasha, leave, or pushing employees out), this is a significant defense asset. If it contains damaging communications, the defense needs to know immediately to adjust strategy.
+
+16. *(Added March 2)* **RFQe booking authorization.** The plaintiff's team knows the revenue was booked in January instead of 2025, but they do not know whether this was policy-standard or discretionary. If the defense can demonstrate that the January booking was consistent with Bloomberg's standard RFQe revenue recognition process and applied identically to all team members, this allegation collapses. If it was discretionary, the defense needs to prepare for the "second manipulation" narrative.
+
+**How to use this:** Focus the internal investigation on the areas where the defense has information the employee does not. If the data in those areas supports the defense (pre-leave coverage was already low, target increase was team-wide, Sam Page's file is clean, Platt's work phone is clean, RFQe booking was standard), the defense posture improves significantly. If the data is bad, at least the defense knows before the employee's attorney discovers it.
 
 ---
 

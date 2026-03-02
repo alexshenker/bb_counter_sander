@@ -1,12 +1,13 @@
 # Performance Improvement Plan: Design, Attack Analysis, and Strategic Assessment
 
 **Prepared:** February 20, 2026
-**Last updated:** February 27, 2026 (O&G "very strong case" at 35%, "stay and fight" scenario, Sabrina BlackRock performance evidence)
+**Last updated:** March 2, 2026 (revenue target confirmed $115K, RFQe revenue manipulation allegation, three firms competing, Platt work-phone discovery exposure, "stay and fight" confirmed)
 **For:** Manager's strategic defense preparation
 **Employee:** Aleksandr "Sasha" Akulov, ETS-Listed AMER South
 **Tenure:** ~13.5 years (start June 11, 2012)
 **Current coverage:** 1,138 firms (Connecticut-focused; lowest on team by a factor of 2.2x-5.4x)
-**2026 revenue target:** $175,000
+**2025 revenue target (confirmed):** $115,000 (from Bloomberg METC screen; previous $100K figure was an informal estimate)
+**2026 revenue target:** $175,000 (52% increase over confirmed 2025 target)
 **Last evaluation:** 2025 Year-End, delivered February 17, 2026. No raise, no bonus, PIP mentioned as future possibility.
 
 **Cross-references:**
@@ -120,13 +121,14 @@ If the PIP can be summarized as "here's what we need and here's how we'll help y
 
 **Impact on Section 6 analysis:** This admission materially strengthens the argument against implementing a PIP at all. See Section 6.1 for the updated factors.
 
-### 1.7 The "Stay and Fight" Scenario Creates a New PIP Risk Category *(Added Feb 27)*
+### 1.7 The "Stay and Fight" Scenario Creates a New PIP Risk Category *(Added Feb 27, confirmed March 2)*
 
-On February 26, Outten & Golden attorney Nina told Sasha he **can stay at Bloomberg** and that Bloomberg "might offer him more to leave" once the case is in motion. This is a fundamentally different posture from Phillips' separation-oriented approach. If Sasha signs with O&G, the PIP will be implemented against an employee who is:
+On February 26, Outten & Golden attorney Nina told Sasha he **can stay at Bloomberg** and that Bloomberg "might offer him more to leave" once the case is in motion. This posture is now confirmed. Sasha does not plan to resign. Three firms are now competing for representation: Phillips & Associates (40%, pre-litigation only), Outten & Golden (35%, "very strong case," follow-up call scheduled March 2), and Wigdor LLP (initial interest, consultation pending). Attorney retention is imminent, likely this week. The PIP will be implemented against an employee who is:
 
-1. **Represented by the firm that won the $5M Rotondo paternity leave settlement.**
+1. **Represented by one of three top-tier plaintiff's employment firms** (O&G won the $5M Rotondo paternity leave case; Wigdor is known for aggressive high-profile employment litigation against financial institutions).
 2. **Intentionally remaining at Bloomberg to generate evidence.**
 3. **Having every management interaction reviewed by counsel in real time.**
+4. **Backed by three firms who independently validated the case's strength** -- the fact that three firms are competing for representation is itself evidence of case quality that will be presented to a jury.
 
 **What this means for the PIP:**
 
@@ -144,7 +146,48 @@ On February 26, Outten & Golden attorney Nina told Sasha he **can stay at Bloomb
 | Sasha fails | "Platt executed his admitted method: 'talk as much shit as I can.' The PIP was the final step in the strip-evaluate-PIP-fire playbook, identical to Sam Page." | Defensible only if the PIP was scrupulously fair, coverage was equalized, and the failure is documented in system data. The Platt admission makes this much harder. |
 | Sasha is terminated | "Retaliation confirmed. Fired for exercising leave rights, represented by counsel, under a pretextual PIP. Full back pay, front pay, emotional distress, and punitive damages." | Worst outcome. Termination of a represented employee under these facts is extremely difficult to defend. |
 
-**Recommendation:** The "stay and fight" scenario dramatically strengthens the argument against implementing a PIP at all. If Sasha is represented by O&G and has been told to stay, a PIP serves the plaintiff's interests more than the company's. See Section 6 for the full alternative analysis.
+**Recommendation:** The "stay and fight" scenario dramatically strengthens the argument against implementing a PIP at all. If Sasha is represented by O&G, Wigdor, or any competent plaintiff's firm and has been told to stay, a PIP serves the plaintiff's interests more than the company's. See Section 6 for the full alternative analysis.
+
+### 1.8 RFQe Revenue Manipulation Creates a Second Revenue-Tampering Allegation *(Added March 2)*
+
+On February 28, Sasha reported that he was directly responsible for over $30K in RFQe revenue generated in 2025, but Platt decided to book it in January 2026 instead (booked approximately January 4, 2026). If true, this is the **second alleged instance of the manager controlling when revenue is credited** to suppress Sasha's numbers during the evaluation period. The first was the CRM forecast tampering (the ~$53-58K Two Seas deal closed as "dupe" on September 5, 2025, and reopened under different terms). Together, these two allegations create a pattern narrative: the manager systematically pushed revenue out of 2025 to make Sasha's year-end numbers look worse than they actually were.
+
+**The math with RFQe included:**
+
+| Metric | Without RFQe | With RFQe |
+|---|---|---|
+| 2025 revenue (METC) | ~$80K | ~$110K |
+| 2025 confirmed target | $115K | $115K |
+| % of full-year target | ~70% | ~96% |
+| Prorated target (6 active months) | $57.5K | $57.5K |
+| % of prorated target | ~139% | ~191% |
+
+With the RFQe revenue included, Sasha hit 96% of his full-year target while working only 6 months. On a prorated basis, he was nearly double his target. The gap between "70% of target" (the evaluation's framing) and "96% of target with revenue the manager pushed to January" is the difference between an underperformer and a strong performer who was sabotaged.
+
+**What this means for PIP design:**
+
+1. **Any PIP revenue metric that depends on when revenue is "booked" is manipulable.** Platt controls the timing of RFQe bookings and CRM forecasts. If the PIP measures "revenue booked during the PIP period," Platt can delay bookings to push revenue past the PIP deadline, or accelerate bookings to front-load the period. The metric must measure something the manager cannot control.
+
+2. **GDSF is not sufficient.** The Section 2.1 justification states that GDSF revenue is "an objective, system-generated metric that neither the employee nor the manager can manipulate." The RFQe allegation challenges this directly. If the manager controls when revenue is booked into GDSF, the metric is not tamper-proof. The PIP must use metrics that are verified by a second party (finance, operations, or an independent audit) or that measure activity rather than bookings.
+
+3. **Revenue targets in the PIP will be attacked with this evidence.** Opposing counsel's argument: "The manager suppressed $30K+ in 2025 revenue by booking it in January 2026. He then wrote an evaluation saying Sasha underperformed on revenue. He then proposed a PIP based on that evaluation. Now the PIP has a revenue target. What stops the manager from doing the same thing during the PIP period -- pushing revenue past the 90-day deadline and then declaring failure?"
+
+4. **The PIP needs independent revenue verification.** Before any revenue metric can be used, the company must establish a process where revenue attribution and booking timing are verified by someone other than the manager. This could be finance, sales operations, or an HR-appointed auditor. If the manager is the sole person who determines when revenue is credited, the entire revenue component of the PIP is compromised.
+
+5. **Activity-based metrics become more important than revenue metrics.** The RFQe manipulation allegation, combined with the CRM forecast tampering allegation, means that the two most direct revenue manipulation claims involve systems the manager can influence. PIP metrics should weight activity (client visits, onboards, unique firms engaged) more heavily than revenue. Activity metrics are generated by Sasha's own behavior and cannot be retroactively altered by the manager.
+
+**Impact on Section 2:** The revenue target in Section 2.1 must be restructured. See updated Section 2.1 for revised metric design that accounts for revenue timing manipulation.
+
+### 1.9 Platt Uses Only a Bloomberg Work Phone -- All Communications Are Discoverable *(Added March 2)*
+
+Per Sasha (February 28): Platt does not carry a personal phone. He uses his Bloomberg-issued work phone for all communications, including personal. This means every text, call, and message Platt has sent or received about Sasha, about leave-takers, about pushing employees out, or about the PIP is on Bloomberg infrastructure. In discovery, these communications are fully within Bloomberg's control and must be produced.
+
+**What this means for the PIP:**
+
+- Any internal communications about designing the PIP to be pretextual, about wanting to push Sasha out, or about frustration with Sasha's leave are on Bloomberg's own systems.
+- If Platt texted anyone (Santore, Anderson, HR, anyone) about the PIP in language that reveals retaliatory intent, it will be produced in discovery.
+- The company cannot claim that relevant communications are on a personal device outside the scope of document preservation. Everything is on company equipment.
+- **Before implementing any PIP, Bloomberg should conduct an internal review of Platt's communications** about Sasha, about leave-takers generally, and about the PIP planning process. If those communications contain anything that contradicts the legitimate performance management narrative, the PIP must not proceed.
 
 ---
 
@@ -160,19 +203,26 @@ The PIP document itself should open with the following elements:
 - **Acknowledgment of the employee's history:** "We recognize [Employee]'s 13+ years of service and historical contributions to the team." This is not a courtesy; it prevents the defense from later pretending the employee has always been a marginal performer.
 - **Reference to the documented feedback trail:** Cite the evaluation date, the specific expectations shared at the March meeting, and the checkpoint meeting where continued shortfalls were identified.
 
-### 2.1 Objective 1: Revenue Generation
+### 2.1 Objective 1: Revenue Generation *(Updated March 2 -- tamper-proof metrics required)*
 
-**Metric:** Total revenue booked from GDSF forecasts within the PIP period.
+**Metric:** Total revenue attributed to the employee, verified by finance or sales operations (not solely by the manager). Revenue must be measured by trade execution or client payment confirmation, not by when a forecast is "booked" in GDSF or CRM.
 
-**Target:** $45,000 in new bookable revenue over the 90-day PIP period.
+**Target:** $45,000 in verified revenue over the 90-day PIP period.
 
-**Justification:** The employee's 2026 annual target is $175,000. However, this target has not been adjusted for coverage disparity, and the company should be prepared to justify whatever target is in effect at PIP implementation. A $45,000 quarterly target corresponds to an annualized pace of $180,000, which is in range of the $175,000 target. If the target has been adjusted downward per Section 1.1, the PIP quarterly target should be set at 25-30% of the adjusted annual target.
+**Justification:** The employee's 2026 annual target is $175,000 (a 52% increase over the confirmed 2025 target of $115,000 from Bloomberg's METC screen). This target has not been adjusted for coverage disparity, and the company should be prepared to justify whatever target is in effect at PIP implementation. A $45,000 quarterly target corresponds to an annualized pace of $180,000, which is in range of the $175,000 target. If the target has been adjusted downward per Section 1.1, the PIP quarterly target should be set at 25-30% of the adjusted annual target.
 
 Critical note: If coverage has NOT been equalized by PIP implementation, the revenue target must be reduced proportionally. At 1,138 firms with a $175,000 annual target, a quarterly pace target above $25,000-$30,000 becomes increasingly difficult to defend as genuinely achievable relative to peers.
 
-**How it's measured:** Revenue credited to the employee in Bloomberg's GDSF tracking system. This is an objective, system-generated metric that neither the employee nor the manager can manipulate.
+**How it's measured -- CRITICAL UPDATE (March 2):** Revenue cannot be measured solely through GDSF booking dates. The employee alleges two separate instances of the manager controlling revenue timing: (1) the CRM forecast tampering (~$53-58K Two Seas deal closed as "dupe" on September 5, 2025, and reopened), and (2) the RFQe revenue manipulation ($30K+ in 2025 RFQe revenue booked by Platt in January 2026 instead of 2025). If the manager controls when revenue is booked, a metric based on booking dates during the PIP period is not tamper-proof. The manager could delay bookings past the PIP deadline to engineer a failure.
 
-**Peer benchmark:** The company must be prepared to produce the quarterly revenue pace for all team members during the same 90-day period. If any peer with substantially more coverage fails to meet this proportional target, the employee's failure becomes difficult to characterize as individual underperformance.
+**Revenue verification must therefore include:**
+
+1. **Independent timestamp.** Revenue counted in the PIP should be measured by trade execution date or client payment date, not by the date a forecast is entered, closed, or booked in GDSF. Trade execution is logged by Bloomberg's trading systems and cannot be retroactively altered by a sales manager.
+2. **Finance or operations confirmation.** A member of finance or sales operations (not the manager and not anyone reporting to the manager) should confirm the revenue attributable to the employee at each checkpoint. This removes the manager from the revenue verification chain.
+3. **Real-time visibility for the employee.** The employee must have access to the same revenue data the evaluators are using. If the employee can see his own revenue in real time, any discrepancy between his view and the PIP evaluation is immediately visible and documentable.
+4. **Inclusion of all revenue types.** Revenue from all product lines (EMSX, RBLD, RFQE, and any other sources) must be counted if the employee originated or serviced the relationship. The RFQe allegation specifically involves revenue Sasha generated that was booked after his evaluation period. If the PIP excludes certain revenue types or measures only a subset, the manager can steer high-value activity into uncounted categories.
+
+**Peer benchmark:** The company must be prepared to produce the quarterly revenue pace for all team members during the same 90-day period, using the same verification methodology. If any peer with substantially more coverage fails to meet this proportional target, the employee's failure becomes difficult to characterize as individual underperformance.
 
 | Scenario | Employee's Coverage | PIP Revenue Target (90 days) | Implied Annual Pace | Defensibility |
 |---|---|---|---|---|
@@ -181,6 +231,8 @@ Critical note: If coverage has NOT been equalized by PIP implementation, the rev
 | Coverage restored to ~2,500 firms | ~2,500 firms | $43,750 (25% of $175k) | $175,000 | Strong. $70/firm, comparable to peer P at 2,529 firms. |
 
 **Recommended target:** If coverage is restored to ~2,500 firms: $40,000-$45,000 for the 90-day period. If coverage remains at 1,138 firms: no more than $20,000-$25,000.
+
+**WARNING (March 2):** The prorated performance argument is now significantly stronger with confirmed numbers. Against the confirmed $115K target, Sasha earned ~$80K in 6 active months (prorated target: $57.5K, achieved: 139% of pace). With the $30K+ RFQe revenue included, his effective 2025 total was ~$110K against $115K (96% of full-year target while working 6 months). Any PIP based on absolute revenue numbers will face this prorated analysis from opposing counsel. The attorney will argue: "This employee hit 96% of his annual target in half a year, and his manager responded by giving him zero bonus, zero raise, and threatening a PIP. Then the manager increased his target by 52% for the next year while keeping his territory the smallest on the team."
 
 ### 2.2 Objective 2: New Client Onboards (EMSX/RBLD/RFQE)
 
@@ -234,9 +286,9 @@ Critical note: If coverage has NOT been equalized by PIP implementation, the rev
 
 **Target:** $60,000 in active pipeline (forecasts in development stages, not yet booked).
 
-**Justification:** The evaluation criticized "pipeline development" as an area of underperformance. The employee's H1 2025 pipeline included Two Seas ($53,800, which booked during leave) and several RFQE opportunities. A $60,000 pipeline target over 90 days represents a realistic development pace for someone working a Connecticut territory of 1,138 firms. It is also directionally consistent with the employee's demonstrated ability to generate $80,100 in bookable revenue over 6 months.
+**Justification:** The evaluation criticized "pipeline development" as an area of underperformance. The employee's H1 2025 pipeline included Two Seas ($53,800, which booked during leave) and several RFQE opportunities. A $60,000 pipeline target over 90 days represents a realistic development pace for someone working a Connecticut territory of 1,138 firms. It is also directionally consistent with the employee's demonstrated ability to generate $80,100 in METC-tracked revenue (and potentially ~$110K including the RFQe revenue that was booked in January 2026) over 6 months.
 
-**How it's measured:** Pipeline value as recorded in Bloomberg's GDSF system. Pipeline stages and values are system-documented.
+**How it's measured:** Pipeline value as recorded in Bloomberg's GDSF system. Pipeline stages and values are system-documented. However, per Section 1.8, pipeline in GDSF is subject to the same manipulation risk as revenue: the manager can close, reopen, or reclassify forecasts (as alleged with the Two Seas deal). Pipeline counts should therefore be verified by a second party at each checkpoint, and any forecast changes during the PIP period should be logged and reviewed by HR or sales operations to confirm they reflect legitimate business events rather than manipulation of the employee's pipeline data.
 
 **Peer benchmark:** All peers' pipeline values at the same measurement point. Pipeline is a function of coverage breadth, so peer comparisons must account for coverage size.
 
@@ -287,12 +339,12 @@ The more support the company provides, the harder it becomes to claim the PIP wa
 
 | Objective | Target | Measurement | Pass Threshold |
 |---|---|---|---|
-| Revenue | $45,000 (adjusted if coverage not restored; see 2.1) | GDSF bookable forecasts | Met or exceeded |
+| Revenue | $45,000 (adjusted if coverage not restored; see 2.1) | Finance/ops-verified trade execution revenue (NOT manager-controlled booking dates; see 1.8, 2.1) | Met or exceeded |
 | New onboards | 3 onboards, 1 bookable | System-tracked onboard completions | Met or exceeded |
 | CT C-day activity | 6 C days, avg 5 meetings/3 accounts per day | Activity tracking system | Met or exceeded |
 | Unique firms engaged | 85 firms | CRM/activity system | Met or exceeded |
 | Campaign adoptions | 2 sustained (3+ uses in 30 days) | Campaign tracking system | Met or exceeded |
-| Pipeline | $60,000 active pipeline | GDSF pipeline report | Met or exceeded |
+| Pipeline | $60,000 active pipeline | GDSF pipeline report, verified by ops/HR (see 2.5) | Met or exceeded |
 
 **Pass definition:** The employee must meet or exceed 4 of 6 objectives. This is deliberate. Requiring all 6 creates a "one miss and you're out" dynamic that courts view skeptically. Requiring 4 of 6 demonstrates the PIP is designed for improvement, not for failure. It also gives the company flexibility: if the employee meets 3 of 6, it is a genuine miss that can be documented. If the employee meets 5 of 6, success is clear.
 
@@ -360,12 +412,14 @@ For every element of the PIP above, the employee's legal team will mount specifi
 **Armor:**
 - HR involvement in the PIP breaks the single-manager chain. HR reviews the coverage, the targets, the evaluation, and the PIP criteria. HR signs off on the PIP and participates in checkpoints. This introduces an institutional check that the employee's argument ignores.
 - Coverage restoration (Section 1.1) addresses the input manipulation directly: the employee's coverage is equalized, removing the manager's ability to engineer failure through territory decisions.
-- System-generated metrics (revenue in GDSF, activity in CRM) provide objective measurement that the manager cannot manipulate. The data is what the data is.
+- ~~System-generated metrics (revenue in GDSF, activity in CRM) provide objective measurement that the manager cannot manipulate. The data is what the data is.~~ **(Weakened March 2):** The RFQe revenue manipulation allegation and the CRM forecast tampering allegation together demonstrate that GDSF and CRM data are not fully tamper-proof. The manager allegedly controls when revenue is booked into GDSF and can close/reopen CRM forecasts. Revenue and pipeline metrics must therefore be verified by an independent party (finance, sales operations, or HR-appointed auditor) rather than relying solely on system data the manager can influence. Activity metrics (client visits, calls, unique firms engaged) remain more robust because they are generated by the employee's own actions and logged in real time.
 - If feasible, have a second manager or HR representative co-administer the PIP checkpoints. This removes the single-manager bottleneck.
 
 **(Updated Feb 24 -- Clear Street evidence strengthens this attack significantly):** The Feb 24 Bloomberg MSG exchange demonstrates this dynamic in real time. Platt assigned Sasha the Clear Street account during a 1:1, then questioned whether Sasha self-assigned it one week later via formal MSG, then revealed he intended to strip it ("I thought I had reassigned to Tommy"), then framed the account's same-day revenue (403mm notional) as a gap in Sasha's coverage. This is a single-day evidence arc showing the manager controlling inputs (assigning, then attempting to strip), evaluating outputs (framing success as failure), and creating documentation (formal MSG) -- exactly the circular logic this attack alleges. If a PIP is implemented after this exchange is in the record, the "manager controls everything" argument becomes almost impossible to defeat.
 
 **(Further updated Feb 24 -- Tommy identified as new hire):** Tommy has been identified as a new hire on the team. Platt's "I thought I had reassigned to Tommy" from the Clear Street exchange means the manager intended to strip an account from Sasha (14-year veteran who sourced and initiated the client relationship) and give it to a new team member. If a PIP is implemented while the manager is actively redirecting high-opportunity accounts away from Sasha and toward new hires, the "manager controls inputs" attack becomes unanswerable. The PIP targets require pipeline and revenue generation. The manager is simultaneously removing the accounts that would generate that pipeline and revenue.
+
+**(Further updated March 2 -- RFQe revenue manipulation adds a second "inputs" vector):** The manager does not merely control coverage assignments (which accounts the employee can sell to). He also allegedly controls revenue timing (when the revenue the employee generates is credited). The RFQe allegation ($30K+ generated by Sasha in 2025, booked by Platt in January 2026) is a second mechanism of input manipulation: even when the employee successfully generates revenue within his reduced territory, the manager can delay the booking so it does not count in the evaluation period. Combined with the CRM forecast tampering, the manager now has two alleged channels for suppressing the employee's numbers. This is a closed loop that no PIP design can fully defeat as long as the manager retains unilateral control over both coverage and revenue timing. The only partial defense is independent verification of all revenue metrics by a party outside the manager's chain of command (see Section 1.8 and updated Section 2.1).
 
 ### 3.6 Attack: "Sam Page went through this exact sequence -- and Sabrina confirms the pattern" *(Updated Feb 21)*
 
@@ -407,6 +461,21 @@ For every element of the PIP above, the employee's legal team will mount specifi
 
 **(Updated Feb 24 -- mid-year review denial compounds this attack):** The evaluation's vulnerability is now compounded by the mid-year review denial. Platt scheduled the mid-year review during Sasha's leave, required in-person attendance (employee offered remote), then never held the meeting and posted the review unilaterally. Sabrina confirms she experienced the identical pattern. The year-end evaluation then penalized Sasha for not improving -- after Platt denied him the feedback session that would have told him what to improve. This closed loop makes any PIP built on the evaluation doubly pretextual: the underlying evaluation was built on data the manager selectively presented, using criteria from a feedback process the manager sabotaged.
 
+**(Updated March 2 -- confirmed $115K target and RFQe revenue further undermine the evaluation):** The evaluation's revenue narrative is now significantly weaker. Against the confirmed $115K target (METC screen, not the informal $100K estimate), Sasha's $80K METC revenue represents 70% of full-year target in 6 months (139% of prorated pace). With the $30K+ in RFQe revenue the manager allegedly pushed to January 2026, Sasha's effective 2025 total was ~$110K, or 96% of full-year target. The evaluation described Sasha as "significantly underperforming relative to peers." Opposing counsel's rebuttal: "He hit 96% of his annual target in half a year. His manager made that number look like 70% by pushing $30K in revenue past the evaluation cutoff. Then the manager used the suppressed number to justify a PIP." Any PIP built on this evaluation inherits this vulnerability.
+
+### 3.9 Attack: "The manager manipulates revenue timing to control PIP outcomes" *(Added March 2)*
+
+**The argument:** The manager has two alleged instances of controlling when revenue is credited: (1) the CRM forecast tampering (~$53-58K Two Seas deal closed as "dupe" September 5, 2025, and reopened under different terms), and (2) the RFQe revenue manipulation ($30K+ generated by Sasha in 2025, booked by Platt in January 2026). If the PIP measures revenue, the manager can use the same technique during the PIP period: delay bookings past the 90-day deadline, push RFQe revenue into the next quarter, or reclassify forecasts. The employee cannot control when his generated revenue is formally booked, but the PIP will judge him based on booked revenue.
+
+**Vulnerability:** HIGH. This is a structural attack on the PIP's most important metric. Revenue is the core of any sales PIP. If the manager controls when revenue is counted, the revenue metric is not an objective measurement of the employee's performance. It is a measurement of whether the manager chose to credit the employee's work during the PIP window. Two alleged instances create a pattern: this is not a one-time clerical error but a repeated mechanism for suppressing the employee's numbers.
+
+**Armor:**
+- Revenue must be measured by trade execution date or client payment date, not by GDSF booking date. Trade execution is logged by Bloomberg's trading infrastructure and cannot be retroactively altered by a sales manager. See updated Section 2.1.
+- Revenue attribution must be verified by finance or sales operations at each checkpoint, not by the manager. This removes the manager from the revenue verification chain entirely.
+- The employee must have real-time visibility into the same revenue data the evaluators are using. Any discrepancy is immediately visible.
+- If the company cannot implement independent revenue verification, the revenue metric should be weighted lower than activity metrics (client visits, onboards, unique firms engaged) that the manager cannot manipulate.
+- **The strongest armor is not to include revenue as a pass/fail metric at all.** If the PIP's success criteria rely on 4 of 6 objectives, and revenue is one of the 6, the employee can argue the manager deliberately failed him on that one metric by delaying bookings. If revenue is excluded and the PIP focuses on activity, pipeline development, and client onboarding, the revenue timing attack is neutralized. This is a significant concession, but it may be necessary given two alleged instances of revenue manipulation.
+
 ---
 
 ## Section 4: Timing and Sequencing
@@ -427,9 +496,9 @@ The employee proactively scheduled this meeting. This is the single most importa
 
 A brief email to the employee (and HR if possible) summarizing the key points discussed: the specific goals for Q1/Q2, any coverage decisions, support offered, and the next check-in date. This email becomes the baseline for the PIP predicate.
 
-**(Updated Feb 24 -- attorney will likely be retained before this meeting):** The March meeting is now almost certainly an attorney-coached event. Phillips retainer is under review; Sasha is comparing firms. Once retained, the attorney will review the pre-meeting email the support team has drafted, coach Sasha on what to say and ask, and instruct him to document everything. Expect Sasha to arrive with a prepared agenda, specific questions about coverage and targets designed to create documented evidence, and instructions to follow up in writing within 24 hours. The manager's approach at this meeting must be reviewed by defense counsel before it occurs.
+**(Updated March 2 -- attorney will almost certainly be retained before this meeting):** The March meeting is now an attorney-coached event. Three firms are competing for representation: Phillips (40%, pre-litigation), Outten & Golden (35%, follow-up call today March 2), and Wigdor (initial interest). Attorney retention is expected this week. Whichever firm Sasha retains, the attorney will review the pre-meeting email, coach Sasha on what to say and ask, and instruct him to document everything. Expect Sasha to arrive with a prepared agenda, specific questions about coverage, revenue targets, and the $115K-to-$175K increase designed to create documented evidence, and instructions to follow up in writing within 24 hours. The manager's approach at this meeting must be reviewed by defense counsel before it occurs.
 
-Additional preparation needed: The manager must be prepared to answer questions about (1) coverage restoration, (2) specific written 2026 targets, (3) PIP status, and (4) the mid-year review that was not conducted. Every answer will be documented and forwarded to the employee's attorney.
+Additional preparation needed: The manager must be prepared to answer questions about (1) coverage restoration, (2) specific written 2026 targets and the basis for the 52% increase from $115K to $175K, (3) PIP status, (4) the mid-year review that was not conducted, and (5) the RFQe revenue that was booked in January 2026 rather than 2025. Every answer will be documented and forwarded to the employee's attorney. Note that all of Platt's communications about this meeting, including preparation discussions with Santore or HR, are on Bloomberg infrastructure and discoverable (see Section 1.9).
 
 ### 4.2 Sequencing Timeline
 
@@ -467,6 +536,10 @@ Before the PIP is delivered, the following must be true:
 - [ ] The Sam Page file has been reviewed and the PIP design accounts for any pattern-evidence risk
 - [ ] The employee has been offered support (coaching, training, coverage review) and his acceptance or declination has been documented
 - [ ] The mid-year review denial has been addressed. The employee was denied the mid-year feedback session during his leave -- Platt required in-person attendance, the employee offered remote, the meeting never happened, and the review was posted unilaterally. Any PIP must demonstrate that the employee received substantive feedback and a genuine opportunity to improve AFTER the mid-year session was missed. If the March meeting does not provide this, the PIP will be attacked as building on a process where the employee was deliberately denied the chance to improve.
+- [ ] *(Added March 2)* Revenue metrics have been restructured to use trade execution dates or finance-verified attribution, not manager-controlled booking dates. The RFQe revenue manipulation allegation and the CRM forecast tampering allegation together demonstrate that GDSF and CRM booking data are not tamper-proof when the manager controls timing.
+- [ ] *(Added March 2)* An independent revenue verifier (finance, sales operations, or HR-appointed auditor) has been designated to confirm revenue attribution at each checkpoint, removing the manager from the revenue verification chain.
+- [ ] *(Added March 2)* An internal review of Platt's Bloomberg work-phone communications about Sasha, about leave-takers, and about the PIP planning process has been conducted, and no communications contradicting the legitimate performance management narrative were found.
+- [ ] *(Added March 2)* The employee's attorney status has been confirmed. If the employee is represented, defense counsel has assessed the specific firm and its litigation approach and has approved the PIP design for adversarial scrutiny.
 
 ---
 
@@ -562,7 +635,11 @@ This is the most important section of this document. The question is not "how do
 
 **CT coverage stripping signal suggests the setup-to-fail is still in motion.** *(Added Feb 25)* Anthony's Feb 25 statement -- "Connecticut coverage to be seen if you catch my drift" -- indicates that management is discussing stripping Sasha's last remaining territory. If CT is stripped, the PIP question is moot: there is no defensible PIP for an employee with zero coverage. But even if CT is not stripped, the fact that it was discussed and that the employee may become aware of the discussion (or the statement is documented in the case file, as it now is) adds another data point to the "engineered failure" narrative. See Section 4.3 for the full warning.
 
-**Attorney retention is imminent -- the PIP window is effectively closed.** *(Added Feb 25)* Two firms are actively interested. Both calls are scheduled for Thursday (Feb 27). Attorney retention is expected within 48-72 hours. A PIP issued after the employee retains counsel will be immediately challenged through counsel. The attorney will request the PIP documentation, compare criteria to peers, and potentially file an agency charge arguing the PIP itself is a retaliatory adverse action. The window for implementing a PIP without it being attorney-reviewed in real time has effectively closed. Any PIP must now be designed assuming it will be scrutinized by top-tier plaintiff's employment counsel within days of delivery. This does not make a PIP impossible, but it raises the execution standard to near-perfection: every metric must survive adversarial analysis, every support commitment must be ironclad, and every peer comparison must be documented before delivery.
+**Attorney retention is imminent -- the PIP window is effectively closed.** *(Added Feb 25, updated March 2)* Three firms are now competing for representation: Phillips & Associates, Outten & Golden, and Wigdor LLP. O&G has a follow-up call with Sasha today (March 2). Attorney retention is expected this week. A PIP issued after the employee retains counsel will be immediately challenged through counsel. The attorney will request the PIP documentation, compare criteria to peers, request information about the RFQe revenue timing and the $115K-to-$175K target increase, and potentially file an agency charge arguing the PIP itself is a retaliatory adverse action. The window for implementing a PIP without it being attorney-reviewed in real time has effectively closed. Any PIP must now be designed assuming it will be scrutinized by top-tier plaintiff's employment counsel within days of delivery. This does not make a PIP impossible, but it raises the execution standard to near-perfection: every metric must survive adversarial analysis, every support commitment must be ironclad, and every peer comparison must be documented before delivery. The fact that three firms are competing for representation is itself a signal that competent counsel sees substantial case value. Any one of these firms will identify every weakness in the PIP design within hours of receiving it.
+
+**RFQe revenue manipulation creates a second revenue-tampering allegation.** *(Added March 2)* Sasha alleges $30K+ in RFQe revenue he generated in 2025 was booked by Platt in January 2026 instead. This is the second alleged instance of the manager controlling when revenue is credited to suppress Sasha's evaluation-period numbers (the first being the CRM forecast tampering). With the confirmed $115K target and the RFQe revenue included, Sasha's effective 2025 revenue was ~$110K against $115K (96% of full-year target in 6 months of active work). Any PIP with a revenue component will be attacked with this evidence: "The manager controls when revenue is booked. He used that control to suppress the employee's 2025 numbers. He then evaluated the employee as underperforming based on those suppressed numbers. Now the PIP has a revenue target. What stops the manager from doing the same thing during the PIP?" This allegation does not merely create a PIP design challenge. It potentially makes any revenue-based PIP metric unviable unless revenue verification is moved entirely outside the manager's control.
+
+**Platt's work phone means all PIP-related communications are discoverable.** *(Added March 2)* Platt uses only a Bloomberg-issued work phone; he carries no personal phone. Every communication he has sent or received about Sasha, about the PIP, about wanting to push employees out, or about any leave-related topic is on Bloomberg infrastructure. If there is a single text, email, or message between Platt and anyone (Santore, Anderson, HR, peers) that reveals the PIP's true purpose or expresses retaliatory intent, it will be produced in discovery. Before any PIP is implemented, an internal review of Platt's communications is essential. If that review finds anything problematic, the PIP must not proceed.
 
 ### 6.2 Factors Arguing For a PIP
 
@@ -600,9 +677,9 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 *Disadvantages:* No formal accountability mechanism. If the employee is building a case, the absence of a PIP does not stop the lawsuit. The employee's claims are based on the evaluations, coverage stripping, and manager statements -- none of which require a PIP to be actionable. The PIP, if it existed and the employee failed it, would actually provide the company with a performance-based justification for any eventual separation.
 
-### 6.4 Recommendation *(Updated Feb 27)*
+### 6.4 Recommendation *(Updated March 2)*
 
-**Do not implement a formal PIP. The "stay and fight" scenario, O&G as likely counsel, Sabrina BlackRock evidence, Platt admission, CT coverage stripping signal, and effective attorney retention have collectively made a PIP more dangerous than beneficial. Pursue Option 2 (coverage restoration with clear expectations) as the primary approach, combined with elements of Option 3 (monitored observation with documentation).**
+**Do not implement a formal PIP. The confirmed "stay and fight" posture, three competing firms (O&G/Phillips/Wigdor), RFQe revenue manipulation allegation, confirmed $115K target (making the 52% increase to $175K a standalone adverse action), Platt work-phone discoverability, Sabrina BlackRock evidence, Platt admission, CT coverage stripping signal, and imminent attorney retention have collectively made a PIP more dangerous than beneficial. Pursue Option 2 (coverage restoration with clear expectations) as the primary approach, combined with elements of Option 3 (monitored observation with documentation).**
 
 **Rationale:**
 
@@ -616,7 +693,7 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 5. *(Added Feb 21)* **Sabrina's evidence and HR exit interview notes should be reviewed before any PIP.** If the HR exit interview notes contain specific complaints about the manager's treatment of leave-takers, implementing a PIP after the company had institutional knowledge of the alleged pattern is significantly more risky. The company knew -- and did the thing the departing employee warned them about.
 
-6. **The employee's attorney status must be known.** *(Updated Feb 25)* Two firms are actively interested, with calls scheduled for Thursday Feb 27. Attorney retention is expected within 48-72 hours. Once counsel is retained, any PIP will be immediately analyzed, challenged, and potentially used as the basis for an agency filing. Defense counsel must assess the specific firm retained and its litigation approach before any PIP is considered. If the employee retains counsel before the March meeting, the March meeting itself becomes a coached event and the PIP calculus changes entirely.
+6. **The employee's attorney status must be known.** *(Updated March 2)* Three firms are now competing: Phillips & Associates, Outten & Golden, and Wigdor LLP. O&G follow-up call is today (March 2). Retention is expected this week. Once counsel is retained, any PIP will be immediately analyzed, challenged, and potentially used as the basis for an agency filing. Defense counsel must assess the specific firm retained and its litigation approach before any PIP is considered. The March follow-up meeting with Platt (March 5-10) will almost certainly occur after attorney retention, making it a fully coached event. Every question Sasha asks, every topic he raises, will be attorney-directed evidence generation.
 
 7. **Time favors the defense on this specific issue.** The longer the gap between leave return and PIP, the weaker the temporal proximity argument. Every month that passes without a PIP reduces the retaliation inference. If the PIP must come, it is far better at month 6 than month 3.
 
@@ -626,11 +703,17 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 10. *(Added Feb 25)* **The Platt admission makes any PIP a litigation centerpiece.** Platt's statement -- "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can" -- will be Exhibit A next to any PIP document. The evaluation can be characterized as the "talking shit" phase. The PIP becomes the "getting rid of" phase. This admission alone may not foreclose a PIP, but it raises the bar for PIP design to a level that may be practically unachievable: the PIP must be so fair, so well-supported, and so genuinely oriented toward improvement that no reasonable person could see it as the execution of the described method. Given everything else in this case -- coverage stripping, Sam Page pattern, Sabrina corroboration, mid-year review denial -- reaching that bar may not be possible.
 
-9. *(Added Feb 25)* **CT coverage stripping would permanently foreclose the PIP option.** If Connecticut is stripped, Sasha has zero territory. A PIP requiring revenue from zero territory is not performance management. It is a termination mechanism. The Anthony statement signals this is under discussion. If it happens, the PIP analysis in this document becomes academic.
+11. *(Added Feb 25)* **CT coverage stripping would permanently foreclose the PIP option.** If Connecticut is stripped, Sasha has zero territory. A PIP requiring revenue from zero territory is not performance management. It is a termination mechanism. The Anthony statement signals this is under discussion. If it happens, the PIP analysis in this document becomes academic.
 
-**If a PIP becomes necessary after Q3 2026 despite the above,** it should follow the model in Section 2, with every prerequisite in Section 1 met (including Section 1.7 -- the "stay and fight" analysis), every attack in Section 3 armored against, and every prohibition in Section 5 observed. The PIP should be co-administered by HR, use system-generated metrics that the manager cannot manipulate, and include genuine support provisions that are actually provided and documented. Under the "stay and fight" scenario, the PIP must also be designed assuming O&G counsel will review it before Sasha responds and will use every element of it in discovery. This means the standard is not "would this survive judicial review" but "would this survive being presented side-by-side with Platt's admission, Sabrina's BlackRock success, the coverage disparity data, and the Sam Page pattern in front of an NYC jury."
+12. *(Added March 2)* **The RFQe revenue manipulation makes revenue-based PIP metrics unreliable.** Sasha alleges $30K+ in RFQe revenue generated in 2025 was booked by Platt in January 2026. This is the second alleged instance of the manager controlling revenue timing (alongside the CRM forecast tampering). Any PIP with a revenue component will be attacked as follows: "The manager controls when revenue is booked. He used that control to suppress 2025 numbers. The evaluation called the employee an underperformer based on those suppressed numbers. Now you want to give him a PIP with a revenue target, measured by the same manager, using the same systems." The only defense is to remove the manager from revenue verification entirely (see Section 1.8), which adds operational complexity and signals to the organization that the manager is not trusted to administer his own team's performance process.
 
-**If the CRM audit trail confirms the forecast tampering allegation,** a formal PIP should not be implemented under any timeline. The company's strategic posture should shift entirely to settlement preparation (see LITIGATION_PREP.md Section 7). The manager's position within the company becomes a separate question that Bloomberg will need to address independently of the employee's case.
+13. *(Added March 2)* **The confirmed $115K target makes the 52% increase a standalone adverse action.** The 2025 target was $115K (confirmed from Bloomberg's METC screen, not the $100K informal estimate previously referenced). The 2026 target is $175K, a 52% increase. Meanwhile, Sasha's coverage remains the lowest on the team. Opposing counsel will present this as: "After Sasha took leave, his manager kept his territory at the smallest on the team and then increased his revenue target by 52%. No other team member received a comparable increase relative to coverage." If the PIP uses the $175K target as its basis, the 52% increase from confirmed $115K becomes part of the PIP's pretextual foundation.
+
+14. *(Added March 2)* **All of Platt's communications are on Bloomberg infrastructure and discoverable.** Platt uses only a Bloomberg work phone. Every text, email, and message about the PIP, about Sasha, about wanting to push employees out, or about leave-takers is on employer-owned systems. If there is a single communication that reveals the PIP's true purpose or expresses retaliatory intent, it will be produced in discovery. The company should conduct an internal communications review before any PIP is considered.
+
+**If a PIP becomes necessary after Q3 2026 despite the above,** it should follow the model in Section 2, with every prerequisite in Section 1 met (including Sections 1.7, 1.8, and 1.9), every attack in Section 3 armored against, and every prohibition in Section 5 observed. The PIP should be co-administered by HR, use metrics verified by finance or sales operations (not the manager), and include genuine support provisions that are actually provided and documented. Under the "stay and fight" scenario, the PIP must be designed assuming opposing counsel (potentially O&G, Phillips, or Wigdor) will review it before Sasha responds and will use every element of it in discovery. Revenue metrics must be independently verified per Section 1.8 to prevent the revenue timing manipulation alleged in the RFQe and CRM forecast tampering incidents. This means the standard is not "would this survive judicial review" but "would this survive being presented side-by-side with Platt's admission, the RFQe and CRM revenue manipulation allegations, Sabrina's BlackRock success, the coverage disparity data, the 52% target increase, and the Sam Page pattern in front of an NYC jury."
+
+**If the CRM audit trail confirms the forecast tampering allegation, or if the RFQe revenue timing allegation is corroborated,** a formal PIP should not be implemented under any timeline. Two separate instances of revenue manipulation by the same manager against the same employee create a pattern that no PIP can overcome. The company's strategic posture should shift entirely to settlement preparation (see LITIGATION_PREP.md Section 7). The manager's position within the company becomes a separate question that Bloomberg will need to address independently of the employee's case.
 
 **The manager's goal should be:** "I want this employee to succeed. I gave him resources, set clear expectations, provided support, and documented everything. If he still can't perform, I have a clear, honest, data-driven basis for next steps." A jury that hears this story will be far less sympathetic to the employee than a jury that hears: "The manager stripped his territory, gave him a bad review for being on leave, and then put him on a PIP that no one could pass."
 
@@ -646,7 +729,8 @@ These are the employee's own claimed metrics from H1 2025, sourced from `Employe
 | Total visits | 178 (highest on team) | ~356 | ~89 |
 | Unique firms engaged | 177 (highest on team) | ~354 | ~88 |
 | Unique firms via visit/demo | 81 (second highest) | ~162 | ~40 |
-| Revenue (total) | $80,100 (70% of annual target) | ~$160,200 | ~$40,000 |
+| Revenue (METC total) | $80,100 (70% of confirmed $115K target) | ~$160,200 | ~$40,000 |
+| Revenue (with RFQe) | ~$110,000 (96% of confirmed $115K target) | ~$220,000 | ~$55,000 |
 | Revenue (midyear only) | $26,300 (1 GDSF forecast) | ~$52,600 | ~$13,150 |
 | RFQE onboards | 3 (PartnerRe, Mariner) | ~6 | ~1.5 |
 | Strategic adoptions | 3 (none sustained) | ~6 | ~1.5 |
@@ -654,4 +738,8 @@ These are the employee's own claimed metrics from H1 2025, sourced from `Employe
 | CT in-person meetings | 45 | ~90 | ~22.5 |
 | CT accounts visited | 18 | ~36 | ~9 |
 
-**Note on revenue complexity:** The employee's "total revenue" of $80,100 includes $53,800 that booked during leave from pre-leave pipeline. His in-period revenue at midyear was $26,300 from a single forecast. The annualized midyear revenue rate ($52,600) versus the annualized total rate ($160,200) represents the range. PIP revenue targets should be calibrated toward the higher end only if coverage is restored; toward the lower end if it is not.
+**Note on revenue complexity *(Updated March 2)*:** The employee's METC-tracked revenue of $80,100 includes $53,800 that booked during leave from pre-leave pipeline. His in-period revenue at midyear was $26,300 from a single forecast. However, the employee now alleges $30K+ in additional RFQe revenue generated in 2025 that the manager booked in January 2026 instead. If true, total 2025 revenue was ~$110K against a confirmed $115K target (96% of full-year target while working only 6 months). On a prorated basis (6 active months = $57.5K target), even the METC-only figure of $80,100 represents 139% of pace; with RFQe, it represents approximately 191%.
+
+The confirmed 2025 target of $115K (from Bloomberg's METC screen) replaces the previously cited $100K informal estimate. The 2026 target of $175K represents a 52% increase over this confirmed baseline, which opposing counsel will present as a standalone adverse action when combined with the coverage disparity.
+
+PIP revenue targets should be calibrated toward the higher end only if coverage is restored; toward the lower end if it is not. In all cases, revenue must be verified independently of the manager (see Section 1.8) to prevent the timing manipulation alleged in both the RFQe and CRM forecast incidents.
