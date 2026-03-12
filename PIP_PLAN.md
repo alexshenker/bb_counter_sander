@@ -1,11 +1,11 @@
 # Performance Improvement Plan: Design, Attack Analysis, and Strategic Assessment
 
 **Prepared:** February 20, 2026
-**Last updated:** March 2, 2026 (revenue target confirmed $115K, RFQe revenue manipulation allegation, three firms competing, Platt work-phone discovery exposure, "stay and fight" confirmed)
+**Last updated:** March 12, 2026 (Phillips letter Friday 5 PM, "lucky I didn't take CT," inherited forecasts, Melissa is Senior Litigation Associate)
 **For:** Manager's strategic defense preparation
 **Employee:** Aleksandr "Sasha" Akulov, ETS-Listed AMER South
 **Tenure:** ~13.5 years (start June 11, 2012)
-**Current coverage:** 1,138 firms (Connecticut-focused; lowest on team by a factor of 2.2x-5.4x)
+**Current coverage:** 1,138 firms (Connecticut-focused; lowest on team by a factor of 2.2x-5.4x; **CT at immediate risk of reassignment to Tom per March 9 shadowing trip -- see Sections 1.1, 4.3**)
 **2025 revenue target (confirmed):** $115,000 (from Bloomberg METC screen; previous $100K figure was an informal estimate)
 **2026 revenue target:** $175,000 (52% increase over confirmed 2025 target)
 **Last evaluation:** 2025 Year-End, delivered February 17, 2026. No raise, no bonus, PIP mentioned as future possibility.
@@ -20,11 +20,22 @@
 ## TABLE OF CONTENTS
 
 1. [Section 1: Preliminary Requirements -- Before Any PIP Can Be Implemented](#section-1-preliminary-requirements)
+   - 1.1: **Coverage Must Be Equalized (CRITICAL UPDATE -- March 9: Tom CT shadowing is final step in coverage stripping)**
+   - 1.10: **O&G Engagement Letter and HR Complaint Strategy (CRITICAL -- March 4)**
+   - 1.11: Platt Dodging Follow-Up Meeting (March 4)
 2. [Section 2: The Model PIP](#section-2-the-model-pip)
 3. [Section 3: Attack Analysis](#section-3-attack-analysis)
+   - 3.10: **HR Complaint Makes PIP "Double Retaliation" (CRITICAL -- March 4)**
 4. [Section 4: Timing and Sequencing](#section-4-timing-and-sequencing)
+   - 4.3: **CT Coverage Stripping (CRITICAL UPDATE -- March 9: Tom shadowing trip is the execution phase)**
 5. [Section 5: What NOT to Do](#section-5-what-not-to-do)
+   - 5.10: Do Not Issue a PIP After an HR Retaliation Complaint (March 4)
 6. [Section 6: The Alternative -- Whether to PIP at All](#section-6-the-alternative)
+   - 6.1: Factors 15-17 added (March 4)
+   - 6.4: **Recommendation upgraded to DO NOT PIP (March 4)**
+   - 6.5: **New -- The PIP Decision Framework Post-HR Complaint (March 4)**
+   - 6.6: **New -- Sasha Job Interviews May Render PIP Moot (March 9)**
+   - 6.7: **New -- Phillips Intake Forms Completed (March 9)**
 
 ---
 
@@ -38,7 +49,7 @@
 
 **The requirement:** Before a PIP can be implemented, one of the following must occur:
 
-**Option A: Equalize coverage.** Restore the employee's coverage to a level comparable to at least the next-lowest peer (P, at 2,529 firms). This means adding approximately 1,400 firms. The restored territories should include at least some of the coverage stripped during leave (Houston, upstate NY) to demonstrate the restoration is genuine and not a token gesture. Document the restoration with a contemporaneous memo explaining the business rationale (e.g., rebalancing coverage loads across the team to improve efficiency, expanding the employee's geographic reach to align with product opportunities).
+**Option A: Equalize coverage.** Restore the employee's coverage to a level comparable to at least the next-lowest peer (P, at 2,529 firms). This means adding approximately 1,400 firms. The restored territories should include at least some of the coverage stripped after his second leave return (Houston, Albany, Tennessee) to demonstrate the restoration is genuine and not a token gesture. Note: new hire Pat has approximately 2x Sasha's coverage, making this disparity even harder to defend. Document the restoration with a contemporaneous memo explaining the business rationale (e.g., rebalancing coverage loads across the team to improve efficiency, expanding the employee's geographic reach to align with product opportunities).
 
 **Option B: Adjust revenue target proportionally.** If coverage is not restored, reduce the 2026 revenue target to reflect the employee's actual coverage universe relative to peers. The fairest calculation:
 
@@ -54,6 +65,33 @@ A proportional target for 1,138 firms would be approximately $55,000-$65,000, de
 **Option C: Combination.** Restore some coverage AND adjust the target, landing somewhere between the two extremes.
 
 **Why this matters legally:** The employee's support team has already framed the coverage-target combination as "engineered outcome" and "setup-to-fail." The employee himself predicted in January 2026: "they'll first do a pip where they'll say he needs to do A B C and then I'll say I didn't do a b c knowing nobody can." If the PIP requires output that is mathematically unachievable given the employee's coverage, his prediction becomes an exhibit at trial. A plaintiff's attorney will show the jury two numbers -- 1,138 firms and $175,000 -- and then show them one comparator: 6,099 firms. The PIP will be dead on arrival.
+
+**(CRITICAL UPDATE -- March 9: Tom CT shadowing is the final step in coverage stripping.)** On March 9, Platt asked Sasha to take Tom (the new hire) to Connecticut on Monday, March 10, for client shadowing. Connecticut is Sasha's last remaining territory. This must be read alongside Anthony Psathas's February 25 statement: "Connecticut coverage to be seen if you catch my drift." The sequence is now visible: (1) Anthony signals CT reassignment is under discussion (Feb 25), (2) Platt assigns Tom to shadow Sasha's CT clients (March 9-10), (3) CT is reassigned to Tom after the onboarding trip (anticipated).
+
+If CT is reassigned to Tom after the shadowing trip, Sasha's coverage reaches zero. **A PIP issued to an employee with zero coverage is per se pretextual.** There is literally nothing to perform against. No revenue territory, no client universe, no basis for any metric in Section 2. The PIP is not "difficult to defend" or "risky." It is a legal nullity. A plaintiff's attorney does not even need to argue about the PIP's design or the manager's intent. The math is: zero firms, any revenue target, division by zero.
+
+This development makes the prerequisite in this section not merely important but existential. Coverage must not only be equalized before any PIP. **CT must not be stripped.** If the company allows Platt to use the shadowing trip as the predicate for reassigning CT to Tom, the PIP option is permanently and irrevocably foreclosed. The employee's coverage will have gone from Houston + upstate NY + CT (pre-leave) to CT only (post-leave) to zero (post-shadowing), and the entire trajectory will be documented in Bloomberg's own assignment records with timestamps that correlate perfectly to the leave dates.
+
+**Immediate action required (March 9):** The shadowing trip on March 10 must not result in any coverage reassignment. If the trip is framed internally as "Tom learning the territory before taking it over," the company must intervene now. Tom can learn about the product, the client relationships, and the Connecticut market without any coverage being transferred. If anyone asks why CT is not being reassigned, the answer is: "Sasha's coverage is already the lowest on the team. We are evaluating coverage rebalancing across the entire team." No coverage should move from Sasha to anyone until coverage equalization has been addressed.
+
+### 1.12 The Comp Process Revelation Destroys the Evaluation as a PIP Predicate *(Added March 9 evening -- CRITICAL)*
+
+**New development:** The compensation process at Bloomberg works as follows: comp decisions (bonus, raise) are made first, and evaluations are written afterward to justify those decisions. If this is how Bloomberg's process works -- and Sasha's case file now contains evidence supporting this sequence -- then the February 2026 year-end evaluation was not a genuine assessment of Sasha's performance. It was a post-hoc justification document written to support a compensation decision that had already been made (0% bonus, 0% raise).
+
+**What this means for the PIP's foundational document:** Section 1.3, item 1 identifies the February 2026 year-end evaluation as the first required element in the PIP's documentation baseline. If the evaluation was written after the comp decision was finalized, that document is not a performance assessment. It is a justification document. A PIP based on a justification document is pretextual by construction. This does not merely weaken the PIP's documentary foundation. It eliminates it.
+
+**The logic is straightforward:**
+
+1. Bloomberg decides Sasha gets 0% bonus and 0% raise.
+2. Bloomberg then writes an evaluation explaining why Sasha deserved 0% bonus and 0% raise.
+3. That evaluation is used as the basis for a PIP.
+4. The PIP therefore rests on a document that was reverse-engineered from a predetermined outcome.
+
+Bloomberg cannot base a PIP on an evaluation that was written to justify a predetermined compensation outcome rather than to assess performance. If Sasha can demonstrate -- and he will try, with deposition questions about the comp/eval timeline, internal process documents, and testimony from other managers about how the sequence works -- that the evaluation postdated the comp decision, the PIP's entire documentary predicate collapses.
+
+**Opposing counsel's argument:** "The evaluation wasn't written to identify performance issues. It was written to explain why the company gave my client nothing. The PIP wasn't designed to improve performance. It was designed to continue the justification chain: zero pay, post-hoc evaluation, PIP based on that evaluation, termination. Every step follows from the first decision, which was made before a single word of the evaluation was written."
+
+**Impact on PIP design:** No amount of careful PIP drafting overcomes a tainted predicate document. Even if the PIP metrics are fair, the coverage is equalized, and the process is flawless, the PIP traces back to an evaluation that was written after the conclusion was reached. The defense must either (a) prove the evaluation predated the comp decision, or (b) build the PIP on an entirely separate documentary basis (Q1/Q2 2026 performance data, post-evaluation checkpoint shortfalls) that does not rely on the February 2026 evaluation at all. Option (b) requires months of additional documentation and delays any PIP to late 2026 at the earliest, by which point the HR complaint, the performance rebuttal, and Phillips's active case construction make the PIP inadvisable for independent reasons.
 
 ### 1.2 Timing: Distance From Leave Return
 
@@ -121,14 +159,15 @@ If the PIP can be summarized as "here's what we need and here's how we'll help y
 
 **Impact on Section 6 analysis:** This admission materially strengthens the argument against implementing a PIP at all. See Section 6.1 for the updated factors.
 
-### 1.7 The "Stay and Fight" Scenario Creates a New PIP Risk Category *(Added Feb 27, confirmed March 2)*
+### 1.7 The "Stay and Fight" Scenario Creates a New PIP Risk Category *(Added Feb 27, confirmed March 2, upgraded March 4, updated March 9)*
 
-On February 26, Outten & Golden attorney Nina told Sasha he **can stay at Bloomberg** and that Bloomberg "might offer him more to leave" once the case is in motion. This posture is now confirmed. Sasha does not plan to resign. Three firms are now competing for representation: Phillips & Associates (40%, pre-litigation only), Outten & Golden (35%, "very strong case," follow-up call scheduled March 2), and Wigdor LLP (initial interest, consultation pending). Attorney retention is imminent, likely this week. The PIP will be implemented against an employee who is:
+On February 26, Outten & Golden attorney Nina told Sasha he **can stay at Bloomberg** and that Bloomberg "might offer him more to leave" once the case is in motion. **As of March 4, Sasha retained Phillips & Associates** (Melissa, 40% gross, pre-litigation only). O&G was declined but remains available at escalation. As of March 9, Sasha has completed three intake forms and uploaded evidence to Phillips's OneDrive. The attorney is now actively building the case. Sasha is genuinely open to staying at Bloomberg -- this is not tactical posturing, though he has two job interviews this week (see Section 6.6). The PIP will be implemented against an employee who is:
 
-1. **Represented by one of three top-tier plaintiff's employment firms** (O&G won the $5M Rotondo paternity leave case; Wigdor is known for aggressive high-profile employment litigation against financial institutions).
-2. **Intentionally remaining at Bloomberg to generate evidence.**
+1. **Represented by Phillips & Associates** with intake complete and evidence uploaded, backed by three firms who independently validated the case's strength -- O&G ("very clear case"), Phillips ("definitely seems like a retaliation case"), and Wigdor partners ("claims are meritorious"). O&G and Wigdor remain available at escalation.
+2. **Intentionally remaining at Bloomberg to generate evidence** (though actively interviewing; see Section 6.6).
 3. **Having every management interaction reviewed by counsel in real time.**
-4. **Backed by three firms who independently validated the case's strength** -- the fact that three firms are competing for representation is itself evidence of case quality that will be presented to a jury.
+4. **The fact that three separate firms validated the legal theory will be presented to a jury.**
+5. **Coached to file an HR retaliation complaint before any PIP can be issued** (see Section 1.10). Nina has specifically advised Sasha to file an HR complaint using the language "I believe there's retaliation" to create a protected activity layer. Any PIP issued after this complaint is filed becomes retaliation for complaining about retaliation.
 
 **What this means for the PIP:**
 
@@ -146,7 +185,7 @@ On February 26, Outten & Golden attorney Nina told Sasha he **can stay at Bloomb
 | Sasha fails | "Platt executed his admitted method: 'talk as much shit as I can.' The PIP was the final step in the strip-evaluate-PIP-fire playbook, identical to Sam Page." | Defensible only if the PIP was scrupulously fair, coverage was equalized, and the failure is documented in system data. The Platt admission makes this much harder. |
 | Sasha is terminated | "Retaliation confirmed. Fired for exercising leave rights, represented by counsel, under a pretextual PIP. Full back pay, front pay, emotional distress, and punitive damages." | Worst outcome. Termination of a represented employee under these facts is extremely difficult to defend. |
 
-**Recommendation:** The "stay and fight" scenario dramatically strengthens the argument against implementing a PIP at all. If Sasha is represented by O&G, Wigdor, or any competent plaintiff's firm and has been told to stay, a PIP serves the plaintiff's interests more than the company's. See Section 6 for the full alternative analysis.
+**Recommendation:** *(Updated March 4, updated March 9)* The "stay and fight" scenario, now combined with the HR complaint strategy, the Phillips retention (intake complete, evidence uploaded), and the Tom CT shadowing trip (see Section 1.1 critical update), has made the PIP the single most damaging action the company can take. See Section 1.10 for the HR complaint trap analysis. See Section 6 for the full alternative analysis, including Section 6.6 (job interviews may render the PIP moot) and Section 6.7 (Phillips intake forms completed). **A PIP serves the plaintiff's interests more than the company's under every possible outcome.** The one scenario that changes this calculus is if Sasha accepts a better job and leaves voluntarily. In that case, the PIP question disappears entirely.
 
 ### 1.8 RFQe Revenue Manipulation Creates a Second Revenue-Tampering Allegation *(Added March 2)*
 
@@ -188,6 +227,84 @@ Per Sasha (February 28): Platt does not carry a personal phone. He uses his Bloo
 - If Platt texted anyone (Santore, Anderson, HR, anyone) about the PIP in language that reveals retaliatory intent, it will be produced in discovery.
 - The company cannot claim that relevant communications are on a personal device outside the scope of document preservation. Everything is on company equipment.
 - **Before implementing any PIP, Bloomberg should conduct an internal review of Platt's communications** about Sasha, about leave-takers generally, and about the PIP planning process. If those communications contain anything that contradicts the legitimate performance management narrative, the PIP must not proceed.
+
+### 1.10 The O&G Engagement Letter and HR Complaint Strategy Transform the PIP Into a Trap *(Added March 4 -- CRITICAL)*
+
+**This is the single most important development since the case began for PIP planning purposes.**
+
+On March 4, 2026, Outten & Golden sent Sasha a formal engagement letter. The attorney is **Nina R. Frank**. The retainer must be signed by **March 11, 2026**. Key terms: 35% contingency (incremental -- only on value above Bloomberg's pre-appearance offer), scope limited to advising and negotiating (litigation requires a separate agreement via O&G committee).
+
+Nina's strategic advice to Sasha includes three actions that will be executed before or simultaneously with any PIP:
+
+**Action 1: File an HR complaint using the language "I believe there's retaliation."**
+
+Nina explicitly told Sasha to file an internal retaliation complaint with Bloomberg HR. Her reasoning, as documented in the opponent's case file: filing through proper channels creates legal protection by establishing a "protected activity" under FMLA and NYCHRL. Nina was explicit that HR will NOT help Sasha -- she expects HR to coach the manager on how to properly implement a PIP. But the protection comes from having raised retaliation through internal channels BEFORE Bloomberg takes the next adverse action.
+
+**What this means for the PIP:** Once Sasha files an HR complaint alleging retaliation for taking parental leave, any subsequent PIP becomes independently actionable as retaliation for filing the HR complaint. This is the "double retaliation" problem:
+
+- Layer 1: PIP is retaliation for taking parental leave (the existing claim).
+- Layer 2: PIP is retaliation for complaining about retaliation (a new, separate claim that arises the moment the HR complaint is filed).
+
+Under NYCHRL, a complaint of discrimination or retaliation is a protected activity. Taking adverse action against an employee after they complain about discrimination is separately unlawful -- even if the original discrimination claim is weak. The HR filing creates a second independent legal shield. A PIP issued after the filing must overcome both the leave-retaliation inference AND the complaint-retaliation inference. The temporal proximity between the HR complaint and the PIP will be days or weeks, not months. This is devastating.
+
+**Nina designed this sequence deliberately.** The HR filing is not a genuine attempt to get help from Bloomberg's HR department. It is a litigation preparation move that creates a legal tripwire. Every action Bloomberg takes after the filing carries a higher legal burden to justify. The filing is the trap. The PIP is the trigger.
+
+**Action 2: Send a performance rebuttal with counter-metrics to the manager AND higher-ups.**
+
+Nina has recommended that Sasha send a formal written rebuttal to the 2025 year-end evaluation, including his actual data: 4 GDSF forecasts vs. the 1 cited in the evaluation, 19 C-days vs. the 11 cited, 139% of prorated revenue target, team-leading client activity metrics. The rebuttal will go to Platt AND to senior leadership (Rich Santore, possibly higher). Nina will review or draft this rebuttal.
+
+**What this means for the PIP:** The rebuttal puts verifiably correct counter-data on the official record before the PIP process begins. If the PIP relies on any of the same metrics the evaluation used -- and the rebuttal demonstrates those metrics were misrepresented in the evaluation -- the PIP inherits the taint. Opposing counsel's argument: "Bloomberg received a formal data correction showing the evaluation was wrong on specific, verifiable facts. Bloomberg's response was not to correct the evaluation, but to proceed to a PIP. The PIP is based on the same false data the employee corrected."
+
+The rebuttal also makes it much harder to justify a PIP at all. If the rebuttal shows the employee was outperforming his prorated targets, what is the legitimate basis for a PIP? The company must either (a) acknowledge the rebuttal data is correct and explain why a PIP is still warranted despite strong performance, or (b) dispute the rebuttal data and explain why Bloomberg's own CRM and activity systems are wrong.
+
+**Action 3: "Stay and fight" -- Sasha is genuinely open to remaining at Bloomberg.**
+
+This is now confirmed as a real preference, not just tactical posturing. Sasha is applying for outside jobs but not confident in the search. He is genuinely open to staying. This means:
+
+- A PIP that leads to termination produces maximum damages (wrongful termination + back pay + front pay + emotional distress + punitive damages under NYCHRL).
+- A PIP that the employee passes produces maximum embarrassment for the company (the PIP confirmed the evaluations were pretextual).
+- Sasha has no reason to resign during the PIP, and his attorney will instruct him not to.
+
+**The combined effect of all three actions:**
+
+The sequence Nina is constructing is: (1) HR complaint filed, creating protected activity; (2) performance rebuttal sent, putting correct data on record; (3) employee stays, with attorney monitoring every action. Any PIP issued after this sequence is complete will face the following argument at trial:
+
+> "My client raised retaliation concerns through proper HR channels. My client sent a detailed rebuttal showing the evaluation contained false data. Bloomberg's response was to put him on a Performance Improvement Plan. A PIP that follows an HR retaliation complaint, that follows a written data correction, that follows a return from legally protected leave, under a manager who admitted his method for pushing people out, with coverage one-fifth of his peers. Ladies and gentlemen, this is not performance management. This is retaliation for retaliation complaints."
+
+**The PIP is no longer a performance management tool. It is a litigation exhibit waiting to be created.** Nina's strategy is specifically designed to make any PIP more costly to Bloomberg than not issuing one.
+
+**Additional development -- Wigdor explicitly said to come back if PIPed:**
+
+Wigdor LLP declined the case on March 2 as "too early" for their model, but the partners explicitly told Sasha: **"They strongly encourage you to reach back out if the company puts you on a PIP or terminates your position."** This means a PIP directly re-engages Wigdor -- a firm known for aggressive, high-profile employment litigation against financial institutions with large verdicts. A PIP does not just trigger a response from O&G (who is already retained). It potentially brings a second top-tier firm into the picture. If O&G's committee declines to litigate, Wigdor is standing by as a litigation-stage alternative. The PIP activates their interest.
+
+**Additional development -- sham coverage restoration undermines PIP "opportunity" defense:**
+
+Since March 2, Platt has assigned at least four accounts to Sasha:
+
+| # | Date | Account | Quality |
+|---|---|---|---|
+| 1 | March 3 | ETF accounts | Questionable -- Sasha doubts real ETF volume |
+| 2 | March 2-3 | Problem broker-dealer from Tommy | "Pain in the ass" account dumped from a new hire |
+| 3 | March 4 | FNY | Sell-side firm, no real revenue opportunity |
+| 4 | Jan 21 | AB (removed) | Real account stripped 3 weeks post-leave return, reassigned to Pat |
+
+The pattern is exactly what Sabrina described: real accounts removed, junk accounts added. If the PIP defense depends on arguing "we restored his coverage," opposing counsel will show that the "restoration" consisted of problem clients and low-value accounts while a real account (AB) was stripped 3 weeks after leave return. This is the "shitty accounts" dynamic playing out in real time and it destroys any PIP predicate that claims the employee was given adequate opportunity.
+
+**Nina called Platt "stupid" for using verifiable data in the evaluation.** Her reasoning: if Platt had written subjective criticisms (difficult to work with, colleagues unhappy), those are opinion-based and harder to disprove. Instead, Platt built a data-based case and manipulated the numbers -- citing 1 GDSF forecast when there were 4, citing 11 C-days when there were 19. Because Platt chose to argue with data, every data point is verifiable against Bloomberg's own systems, and the omissions are provable. Any PIP that contains similarly manipulable or verifiable metrics will face the same attack. Nina will compare PIP metrics to Bloomberg's own system data just as she is doing with the evaluation.
+
+**Bottom line:** The PIP option is effectively foreclosed once the HR complaint is filed. The HR complaint is expected within days of retainer signing (by March 11). The window to implement a PIP without it being framed as double retaliation is closing and may already be closed by the time any PIP could be designed, reviewed, and delivered.
+
+### 1.11 Platt Is Dodging the Follow-Up Meeting *(Added March 4)*
+
+On March 3, Platt told Sasha that the follow-up meeting Sasha had scheduled with Platt and Rich Santore appears to have been "retracted" -- Platt claims he does not see the invite. Sasha confirmed he did NOT retract it. Platt then booked a work trip for the March 5-10 window. He told Sasha: "you can still meet with Rich, just I won't be there."
+
+**What this means for the PIP:**
+
+1. **Platt is creating distance from the evaluation follow-up.** He delivered the evaluation and PIP threat on Feb 17, and now when the follow-up arrives, he is booking himself out of town and claiming the invite vanished. This undermines the Section 1.4 progressive discipline sequence, which requires documented checkpoint meetings between the evaluation and any PIP. If Platt avoids the checkpoint meetings, the PIP has no documented feedback trail to build on.
+
+2. **A meeting with Rich alone is strategically favorable for Sasha's case.** If Nina instructs Sasha to file the HR complaint and send the rebuttal before meeting with Rich, Rich walks into that meeting with full knowledge of both the data disputes and the retaliation allegation. Rich cannot later claim ignorance. Any statement Rich makes in that meeting is attributed to the skip-level manager, not the allegedly retaliatory direct manager.
+
+3. **If Platt is absent from key meetings, the PIP process is compromised.** A PIP requires the direct manager to be engaged in coaching, feedback, and checkpoint administration. A manager who avoids meetings, books trips to be out of town, and claims calendar invites vanished is not a manager who can credibly administer a PIP. This feeds the "sham process" narrative.
 
 ---
 
@@ -360,7 +477,7 @@ For every element of the PIP above, the employee's legal team will mount specifi
 
 ### 3.1 Attack: "The PIP is pretextual -- it follows coverage stripping"
 
-**The argument:** The manager stripped the employee's coverage (Houston, upstate NY removed during first leave, never restored; excluded from Baptist redistribution; CT lead reassigned), reducing his client universe to the lowest on the team. The manager then evaluated him against peers with 2-5x the coverage, and now proposes a PIP based on that tainted evaluation. The PIP is the third step in a strip-evaluate-PIP playbook identical to what Sam Page experienced.
+**The argument:** The manager stripped the employee's coverage (CT accounts to JJ during first leave; Houston, Albany, Tennessee removed after second leave return; excluded from Baptist redistribution; CT lead reassigned), reducing his client universe to the lowest on the team. The manager then evaluated him against peers with 2-5x the coverage, and now proposes a PIP based on that tainted evaluation. The PIP is the third step in a strip-evaluate-PIP playbook identical to what Sam Page experienced.
 
 **Vulnerability:** This is the strongest attack. The coverage-target mismatch is quantified, objective, and from Bloomberg's own data. A jury will understand intuitively that you cannot strip someone's territory and then fire them for not selling enough.
 
@@ -368,6 +485,10 @@ For every element of the PIP above, the employee's legal team will mount specifi
 - Coverage must be restored or targets adjusted before PIP implementation (Section 1.1). This is non-negotiable. Without this step, the attack is unanswerable.
 - If coverage is restored, the PIP response becomes: "We heard the employee's concern about coverage. We restored it. We gave him resources comparable to his peers. We set targets proportional to those resources. The PIP was implemented only after the playing field was leveled." This is a strong narrative.
 - Document the coverage restoration with a contemporaneous business rationale that does not reference the employee's complaints, leave status, or legal risk.
+
+**(CRITICAL UPDATE -- March 4: Sham coverage restoration is making this attack WORSE, not better.)** Platt's March 2-4 account assignments -- questionable ETF traders, a problem broker-dealer dumped from Tommy (the new hire), and a sell-side firm (FNY) with no real revenue opportunity -- combined with the AB account removal on January 21, are the opposite of genuine coverage restoration. Sabrina described Platt's pattern as giving Sasha "shitty accounts." That description is now provable in real time. If the PIP defense relies on "we restored his coverage," opposing counsel will present the March 2-4 assignments alongside the AB removal and ask: "You call this restoration? You stripped a real account three weeks after his leave return and replaced it with problem clients and dead-end firms. Is this how you 'level the playing field' for an employee you claim you want to succeed?"
+
+**The coverage restoration must be genuine.** Real accounts, in real territories, with real revenue potential. The current sham restoration is worse than doing nothing because it creates evidence of awareness (Platt knows coverage is a problem) combined with evidence of bad faith (the "fix" is a fraud). Any PIP implemented while the sham restoration is the only coverage change will be attacked as "they knew the coverage was unfair, they pretended to fix it, and then they used the fake fix as the basis for a PIP."
 
 ### 3.2 Attack: "The targets are set to be unachievable"
 
@@ -476,6 +597,31 @@ For every element of the PIP above, the employee's legal team will mount specifi
 - If the company cannot implement independent revenue verification, the revenue metric should be weighted lower than activity metrics (client visits, onboards, unique firms engaged) that the manager cannot manipulate.
 - **The strongest armor is not to include revenue as a pass/fail metric at all.** If the PIP's success criteria rely on 4 of 6 objectives, and revenue is one of the 6, the employee can argue the manager deliberately failed him on that one metric by delaying bookings. If revenue is excluded and the PIP focuses on activity, pipeline development, and client onboarding, the revenue timing attack is neutralized. This is a significant concession, but it may be necessary given two alleged instances of revenue manipulation.
 
+### 3.10 Attack: "The PIP was issued after a formal HR retaliation complaint -- it is double retaliation" *(Added March 4 -- CRITICAL)*
+
+**The argument:** Nina R. Frank has specifically advised Sasha to file an HR complaint using the language "I believe there's retaliation" before Bloomberg takes any further adverse action. Once that complaint is filed, any subsequent PIP is independently actionable as retaliation for filing the HR complaint -- regardless of whether the underlying leave-retaliation claim is strong. Under NYCHRL, filing an internal complaint of discrimination or retaliation is a protected activity. An employer who takes adverse action after a complaint faces a presumption of retaliation. The temporal proximity between the HR complaint and the PIP will be weeks, not months. Nina has designed this sequence to create a legal shield that makes the PIP separately unlawful.
+
+**Vulnerability:** CRITICAL. This is no longer a standard "PIP as retaliation for leave" argument. It is a two-layer attack:
+
+- Layer 1: PIP retaliates against leave (existing claim, already strong).
+- Layer 2: PIP retaliates against the HR complaint about retaliation (new, separately actionable claim that arises the moment the complaint is filed).
+
+Under NYCHRL's "motivating factor" standard, the company must prove the PIP would have been issued even if the employee had never complained. Given that the PIP was explicitly mentioned in the evaluation (Feb 17), and the HR complaint will be filed before the PIP is issued, the company's burden is to show the PIP was planned independently of the complaint. But the timeline makes this nearly impossible: evaluation (Feb 17) -> HR complaint (expected March 2026) -> PIP (earliest June 2026). Opposing counsel will argue the complaint accelerated the PIP, not that the PIP was coincidental.
+
+**Armor:**
+
+This is the attack that may have no armor. The standard defenses are:
+
+1. **Same-decision defense:** The company would have PIPed the employee regardless of the HR complaint, because his performance warranted it. But the counter-metric data (139% of prorated target, team-leading activity) and the coverage disparity undermine this argument.
+
+2. **Temporal distance:** Implement the PIP long enough after the HR complaint that temporal proximity weakens. But if the complaint is filed in March and the PIP comes in June, that is 3 months -- well within the window courts find probative.
+
+3. **Independent decision-maker:** Have someone other than Platt drive the PIP decision. If HR independently reviews the performance data and concludes a PIP is warranted, the complaint-retaliation inference weakens. But Nina expects and has told Sasha that HR will coach the manager, not independently evaluate.
+
+4. **Documented pre-complaint PIP planning:** If the PIP was being discussed and documented before the HR complaint was filed, the company can argue the complaint did not influence the decision. But the evaluation already contains the PIP reference (Feb 17), and if PIP planning documents exist that predate the HR complaint, opposing counsel will argue those documents prove the PIP was predetermined -- which is a different vulnerability (pretext).
+
+**The honest assessment:** There is no way to implement a PIP after an HR retaliation complaint that does not create a strong inference of double retaliation. The defense can try to mitigate through temporal distance, independent decision-makers, and documented legitimate bases, but all three mitigation strategies have significant weaknesses in this specific case. The safest path is to not issue a PIP after the HR complaint is filed. See Section 6.5.
+
 ---
 
 ## Section 4: Timing and Sequencing
@@ -496,16 +642,20 @@ The employee proactively scheduled this meeting. This is the single most importa
 
 A brief email to the employee (and HR if possible) summarizing the key points discussed: the specific goals for Q1/Q2, any coverage decisions, support offered, and the next check-in date. This email becomes the baseline for the PIP predicate.
 
-**(Updated March 2 -- attorney will almost certainly be retained before this meeting):** The March meeting is now an attorney-coached event. Three firms are competing for representation: Phillips (40%, pre-litigation), Outten & Golden (35%, follow-up call today March 2), and Wigdor (initial interest). Attorney retention is expected this week. Whichever firm Sasha retains, the attorney will review the pre-meeting email, coach Sasha on what to say and ask, and instruct him to document everything. Expect Sasha to arrive with a prepared agenda, specific questions about coverage, revenue targets, and the $115K-to-$175K increase designed to create documented evidence, and instructions to follow up in writing within 24 hours. The manager's approach at this meeting must be reviewed by defense counsel before it occurs.
+**(Updated March 4 -- Platt is dodging this meeting; Sasha may meet Rich alone):** Platt claimed the calendar invite was "retracted" (Sasha confirms he did not retract it), booked a work trip for the March 5-10 window, and told Sasha "you can still meet with Rich, just I won't be there." This means the follow-up meeting -- the critical first checkpoint in the progressive discipline sequence -- is being avoided by the manager who is supposed to administer it.
 
-Additional preparation needed: The manager must be prepared to answer questions about (1) coverage restoration, (2) specific written 2026 targets and the basis for the 52% increase from $115K to $175K, (3) PIP status, (4) the mid-year review that was not conducted, and (5) the RFQe revenue that was booked in January 2026 rather than 2025. Every answer will be documented and forwarded to the employee's attorney. Note that all of Platt's communications about this meeting, including preparation discussions with Santore or HR, are on Bloomberg infrastructure and discoverable (see Section 1.9).
+**The meeting with Rich alone is significantly more dangerous for the defense than a meeting with both.** If Sasha has retained O&G by March 11 and files the HR complaint and sends the rebuttal before the Rich meeting, Rich enters the meeting with: (a) a formal HR retaliation complaint on file, (b) a written data rebuttal correcting the evaluation, and (c) no manager present to filter or contextualize. Everything Rich says is attributable to the skip-level manager. If Rich acknowledges the data discrepancies, it undermines the evaluation. If Rich defends the evaluation despite the rebuttal data, he becomes complicit in the false metrics. There is no safe position for Rich in this meeting without defense counsel preparation.
+
+**CRITICAL: The manager must not avoid this meeting.** Platt's absence creates two separate problems: (1) it breaks the documented feedback chain required before any PIP, and (2) it exposes Rich to a coached, attorney-directed conversation without the manager who wrote the evaluation present to provide context. If Platt cannot attend in the March 5-10 window, the meeting must be rescheduled to a date when both can attend. Do not let Sasha meet with Rich alone without defense preparation.
+
+Additional preparation needed: The manager must be prepared to answer questions about (1) coverage restoration, (2) specific written 2026 targets and the basis for the 52% increase from $115K to $175K, (3) PIP status, (4) the mid-year review that was not conducted, (5) the RFQe revenue that was booked in January 2026 rather than 2025, (6) the sham coverage assignments (junk ETF accounts, problem broker-dealer from Tommy, sell-side FNY -- all assigned March 2-4), and (7) the AB account removal on January 21, 2026 (3 weeks post-leave return). Every answer will be documented and forwarded to the employee's attorney. Note that all of Platt's communications about this meeting, including preparation discussions with Santore or HR, are on Bloomberg infrastructure and discoverable (see Section 1.9).
 
 ### 4.2 Sequencing Timeline
 
 | Date | Event | Purpose |
 |---|---|---|
 | Feb 17, 2026 | Year-end evaluation delivered | Feedback provided. Leave-related language is a vulnerability. |
-| ~Mar 5-10, 2026 | Follow-up meeting | Set specific Q1/Q2 expectations. Discuss coverage. Offer support. Document. |
+| ~Mar 5-10, 2026 | Follow-up meeting (**AT RISK** -- Platt dodging, claims invite "retracted," booking trips) | Set specific Q1/Q2 expectations. Discuss coverage. Offer support. Document. **WARNING (March 4):** Platt is avoiding this meeting. If it occurs as a Rich-only meeting, it is now an attorney-coached event where Sasha meets the skip manager without the direct manager present. HR complaint and rebuttal may be filed before this meeting. See Section 4.1. |
 | ~Apr 2026 | Informal check-in | Brief touchpoint. How is the employee tracking? Any obstacles? Low-key documentation. |
 | ~May 2026 | Formal checkpoint | Review Q1 performance against March expectations. Written assessment. If shortfalls, document them specifically. If improvement, document that. Discuss PIP possibility only if performance is clearly and documentably below expectations. |
 | May-Jun 2026 | Coverage restoration (if not done earlier) | If not done at or before the March meeting, this must happen before any PIP. |
@@ -513,13 +663,17 @@ Additional preparation needed: The manager must be prepared to answer questions 
 | Jul-Oct 2026 | PIP period (90 days) | Checkpoints at Days 14, 30, 60, 90. |
 | Oct 2026 | PIP outcome determined | Pass or fail based on documented, system-verified metrics. |
 
-### 4.3 WARNING: CT Coverage Stripping Would Kill Any PIP *(Added Feb 25)*
+### 4.3 WARNING: CT Coverage Stripping Would Kill Any PIP *(Added Feb 25, CRITICAL UPDATE March 9)*
 
-**If CT coverage is stripped before or during a PIP, the PIP is dead on arrival.** Anthony's Feb 25 overheard statement -- "Connecticut coverage to be seen if you catch my drift" -- signals that CT coverage stripping is being discussed at the management level. Connecticut is Sasha's last remaining territory. If his territory is reduced to zero and then a PIP is issued requiring revenue production, the PIP is not a performance improvement plan -- it is a termination paper trail. No attorney, no judge, and no jury will see it otherwise.
+**If CT coverage is stripped before or during a PIP, the PIP is dead on arrival.** Anthony Psathas's Feb 25 overheard statement -- "Connecticut coverage to be seen if you catch my drift" -- signals that CT coverage stripping is being discussed at the management level. Connecticut is Sasha's last remaining territory. If his territory is reduced to zero and then a PIP is issued requiring revenue production, the PIP is not a performance improvement plan -- it is a termination paper trail. No attorney, no judge, and no jury will see it otherwise.
 
-The company must ensure that coverage remains stable or increases before any PIP is implemented. If anything, coverage should be restored (Houston, upstate NY) as a good-faith gesture before the PIP period begins. A PIP delivered to an employee whose territory has been reduced to zero firms is not a performance management document. It is an exhibit in a retaliation lawsuit.
+The company must ensure that coverage remains stable or increases before any PIP is implemented. If anything, coverage should be restored (Houston, Albany, Tennessee) as a good-faith gesture before the PIP period begins. A PIP delivered to an employee whose territory has been reduced to zero firms is not a performance management document. It is an exhibit in a retaliation lawsuit.
 
-**Immediate action required:** If there is any discussion of stripping CT coverage, it must be stopped and documented as having been stopped. If CT coverage is stripped before a PIP, the PIP option is permanently foreclosed. The company's only defensible path at that point is the alternatives discussed in Section 6.3.
+**(CRITICAL UPDATE -- March 9: The CT strip is now in motion.)** On March 9, Platt asked Sasha to take Tom (the new hire) to Connecticut on Monday, March 10, for client shadowing. This is no longer a signal. This is the execution phase. The sequence is: Anthony signals CT reassignment (Feb 25) -> Platt sends the new hire to shadow CT clients with Sasha (March 9-10) -> CT is reassigned to Tom (anticipated). Client shadowing before territory transfer is a standard onboarding pattern at Bloomberg and elsewhere. The business purpose is transparent: Tom is being introduced to Sasha's clients before taking them over.
+
+If CT is reassigned after the shadowing trip, the PIP option is not merely foreclosed. The entire performance management posture collapses. The company will have: (1) stripped Houston and upstate NY during first leave (never restored), (2) excluded Sasha from the Baptist redistribution, (3) assigned junk accounts as sham restoration (March 2-4), (4) stripped AB (January 21, three weeks post-leave return), and (5) reassigned his last remaining territory to a new hire who was trained on Sasha's own clients using Sasha's own time. This is a timeline that writes the plaintiff's closing argument.
+
+**Immediate action required (March 9):** The shadowing trip on March 10 must not result in any coverage reassignment. If Platt or anyone else moves to reassign CT accounts to Tom after the trip, it must be stopped at the HR or senior leadership level. The company should document that no coverage change resulted from the shadowing activity. If the trip has already been framed internally as a territory transition, the framing must be corrected immediately.
 
 ### 4.4 Prerequisites That Must Be Met Before Implementation
 
@@ -540,6 +694,10 @@ Before the PIP is delivered, the following must be true:
 - [ ] *(Added March 2)* An independent revenue verifier (finance, sales operations, or HR-appointed auditor) has been designated to confirm revenue attribution at each checkpoint, removing the manager from the revenue verification chain.
 - [ ] *(Added March 2)* An internal review of Platt's Bloomberg work-phone communications about Sasha, about leave-takers, and about the PIP planning process has been conducted, and no communications contradicting the legitimate performance management narrative were found.
 - [ ] *(Added March 2)* The employee's attorney status has been confirmed. If the employee is represented, defense counsel has assessed the specific firm and its litigation approach and has approved the PIP design for adversarial scrutiny.
+- [ ] *(Added March 4)* **The HR complaint status has been confirmed.** If the employee has filed an HR complaint alleging retaliation, the PIP has been reviewed by employment counsel specifically for the "double retaliation" risk under NYCHRL. Defense counsel has provided a written opinion that the PIP is defensible as a non-retaliatory action despite the complaint. The PIP decision was documented before the complaint was filed. See Sections 1.10, 3.10, 5.10, and 6.5.
+- [ ] *(Added March 4)* **The performance rebuttal has been addressed.** If the employee has submitted a formal written rebuttal to the 2025 evaluation with counter-metrics, the company has either (a) acknowledged the rebuttal data as correct and explained why a PIP is still warranted, or (b) disputed the rebuttal data with Bloomberg's own system records. A PIP issued without addressing the rebuttal is indefensible.
+- [ ] *(Added March 4)* **Coverage restoration is genuine, not sham.** If accounts have been added to the employee's coverage, they have been verified as legitimate revenue-generating opportunities, not junk accounts, sell-side firms, or problem clients dumped from other team members. Sham restoration (as appears to be occurring March 2-4) makes the PIP vulnerability worse, not better. See Section 1.10.
+- [ ] *(Added March 4)* **The manager is present and engaged in the feedback process.** Platt has not dodged, avoided, or claimed invites were "retracted" for any scheduled meeting in the feedback sequence leading to the PIP. A manager who avoids meetings cannot credibly administer a PIP. See Section 1.11.
 
 ---
 
@@ -599,6 +757,21 @@ These are common PIP mistakes that create legal liability, each analyzed for why
 
 **Prevention:** Before finalizing the PIP, review Sam Page's PIP documentation. Identify structural elements that differ. The model PIP in Section 2 includes several features designed to distinguish it: a 4-of-6 pass threshold (not all-or-nothing), employee self-assessment opportunities, documented support with a coaching log, HR co-administration, and explicit coverage equalization. If Page's PIP had none of these, the differentiation is clear.
 
+### 5.10 Do Not Issue a PIP After an HR Retaliation Complaint Without Exhaustive Independent Review *(Added March 4)*
+
+**Why it's dangerous here:** Nina R. Frank has specifically advised Sasha to file an HR complaint alleging retaliation before Bloomberg takes any further adverse action. Once that complaint is on file, a PIP becomes a separately actionable retaliatory act -- retaliation for complaining about retaliation. Under NYCHRL, filing an internal complaint is a protected activity. Adverse action after the complaint creates a second independent claim. The temporal proximity between complaint and PIP will be weeks, not months. There is no amount of PIP design sophistication that eliminates this inference.
+
+**Prevention:** If the HR complaint has been filed, do not issue a PIP unless:
+
+1. An independent review (not involving the manager or anyone in the manager's reporting chain) has concluded the PIP is warranted based on objective, system-verified performance data.
+2. Bloomberg's employment counsel has reviewed the PIP, the HR complaint, the performance data, and the coverage disparity and has provided a written opinion that the PIP is defensible as a non-retaliatory action.
+3. The PIP has been stress-tested against the specific attacks in Section 3.10.
+4. The decision to PIP was documented as having been made or substantially initiated before the HR complaint was filed. If no such documentation exists, the PIP should not proceed.
+
+If all four conditions cannot be met, the PIP should not be issued. The risk of a double-retaliation finding under NYCHRL is too high.
+
+**(Updated March 9 -- Phillips intake forms make this prohibition even more absolute.)** Phillips now has three completed intake forms and Sasha's evidence uploaded to their OneDrive. The attorney is actively building the case. Even if the HR complaint has not yet been formally filed, the company should treat the pre-complaint window as closed. Any PIP issued in this window will be framed as a preemptive strike: "Bloomberg knew the employee had retained counsel. Bloomberg knew the complaint was being prepared. Bloomberg issued the PIP before the complaint could be filed, specifically to establish the adverse action before the protected activity created legal protection." This is worse than double retaliation. It is anticipatory retaliation -- acting against the employee because the company knew the complaint was coming.
+
 ---
 
 ## Section 6: The Alternative -- Whether to PIP at All
@@ -633,9 +806,9 @@ This is the most important section of this document. The question is not "how do
 
 **Platt's admission of method makes any PIP a litigation exhibit.** *(Added Feb 25)* Platt told Sasha (~2022): "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can." This is a direct, attributed statement describing the manager's approach to removing employees. A PIP initiated by this manager will be framed by opposing counsel as the execution of the described method. The year-end evaluation ("talking shit") followed by a PIP (the removal mechanism) maps directly onto the admission. See Section 1.6 for the full analysis. This admission, combined with the Sam Page pattern and Sabrina's corroboration, creates a narrative where the manager has described his playbook, been observed running it against multiple employees, and is now running it again. A PIP does not merely risk being characterized as pretextual -- it confirms the pretext the manager himself described.
 
-**CT coverage stripping signal suggests the setup-to-fail is still in motion.** *(Added Feb 25)* Anthony's Feb 25 statement -- "Connecticut coverage to be seen if you catch my drift" -- indicates that management is discussing stripping Sasha's last remaining territory. If CT is stripped, the PIP question is moot: there is no defensible PIP for an employee with zero coverage. But even if CT is not stripped, the fact that it was discussed and that the employee may become aware of the discussion (or the statement is documented in the case file, as it now is) adds another data point to the "engineered failure" narrative. See Section 4.3 for the full warning.
+**CT coverage stripping signal suggests the setup-to-fail is still in motion.** *(Added Feb 25)* Anthony Psathas's Feb 25 statement -- "Connecticut coverage to be seen if you catch my drift" -- indicates that management is discussing stripping Sasha's last remaining territory. If CT is stripped, the PIP question is moot: there is no defensible PIP for an employee with zero coverage. But even if CT is not stripped, the fact that it was discussed and that the employee may become aware of the discussion (or the statement is documented in the case file, as it now is) adds another data point to the "engineered failure" narrative. See Section 4.3 for the full warning.
 
-**Attorney retention is imminent -- the PIP window is effectively closed.** *(Added Feb 25, updated March 2)* Three firms are now competing for representation: Phillips & Associates, Outten & Golden, and Wigdor LLP. O&G has a follow-up call with Sasha today (March 2). Attorney retention is expected this week. A PIP issued after the employee retains counsel will be immediately challenged through counsel. The attorney will request the PIP documentation, compare criteria to peers, request information about the RFQe revenue timing and the $115K-to-$175K target increase, and potentially file an agency charge arguing the PIP itself is a retaliatory adverse action. The window for implementing a PIP without it being attorney-reviewed in real time has effectively closed. Any PIP must now be designed assuming it will be scrutinized by top-tier plaintiff's employment counsel within days of delivery. This does not make a PIP impossible, but it raises the execution standard to near-perfection: every metric must survive adversarial analysis, every support commitment must be ironclad, and every peer comparison must be documented before delivery. The fact that three firms are competing for representation is itself a signal that competent counsel sees substantial case value. Any one of these firms will identify every weakness in the PIP design within hours of receiving it.
+**Attorney retention is no longer imminent -- it is done.** *(Added Feb 25, updated March 2, upgraded March 4, confirmed March 9)* Sasha retained Phillips & Associates on March 4 (Melissa, 40% gross, pre-litigation only). O&G was declined but remains available at escalation. Wigdor explicitly said to return if PIPed. As of March 9, Sasha has completed three intake forms and uploaded evidence to Phillips's OneDrive. Melissa is actively building the case with Bloomberg's own documents. Every PIP document will be reviewed by Melissa before Sasha responds. Every checkpoint meeting will be coached. Every metric will be stress-tested against Bloomberg's own system data. The window for implementing a PIP without it being attorney-reviewed in real time is not closing. It is closed.
 
 **RFQe revenue manipulation creates a second revenue-tampering allegation.** *(Added March 2)* Sasha alleges $30K+ in RFQe revenue he generated in 2025 was booked by Platt in January 2026 instead. This is the second alleged instance of the manager controlling when revenue is credited to suppress Sasha's evaluation-period numbers (the first being the CRM forecast tampering). With the confirmed $115K target and the RFQe revenue included, Sasha's effective 2025 revenue was ~$110K against $115K (96% of full-year target in 6 months of active work). Any PIP with a revenue component will be attacked with this evidence: "The manager controls when revenue is booked. He used that control to suppress the employee's 2025 numbers. He then evaluated the employee as underperforming based on those suppressed numbers. Now the PIP has a revenue target. What stops the manager from doing the same thing during the PIP?" This allegation does not merely create a PIP design challenge. It potentially makes any revenue-based PIP metric unviable unless revenue verification is moved entirely outside the manager's control.
 
@@ -677,9 +850,11 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 *Disadvantages:* No formal accountability mechanism. If the employee is building a case, the absence of a PIP does not stop the lawsuit. The employee's claims are based on the evaluations, coverage stripping, and manager statements -- none of which require a PIP to be actionable. The PIP, if it existed and the employee failed it, would actually provide the company with a performance-based justification for any eventual separation.
 
-### 6.4 Recommendation *(Updated March 2)*
+### 6.4 Recommendation *(Updated March 4 -- upgraded from "do not implement" to "DO NOT PIP UNDER ANY CIRCUMSTANCES until the HR complaint issue is resolved")*
 
-**Do not implement a formal PIP. The confirmed "stay and fight" posture, three competing firms (O&G/Phillips/Wigdor), RFQe revenue manipulation allegation, confirmed $115K target (making the 52% increase to $175K a standalone adverse action), Platt work-phone discoverability, Sabrina BlackRock evidence, Platt admission, CT coverage stripping signal, and imminent attorney retention have collectively made a PIP more dangerous than beneficial. Pursue Option 2 (coverage restoration with clear expectations) as the primary approach, combined with elements of Option 3 (monitored observation with documentation).**
+**DO NOT IMPLEMENT A FORMAL PIP.** The O&G engagement letter (March 4, sign by March 11), Nina Frank's HR retaliation complaint strategy ("I believe there's retaliation" -- creates protected activity), the performance rebuttal strategy (correct data on the record before PIP), sham coverage restoration (junk accounts assigned March 2-4), Platt dodging the follow-up meeting, Wigdor's explicit "come back if PIPed" invitation, and every previously documented factor have collectively made a PIP **the single most damaging action the company can take.** A PIP is no longer merely risky. It is actively harmful. It serves the plaintiff's interests more than the company's on every possible outcome. Pursue Option 2 (genuine coverage restoration -- not the sham assignments Platt is currently making -- with clear expectations) combined with Option 3 (monitored observation with documentation).
+
+**(March 9 evening update -- comp process and direct leave admission make this recommendation even more emphatic.)** Two new developments eliminate any remaining ambiguity. First, the comp process revelation: if evaluations are written after comp decisions are made, the February 2026 evaluation is a post-hoc justification document, not a performance assessment. The evaluation is the PIP's foundational document (Section 1.3, item 1). If the foundation is a justification document for a predetermined 0% comp outcome, the PIP built on it is pretextual by construction. Second, Platt's direct admission -- "mostly cuz I took 6 months off" -- connecting the 0% raise to Sasha's parental leave. This is no longer an inference. The manager stated the causal link. Under the Retaliation Cascade theory, the chain is: leave -> retaliatory comp (admitted) -> post-hoc evaluation (written to justify retaliatory comp) -> PIP. The evaluation itself may not survive as a legitimate document. A PIP built on a document that may not survive is indefensible. See Sections 1.12 and 6.1, factors 21-23.
 
 **Rationale:**
 
@@ -693,11 +868,11 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 5. *(Added Feb 21)* **Sabrina's evidence and HR exit interview notes should be reviewed before any PIP.** If the HR exit interview notes contain specific complaints about the manager's treatment of leave-takers, implementing a PIP after the company had institutional knowledge of the alleged pattern is significantly more risky. The company knew -- and did the thing the departing employee warned them about.
 
-6. **The employee's attorney status must be known.** *(Updated March 2)* Three firms are now competing: Phillips & Associates, Outten & Golden, and Wigdor LLP. O&G follow-up call is today (March 2). Retention is expected this week. Once counsel is retained, any PIP will be immediately analyzed, challenged, and potentially used as the basis for an agency filing. Defense counsel must assess the specific firm retained and its litigation approach before any PIP is considered. The March follow-up meeting with Platt (March 5-10) will almost certainly occur after attorney retention, making it a fully coached event. Every question Sasha asks, every topic he raises, will be attorney-directed evidence generation.
+6. **The employee's attorney status is confirmed -- Phillips retained, intake complete.** *(Updated March 4, confirmed March 9)* Sasha retained Phillips & Associates on March 4 (Melissa, 40% gross, pre-litigation only). O&G was declined but remains available at escalation; Wigdor is standing by if PIPed. As of March 9, Sasha has completed three intake forms and uploaded evidence (evaluation, counter-metrics, coverage data, WhatsApp evidence) to Phillips's OneDrive. Melissa is now actively building the case. Nina Frank's strategic advice (HR complaint, performance rebuttal) was provided before Phillips was retained and remains operative as the playbook Sasha will follow. Defense counsel must assume any PIP will be in Phillips's hands within hours of delivery and will be deconstructed using the same evidence Melissa already has.
 
-7. **Time favors the defense on this specific issue.** The longer the gap between leave return and PIP, the weaker the temporal proximity argument. Every month that passes without a PIP reduces the retaliation inference. If the PIP must come, it is far better at month 6 than month 3.
+7. **Time no longer favors the defense the way it did.** *(Updated March 4)* The temporal proximity between leave return and PIP weakens with time. But the HR complaint strategy creates a new temporal proximity problem: the proximity between the HR complaint and the PIP. Even if the leave-to-PIP gap is 6 months, if the HR complaint-to-PIP gap is 3 months, the double-retaliation inference is strong. The HR complaint resets the temporal proximity clock. Time only helps if the company waits long enough after both the leave return AND the HR complaint, which could push the PIP to late 2026 or 2027 -- at which point the basis for a PIP (2025 performance) is stale.
 
-8. *(Added Feb 27)* **The "stay and fight" scenario makes the PIP a lose-lose.** O&G told Sasha to stay at Bloomberg. If a PIP is implemented, it will be reviewed by O&G counsel in real time. Every checkpoint meeting is a coached event. Every document is a pre-analyzed exhibit. If Sasha passes, the plaintiff argues the evaluations were pretextual. If Sasha fails, the plaintiff argues the PIP was the final step in the admitted playbook. If Sasha is terminated, damages escalate to wrongful termination (back pay, front pay, emotional distress, punitive). There is no PIP outcome that favors the defense under these conditions. See Section 1.7 for the full analysis.
+8. *(Added Feb 27, upgraded March 4)* **The "stay and fight" scenario makes the PIP a lose-lose, and the HR complaint makes it a lose-lose-lose.** O&G told Sasha to stay at Bloomberg. O&G has now sent the engagement letter (March 4, sign by March 11). Nina Frank has specifically advised Sasha to file an HR retaliation complaint BEFORE any PIP is issued. If a PIP is implemented after the complaint, it is: (a) reviewed by O&G counsel in real time, (b) separately actionable as retaliation for the HR complaint, and (c) a direct trigger for Wigdor re-engagement if O&G's committee declines to litigate. If Sasha passes, the evaluations were pretextual. If Sasha fails, it was the admitted playbook plus double retaliation. If Sasha is terminated, damages escalate to wrongful termination with punitive damages under NYCHRL. There is no PIP outcome that favors the defense under these conditions. See Sections 1.7 and 1.10 for the full analysis.
 
 9. *(Added Feb 27)* **Sabrina's BlackRock evidence strengthens the "engineered failure" narrative.** Sabrina -- allegedly a poor performer under Platt -- is demonstrably succeeding at BlackRock within 5 months. If a PIP is implemented and Sasha fails it, plaintiff's counsel will argue: "The same thing happened to Sabrina. She 'underperformed' under this manager, left, and immediately thrived. The PIP didn't measure performance -- it measured whether this manager wanted you to succeed."
 
@@ -711,11 +886,109 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 14. *(Added March 2)* **All of Platt's communications are on Bloomberg infrastructure and discoverable.** Platt uses only a Bloomberg work phone. Every text, email, and message about the PIP, about Sasha, about wanting to push employees out, or about leave-takers is on employer-owned systems. If there is a single communication that reveals the PIP's true purpose or expresses retaliatory intent, it will be produced in discovery. The company should conduct an internal communications review before any PIP is considered.
 
-**If a PIP becomes necessary after Q3 2026 despite the above,** it should follow the model in Section 2, with every prerequisite in Section 1 met (including Sections 1.7, 1.8, and 1.9), every attack in Section 3 armored against, and every prohibition in Section 5 observed. The PIP should be co-administered by HR, use metrics verified by finance or sales operations (not the manager), and include genuine support provisions that are actually provided and documented. Under the "stay and fight" scenario, the PIP must be designed assuming opposing counsel (potentially O&G, Phillips, or Wigdor) will review it before Sasha responds and will use every element of it in discovery. Revenue metrics must be independently verified per Section 1.8 to prevent the revenue timing manipulation alleged in the RFQe and CRM forecast tampering incidents. This means the standard is not "would this survive judicial review" but "would this survive being presented side-by-side with Platt's admission, the RFQe and CRM revenue manipulation allegations, Sabrina's BlackRock success, the coverage disparity data, the 52% target increase, and the Sam Page pattern in front of an NYC jury."
+15. *(Added March 4)* **THE HR RETALIATION COMPLAINT MAKES ANY PIP "DOUBLE RETALIATION."** Nina R. Frank has advised Sasha to file an HR complaint using the specific language "I believe there's retaliation." This creates a protected activity under FMLA and NYCHRL. Any PIP issued after the HR complaint is filed becomes independently actionable as retaliation for the complaint -- a second legal claim on top of the leave-retaliation claim. Under NYCHRL, the company must prove the PIP would have been issued even if the employee had never complained. Given the documented counter-metrics (139% of prorated target, team-leading activity), the coverage disparity (1,138 vs. 6,099 firms), the Platt admission, and the temporal proximity between complaint and PIP, this burden is effectively impossible to meet. **This is the factor that transforms the PIP from "risky but potentially defensible" to "actively harmful to the defense."** Nina designed this sequence to make the PIP a trap. Filing the complaint before the PIP is issued ensures that every subsequent adverse action carries a double legal burden. See Sections 1.10 and 3.10.
+
+16. *(Added March 4)* **Wigdor explicitly told Sasha to come back if PIPed.** Wigdor LLP's partners declined the case as "too early" on March 2, but explicitly stated: "They strongly encourage you to reach back out if the company puts you on a PIP or terminates your position." A PIP does not just trigger a response from the already-retained O&G. It directly activates the interest of a second top-tier firm known for aggressive, high-damages employment litigation against financial institutions. If O&G's internal committee declines to litigate, Wigdor is standing by as the litigation-stage firm. A PIP hands Sasha a backup option he does not currently have.
+
+17. *(Added March 4)* **Sham coverage restoration undermines any PIP "opportunity" defense.** Since March 2, Platt has assigned at least three low-quality accounts (questionable ETF traders, a problem broker-dealer dumped from a new hire, a sell-side firm with no real opportunity) while a real account (AB) was stripped January 21. Sabrina's "shitty accounts" characterization is playing out in real time. If the PIP defense relies on arguing "we restored his coverage and gave him the tools to succeed," opposing counsel will show the jury what the "restoration" actually consisted of: junk accounts with no revenue potential, assigned in the same week the manager was dodging the follow-up meeting. This is not coverage restoration. It is paper trail construction, and it is visible as such.
+
+18. *(Added March 9)* **Tom CT shadowing is the final step in coverage stripping -- a PIP after this is per se pretextual.** On March 9, Platt asked Sasha to take Tom (the new hire) to Connecticut on March 10 for client shadowing. Combined with Anthony's February 25 signal ("Connecticut coverage to be seen if you catch my drift"), this is the execution phase of the CT strip. If CT is reassigned to Tom after the onboarding trip, Sasha has zero coverage. A PIP issued to an employee with zero territory is not a performance improvement plan. It is a termination document. The math is zero firms, any revenue target, division by zero. No PIP design in Section 2 survives this. See Section 1.1 (critical update) and Section 4.3 (critical update).
+
+19. *(Added March 9)* **Sasha's job interviews may eliminate the need for a PIP entirely.** Sasha has two interviews this week: one he is indifferent to and one at a company he considers better than Bloomberg, both remote. If he accepts a comparable or better offer and leaves voluntarily, the PIP becomes moot, damages are capped at the compensation delta, the constructive discharge theory weakens significantly, and settlement leverage decreases. The best outcome for the company is that Sasha leaves voluntarily for a good job. Any PIP or adverse action that occurs while Sasha is interviewing will be framed as the conduct that caused his departure, strengthening the constructive discharge claim. The company should do nothing that disrupts a natural exit. See Section 6.6.
+
+20. *(Added March 9)* **Phillips is now actively building the case with Bloomberg's own documents.** Sasha completed three intake forms and uploaded evidence (evaluation, counter-metrics, coverage data, WhatsApp evidence) to Phillips's OneDrive. Melissa is no longer assessing whether to take the case. She is constructing the legal theory with the same documents that would underpin any PIP. A PIP issued while the attorney is reviewing the evaluation that forms the PIP's basis will be immediately challenged. Melissa already knows where the data was manipulated. She will apply that knowledge to the PIP within hours of delivery. See Section 6.7.
+
+21. *(Added March 9 evening)* **The comp process revelation makes the evaluation an unreliable PIP predicate.** If Bloomberg's comp process works as alleged -- decisions first, evaluations written afterward -- then the February 2026 evaluation was not a performance assessment but a justification document for a predetermined 0% comp outcome. A PIP based on a justification document is pretextual by definition. The defense cannot use the evaluation as a PIP foundation unless Bloomberg can prove the evaluation predated the comp decision. If Sasha demonstrates through discovery (deposition questions about the comp/eval timeline, internal process documents, other managers' testimony) that evaluations are written after comp is decided, the PIP's documentary predicate collapses. Under the Retaliation Cascade theory, the chain becomes: leave -> retaliatory comp (0% decided first) -> post-hoc evaluation (written to justify 0%) -> PIP (built on the post-hoc evaluation). Each step flows from the first retaliatory decision. No jury will accept this chain as legitimate performance management. See Section 1.12 for the full analysis.
+
+22. *(Added March 9 evening)* **"Mostly cuz I took 6 months off" poisons any PIP.** Platt's direct admission tying the 0% raise to Sasha's parental leave is now in the case file. This is not an inference or a paraphrase. It is the manager's own words connecting compensation to leave. Under the Retaliation Cascade theory, if Cycle 1 compensation was retaliatory (as this admission concedes), and the evaluation was written to justify retaliatory compensation (as the comp process revelation suggests), then the PIP flowing from that evaluation is triple-layer retaliation: leave -> retaliatory comp -> post-hoc eval -> PIP. The admission transforms the PIP from "questionable performance management" to "documented execution of retaliation the manager admitted to." Combined with the Platt method admission ("talk as much shit as I can"), the case now has two separate admissions: one describing the method and one connecting it to leave. A PIP issued under these conditions is not defensible. It is evidence.
+
+23. *(Added March 9 evening)* **The evaluation rebuttal will challenge the PIP's factual basis before the PIP is delivered.** Nina Frank has advised Sasha to send a formal performance rebuttal to Platt and senior leadership, and Sasha is preparing it. The rebuttal will deploy: 4 GDSF forecasts (vs. the 1 cited in the evaluation), 19 C-days (vs. the 11 cited), team-leading client activity metrics, and 139% of prorated revenue target. Once Bloomberg receives this document, the specific factual claims in the evaluation that would underpin the PIP are formally disputed with Bloomberg's own CRM data. A PIP issued after receiving a documented factual challenge to its predicate evaluation -- and without first addressing or refuting the challenge -- is even more clearly pretextual. The company cannot simultaneously receive a data correction showing the evaluation was wrong on verifiable facts and then build a PIP on those same wrong facts. Phillips already has this data. The rebuttal will formalize it on Bloomberg's official record.
+
+**If a PIP becomes necessary after Q3 2026 despite the above,** it should follow the model in Section 2, with every prerequisite in Section 1 met (including Sections 1.7, 1.8, 1.9, 1.10, and 1.11), every attack in Section 3 armored against (including Section 3.10), and every prohibition in Section 5 observed (including Section 5.10). The PIP should be co-administered by HR, use metrics verified by finance or sales operations (not the manager), and include genuine support provisions that are actually provided and documented. Under the current scenario with Phillips retained (intake complete, evidence uploaded -- see Section 6.7), the PIP must be designed assuming Melissa will review it before Sasha responds and will use every element of it in discovery. Revenue metrics must be independently verified per Section 1.8. **Most critically, CT coverage must not have been stripped (see Section 1.1 critical update and Section 4.3 critical update -- the Tom shadowing trip on March 10 must not result in reassignment), and the PIP must overcome the double-retaliation inference created by the HR complaint (Section 1.10).** This requires all six conditions in Section 6.5 to be met. The standard is not "would this survive judicial review" but "would this survive being presented side-by-side with the HR retaliation complaint, Platt's admission, the performance rebuttal (showing the evaluation's data was wrong), the RFQe and CRM revenue manipulation allegations, Sabrina's BlackRock success, the sham coverage restoration (junk accounts March 2-4), the Tom CT shadowing-to-reassignment sequence, the coverage disparity data, the 52% target increase, Wigdor's explicit invitation to return if PIPed, Phillips's active case construction with Bloomberg's own documents, and the Sam Page pattern in front of an NYC jury instructed on NYCHRL's 'motivating factor' standard."
+
+**If Sasha accepts a job offer and leaves Bloomberg voluntarily (see Section 6.6),** the PIP question resolves itself. The company should not accelerate any adverse action while Sasha is interviewing. A natural exit is the best possible outcome for the defense.
 
 **If the CRM audit trail confirms the forecast tampering allegation, or if the RFQe revenue timing allegation is corroborated,** a formal PIP should not be implemented under any timeline. Two separate instances of revenue manipulation by the same manager against the same employee create a pattern that no PIP can overcome. The company's strategic posture should shift entirely to settlement preparation (see LITIGATION_PREP.md Section 7). The manager's position within the company becomes a separate question that Bloomberg will need to address independently of the employee's case.
 
+**If the HR retaliation complaint has been filed** (expected by late March 2026, per Nina Frank's advice), a formal PIP should not be implemented unless all six conditions in Section 6.5 are met. The double-retaliation inference under NYCHRL is a separate and independently fatal problem that exists even if the CRM audit trail is clean, the RFQe allegation is unsubstantiated, and the employee's Q1/Q2 2026 performance is genuinely poor. The HR complaint creates a legal shield that the PIP cannot penetrate through design alone. See Section 6.5 for the narrow conditions under which a post-complaint PIP could theoretically survive.
+
 **The manager's goal should be:** "I want this employee to succeed. I gave him resources, set clear expectations, provided support, and documented everything. If he still can't perform, I have a clear, honest, data-driven basis for next steps." A jury that hears this story will be far less sympathetic to the employee than a jury that hears: "The manager stripped his territory, gave him a bad review for being on leave, and then put him on a PIP that no one could pass."
+
+### 6.5 The PIP Decision Framework Post-HR Complaint *(Added March 4)*
+
+This section addresses the narrow question: **Is there ANY scenario in which a PIP is defensible after the HR retaliation complaint is filed?**
+
+**The answer is: only under extremely specific conditions that are unlikely to exist in this case.**
+
+A post-complaint PIP is defensible only if ALL of the following are true:
+
+1. **The PIP decision was documented before the HR complaint was filed.** Written records (emails, HR memos, meeting notes) must show that the PIP was being planned, designed, and approved before the employee filed the complaint. If no such documentation exists, the PIP cannot survive the temporal proximity inference. Note: the Feb 17 evaluation mentions PIP as a future possibility, which could serve as pre-complaint documentation -- but opposing counsel will argue that a vague reference to "possibly" PIPs is not the same as a concrete PIP decision, and that the actual PIP was designed in response to the complaint.
+
+2. **The employee's post-complaint performance is objectively and measurably below expectations.** System-verified data from Q1/Q2 2026 must show clear underperformance against specific, written expectations that were communicated before the complaint. The key word is "objectively" -- the data must speak for itself without managerial interpretation. If the employee is meeting or exceeding the activity metrics and prorated revenue targets that his own counter-metrics demonstrate are achievable, the PIP has no legitimate basis.
+
+3. **Coverage has been genuinely equalized.** Not sham restoration (junk accounts, problem clients). Genuine, documented restoration to a level comparable to at least the next-lowest peer, with real accounts that generate real revenue opportunity. If coverage remains at 1,138 firms while peers have 2,500-6,000, no amount of post-complaint performance data justifies a PIP.
+
+4. **An independent decision-maker -- not Platt, not anyone in Platt's reporting chain -- has reviewed the performance data and independently concluded the PIP is warranted.** This must be HR, employment counsel, or a senior executive outside the ETS-Listed AMER South organization. Platt cannot be the PIP decision-maker given his admitted method ("talk as much shit as I can"), the pattern evidence, and the HR complaint naming him as the retaliator.
+
+5. **The same performance standards are being applied to all team members.** If any peer is underperforming on the same metrics and is not on a PIP, the selective application is fatal. Peer performance data must be pulled and reviewed before the PIP decision is made.
+
+6. **Bloomberg employment counsel has provided a written opinion that the PIP is defensible** given the HR complaint, the coverage disparity, the counter-metrics, the Platt admission, the Sam Page pattern, and every other factor documented in this file.
+
+**(Updated March 9 -- Phillips intake forms completed, evidence uploaded.)** Melissa at Phillips & Associates now has three completed intake forms and Sasha's evidence uploaded to Phillips's OneDrive. The attorney is no longer in the assessment phase; she is actively building the case with Bloomberg's own documents. The staged materials include the evaluation, counter-metrics, coverage data, and WhatsApp evidence. Even if the HR complaint has not yet been formally filed, Phillips's active engagement means the company should treat the pre-complaint window as effectively closed. The 6-condition framework above applies with even more force: any PIP issued while the attorney is reviewing the very evaluation documents that form the PIP's basis will be immediately deconstructed. Melissa will identify every metric the PIP shares with the flawed evaluation and present them side by side. The complaint is not imminent -- it is being prepared with the evidence already in the attorney's hands.
+
+**In practice, conditions 1-6 are unlikely to coexist in this case.** Condition 1 fails because no concrete PIP plan exists pre-complaint. Condition 2 may fail if Sasha's Q1/Q2 2026 performance is consistent with his H1 2025 pace (which it may be, given his demonstrated work ethic). Condition 3 fails because the current "coverage restoration" consists of junk accounts. Condition 4 requires removing Platt from the process. Condition 5 requires pulling peer data that may show other team members also have gaps. Condition 6 requires defense counsel to sign off on a PIP that every element of the case file argues against.
+
+**What the company should do instead:**
+
+1. **Genuinely restore coverage.** Not the junk accounts being assigned March 2-4. Real accounts, in real territories, that generate real revenue opportunity. This neutralizes the most dangerous factual element in the case and gives the employee an opportunity to succeed or fail on his own merits.
+
+2. **Set clear, written, measurable 2026 expectations** at the follow-up meeting (assuming it occurs with Platt present). These expectations should be communicated to all team members, not just Sasha.
+
+3. **Monitor and document through normal evaluation cycles.** Pull system data monthly. If Sasha underperforms with equalized coverage against clearly communicated expectations through H1 2026, the company has a genuine, post-complaint, post-coverage-restoration basis for action. That basis is far stronger than anything available today.
+
+4. **Do not initiate any adverse action until defense counsel has assessed the HR complaint, the rebuttal, Nina Frank's involvement, and the full factual landscape.** The next adverse action Bloomberg takes against Sasha will be the most scrutinized employment decision in the company's recent history. It must be right.
+
+5. **Prepare for settlement discussions.** Once O&G is retained and the HR complaint is filed, the case is no longer in the performance management phase. It is in the legal posture phase. The most cost-effective path may be a negotiated resolution that addresses the employee's concerns (compensation, coverage, evaluation correction) without the risk of a PIP-triggered litigation escalation. See LITIGATION_PREP.md Section 7 for settlement analysis.
+
+### 6.6 Sasha's Job Interviews May Render the PIP Question Moot *(Added March 9)*
+
+**New development:** Sasha has two job interviews scheduled for the week of March 9. One he describes as indifferent to; the other is at a company he considers objectively better than Bloomberg. Both positions are remote.
+
+**If Sasha accepts a comparable or better offer and leaves Bloomberg, the PIP analysis changes fundamentally:**
+
+1. **The PIP becomes entirely moot.** There is no one to PIP. The performance management question disappears.
+
+2. **Damages are capped at the delta.** If Sasha leaves for a comparable or better compensation package, his economic damages are limited to the difference between Bloomberg compensation and new compensation (if any), plus whatever back pay, bonus, and raise claims he carries from the period at Bloomberg. Front pay damages -- which can be substantial in a stay-and-fight scenario -- are largely eliminated by voluntary departure to a comparable role.
+
+3. **Constructive discharge theory weakens significantly.** If Sasha leaves for a better opportunity (better company, remote flexibility, comparable or higher pay), it becomes much harder to argue he was forced out. Voluntary departure to a superior position undermines the claim that Bloomberg's conduct left him no reasonable choice but to resign. The constructive discharge claim does not disappear entirely -- the hostile work environment and the coverage stripping are independent facts -- but the "I left because I had to" narrative is weaker when the destination is objectively better.
+
+4. **Settlement leverage decreases.** With Sasha employed elsewhere at comparable or better compensation, the urgency and magnitude of settlement demands drop. Phillips's 40% contingency becomes less attractive when the likely recovery is smaller. The emotional distress and punitive damages components remain, but the lost-wages claim -- typically the largest economic component -- shrinks or vanishes.
+
+5. **Bloomberg's litigation posture improves.** A departed employee suing from a better job is a harder plaintiff than a current employee being actively mistreated. The ongoing-harm narrative ends. The jury sympathy shifts. The "they drove me out and destroyed my career" argument becomes "they treated me badly, so I left and landed somewhere better."
+
+**If Sasha does NOT accept an offer (or the offers are inadequate) and continues the "stay and fight" approach,** nothing changes. The PIP trap analysis from Sections 6.4-6.5 remains fully applicable. The PIP is lose-lose regardless of the employment outcome.
+
+**What this means for the company's posture (March 9):**
+
+- **Do not accelerate any adverse action.** If Sasha is interviewing elsewhere, the best possible outcome for the company is that he leaves voluntarily for a good job. Any adverse action (PIP, coverage stripping, further negative interactions) that occurs while Sasha is interviewing will be framed as the conduct that caused him to leave, strengthening the constructive discharge claim rather than weakening it. The company should do nothing that disrupts a natural exit.
+- **The Tom CT shadowing trip is particularly dangerous in this context.** If Sasha is actively interviewing for other jobs during the same week that Platt is training the new hire on Sasha's territory, the inference is inescapable: "They were replacing me before I even decided to leave. They were already giving my accounts to the new guy." Even if the timing is coincidental, a jury will not see it that way.
+- **Monitor but do not interfere.** If Sasha leaves voluntarily, the company's exposure drops materially. The PIP question resolves itself. The settlement range narrows. The path of least resistance is to let the process play out without creating new evidence of retaliation.
+
+### 6.7 Phillips Intake Forms Completed -- Attorney Is Now Building the Case *(Added March 9)*
+
+**New development:** Sasha has completed three intake forms for Phillips & Associates (Melissa) and uploaded evidence to Phillips's OneDrive. The staged documents (evaluation, counter-metrics, coverage data, WhatsApp evidence) are now in the attorney's hands for active review.
+
+**What this means for the PIP:**
+
+1. **Melissa is now building the case with Bloomberg's own documents.** The intake forms and evidence uploads mean Phillips is no longer in the intake/assessment phase. The firm is actively constructing the legal theory, reviewing the evaluation's data points against Bloomberg's own systems, and preparing for the next strategic move (likely the HR complaint and/or demand letter). A PIP issued while the attorney is actively reviewing the evaluation documents that form the PIP's basis would be immediately challenged as pretextual acceleration. Melissa will have already identified every weakness in the evaluation's data. She will apply that same analysis to the PIP within hours of delivery.
+
+2. **The staged documents include the evaluation itself.** Phillips now has the exact language Platt used, the exact metrics he cited, and the exact counter-data Sasha has assembled. Any PIP metric that echoes the evaluation's framing will be flagged as inheriting the evaluation's documented errors. If the PIP says "improve revenue," Phillips already knows the revenue numbers were manipulated (RFQe, CRM forecast). If the PIP says "increase client activity," Phillips already knows Sasha led the team in activity.
+
+3. **The HR complaint is now more imminent, not less.** With intake forms completed and evidence uploaded, Melissa has the factual foundation to draft or advise on the HR complaint. The Section 6.5 framework -- which conditions any post-complaint PIP on six conditions unlikely to coexist -- applies with even more force. The company should assume the HR complaint is days away, not weeks.
+
+4. **Even if the HR complaint has not yet been filed, the attorney's active engagement means Bloomberg should treat the pre-complaint window as effectively closed.** Phillips is building the case. The evidence is assembled. The strategic sequence (HR complaint -> rebuttal -> demand letter) is in motion. The fact that the complaint has not yet been filed is a technicality. Any PIP issued in this window will be framed as: "Bloomberg rushed to PIP the employee before the complaint could be filed, specifically to preempt the protected activity. The attorney was already building the case. The employee had already retained counsel. Bloomberg knew the complaint was coming and tried to act first."
+
+**Bottom line:** The Phillips intake completion does not change the Section 6.4 recommendation. It reinforces it. The PIP was already inadvisable. It is now inadvisable AND the attorney has the evidence to prove why within hours of delivery.
 
 ---
 
@@ -743,3 +1016,5 @@ These are the employee's own claimed metrics from H1 2025, sourced from `Employe
 The confirmed 2025 target of $115K (from Bloomberg's METC screen) replaces the previously cited $100K informal estimate. The 2026 target of $175K represents a 52% increase over this confirmed baseline, which opposing counsel will present as a standalone adverse action when combined with the coverage disparity.
 
 PIP revenue targets should be calibrated toward the higher end only if coverage is restored; toward the lower end if it is not. In all cases, revenue must be verified independently of the manager (see Section 1.8) to prevent the timing manipulation alleged in both the RFQe and CRM forecast incidents.
+
+**Note on assist credit (cross-product origination) *(Added March 9 evening)*:** Sasha's actual originated production includes approximately $24K in EMSX API deals where he sourced the client relationship and drove adoption, but the revenue was credited to another team (likely the EMSX product team or an API-specific sales line). This production does not appear in Sasha's METC figures. If PIP revenue targets are set against METC-only figures, they ignore $24K in production Sasha actually generated through cross-product origination. This creates two problems for PIP design: (1) the PIP understates his actual production capacity, making targets appear more generous than they are relative to his real output, and (2) opposing counsel will argue that the company measures Sasha on a metric he cannot fully control because revenue he originates gets credited elsewhere. PIP targets must either account for cross-product origination by including assist credits in the revenue total, or the revenue target must be reduced to reflect the fact that a portion of the employee's productive output is structurally invisible to the measurement system. A PIP that ignores assist credit revenue is attacking a metric the employee cannot fully influence, which is the definition of a setup-to-fail.
