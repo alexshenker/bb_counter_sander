@@ -1483,11 +1483,32 @@ The three-firm validation has strategic implications for Bloomberg even though W
 
 21. **Incoming HR filing and performance rebuttal.** Nina advised Sasha to file with HR stating "I believe there's retaliation" and to send a rebuttal to the manager and higher-ups. These actions will occur within days to weeks. Once the HR filing is made, every subsequent adverse action becomes potential retaliation for protected activity (Theory 5). Once the rebuttal reaches Santore and potentially others, the chain of command can no longer claim ignorance. These are not threats -- they are planned actions from a retained attorney's playbook.
 
-22. **Revised settlement ranges reflecting March 4 developments:**
-- **Low end:** $450K-$650K (O&G retained, incremental fee structure, sham restoration evidence, Nina's "very clear case," Wigdor conditional decline creates PIP price floor)
-- **Middle:** $850K-$1.5M (O&G full engagement, sham restoration + original coverage stripping + metrics manipulation creating three-layer adverse action narrative, HR filing triggering Theory 5)
-- **High end:** $1.5M-$3M+ (Sam Page corroborates, Psathas/Cooper leave denial expands to institutional pattern, jury trial)
-- **Catastrophic:** $3M-$10M+ (multiple Platt targets, class-action connection, FINRA referral, work phone forensics, O&G media agency involvement)
+22. **Revised settlement ranges reflecting March 4 developments (O&G era -- NOW SUPERSEDED by Phillips retention):**
+- ~~**Low end:** $450K-$650K~~
+- ~~**Middle:** $850K-$1.5M~~
+- ~~**High end:** $1.5M-$3M+~~
+- ~~**Catastrophic:** $3M-$10M+~~
+
+23. **Revised settlement ranges reflecting Phillips retention and corrected comp ($200K base) (Updated March 12):**
+
+**Sasha's compensation (corrected):** ~$200K base. ~$42K typical bonus (zeroed last two cycles). ~$242K total comp at full bonus. Actual recent comp: $200K/yr (base only). Bloomberg-funded MBA/JD (~$200K+ value). 14-year tenure.
+
+**Concrete losses:** Two zeroed bonus cycles = ~$84K. Lost raises (estimated 5-8% each cycle if not for leave) = ~$20K-$30K. Total concrete losses: ~$104K-$114K.
+
+**Phillips fee impact on Sasha's net:** Phillips takes 40% gross of any settlement. For Sasha to net $X, Bloomberg must pay $X / 0.6. This means:
+- Bloomberg pays $400K → Sasha nets $240K (1.2 years base)
+- Bloomberg pays $500K → Sasha nets $300K (1.5 years base)
+- Bloomberg pays $600K → Sasha nets $360K (1.8 years base)
+- Bloomberg pays $700K → Sasha nets $420K (~2.1 years base)
+
+**Pre-litigation ranges (Phillips as counsel):**
+- **Floor (below this, Sasha rejects and escalates to O&G):** $400K-$500K. Sasha nets $240K-$300K. Barely exceeds concrete losses + emotional distress. Phillips nets $160K-$200K (acceptable for pre-lit work). Bloomberg avoids discovery, avoids Platt's phone, avoids public filing. This is the minimum that prevents escalation.
+- **Realistic pre-litigation settlement:** $500K-$700K. Sasha nets $300K-$420K (1.5-2.1 years base). Phillips nets $200K-$280K (strong return for pre-lit). Bloomberg avoids litigation risk estimated at $1M+ with a real firm. This is the range where both sides have reasons to say yes.
+- **Ceiling (above this, Bloomberg fights rather than pays):** $700K-$900K. Above this, Bloomberg calculates that Phillips can't litigate and the risk of O&G/Wigdor entering is manageable.
+
+**Key variable:** If Sasha leaves for comparable or better employment before settlement, his ongoing damages stop accruing and constructive discharge weakens. This could push the realistic range down by $100K-$150K. If Sasha stays and fights, evidence accumulates daily and the range creeps up.
+
+**Critical strategic note:** Sasha will not feel he "won" with anything under ~$500K gross (~$300K net, ~1.5 years base). He's angry, his team has invested months, three firms validated the case, and he has "stay and fight" intent. Below $500K, he walks to O&G and the numbers double. Bloomberg's real decision is: $500K-$700K now, or $1M-$2M later with a firm that can actually litigate.
 
 ### 7.3 Non-Monetary Costs of Litigation
 
@@ -1772,7 +1793,7 @@ Bloomberg must weigh two competing interests:
 | Feb 21, 2026 | Sabrina Sparapani iMessage evidence captured | Pattern victim with first-person statements; HR exit interview claim; chain of command mapped |
 | Feb 21, 2026 | Forecast tampering mechanics described by employee | 9/5/2025 "dupe" closure allegation; CRM audit trail is key evidence; FINRA angle held for attorney |
 | Feb 21, 2026 | Chain of command mapped (Santore, Hal) | Employee preempting Faragher/Ellerth defense |
-| Feb 23, 2026 | Outten & Golden intake call (11 min); Phillips & Associates consultation (50 min) -- attorney wants to represent at 40% contingency | Attorney substantively engaged; "definitely seems like a retaliation case"; compensation confirmed ($240K/yr) |
+| Feb 23, 2026 | Outten & Golden intake call (11 min); Phillips & Associates consultation (50 min) -- attorney wants to represent at 40% contingency | Attorney substantively engaged; "definitely seems like a retaliation case"; compensation confirmed (~$200K base, ~$242K at full comp) |
 | Feb 23, 2026 | National origin discrimination evidence disclosed to attorneys -- "Comrade" (Russian) and "Rahul" (Indian) | New NYCHRL theory; broadens case to multi-category discrimination; self-correction evidence (manager stopped) |
 | Feb 24, 2026 | Clear Street Bloomberg MSG exchange -- Platt questions assignment he made, reveals intent to strip to Tommy (new hire), frames client success as gap | Real-time enterprise-system evidence of coverage stripping pattern; "oops" = opportunities; Tommy identified as new hire |
 | Feb 24, 2026 | Oura Ring 6-month baseline data provided -- flat stress Sep-Jan, 50% spike in Feb | Eliminates "new parenthood" defense for health data; isolates causation to Feb 17 evaluation |
@@ -1868,7 +1889,7 @@ The employee's case file includes two documents that reveal their known weakness
 
 21. *(Added March 4)* **Thomas's knowledge and attitude.** Thomas appeared nervous when Sasha asked about the junk accounts. The plaintiff's team has noted this behavioral observation but may not know what Thomas actually knows. If Thomas was told to assign junk accounts by Platt and is uncomfortable about it, he is a potential witness who can testify that the restoration was deliberately pretextual. The defense should assess Thomas's knowledge and loyalty before the plaintiff's attorney contacts him.
 
-22. *(Added March 9)* **Phillips intake form details.** Sasha completed three intake forms and uploaded his Client Info Sheet plus Bloomberg's evaluation documents to Phillips's OneDrive. Key disclosures in the intake: specific salary ($57K start in 2012, approximately $240K current), bonus (approximately $42K typical), Tom Secunda internship history, Bloomberg-sponsored MBA/JD. He listed text communications with Erb, Sabrina, Noah, and Aleksey Shenker as relevant evidence. He noted no formal HR complaints have been filed. The emotional distress worksheet now includes three health devices (Oura Ring, Apple Watch, Whoop). The defense implications: (a) Phillips now has Bloomberg's own evaluation documents, which they can immediately verify against CRM data; (b) the named text communication partners (Erb, Sabrina, Noah, Shenker) are the plaintiff's corroborating witnesses whose messages will be produced in discovery; (c) the "no formal HR complaints filed" disclosure means Nina's recommended HR filing has not yet occurred, giving Bloomberg a narrow window before Theory 5 activates; (d) three health devices rather than one strengthens the emotional distress evidence with cross-device corroboration.
+22. *(Added March 9)* **Phillips intake form details.** Sasha completed three intake forms and uploaded his Client Info Sheet plus Bloomberg's evaluation documents to Phillips's OneDrive. Key disclosures in the intake: specific salary ($57K start in 2012, approximately $200K base current, ~$242K at full comp), bonus (approximately $42K typical), Tom Secunda internship history, Bloomberg-sponsored MBA/JD. He listed text communications with Erb, Sabrina, Noah, and Aleksey Shenker as relevant evidence. He noted no formal HR complaints have been filed. The emotional distress worksheet now includes three health devices (Oura Ring, Apple Watch, Whoop). The defense implications: (a) Phillips now has Bloomberg's own evaluation documents, which they can immediately verify against CRM data; (b) the named text communication partners (Erb, Sabrina, Noah, Shenker) are the plaintiff's corroborating witnesses whose messages will be produced in discovery; (c) the "no formal HR complaints filed" disclosure means Nina's recommended HR filing has not yet occurred, giving Bloomberg a narrow window before Theory 5 activates; (d) three health devices rather than one strengthens the emotional distress evidence with cross-device corroboration.
 
 23. *(Added March 9)* **Sasha's job interviews.** Sasha has two job interviews this week, one described as a "better company," both remote. If he accepts an offer, it caps damages and shifts case dynamics: (a) constructive discharge becomes harder to prove because a voluntary departure to a better opportunity undermines "intolerable conditions"; (b) mitigation damages are reduced because he secured comparable or better employment; (c) the narrative shifts from "forced out of a 14-year career" to "left for a better opportunity while litigating." However, the defense should take ZERO action on this intelligence. Any action that could be perceived as facilitating departure (e.g., reducing workload, being suddenly supportive, offering references) becomes constructive discharge evidence. Any action that could be perceived as retaliating against departure planning (e.g., accelerating adverse actions, questioning absences) creates new liability. The correct posture is complete inaction and documentation of the date Bloomberg became aware, if it becomes aware through any channel.
 

@@ -28,13 +28,13 @@
 
 **Our defense: WEAK and deteriorating.** Three days until the letter arrives. No preparation underway. No HR briefing. No investigation of basic factual questions. The letter will contain specific, verifiable claims Bloomberg hasn't checked yet.
 
-## Outcome Ranges
+## Outcome Ranges (corrected: $200K base, $242K full comp)
 
 | Scenario | Range | Key drivers |
 |---|---|---|
-| Best case | $350K - $500K | Phillips settles quickly, Sam Page declines, comp process defense holds, pre-discovery resolution |
-| Most likely | $500K - $900K | Phillips counsel, verifiable data manipulation + direct leave admission + Sabrina + comp process evidence |
-| Worst case | $1.2M - $2.5M | Phillips litigates (reassess), O&G/Wigdor picks up, Sam Page corroborates, comp process confirmed |
+| Best case (pre-lit settlement) | $400K - $500K | Phillips settles quickly, Sam Page declines, Sasha leaves for new job, pre-discovery resolution |
+| Most likely (pre-lit) | $500K - $700K | Phillips counsel, verifiable data manipulation + direct leave admission, Bloomberg avoids discovery |
+| Worst case (escalation) | $1M - $2M | O&G/Wigdor picks up, Sam Page corroborates, comp process confirmed, full litigation |
 | Catastrophic | $2.5M - $8M+ | Litigation-stage firm, multiple targets testify, systemic pattern proven, class-action, FINRA |
 
 ## Immediate Actions
