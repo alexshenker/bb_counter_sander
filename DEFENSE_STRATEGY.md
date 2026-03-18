@@ -98,7 +98,7 @@ The employee claims the manager systematically reduced his client base to engine
 ### Their Evidence
 
 - **CT accounts reassigned to James Johnston during first leave (Nov 2023 - May 2024).** Those accounts yielded revenue for JJ.
-- **Houston, Albany, and Tennessee territories stripped after return from second leave (post-Dec 28, 2025), never restored.** Not temporarily reassigned during leave for operational coverage -- stripped after Sasha was back and working. Employee raised this publicly at a team meeting. **Platt told Sasha "you're lucky I didn't take Connecticut" during this stripping** -- framing CT retention as a concession and implying he considered taking Sasha's last territory.
+- **Houston, Albany, and Tennessee territories stripped after return from second leave (post-Dec 28, 2025), all reassigned to Patrick Hiller, never restored.** Not temporarily reassigned during leave for operational coverage -- stripped after Sasha was back and working. Employee raised this publicly at a team meeting. **Platt told Sasha "you're lucky I didn't take Connecticut" during this stripping** -- framing CT retention as a concession and implying he considered taking Sasha's last territory.
 - **New hire Pat has approximately 2x Sasha's coverage** despite being newer to the team. Second coverage comparator after Johnston (5.4x).
 - **Inherited forecasts from Baptist redistribution.** When Baptist's coverage was redistributed, recipients also got his active forecasts and pipeline. Their subsequent "closed revenue" includes deals they didn't originate. Sasha received none of these inherited pipelines, making the peer revenue comparison in the evaluation fundamentally unfair.
 - **Bryan Baptist's coverage (Florida) redistributed to everyone except the employee** when Baptist left during the employee's second leave.
@@ -179,7 +179,7 @@ The employee claims Bloomberg operates a two-tier system: employees who take sho
 - **Johnston: 1 month leave (twice), 6,099 firms.**
 - **Employee: 6 months leave (twice), 1,138 firms.**
 - **5.4x disparity in coverage universe, from Bloomberg's own internal data.**
-- **Employee's characterization:** Johnston consistently receives preferential treatment; Johnston "knows that taking the full six months would put him in trouble."
+- **Employee's characterization:** Johnston consistently receives preferential treatment; Johnston "knows that taking the full six months would put him in trouble." Johnston took short leave not by personal preference but because he feared Platt's retaliation if he took the full entitlement. This transforms Johnston from a mere comparator into a chilling effect witness -- his choice was shaped by observing what happened to colleagues who took full leave.
 
 ### Strength Assessment: CRITICAL
 
@@ -199,7 +199,7 @@ Johnston and the employee are not similarly situated despite sharing a role and 
 
 4. **Leave duration affects business relationships independently of leave status.** A one-month absence requires minimal client transition. A six-month absence requires full reassignment. The business impact of the two absences is genuinely different, and managing coverage to maintain client relationships is not the same as penalizing the employee for taking leave.
 
-5. **The employee's characterization of Johnston's preferential treatment is self-serving speculation.** The statement that Johnston "knows that taking the full six months would put him in trouble" is the employee's interpretation, not a documented fact.
+5. **The employee's characterization of Johnston's preferential treatment is self-serving speculation.** The statement that Johnston "knows that taking the full six months would put him in trouble" is the employee's interpretation, not a documented fact. **However:** If Johnston testifies that he shortened his leave out of fear of retaliation, this defense point collapses entirely and Johnston becomes both a comparator and a chilling effect witness. The defense must determine Johnston's position before trial.
 
 ### Evidence Needed
 
@@ -352,13 +352,14 @@ The "carried the baby" comment alone is medium-strength (secondhand, Sabrina's r
 
 ### The Allegation
 
-The employee claims a former colleague, Sam Page, experienced an identical sequence of retaliation under the same manager: parental leave taken, bad remarks, coverage stripped, placed on PIP, pushed out. This transforms the employee's case from an isolated incident into a pattern of conduct.
+The employee claims a former colleague, Sam Page, experienced an identical sequence of retaliation under the same manager: parental leave taken, bad remarks, coverage stripped, placed on PIP, pushed out (~2022-2023). Page also helped Platt learn the EMSX platform, then received low ratings that trapped him -- a low rating at Bloomberg prevents internal transfers, so Page could neither advance nor escape. This transforms the employee's case from an isolated incident into a pattern of conduct, and the "low rating trap" adds a mechanism of control: rate them low so they cannot leave for another team, then use the low rating to justify termination.
 
 ### Their Evidence
 
-- **The employee's own account** of Sam Page's experience. The employee told his support team that Page experienced the same playbook.
+- **The employee's own account** of Sam Page's experience. The employee told his support team that Page experienced the same playbook: leave taken, low rating, coverage stripped, PIP, fired (~2022-2023).
+- **Page helped Platt learn the EMSX platform,** then received low ratings that prevented internal transfer. At Bloomberg, low ratings block transfers to other teams, creating a trap: the employee cannot escape the manager who is targeting him, and the low rating becomes the basis for eventual termination. This is the same mechanism now being applied to Sasha (PIP threat traps him under Platt).
 - **The account is secondhand.** The employee knows Page's experience from being on the same team, not from Page's direct testimony.
-- **No direct contact with Page documented yet.** The support team has identified Page as the "single most important potential corroborating witness" and prioritized establishing contact.
+- **No direct contact with Page documented yet.** The support team has identified Page as the "single most important potential corroborating witness" and prioritized establishing contact. Contact deferred to retained attorney (Phillips).
 - **Platt's admission of method (~2022):** Platt told Sasha "When I want to get rid of someone, you know, most people talk them up, I talk as much shit as I can" while actively pushing out Sam Page. The admission was made during the Sam Page termination process, connecting the method to a specific outcome. Platt also named Ryan Ron, Bryan Stewart (~15 years at Bloomberg), and John Calabro as prior targets of the same method, expanding the known victim list to potentially 6 employees (Page, Sasha, Sabrina, Ron, Stewart, Calabro).
 
 ### Strength Assessment: POTENTIALLY CRITICAL (Currently HIGH -- upgraded from Medium after Platt admission)
@@ -405,12 +406,13 @@ The defense must prepare for both scenarios: Page cooperates (critical threat) o
 
 ### The Allegation
 
-The employee claims that during the February 17, 2026 evaluation meeting, the manager stated he thought the employee was going to quit and get another job during his paternity leave, and that this was the reason for ranking him low. The employee characterizes this as an admission that the low ranking was based on speculation during protected leave, not on actual performance.
+The employee claims that Platt told Emily Kruger and/or Sabrina Sparapani that he thought Sasha was going to quit and get another job during his paternity leave, and that this was the reason for ranking him low. Emily is the primary witness to this statement. The employee characterizes this as an admission that the low ranking was based on speculation during protected leave, not on actual performance. Platt did not make this statement directly to Sasha; Sasha learned of it through Emily and/or Sabrina.
 
 ### Their Evidence
 
 - **The employee's contemporaneous WhatsApp report (Feb 17, 2026):** "lol apparently my manager thought I was gonna quit and got another job during my paternity leave which is why he ranked me low."
-- **Same-day documentation** to multiple friends who witnessed the statement in the group chat.
+- **Emily Kruger is the primary witness.** Platt made this statement to Emily (and possibly Sabrina), not to Sasha directly. This means the admission was made in confidence to a colleague, which makes it more damaging: it is harder to characterize as a motivational or coaching comment when it was said behind the employee's back.
+- **Same-day documentation** to multiple friends who witnessed the disclosure in the group chat.
 - **The employee connects it to removing personal items before leave:** "Ye cuz I took all my shit before the last paternity."
 
 ### Strength Assessment: HIGH
@@ -421,7 +423,7 @@ However, it remains a verbal statement documented only through the employee's ow
 
 ### The Defense
 
-1. **The statement is being taken out of context.** The manager may have been explaining a broader thought process in which multiple factors contributed to the ranking. "I thought you might be leaving" could have been one consideration among many, offered as context for why the manager wanted to have a frank performance conversation upon return, not as the sole or primary basis for the ranking.
+1. **The statement is being taken out of context.** The manager may have been explaining a broader thought process to a colleague in which multiple factors contributed to the ranking. "I thought he might be leaving" could have been one consideration among many, offered as context for the team dynamic, not as the sole or primary basis for the ranking. **However:** Because Platt said this to Emily/Sabrina rather than to Sasha, the "coaching/motivational" defense is unavailable. This was not an encouraging statement to a direct report; it was a candid remark to colleagues.
 
 2. **The ranking was based on midyear performance data, not speculation.** The evaluation document itself cites specific metrics: revenue ($26,300 from one forecast), strategic adoptions (3, none sustained), insufficient client visits in CT, shortened days. These are the actual bases for the ranking. The manager's comment about thinking the employee might leave was conversational, not evaluative.
 
@@ -439,7 +441,7 @@ However, it remains a verbal statement documented only through the employee's ow
 
 1. **The manager must not discuss this comment with anyone other than Bloomberg's employment counsel.** Any informal discussion creates additional witnesses to the manager's characterization of what he said.
 
-2. **Prepare for deposition.** This statement will be a centerpiece of the deposition. The manager will be asked: "Did you tell Mr. Akulov that you ranked him low because you thought he was quitting?" The answer must be clear and prepared: either (a) "I did not say that" (denial, but risky if the jury believes the employee) or (b) "I mentioned I was concerned about his plans, but the ranking was based on performance" (acknowledgment with context, safer if delivered credibly).
+2. **Prepare for deposition.** This statement will be a centerpiece of the deposition. The manager will be asked: "Did you tell Emily Kruger or Sabrina Sparapani that you ranked Mr. Akulov low because you thought he was quitting?" The answer must be clear and prepared: either (a) "I did not say that" (denial, but risky if Emily corroborates) or (b) "I mentioned I was concerned about his plans, but the ranking was based on performance" (acknowledgment with context, safer if delivered credibly). Emily Kruger's testimony is now critical -- she is the primary witness to this admission.
 
 3. **Document the evaluation's preparation timeline.** If the evaluation was drafted, reviewed, and finalized before February 17, the ranking pre-dates the conversation. The comment explains a pre-existing decision; it does not reveal the decision's basis.
 
@@ -805,7 +807,7 @@ The employee claims the manager raised his revenue target by 52% (from $115k to 
 ### Their Evidence
 
 - **2025 target: $115,000 (confirmed via METC screen, March 2). 2026 target: $175,000.** A 52% increase.
-- **Coverage stripped (Houston, upstate NY) and never restored.**
+- **Coverage stripped (Houston, Albany, Tennessee) after second leave return and never restored.** All three territories reassigned to Patrick Hiller.
 - **Excluded from Baptist redistribution.**
 - **Smallest coverage universe on team: 1,138 firms vs. 2,529-6,099 for peers.**
 - **Per-firm revenue requirement at the new target: $153.78/firm vs. $28.69/firm for the peer with 6,099 firms.**
@@ -904,7 +906,7 @@ The employee claims that on September 5, 2025 (during his leave), the manager cl
 - **The evaluation language:** "We were able to book" the Two Seas deal while Sasha was on leave. This wording credits the team rather than the employee.
 - **CRM audit trail:** Sasha claims it exists. If it does, it either confirms or refutes his account.
 - **Photos referenced but not provided or reviewed.**
-- **Dollar amount discrepancy:** Sasha says ~$58K; the evaluation references $53,800 for Two Seas. The employee's team notes this discrepancy and has flagged it as needing reconciliation.
+- **Two Seas confirmed at $53,800.** *(Dollar discrepancy resolved March 18.)* The earlier ~$58K figure reflected multi-component deal structures. The confirmed number eliminates the defense's prior credibility attack on this point.
 
 ### Strength Assessment: UNKNOWN (ranges from LOW to CRITICAL depending on audit trail) -- UPGRADED URGENCY due to RFQe pattern
 
@@ -922,7 +924,7 @@ If the audit trail shows a routine CRM action (consolidating a genuine duplicate
 
 1. **CRM maintenance is routine management.** Managers regularly clean up forecasts -- consolidating duplicates, correcting misattributed entries, updating deal status. Closing a forecast as "duplicate" and reopening it is a standard CRM workflow action, not evidence of fraud.
 
-2. **The dollar discrepancy undermines the claim.** Sasha says ~$58K. The evaluation says $53,800 for Two Seas. If these are the same deal, the $4,200 discrepancy suggests Sasha's recollection of the details is imprecise. If these are different deals, the entire allegation may be based on a misidentification.
+2. **~~The dollar discrepancy undermines the claim.~~** *(Weakened -- March 18 update.)* Two Seas is confirmed at $53,800. The earlier ~$58K figure reflected multi-component deal structures or rounding, not imprecise recollection. This defense point is no longer viable as a credibility attack.
 
 3. **"We were able to book" does not deny Sasha's contribution.** The evaluation says "we" -- team language -- not "I" or "someone other than Sasha." This is standard managerial writing about team accomplishments. It does not strip Sasha's credit; it describes a team outcome.
 
@@ -934,7 +936,7 @@ If the audit trail shows a routine CRM action (consolidating a genuine duplicate
 
 - **THE CRM AUDIT TRAIL FOR 9/5/2025.** This is the single most time-sensitive action item in the entire defense. Pull the complete audit trail for the forecast(s) in question: who created, who modified, what changes were made, timestamps, notes content before and after. If the trail shows a legitimate business action, preserve it and prepare to use it affirmatively. If it shows what Sasha describes, the manager needs to understand this exposure immediately.
 
-- **Dollar reconciliation.** Determine whether $58K and $53,800 refer to the same deal or different deals. If different deals, Sasha's claim may be based on confusion.
+- **~~Dollar reconciliation.~~** *(Resolved -- March 18.)* Two Seas confirmed at $53,800. No longer a discrepancy to exploit.
 
 - **CRM workflow documentation.** Does Bloomberg have standard procedures for how managers handle forecast records when employees are on leave? If closing and reopening forecasts is documented best practice, the action has an innocent explanation.
 
@@ -1015,7 +1017,7 @@ The employee claims the evaluation systematically cherry-picked data to understa
 
 ### Their Evidence
 
-- **C day counts from Bloomberg's activity system:** Sasha 19 (highest), JJ 18, Emily 13. Sasha confirmed 11 were CT, 8 were Houston/Albany (territories stripped after second leave return).
+- **C day counts from Bloomberg's activity system:** Sasha 19 (highest), JJ 18, Emily 13. Sasha confirmed 11 were CT, 8 were Houston/Albany/Tennessee (territories stripped after second leave return, all reassigned to Patrick Hiller).
 - **GDSF forecast IDs in Bloomberg CRM.** System records with timestamps, dollar amounts, and attribution. These are not Sasha's claims -- they are verifiable Bloomberg data.
 - **The evaluation's own numbers establish the cherry-picking.** The document says "11 C days" for Sasha (CT only) while counting all territories for peers. It says "only 1 forecast" when 4 exist in the system.
 
@@ -1025,7 +1027,7 @@ This is no longer a minor counting discrepancy. When combined, two instances of 
 
 ### The Defense
 
-1. **The evaluation was measuring territory-specific performance.** CT was Sasha's primary assigned territory. Evaluating CT C days specifically reflects performance in the territory he was responsible for. Visits in Houston and Albany were in territories no longer formally assigned to him -- those visits, while commendable, did not reflect work in his core coverage area.
+1. **The evaluation was measuring territory-specific performance.** CT was Sasha's primary assigned territory. Evaluating CT C days specifically reflects performance in the territory he was responsible for. Visits in Houston, Albany, and Tennessee were in territories stripped after his second leave return and reassigned to Patrick Hiller -- those visits, while commendable, did not reflect work in his core coverage area. **(Note: This defense is weak because the territories were stripped from Sasha after his return, raising the question of why he was penalized for not producing in territories that were taken from him.)**
 
 2. **The three additional forecasts may not have qualified as "booked" GDSF forecasts under Bloomberg's definitions.** Two of the three (Macquarie and RJA) started as RBLD conversations and "landed as EMSX API." If the evaluation was specifically measuring RBLD GDSF forecasts, the product-shift may explain the omission. The Teza forecast was also a different product context. **However:** this defense requires documented evidence that the evaluation was measuring RBLD-specific forecasts, not GDSF generally. The evaluation says "GDSF forecast" without a product qualifier.
 
@@ -1057,7 +1059,7 @@ The employee's team has developed a formal legal theory connecting the two leave
 
 ### Their Evidence
 
-- First cycle: 0% raise after first leave, manager attributed to leave "off the record," CT accounts reassigned to JJ during leave
+- First cycle: 0% raise after first leave, manager attributed to leave "off the record," CT accounts reassigned to JJ during first leave, Houston/Albany/Tennessee stripped after second leave return and given to Patrick Hiller
 - Sasha's WhatsApp messages (March-April 2025) explicitly linking his reduced effort to the 0% raise: "Given my raise," "They fucked me"
 - Despite expressed frustration, his activity metrics were STILL the highest on the team (648 interactions, 178 visits, 177 unique firms)
 - Second cycle repeats the identical pattern
@@ -1841,7 +1843,304 @@ If the assist credit policy was applied selectively -- i.e., if peers retained p
 
 1. **Pull assist credit data for all team members immediately.** This is the dispositive question. If everyone loses cross-product credit under the same methodology, the allegation is defensible. If Sasha is disproportionately affected, this is another exhibit in the revenue suppression pattern.
 2. **Document the assist credit policy.** If a written policy exists, produce it. If it is unwritten custom, have it documented now by someone other than Platt.
-3. **Prepare for the cumulative revenue argument.** Bloomberg must have a coherent response to "his real revenue was $134K, not $80K" that does not rely on three separate technical explanations. The jury will not parse CRM forecast closure rules, RFQe booking timing, and cross-product attribution methodology independently. They will hear: "Bloomberg found three ways to make a top performer look like an underperformer."
+3. **Prepare for the cumulative revenue argument.** Bloomberg must have a coherent response to "his real revenue was $119,611 (104% of full-year target), not the $80K credited" that does not rely on three separate technical explanations. The jury will not parse CRM forecast closure rules, RFQe booking timing, and cross-product attribution methodology independently. They will hear: "Bloomberg found three ways to make a top performer look like an underperformer, then wrote that he 'significantly underperformed.'"
+
+---
+
+## ALLEGATION 38: Bloomberg Eval Policy Violations (Added March 18)
+
+### The Allegation
+
+Platt violated Bloomberg's own written evaluation policy in two distinct ways: (1) he used peer comparison to evaluate Sasha instead of the required individual assessment for employees on extended leave; (2) he failed to hold the required interim review conversation. Bloomberg's internal performance evaluation page explicitly states: "If peer comparison isn't feasible (e.g., due to role changes or extended leave), your performance will be assessed individually" and separately requires an "Interim Review... a conversation is required."
+
+### Their Evidence
+
+- **Screenshot of Bloomberg's internal performance evaluation policy page.** The policy explicitly contemplates extended leave and prescribes individual assessment. This is not an interpretation or inference; it is the company's own written rule.
+- **The year-end evaluation itself.** The opening line states: "we were only able to evaluate his performance relative to his peers at the midyear." This is a direct admission that Platt used peer comparison, which the policy says should not be used for employees on extended leave.
+- **No interim review conversation was held.** The mid-year review was scheduled during leave, never conducted as a conversation, and posted unilaterally (Allegation 26). This violates the explicit "conversation is required" mandate.
+- **Combined with the eval "forgotten" (year-end scheduled last) and mid-year review denial:** three separate policy violations in the evaluation process, all affecting only Sasha.
+
+### Strength Assessment: DEVASTATING
+
+This may be the single most damaging exhibit in the case. Bloomberg's own policy -- written by Bloomberg, for Bloomberg managers, hosted on Bloomberg's internal systems -- says exactly what Platt should have done for an employee on extended leave, and Platt did the opposite. A plaintiff's attorney does not need expert witnesses, statistical analysis, or inference chains. The exhibit is: "Here is what your own company says to do. Here is what your manager actually did. They are opposites."
+
+The policy specifically uses the phrase "extended leave" as the trigger for individual assessment. Sasha took extended leave. The evaluation used peer comparison. The syllogism is complete without any additional evidence. Under NYCHRL, where the motivating factor standard is the lowest in the country, this exhibit alone may be sufficient to survive summary judgment.
+
+The interim review violation compounds the damage: the policy says a conversation is required, no conversation was held, and the review was posted unilaterally while Sasha was on leave. Two violations of the same policy, both disadvantaging the same employee, both benefiting the same manager's narrative.
+
+### The Defense
+
+1. **The policy is guidance, not a mandate.** Bloomberg's performance evaluation page describes best practices, not binding rules. Managers exercise judgment in how they conduct evaluations, and peer comparison is one valid methodology among several. The policy language ("if peer comparison isn't feasible") creates a conditional, not a prohibition -- Platt determined peer comparison was feasible for this employee.
+
+2. **Platt did consider individual factors.** The evaluation references Sasha's specific activities (GDSF forecasts, C-days, adoptions, client interactions) alongside peer comparisons. This is an individual assessment that also references peer benchmarks, not a pure peer comparison.
+
+3. **The interim review was not feasible during extended leave.** Conducting a mid-year review conversation requires the employee to be present and engaged. During a six-month leave, scheduling a substantive performance conversation is neither practical nor appropriate. The manager posted available information to ensure continuity.
+
+### Problems with the Defense
+
+1. **The policy specifically contemplates extended leave.** The "guidance not mandate" defense fails when the policy explicitly addresses the exact scenario: "due to... extended leave." Bloomberg wrote a rule for this situation. Platt ignored it. "It's just guidance" sounds like "we write rules we don't follow" to a jury.
+
+2. **Point 2 contradicts the evaluation's own opening.** Platt wrote "we were only able to evaluate his performance relative to his peers." If he also considered individual factors, why did he write that the evaluation was relative to peers? The evaluation's own text admits the methodology the policy prohibits.
+
+3. **Point 3 is destroyed by the policy itself.** The policy says "a conversation is required." If Bloomberg believed conversations during leave were infeasible, it would not have required them. The company's own rule contemplates that interim reviews happen even during disruptions. Platt could have scheduled a conversation upon Sasha's return, before finalizing the evaluation. He did not.
+
+4. **The "feasibility" argument cuts both ways.** If peer comparison was "feasible," the defense must explain why: what made it feasible to compare a 6-month employee to 12-month employees? The more this is explained, the more it sounds like Platt chose the methodology that disadvantaged Sasha rather than the one Bloomberg prescribed.
+
+### Evidence Needed
+
+- **The full Bloomberg performance evaluation policy document.** Not just the screenshot -- the complete policy, including any revision history, effective dates, and whether it was in effect during the 2025 evaluation cycle.
+- **Whether there is a formal exception process.** Can managers request an exception from the individual assessment requirement? If so, did Platt request one? If not, the policy was binding and he violated it.
+- **Whether other managers followed this policy for employees on extended leave.** If other Bloomberg managers conducted individual assessments for leave-taking employees, Platt's deviation is not just a policy violation but a selective one.
+- **HR training materials.** Were managers trained on this policy? If Platt was trained and still violated it, that undercuts the "didn't know" defense. If he wasn't trained, Bloomberg has a systemic failure.
+- **Whether Platt's superiors (Rich Santore) reviewed or approved the evaluation methodology.** If they did, the policy violation extends up the chain. If they didn't, the lack of oversight is itself problematic.
+
+### Recommended Actions
+
+1. **Legal counsel must review this exhibit immediately.** This is likely to be Exhibit A in any proceeding. The defense must know the full policy, its binding nature, and whether any exception mechanism exists before responding to any demand letter or HR filing.
+2. **Determine if the policy was in effect during the evaluation period.** If it was revised or not yet published, that is a narrow defense. If it was active and accessible to Platt, the violation is established.
+3. **Do NOT attempt to revise the policy retroactively.** Any post-complaint revision to the evaluation policy will be discoverable and will be framed as consciousness of guilt -- Bloomberg changed the rule after it was used against a leave-taking employee.
+4. **Prepare for the deposition question:** "Mr. Platt, are you aware of Bloomberg's policy requiring individual assessment for employees on extended leave? Did you follow it? Why not?"
+
+---
+
+## ALLEGATION 39: IOI Goalpost-Moving -- Post-Rebuttal Retaliation (Added March 18)
+
+### The Allegation
+
+Four days after Sasha's attorney-reviewed rebuttal letter was delivered (March 13), Platt retroactively changed the counting rules for IOI (Indication of Interest) adoption metrics, sending a team email announcing that only EMSX-sourced IOIs would count. This erased 19 of Sasha's 20 recorded adoptions. Emily Kruger independently pushed back on the change, and Fio (the product manager responsible for the IOI platform) confirmed that both EMSX and non-EMSX metrics are tracked.
+
+### Their Evidence
+
+- **Team email from Platt** announcing the EMSX-only counting methodology. Timestamped approximately March 17, four days after the rebuttal letter.
+- **Emily Kruger's independent pushback email.** Emily challenged the counting change without coordination with Sasha. Her objection was organic, not strategic, which makes it more credible as evidence that the change was unexpected and unusual.
+- **Fio's confirmation that "both data points" are tracked.** The product manager responsible for the IOI platform confirms that both EMSX and non-EMSX adoptions are measured. Platt's narrower definition is not the platform's standard.
+- **Sasha's 20 IOI adoptions reduced to 1** under the new counting method. The timing converts a metric where Sasha was succeeding into one where he appears to have failed.
+- **The rebuttal letter (March 13) explicitly challenged the evaluation's IOI adoption claims.** Platt's counting change directly responds to the category of evidence Sasha used to rebut his evaluation.
+
+### Strength Assessment: HIGH
+
+The timing alone makes this allegation dangerous: four days after an attorney-reviewed letter challenges the evaluation, the manager changes the rules on the specific metric the letter highlighted. Emily's independent pushback eliminates the "this was planned" defense unless Bloomberg can produce evidence the change was discussed before March 13. Fio's confirmation that "both data points" are tracked undercuts Platt's narrower definition by showing it is not the institutional standard.
+
+If this cannot be shown to have been planned before the rebuttal letter, it is a textbook example of post-protected-activity retaliation. Under NYCHRL's motivating factor standard, temporal proximity of four days is sufficient to create an inference of retaliation, especially when the change specifically targets the metric the employee used in his rebuttal.
+
+### The Defense
+
+1. **The EMSX-only methodology was a pre-planned standardization.** Platt determined that EMSX-sourced IOIs are the most meaningful metric for evaluating the team's product adoption efforts. Non-EMSX IOIs may involve different workflows or client behaviors that do not reflect the team's direct sales activity. The change applies to all team members equally.
+
+2. **Emily's pushback demonstrates the change affected everyone, not just Sasha.** If Emily objected because her numbers were also reduced, the change was team-wide, not targeted.
+
+3. **Fio's "both data points" statement supports the defense.** Both are tracked, but the team can choose which metric is most relevant for performance evaluation. Tracking both does not mean both must carry equal weight.
+
+### Problems with the Defense
+
+1. **The timing is terrible.** Four days post-rebuttal. If the defense cannot produce a dated email, meeting note, or Slack message showing this change was discussed before March 13, the temporal proximity speaks for itself.
+2. **Emily's pushback shows it was unexpected.** If this were a planned change that had been discussed, Emily would not have been surprised. Her organic objection undermines the "pre-planned" defense.
+3. **The effect is suspiciously one-sided.** Sasha goes from 20 to 1. If other team members are less affected (because they had more EMSX-sourced adoptions), the practical impact targets the employee who just filed a rebuttal.
+4. **This is the second metric change after protected activity.** Combined with the revenue counting issues (CRM forecast closure, RFQe timing, assist credit), this is a fourth mechanism for reducing Sasha's credited performance. The pattern of changing counting rules that disadvantage Sasha is now systematic.
+
+### Evidence Needed
+
+- **Any pre-March 13 documentation of the counting change.** Emails, meeting notes, Slack messages, calendar invites. If the change was discussed before the rebuttal letter, produce the evidence immediately.
+- **Impact analysis across the full team.** How many IOI adoptions does each team member lose under the new counting? If the impact is roughly equal, the change is defensible. If Sasha is disproportionately affected, it is not.
+- **Whether the old counting method was used in the year-end evaluation.** If the evaluation used the broader count (and Sasha still came up short), changing to EMSX-only now is moving the goalposts. If the evaluation already used EMSX-only, this is a consistent application.
+
+### Recommended Actions
+
+1. **Produce evidence the change was planned before March 13 or retract it.** There is no middle ground. If Platt decided this after reading the rebuttal, it is retaliation. If he decided it before, produce the proof. If no proof exists, the change should be reversed with documentation that the team returned to the standard methodology after further review.
+2. **Instruct Platt to make NO methodology changes until further notice.** Every rule change, metric adjustment, or counting methodology revision that occurs after the rebuttal letter will be examined for retaliatory intent. The safest course is a freeze on all evaluation methodology changes until the situation is resolved.
+3. **Preserve Emily's pushback email and Fio's response.** These are favorable to the employee's case and will be requested in discovery.
+
+---
+
+## ALLEGATION 40: Sole Zero-Comp Recipient on Team (Added March 18)
+
+### The Allegation
+
+Sasha is the only person on Platt's team who received zero raise AND zero bonus. No other team member received both zero raise and zero bonus. Company-wide, zero bonuses were "extremely rare." This singles out the employee who took the most leave for the worst compensation outcome on the team.
+
+### Their Evidence
+
+- **Sasha's confirmed knowledge of team compensation outcomes.** He knows he is the only zero/zero on the team.
+- **Bloomberg's own compensation data** will confirm or refute this in discovery.
+- **"Extremely rare" characterization of zero bonuses company-wide.** If true, this eliminates the defense that zero bonuses reflect company-wide austerity or a bad year.
+- **The zero/zero outcome correlates with the longest leave.** Sasha took 6 months (twice). No other team member took comparable leave. No other team member received zero/zero.
+
+### Strength Assessment: HIGH
+
+This is a simple, devastating comparison point. A jury does not need to understand CRM systems, GDSF forecasts, or IOI adoption metrics. They need to understand: "He is the only one who got nothing. He is the only one who took six months of leave." The correlation is immediate and intuitive.
+
+The "extremely rare" characterization of zero bonuses elevates this beyond the team level. If Bloomberg can show that zero bonuses were common across the company, this weakens. If zero bonuses were truly rare, Sasha's status as the sole team recipient who also took the most leave creates a near-automatic inference of retaliation.
+
+### The Defense
+
+1. **Sasha's performance justified the distinction.** The evaluation documents specific performance shortfalls (revenue below peers, limited adoptions, fewer C-days in CT). Zero raise and zero bonus reflected these documented deficiencies. Other team members performed better on these metrics and were compensated accordingly.
+
+2. **Compensation is individualized, not comparative.** Bloomberg does not guarantee uniform compensation. Each employee's comp reflects their individual performance, contribution, and market position. Sasha's zero/zero reflects his individual assessment, not a comparison with others.
+
+3. **The zero-bonus decision may reflect the comp process calibration.** If the cross-team calibration (Allegation 35) ranked Sasha at the bottom based on relative performance, the zero bonus is a function of the system, not individual targeting by Platt.
+
+### Problems with the Defense
+
+1. **Point 1 requires the evaluation to be defensible.** The evaluation is under comprehensive attack (Allegations 1, 18, 20, 29, 35, 37, 38). If the evaluation is found to be pretextual, the comp decision based on it inherits the pretext.
+2. **Point 2 is technically correct but emotionally devastating.** "We evaluate individually" is true, but when the individual evaluation produces the worst outcome on the team for the person who took the most leave, a jury hears: "We individualized our way to punishing the father who stayed home."
+3. **Point 3 creates the comp process circular problem.** If the comp process is post-hoc justification (Allegation 35), then the zero bonus is also a post-hoc outcome, not a performance-driven one.
+4. **The "extremely rare" company-wide context is hard to overcome.** If Bloomberg's own data shows that zero bonuses are unusual, the defense must explain why this particular employee -- who also took the most leave -- received one.
+
+### Evidence Needed
+
+- **Actual team compensation data for Platt's team (2025-2026 cycle).** Confirm whether Sasha is truly the only zero/zero. If another team member also received zero/zero without having taken extended leave, the correlation breaks.
+- **Company-wide zero-bonus frequency.** How many Bloomberg employees across the firm received zero bonus? If it is truly "extremely rare," what percentage of those were on extended leave? This data exists and will be demanded in discovery.
+- **Whether any other Bloomberg employee who took 6-month leave received zero/zero comp.** If there is a pattern company-wide, it is systemic. If Sasha is unique, it is targeted.
+
+### Recommended Actions
+
+1. **Pull actual comp data for Platt's team immediately.** If Sasha is the only zero/zero, prepare to defend the distinction solely on performance grounds. If another team member also received zero/zero, identify them and their leave history.
+2. **Pull company-wide zero-bonus data.** Understand the frequency before opposing counsel does. If zero bonuses are truly rare, prepare for this to be a central exhibit.
+3. **Prepare for the deposition question:** "Mr. Platt, how many people on your team received zero raise and zero bonus? Just one? And he was the one who took six months of paternity leave? Twice?"
+
+---
+
+## ALLEGATION 41: Teddy "Happy" Contradiction (Added March 18)
+
+### The Allegation
+
+Approximately one month after rating Sasha as "significantly underperforming" in his year-end evaluation, Platt told the team he was "happy" with Sasha and that Sasha had "stepped it up." Emily Kruger defended Sasha to Platt directly, telling him he "gave him no runway." Sabrina Sparapani independently stated: "he never stepped down he just had a kid." These post-evaluation statements directly contradict the written evaluation's characterization of Sasha's performance.
+
+### Their Evidence
+
+- **Sabrina's iMessage screenshots** relaying Emily's account of the conversation with Platt. The screenshots preserve: (1) Platt saying he is "happy" with Sasha, (2) Emily telling Platt he "gave [Sasha] no runway," and (3) Sabrina's independent characterization: "he never stepped down he just had a kid."
+- **The year-end evaluation** written approximately one month earlier describing Sasha as significantly underperforming.
+- **Two independent witnesses:** Emily (who directly challenged Platt) and Sabrina (who independently corroborated the leave-based nature of the evaluation).
+- **Sabrina is now at BlackRock,** outside Bloomberg's influence. Her testimony cannot be suppressed through internal pressure.
+
+### Strength Assessment: HIGH
+
+The contradiction between "significantly underperformed" (written, formal, filed) and "happy" / "stepped it up" (verbal, informal, to colleagues) is devastating because it suggests the written evaluation did not reflect Platt's genuine assessment. If Platt is happy with Sasha's performance one month after writing that he significantly underperformed, either: (a) the evaluation was inaccurate when written, (b) Sasha's performance transformed in one month (implausible), or (c) Platt is lying now to cover the evaluation. All three interpretations damage the defense.
+
+Emily's "gave him no runway" comment is independently dangerous. A team member -- not Sasha, not his attorney, not his support network -- independently concluded that Platt set Sasha up to fail. Emily has no litigation motive; her opinion was formed organically from observing the situation.
+
+Sabrina's "he never stepped down he just had a kid" is the plaintiff's entire case in nine words, stated by a former colleague who experienced the same manager's treatment.
+
+### The Defense
+
+1. **Platt's "happy" comment reflected improvement post-evaluation, not a retraction.** The evaluation identified areas for improvement. Sasha improved. Platt acknowledged the improvement. This is exactly how the evaluation process is supposed to work: identify problems, employee addresses them, manager recognizes progress.
+
+2. **"Happy" and "stepped it up" are encouraging coaching language.** Managers provide positive reinforcement to motivate employees. Telling the team he was pleased with Sasha's recent effort does not retroactively invalidate the evaluation period's assessment. It reflects the period after the evaluation.
+
+3. **Emily's "no runway" comment is her opinion, not established fact.** Reasonable people can disagree about whether an employee was given adequate resources and opportunity. Emily may have been defending a friend, not offering an objective management assessment.
+
+### Problems with the Defense
+
+1. **One month is not enough time for a genuine performance transformation.** If Sasha "significantly underperformed" in December/January and Platt is "happy" by February/March, the turnaround is too fast to be genuine. It suggests the evaluation overstated the problem.
+2. **"Stepped it up" implies the prior level was already adequate.** "Stepping it up" means doing more than before. If the prior level was "significant underperformance," stepping it up from there should still be underperformance. If "stepping it up" now means "happy," the baseline was closer to acceptable than the evaluation suggested.
+3. **Emily's "no runway" is corroborated by the data.** Coverage stripped, smallest universe, highest target relative to coverage, evaluation forgotten, mid-year review denied. Emily's conclusion matches the documented facts. Dismissing it as opinion is difficult when the objective data supports it.
+4. **Sabrina's statement connects directly to leave.** "He never stepped down he just had a kid" frames the entire dispute as leave-based. This is a former colleague who saw the same manager's behavior from the inside, now speaking from outside Bloomberg's control.
+
+### Evidence Needed
+
+- **Whether Platt made similar encouraging statements to other team members.** If Platt routinely tells the team he is "happy" with various members, this is standard managerial communication, not a contradiction of Sasha's evaluation specifically.
+- **The timing of Platt's "happy" statement relative to the rebuttal letter and HR complaint.** If the statement came after Platt learned of the rebuttal/complaint, it could be defensive behavior rather than genuine assessment.
+- **Emily's willingness to testify.** Emily is a current Bloomberg employee. Her willingness to repeat "gave him no runway" under oath determines whether this is hearsay through Sabrina or direct testimony.
+
+### Recommended Actions
+
+1. **Counsel Platt to be consistent.** His statements to the team must not contradict his written evaluation. If he is "happy" with Sasha, he needs to either: (a) document what specifically improved and when, creating a post-evaluation improvement narrative, or (b) stop making statements that undercut the evaluation he wrote.
+2. **Prepare for Emily Kruger's testimony.** Emily independently challenged Platt and defended Sasha. She is a powerful witness because she is a current employee with no litigation motive. Bloomberg must assess whether Emily would repeat her statements under oath and prepare accordingly.
+3. **Do NOT attempt to influence Emily or Sabrina.** Any contact with either witness that could be characterized as intimidation or pressure will compound the problem. Sabrina is at BlackRock and beyond reach. Emily is a current employee, and any pressure on her testimony creates a witness tampering allegation.
+
+---
+
+## ALLEGATION 42: Base Pay Cut Considered -- Leave-Linked Comp Discussion (Added March 18)
+
+### The Allegation
+
+During the February 17, 2026 evening conversation following the evaluation, Platt revealed to Sasha that he and Rich Santore had discussed cutting Sasha's base salary. Platt framed the decision not to cut as generosity, tying it explicitly to leave: "we don't cut your pay and you were away for 6 months." The statement implies that (1) a base pay cut was actively considered, (2) the consideration was linked to leave duration, and (3) the decision to maintain base pay was presented as a concession rather than a baseline expectation.
+
+### Their Evidence
+
+- **Sasha's account of the February 17, 2026 evening conversation.** Same-day documentation to the WhatsApp group and other contacts.
+- **The statement "we don't cut your pay and you were away for 6 months"** directly connects the compensation decision-making process to leave usage. The conjunction "and" links the two clauses: the pay decision and the leave.
+- **Consistent with Allegation 8 ("we didn't cut your pay")** and Allegation 36 ("mostly cuz I took 6 months off"). This is the third separate verbal statement from Platt linking compensation to leave in a single evening/evaluation cycle.
+- **The "consideration" of a base pay cut is itself an adverse action** under NYCHRL. Even though the cut was not implemented, the fact that it was discussed and tied to leave shows that leave was a motivating factor in compensation decisions.
+
+### Strength Assessment: HIGH
+
+This statement is dangerous for three reasons. First, it reveals that the compensation discussion at the management level (Platt + Santore) actively included base pay reduction as an option, elevating the comp decision from "no raise, no bonus" to "we considered making it even worse." Second, the explicit linkage to "you were away for 6 months" ties the consideration to protected leave. Third, framing the decision not to cut base pay as generosity ("we don't cut your pay") implies that cutting it would have been a reasonable response to taking leave, which is exactly the attitude the FMLA and NYCHRL prohibit.
+
+Under NYCHRL's motivating factor standard, a plaintiff does not need to prove that leave was the sole or primary reason for a comp decision. If leave was "a motivating factor," that is sufficient. Three separate statements in one evening linking comp to leave (Allegations 8, 36, and 42) collectively establish that leave was at minimum a motivating factor.
+
+### The Defense
+
+1. **The statement was about proportionality of contribution, not leave.** Platt was explaining that despite Sasha working only half the year (due to leave), Bloomberg maintained his full base salary. This reflects the company's supportive approach to leave-taking employees, not retaliation. The statement highlights what Bloomberg did right (maintained base pay), not what it considered doing wrong.
+
+2. **Base pay was never cut.** The consideration was abandoned. An adverse action requires an actual adverse employment action, not a discussion that was rejected. The outcome was favorable to Sasha: his base was maintained.
+
+3. **The "six months" reference is factual, not retaliatory.** Sasha was absent for six months. Mentioning this fact in the context of a compensation discussion is not evidence of animus; it is a statement of reality about work contribution during the period.
+
+### Problems with the Defense
+
+1. **Under NYCHRL, considering an adverse action because of protected activity can itself be evidence of discriminatory motivation.** The defense that "we didn't actually do it" does not eliminate the inference that leave was a motivating factor in how they approached compensation. If they considered cutting pay because of leave, the decision not to cut is still tainted by the leave-based reasoning.
+2. **"We don't cut your pay" as a favor is the wrong framing.** Maintaining an employee's base salary during protected leave is a legal obligation, not a gift. Presenting it as generosity implies the default expectation was punishment. A jury will hear: "Your manager thought you should be grateful he didn't cut your pay for having a baby."
+3. **This is the third leave-linked comp statement.** Combined with "mostly cuz I took 6 months off" (Allegation 36) and "we didn't cut your pay and you were away for 6 months" (Allegation 8), Platt made three statements in one evening connecting comp to leave. The defense cannot credibly argue that leave was not a factor when the manager said it three times.
+
+### Evidence Needed
+
+- **Whether base pay cuts were discussed for any other team member.** If this was a team-wide discussion about adjusting comp for all underperformers, the leave connection weakens. If only Sasha's base pay cut was discussed, the targeting is established.
+- **HR or compensation committee records of the pay cut discussion.** If there is a paper trail showing the consideration and rejection, the defense can characterize it as a responsible process. If there is no paper trail, the consideration was informal and Platt-driven.
+- **Rich Santore's account of the conversation.** Does Rich confirm that a base pay cut was discussed? Does he confirm the leave connection? If Rich denies the discussion, it is Platt's word against Sasha's. If Rich confirms it, the leave linkage extends to the next level of management.
+
+### Recommended Actions
+
+1. **This statement cannot be unsaid.** Prepare for the deposition question: "Mr. Platt, did you and Mr. Santore discuss cutting Mr. Akulov's base salary? And did you connect that discussion to his six months of paternity leave?"
+2. **Determine Rich Santore's position.** Rich must be asked -- by defense counsel, not by Platt -- whether he recalls discussing a base pay cut for Sasha and whether leave was mentioned. If Rich confirms, both managers are exposed. If Rich denies, Platt is isolated.
+3. **Brief Platt on not framing legal obligations as favors.** Maintaining an employee's base salary during protected leave is required by law. Any future statements presenting this as generosity will be used against the defense.
+
+---
+
+## ALLEGATION 43: Revenue Target Set Without Communication (Added March 18)
+
+### The Allegation
+
+Sasha's 2026 revenue target was set at $175K (a 52% increase from $115K in 2025) without any communication to Sasha. When Sasha discovered the target himself through the METC screen, Platt was "very surprised" that Sasha had noticed. Meanwhile, Pat (new hire) has the same $175K target but with approximately 2x Sasha's coverage plus the Boston territory.
+
+### Their Evidence
+
+- **METC screen showing $175K target.** Bloomberg's own system, not Sasha's claim.
+- **Sasha's account that Platt was "very surprised"** he noticed the target. This implies Platt did not intend for Sasha to know his target, which is extraordinary for a sales role where targets drive daily behavior.
+- **Pat comparator:** same $175K target, approximately 2x coverage, plus Boston territory. The per-firm revenue requirement for Sasha ($153.78/firm at 1,138 firms) vs. the implicit lower per-firm requirement for Pat (with 2x+ coverage) demonstrates the structural impossibility of Sasha hitting target with his coverage.
+- **No documented communication of the target to Sasha.** If other team members were told their targets and Sasha was not, the omission is selective.
+
+### Strength Assessment: MEDIUM-HIGH
+
+Setting an increased revenue target without telling the employee is unusual in any sales organization, where targets are fundamental to daily activity. Platt's surprise that Sasha noticed implies the target was set with the expectation that Sasha would not know about it, which supports the "setup to fail" narrative: set an impossibly high target relative to coverage, do not tell the employee, and then cite target miss as evidence of underperformance.
+
+The Pat comparator adds quantitative force. Same target, double the coverage, additional territory. The structural impossibility of meeting the target with Sasha's coverage is arithmetically demonstrable. This is not a judgment call about quality vs. quantity of coverage; it is math.
+
+### The Defense
+
+1. **Targets are visible in METC.** Bloomberg employees can check their revenue targets at any time through the METC system. There is no obligation for managers to separately communicate information that is accessible through standard tools. Sasha's role involves regular use of METC; he is expected to know his target.
+
+2. **The 52% increase reflects company or team-wide target adjustments.** If Bloomberg raised targets across the board for 2026, the increase is not targeted at Sasha individually. Revenue targets reflect business-level growth expectations, not individual performance punishment.
+
+3. **Pat's higher coverage reflects different territory composition and growth potential.** Pat's territories may include different client profiles, growth stage accounts, or geographic characteristics that justify higher coverage with the same target. Coverage count alone does not determine target achievability.
+
+### Problems with the Defense
+
+1. **"Very surprised" undermines Point 1.** If targets are routinely visible and employees are expected to check them, Platt would not be surprised that Sasha checked. His surprise implies the target was not meant to be noticed, which supports the setup-to-fail theory.
+2. **Point 2 requires evidence of team-wide increases.** If other team members received similar percentage increases, document it. If Sasha's increase is disproportionate, this defense fails.
+3. **Point 3 is weak on the math.** At $153.78 per firm needed for Sasha vs. substantially less per firm for Pat, the structural disadvantage is quantifiable. Territory "composition" arguments require showing that Sasha's 1,138 firms are individually 2x+ more valuable than Pat's firms, which is a hard case to make for a smaller, stripped-down coverage universe.
+
+### Evidence Needed
+
+- **How targets were communicated to other team members.** Were other team members told their 2026 targets in a meeting, email, or 1:1? If so, why was Sasha excluded?
+- **Target increase percentages for all team members.** If the 52% increase is comparable to others, the targeting argument weakens.
+- **Revenue-per-firm analysis.** What is the historical revenue productivity of Sasha's 1,138 firms vs. Pat's larger coverage? If Sasha's firms are demonstrably higher-value, the target is achievable. If they are comparable or lower-value, the target is structurally impossible.
+
+### Recommended Actions
+
+1. **Document the target communication process for all team members.** If targets were communicated to others and not Sasha, prepare to explain the omission. If no one was explicitly told (everyone was expected to check METC), document that as the standard process.
+2. **Prepare for the deposition question:** "Mr. Platt, did you tell each of your team members their 2026 revenue target? You didn't tell Mr. Akulov? Why not? And you were surprised he found out?"
+3. **Address the Pat comparator.** Document the business rationale for Pat's coverage assignment and territory (including Boston). If there is no documented reason why a new hire has 2x the coverage of a 14-year veteran at the same target, this comparison will be presented alongside the Johnston 5.4x comparison as evidence of systematic disadvantage.
 
 ---
 
@@ -1940,11 +2239,13 @@ These statements show the employee deliberately reduced his effort in response t
 
 **Limitation:** The employee's team will argue he reduced effort because of the retaliatory 0% raise -- making his disengagement itself a consequence of the first cycle of retaliation. This creates a causation chain: retaliation -> disengagement -> underperformance -> more retaliation. The defense must break this chain by establishing that the 0% raise was legitimate.
 
-### The Revenue Discrepancy -- LARGELY RESOLVED (Updated March 2)
+### The Revenue Discrepancy -- FULLY RESOLVED (Updated March 18)
 
-The employee previously had inconsistent figures in his own case file: $100k vs. $115k target, $80,100 vs. $81,000 revenue. **The $115K target is now confirmed via Bloomberg's METC screen.** The $100K figure was a rounding approximation used in early discussions. The minor $80,100 vs. $81,000 discrepancy remains but is trivial.
+The employee previously had inconsistent figures in his own case file: $100k vs. $115k target, $80,100 vs. $81,000 revenue. **All discrepancies are now resolved.** The $115K target is confirmed via Bloomberg's METC screen. The Two Seas deal is confirmed at $53,800.
 
-**More importantly, the revenue picture has shifted substantially.** With the RFQe revenue manipulation allegation (Allegation 29), the employee's real 2025 revenue was approximately $110K, not ~$80K. On a full-year basis against the confirmed $115K target, that is 96% achievement while working only 6 months. On a prorated basis (6 months active, ~$57.5K target), his ~$80K in credited revenue represents 139% of pace. The credibility issue we identified around inconsistent numbers in his own materials has been resolved in the employee's favor, and the revised revenue narrative (96% of full-year target in half the time) is significantly more compelling than what we previously understood.
+**Total confirmed revenue: $119,611 = 104% of the full-year $115K target.** This is achieved while working only approximately 6 months. The revenue picture is now unambiguous: Sasha exceeded his full-year target in half the time. On a prorated basis (6 months active, ~$57.5K target), his production represents approximately 208% of pace. The credibility issue we identified around inconsistent numbers in his own materials has been resolved entirely in the employee's favor. The "significantly underperformed" characterization in the evaluation is now contradicted by the employee's own verified revenue exceeding target.
+
+**The earlier dollar discrepancy between $58K and $53,800 for Two Seas is no longer a defense asset.** The $53,800 figure is confirmed. Any remaining differences reflect rounding or multi-component deal structures, not imprecise recollection on the employee's part.
 
 ### Work Phone Discovery Exposure (Added March 2)
 
@@ -1993,7 +2294,7 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 
 ## PRIORITY MATRIX
 
-*Updated March 9, 2026 (evening)*
+*Updated March 18, 2026*
 
 | Allegation | Strength | Defense Quality | Priority |
 |---|---|---|---|
@@ -2001,14 +2302,14 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 | RFQe Revenue Manipulation (29) | **HIGH** | Moderate if procedural defense holds; weak if Platt had discretion | **IMMEDIATE** |
 | Coverage Stripping (2) | **CRITICAL** | Weak -- now with sham restoration evidence | IMMEDIATE |
 | Sham Coverage Restoration (31) | **HIGH (NEW March 4)** | Weak -- predicted by opponent, executed with junk accounts | **IMMEDIATE** |
-| Johnston Comparator (3) | Critical | Weak without data | IMMEDIATE |
+| Johnston Comparator (3) | **Critical -- now with chilling effect** | Weak -- Johnston feared retaliation, not personal choice | IMMEDIATE |
 | Target Increase + Coverage Reduction (16) | Critical | Weak without data | IMMEDIATE |
 | Sam Page Pattern (6) | **Potentially Critical** | Weak -- admission links method to outcome | **IMMEDIATE** |
 | Evaluation Weaponization Admission (28) | High (Critical if corroborated) | Moderate -- uncorroborated, but method matches pattern | **IMMEDIATE** |
 | Sabrina Full Testimony (5) | High (potentially Critical) | Moderate -- credibility challenges exist but BlackRock evidence weakens them | HIGH |
 | Performance Eval Retaliation (1) | **High -- Nina identified provably false data** | Weakened -- GDSF 1 vs 4 and visit count 11 vs 19 are verifiable | HIGH |
 | Anthony Psathas (23) | **HIGH (upgraded March 4)** | Weak -- own leave denial, multiple incidents, fully identified | **HIGH** |
-| "Thought You Were Quitting" (7) | High | Moderate | HIGH |
+| "Thought You Were Quitting" (7) | **High -- Emily primary witness** | Weakened -- said to colleagues not Sasha, harder to characterize as coaching | HIGH |
 | "We Didn't Cut Your Pay" (8) | High | Moderate | HIGH |
 | Compensation Retaliation (9) | **CRITICAL (upgraded March 9 evening)** | Weakened -- "mostly cuz" direct admission under NYCHRL motivating factor | **IMMEDIATE** |
 | PIP Threat (15) | High -- **NOW A TRAP** | Moderate -- but PIP after HR filing = retaliation | HIGH |
@@ -2020,8 +2321,14 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 | Comp Process as Post-Hoc Justification (35) | **CRITICAL if confirmed (NEW March 9 evening)** | Unknown -- depends entirely on comp-to-eval sequence | **IMMEDIATE -- RESOLVE WITH #18** |
 | "Mostly Cuz" Direct Admission (36) | **CRITICAL (NEW March 9 evening)** | Weak -- direct causal statement, "off the record" = consciousness of guilt | **IMMEDIATE** |
 | Assist Credit Revenue Suppression (37) | **MEDIUM-HIGH (NEW March 9 evening)** | Moderate if universal policy; weak if selectively applied | **IMMEDIATE** |
-| Year-End Eval Forgotten (38) | **MEDIUM-HIGH (NEW March 10)** | Weak -- combines with mid-year denial to show eval process weaponization | **HIGH** |
-| Pat Coverage Disparity (39) | **HIGH (NEW March 10)** | Weak -- second comparator, no documented rationale | **IMMEDIATE** |
+| Year-End Eval Forgotten (subsection) | **MEDIUM-HIGH (March 10)** | Weak -- combines with mid-year denial to show eval process weaponization | **HIGH** |
+| Pat Coverage Disparity (subsection) | **HIGH (March 10)** | Weak -- second comparator, no documented rationale | **IMMEDIATE** |
+| Bloomberg Eval Policy Violations (38) | **DEVASTATING (NEW March 18)** | Very weak -- company's own policy contradicts manager's conduct | **IMMEDIATE -- EXHIBIT A** |
+| IOI Goalpost-Moving (39) | **HIGH (NEW March 18)** | Weak -- 4 days post-rebuttal, Emily's independent pushback | **IMMEDIATE** |
+| Sole Zero-Comp on Team (40) | **HIGH (NEW March 18)** | Moderate -- defensible only if evaluation holds | **HIGH** |
+| Teddy "Happy" Contradiction (41) | **HIGH (NEW March 18)** | Weak -- Platt's own statements contradict his evaluation | **HIGH** |
+| Base Pay Cut Considered (42) | **HIGH (NEW March 18)** | Weak -- third leave-linked comp statement in one evening | **HIGH** |
+| Target Set Without Communication (43) | **MEDIUM-HIGH (NEW March 18)** | Moderate -- METC visibility defense available but "surprised" undermines it | **HIGH** |
 | Performative Meeting (34) | **MEDIUM (NEW March 9)** | Moderate -- isolated, but dangerous in pattern | HIGH |
 | Platt Meeting Avoidance (32) | **MEDIUM-HIGH (NEW March 4)** | Weak -- compounds mid-year review dodge pattern | HIGH |
 | Retaliation Cascade Theory (21) | Medium-High | Moderate -- break the first link | HIGH |
@@ -2036,7 +2343,7 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 | Mandatory Review During Leave (12) | Low | Strong | LOW |
 | Seat Reassignment (13) | Low | Strong | LOW |
 
-### Eighteen Most Urgent Actions (Updated March 9, 2026 evening)
+### Twenty-Four Most Urgent Actions (Updated March 18, 2026)
 
 1. **STOP PLATT FROM ASSIGNING JUNK ACCOUNTS -- TODAY.** Every worthless account is a new exhibit. The sham coverage restoration is worse than doing nothing: it proves awareness of the disparity, corroborates Sabrina's testimony, and confirms the opponent's pre-framed "consciousness of guilt" prediction. If coverage is being restored, it must be genuine, revenue-generating accounts. Platt must be told to make NO coverage changes without documented business rationale reviewed by counsel.
 
@@ -2062,7 +2369,7 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 
 12. **STOP the Connecticut coverage stripping plan.** Anthony Psathas (now fully identified) was overheard signaling CT strip. CT is Sasha's last territory. If stripped after the HR filing, it is a devastating evidence of continued retaliation.
 
-13. **Prepare for the combined revenue manipulation theory at deposition.** "Mr. Platt, you closed his CRM forecast, booked his RFQe revenue after the period closed, and then wrote that he 'significantly underperformed.' If we add those back, he was at 96% of full-year target in half a year. How do you explain that?"
+13. **Prepare for the combined revenue manipulation theory at deposition.** "Mr. Platt, you closed his CRM forecast, booked his RFQe revenue after the period closed, and then wrote that he 'significantly underperformed.' His confirmed revenue was $119,611, which is 104% of his full-year target, produced in half a year. How do you explain writing 'significantly underperformed'?"
 
 14. **(NEW March 4) Investigate the junk accounts NOW.** Pull revenue data, ETF volume, and client activity for every account Platt just assigned to Sasha. If they produce nothing over the coming months, the sham is documented. If they are genuinely active, the defense needs that evidence immediately. Also document the AB removal -- who made the decision, when, what was the business justification?
 
@@ -2097,3 +2404,11 @@ Bloomberg defeated the EEOC's 2007 pregnancy discrimination case (EEOC v. Bloomb
 29. **(NEW March 17) ADDRESS WHITEHAVEN AND MNDH DATA IN EVALUATION RESPONSE.** The rebuttal letter introduces two data points that directly contradict the evaluation's claim that RFQE onboards "did not lead to any bookable events in 2025": Whitehaven generated $7,910.79 in options fees (no forecast exists, invisible in metrics), and MNDH has traded $1.5B YTD with $17K in base fees from Sasha's onboarding work during leave. Combined RFQE fee production: $39,510.79. The evaluation's characterization of these efforts as producing "nothing" is factually false. The defense must decide whether to concede this point (acknowledge the evaluation was incomplete) or attempt to defend it (distinguish between "bookable events" and actual trading fees). The concession is safer -- defending a demonstrably false claim destroys credibility on every other evaluation point.
 
 30. **(NEW March 17) DOCUMENT BUSINESS JUSTIFICATION FOR BOTH MANAGERS' TRAVEL.** Rich in London, Platt in Las Vegas. Both unavailable when the rebuttal letter landed Friday and for the March 17 follow-up meeting. If both trips had pre-existing business justification booked before the letter was anticipated, document it now. If either trip was planned or adjusted after learning a formal communication was coming, the defense has a serious problem.
+
+31. **(NEW March 18) OBTAIN BLOOMBERG'S FULL EVALUATION POLICY AND DETERMINE IF EXCEPTIONS EXIST.** Bloomberg's own written policy says employees on extended leave must be assessed individually, not by peer comparison. Platt's evaluation used peer comparison. The policy also requires an interim review conversation, which never happened. This is potentially Exhibit A. Legal counsel must review the full policy document, determine when it took effect, whether it was binding, and whether any exception process exists. If the policy was in effect and binding, the defense must pivot to arguing Platt's methodology was an oversight, not intentional. If an exception process exists and Platt used it, produce the documentation. If no exception exists and no one can explain the deviation, prepare for this to be the centerpiece of the plaintiff's case.
+
+32. **(NEW March 18) REVERSE OR DOCUMENT THE IOI COUNTING CHANGE IMMEDIATELY.** Platt changed IOI adoption counting rules 4 days after the rebuttal letter, erasing 19 of 20 Sasha adoptions. Emily Kruger independently pushed back. Fio confirmed both metrics are tracked. If this change cannot be shown to have been planned before March 13, it is post-rebuttal retaliation. Either produce evidence of pre-March 13 planning or revert to the original counting methodology with documentation that the team returned to the standard after further review. Instruct Platt to make ZERO methodology changes until the situation is resolved.
+
+33. **(NEW March 18) PULL TEAM COMP DATA TO PREPARE FOR ZERO/ZERO DEFENSE.** Sasha is reportedly the only team member who received both zero raise and zero bonus. If true, the defense must be prepared to explain this distinction purely on performance grounds. Pull: (a) comp outcomes for every member of Platt's team, (b) company-wide frequency of zero bonuses, (c) correlation between zero bonuses and leave usage across the firm. If zero bonuses are truly "extremely rare" company-wide, and Sasha is the sole team recipient who also took the most leave, prepare for this to be a jury-ready exhibit requiring no expert explanation.
+
+34. **(NEW March 18) PREPARE FOR TEDDY "HAPPY" CONTRADICTION AT DEPOSITION.** Platt told the team he was "happy" with Sasha approximately one month after rating him as significantly underperforming. Emily Kruger told Platt he "gave [Sasha] no runway." Sabrina independently stated "he never stepped down he just had a kid." The deposition question: "Mr. Platt, you wrote that Mr. Akulov 'significantly underperformed.' One month later, you told your team you were 'happy' with him. Which one was true?" Platt must have a consistent answer before any deposition.

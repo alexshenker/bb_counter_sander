@@ -1,7 +1,7 @@
 # Performance Improvement Plan: Design, Attack Analysis, and Strategic Assessment
 
 **Prepared:** February 20, 2026
-**Last updated:** March 12, 2026 (Phillips letter Friday 5 PM, "lucky I didn't take CT," inherited forecasts, Melissa is Senior Litigation Associate)
+**Last updated:** March 18, 2026 (PIP is a full trap: attorney-directed HR complaint before March 30, audio recording planned, Bloomberg eval policy violated, revenue at 104%, IOI goalpost-moving, Emily Kruger as internal witness)
 **For:** Manager's strategic defense preparation
 **Employee:** Aleksandr "Sasha" Akulov, ETS-Listed AMER South
 **Tenure:** ~13.5 years (start June 11, 2012)
@@ -23,6 +23,7 @@
    - 1.1: **Coverage Must Be Equalized (CRITICAL UPDATE -- March 9: Tom CT shadowing is final step in coverage stripping)**
    - 1.10: **O&G Engagement Letter and HR Complaint Strategy (CRITICAL -- March 4)**
    - 1.11: Platt Dodging Follow-Up Meeting (March 4)
+   - 1.12: **Comp Process Revelation Destroys Evaluation as PIP Predicate (CRITICAL -- March 9)**
 2. [Section 2: The Model PIP](#section-2-the-model-pip)
 3. [Section 3: Attack Analysis](#section-3-attack-analysis)
    - 3.10: **HR Complaint Makes PIP "Double Retaliation" (CRITICAL -- March 4)**
@@ -30,12 +31,15 @@
    - 4.3: **CT Coverage Stripping (CRITICAL UPDATE -- March 9: Tom shadowing trip is the execution phase)**
 5. [Section 5: What NOT to Do](#section-5-what-not-to-do)
    - 5.10: Do Not Issue a PIP After an HR Retaliation Complaint (March 4)
+   - 5.11: **Do Not Use Retroactively Redefined Metrics (March 18 -- IOI counting change)**
+   - 5.12: **Do Not Issue a PIP Based on a Policy-Violating Evaluation (March 18)**
 6. [Section 6: The Alternative -- Whether to PIP at All](#section-6-the-alternative)
-   - 6.1: Factors 15-17 added (March 4)
-   - 6.4: **Recommendation upgraded to DO NOT PIP (March 4)**
-   - 6.5: **New -- The PIP Decision Framework Post-HR Complaint (March 4)**
-   - 6.6: **New -- Sasha Job Interviews May Render PIP Moot (March 9)**
-   - 6.7: **New -- Phillips Intake Forms Completed (March 9)**
+   - 6.1: Factors 24-32 added (March 18: revenue 104%, zero comp sole member, Bloomberg policy violated, IOI goalpost, audio recording, Emily Kruger, target never communicated, territory stripping corrected, Teddy "happy")
+   - 6.4: **Recommendation: PIP IS A FULLY ARMED TRAP (March 18)**
+   - 6.5: **The PIP Decision Framework Post-HR Complaint (March 4)**
+   - 6.6: **Sasha Job Interviews May Render PIP Moot (March 9)**
+   - 6.7: **Phillips Intake Forms Completed (March 9)**
+7. **[Critical PIP Update (March 18): THE PIP IS A FULLY SET TRAP -- DO NOT ISSUE](#critical-pip-update-march-18-2026-the-pip-is-a-fully-set-trap----do-not-issue)** -- Ten facts that independently destroy a PIP. Requirements if PIP must eventually be issued.
 
 ---
 
@@ -193,15 +197,15 @@ On February 28, Sasha reported that he was directly responsible for over $30K in
 
 **The math with RFQe included:**
 
-| Metric | Without RFQe | With RFQe |
+| Metric | Without RFQE | With All RFQE |
 |---|---|---|
-| 2025 revenue (METC) | ~$80K | ~$110K |
+| 2025 revenue (METC) | ~$80K | ~$119,611 |
 | 2025 confirmed target | $115K | $115K |
-| % of full-year target | ~70% | ~96% |
+| % of full-year target | ~70% | ~104% |
 | Prorated target (6 active months) | $57.5K | $57.5K |
-| % of prorated target | ~139% | ~191% |
+| % of prorated target | ~139% | ~208% |
 
-With the RFQe revenue included, Sasha hit 96% of his full-year target while working only 6 months. On a prorated basis, he was nearly double his target. The gap between "70% of target" (the evaluation's framing) and "96% of target with revenue the manager pushed to January" is the difference between an underperformer and a strong performer who was sabotaged.
+With all RFQE revenue included (combined $39,510.79: Whitehaven options fees $7,910.79 + previously documented RFQE revenue), Sasha exceeded his full-year target at 104% while working only 6 months. On a prorated basis, he was more than double his target. The gap between "70% of target" (the evaluation's framing) and "104% of target with revenue the manager pushed or left invisible in metrics" is the difference between an underperformer and a top performer who was sabotaged.
 
 **What this means for PIP design:**
 
@@ -292,7 +296,11 @@ The pattern is exactly what Sabrina described: real accounts removed, junk accou
 
 **Nina called Platt "stupid" for using verifiable data in the evaluation.** Her reasoning: if Platt had written subjective criticisms (difficult to work with, colleagues unhappy), those are opinion-based and harder to disprove. Instead, Platt built a data-based case and manipulated the numbers -- citing 1 GDSF forecast when there were 4, citing 11 C-days when there were 19. Because Platt chose to argue with data, every data point is verifiable against Bloomberg's own systems, and the omissions are provable. Any PIP that contains similarly manipulable or verifiable metrics will face the same attack. Nina will compare PIP metrics to Bloomberg's own system data just as she is doing with the evaluation.
 
-**Bottom line:** The PIP option is effectively foreclosed once the HR complaint is filed. The HR complaint is expected within days of retainer signing (by March 11). The window to implement a PIP without it being framed as double retaliation is closing and may already be closed by the time any PIP could be designed, reviewed, and delivered.
+**(Updated March 18 -- Bloomberg's own eval policy adds a structural problem.)** Bloomberg's internal policy requires that employees returning from extended leave receive an individual assessment (not peer comparison) and that interim review conversations are "required." Teddy violated both. He compared Sasha's 6-month numbers to peers' 12-month numbers and denied the mid-year review. A PIP based on an evaluation that violated the company's own policy is pretextual by definition. Even if the HR complaint somehow does not create a double-retaliation inference, the policy violation independently destroys the PIP's foundation. Any PIP must be built on a NEW evaluation that follows the actual policy.
+
+**(Updated March 18 -- Revenue at 104% eliminates the performance basis.)** Sasha's total production was $119,611 against a $115K target (104% of full-year target in 6 months of active work). Combined with his status as the only team member with zero raise AND zero bonus, the PIP has no legitimate performance basis. A PIP for someone who exceeded their target and was the sole team member denied all compensation adjustments is the definition of pretextual.
+
+**Bottom line:** The PIP option is effectively foreclosed. The HR complaint is expected before March 30. The rebuttal letter is on record. The March 30 meeting will be recorded. Bloomberg's own eval policy was violated. Revenue is at 104%. The window to implement a PIP without it being framed as double retaliation is not closing. It is closed.
 
 ### 1.11 Platt Is Dodging the Follow-Up Meeting *(Added March 4)*
 
@@ -349,7 +357,7 @@ Critical note: If coverage has NOT been equalized by PIP implementation, the rev
 
 **Recommended target:** If coverage is restored to ~2,500 firms: $40,000-$45,000 for the 90-day period. If coverage remains at 1,138 firms: no more than $20,000-$25,000.
 
-**WARNING (March 2):** The prorated performance argument is now significantly stronger with confirmed numbers. Against the confirmed $115K target, Sasha earned ~$80K in 6 active months (prorated target: $57.5K, achieved: 139% of pace). With the $30K+ RFQe revenue included, his effective 2025 total was ~$110K against $115K (96% of full-year target while working 6 months). Any PIP based on absolute revenue numbers will face this prorated analysis from opposing counsel. The attorney will argue: "This employee hit 96% of his annual target in half a year, and his manager responded by giving him zero bonus, zero raise, and threatening a PIP. Then the manager increased his target by 52% for the next year while keeping his territory the smallest on the team."
+**WARNING (March 18):** The prorated performance argument is now devastating. Against the confirmed $115K target, Sasha produced $119,611 in 6 active months (104% of the full-year target, 208% of prorated pace). This includes $80,100 METC revenue plus $39,510.79 in combined RFQE production. Any PIP based on revenue is dead on arrival. Opposing counsel's argument: "This employee exceeded his annual target working half the year. His manager's response: zero bonus, zero raise, PIP threat, and a 52% target increase for the next year while keeping his territory the smallest on the team. That is not performance management. That is retaliation."
 
 ### 2.2 Objective 2: New Client Onboards (EMSX/RBLD/RFQE)
 
@@ -582,7 +590,7 @@ For every element of the PIP above, the employee's legal team will mount specifi
 
 **(Updated Feb 24 -- mid-year review denial compounds this attack):** The evaluation's vulnerability is now compounded by the mid-year review denial. Platt scheduled the mid-year review during Sasha's leave, required in-person attendance (employee offered remote), then never held the meeting and posted the review unilaterally. Sabrina confirms she experienced the identical pattern. The year-end evaluation then penalized Sasha for not improving -- after Platt denied him the feedback session that would have told him what to improve. This closed loop makes any PIP built on the evaluation doubly pretextual: the underlying evaluation was built on data the manager selectively presented, using criteria from a feedback process the manager sabotaged.
 
-**(Updated March 2 -- confirmed $115K target and RFQe revenue further undermine the evaluation):** The evaluation's revenue narrative is now significantly weaker. Against the confirmed $115K target (METC screen, not the informal $100K estimate), Sasha's $80K METC revenue represents 70% of full-year target in 6 months (139% of prorated pace). With the $30K+ in RFQe revenue the manager allegedly pushed to January 2026, Sasha's effective 2025 total was ~$110K, or 96% of full-year target. The evaluation described Sasha as "significantly underperforming relative to peers." Opposing counsel's rebuttal: "He hit 96% of his annual target in half a year. His manager made that number look like 70% by pushing $30K in revenue past the evaluation cutoff. Then the manager used the suppressed number to justify a PIP." Any PIP built on this evaluation inherits this vulnerability.
+**(Updated March 18 -- revenue at 104% of target, evaluation's revenue narrative collapses):** The evaluation's revenue narrative is now indefensible. Against the confirmed $115K target (METC screen), Sasha's total production was $119,611 ($80,100 METC + $39,510.79 combined RFQE including Whitehaven options fees). He exceeded his full-year target at 104% while working only 6 months (208% of prorated pace). The evaluation described Sasha as "significantly underperforming relative to peers." Opposing counsel's rebuttal: "He exceeded his annual target in half a year. His manager made that number look like 70% by pushing RFQE revenue past the evaluation cutoff and leaving options fees invisible in metrics. Then the manager used the suppressed number to justify a PIP." Any PIP built on this evaluation inherits this vulnerability.
 
 ### 3.9 Attack: "The manager manipulates revenue timing to control PIP outcomes" *(Added March 2)*
 
@@ -621,6 +629,8 @@ This is the attack that may have no armor. The standard defenses are:
 4. **Documented pre-complaint PIP planning:** If the PIP was being discussed and documented before the HR complaint was filed, the company can argue the complaint did not influence the decision. But the evaluation already contains the PIP reference (Feb 17), and if PIP planning documents exist that predate the HR complaint, opposing counsel will argue those documents prove the PIP was predetermined -- which is a different vulnerability (pretext).
 
 **The honest assessment:** There is no way to implement a PIP after an HR retaliation complaint that does not create a strong inference of double retaliation. The defense can try to mitigate through temporal distance, independent decision-makers, and documented legitimate bases, but all three mitigation strategies have significant weaknesses in this specific case. The safest path is to not issue a PIP after the HR complaint is filed. See Section 6.5.
+
+**(Updated March 18 -- March 30 meeting recording compounds this attack.)** Melissa has advised Sasha to audio record the March 30 meeting (NY one-party consent). If the PIP is discussed, delivered, or even referenced at this meeting, the recording captures every word for plaintiff's counsel. The recording will be compared against the evaluation, the rebuttal letter, and any PIP document for inconsistencies. Tone and delivery become evidence. A manager who sounds uncertain, evasive, or hostile while discussing the PIP hands the plaintiff additional material. The recording also captures any statements about coverage, targets, or the employee's leave status. The March 30 meeting is not a management conversation. It is a deposition rehearsal being recorded by the opposing side.
 
 ---
 
@@ -698,6 +708,13 @@ Before the PIP is delivered, the following must be true:
 - [ ] *(Added March 4)* **The performance rebuttal has been addressed.** If the employee has submitted a formal written rebuttal to the 2025 evaluation with counter-metrics, the company has either (a) acknowledged the rebuttal data as correct and explained why a PIP is still warranted, or (b) disputed the rebuttal data with Bloomberg's own system records. A PIP issued without addressing the rebuttal is indefensible.
 - [ ] *(Added March 4)* **Coverage restoration is genuine, not sham.** If accounts have been added to the employee's coverage, they have been verified as legitimate revenue-generating opportunities, not junk accounts, sell-side firms, or problem clients dumped from other team members. Sham restoration (as appears to be occurring March 2-4) makes the PIP vulnerability worse, not better. See Section 1.10.
 - [ ] *(Added March 4)* **The manager is present and engaged in the feedback process.** Platt has not dodged, avoided, or claimed invites were "retracted" for any scheduled meeting in the feedback sequence leading to the PIP. A manager who avoids meetings cannot credibly administer a PIP. See Section 1.11.
+- [ ] *(Added March 18)* **The PIP is based on a fresh evaluation that follows Bloomberg's own policy.** Bloomberg's internal policy requires individual assessment (not peer comparison) for extended-leave returns and "required" interim review conversations. The February 2026 evaluation violated both. The PIP cannot rest on a policy-violating evaluation. A new assessment following the actual policy must be conducted first.
+- [ ] *(Added March 18)* **Revenue data has been updated to reflect actual production of $119,611 (104% of $115K target).** Any PIP document that characterizes the employee as a revenue underperformer must account for the fact that he exceeded his full-year target in 6 active months. The PIP basis must be something other than revenue.
+- [ ] *(Added March 18)* **IOI adoption metrics use definitions that were communicated before the PIP period and have not been retroactively changed.** The March 17 IOI counting change (erasing 19 of 20 adoptions 4 days after the rebuttal letter) must be addressed. If IOI adoptions are included in the PIP, the counting methodology must be defined in writing in the PIP document, must match the methodology in effect when the adoptions occurred, and cannot be changed mid-PIP.
+- [ ] *(Added March 18)* **The $175K target has been formally communicated and justified.** The target was never formally communicated to Sasha. Pat has the same target with 2x coverage plus Boston. PIP targets must be communicated in advance and achievable given coverage.
+- [ ] *(Added March 18)* **The manager has not made statements contradicting the PIP's basis.** Teddy's statement that he is "happy" with Sasha, made approximately one month after the zero-comp evaluation, must be reconciled with any PIP. A PIP for someone the manager says he is "happy" with is self-contradictory.
+- [ ] *(Added March 18)* **The company is prepared for the March 30 meeting to be audio recorded.** NY is a one-party consent state. Melissa has advised Sasha to record. All participants must assume every word is captured. No PIP should be discussed at this meeting without defense counsel preparation.
+- [ ] *(Added March 18)* **Emily Kruger's internal objections have been considered.** Emily defended Sasha ("gave him no runway") and challenged the IOI counting change on March 17. Her testimony about the fairness of the PIP process will be available to plaintiff's counsel. The PIP must be designed to withstand Emily's potential testimony.
 
 ---
 
@@ -771,6 +788,20 @@ These are common PIP mistakes that create legal liability, each analyzed for why
 If all four conditions cannot be met, the PIP should not be issued. The risk of a double-retaliation finding under NYCHRL is too high.
 
 **(Updated March 9 -- Phillips intake forms make this prohibition even more absolute.)** Phillips now has three completed intake forms and Sasha's evidence uploaded to their OneDrive. The attorney is actively building the case. Even if the HR complaint has not yet been formally filed, the company should treat the pre-complaint window as closed. Any PIP issued in this window will be framed as a preemptive strike: "Bloomberg knew the employee had retained counsel. Bloomberg knew the complaint was being prepared. Bloomberg issued the PIP before the complaint could be filed, specifically to establish the adverse action before the protected activity created legal protection." This is worse than double retaliation. It is anticipatory retaliation -- acting against the employee because the company knew the complaint was coming.
+
+**(Updated March 18 -- THE TRAP IS FULLY ARMED.)** The sequence is now confirmed: rebuttal letter delivered March 13 (done), HR complaint before March 30 (confirmed by Melissa's sequencing), March 30 meeting audio recorded (NY one-party consent, attorney-advised). The HR complaint will be on file before the next scheduled meeting. Sasha will walk into the March 30 meeting with: (a) a rebuttal letter on record, (b) a formal HR retaliation complaint filed, (c) a recording device. Any discussion of a PIP at this meeting becomes a litigation exhibit captured on audio. The prohibition in this section is no longer precautionary. It is existential. A PIP discussed at the March 30 meeting will be recorded, transcribed, and presented at trial alongside the HR complaint that was filed days earlier. There is no recovery from this sequence.
+
+### 5.11 Do Not Use Metrics That Were Retroactively Redefined After the Employee Demonstrated Performance *(Added March 18)*
+
+**Why it's dangerous here:** On March 17 (4 days after Sasha's rebuttal letter), Teddy retroactively changed the IOI adoption counting methodology. Under the previous counting method, Sasha had 20 IOI adoptions. Under the new method, he has 1. Emily Kruger independently challenged the change on the same day. If the PIP includes IOI adoption metrics using the narrowed definition, opposing counsel's argument is straightforward: "The employee demonstrated performance under the existing metric. The manager changed the metric to erase that performance. Then the PIP used the new metric to set the employee up to fail." This is a real-time demonstration of the "manager controls the inputs" attack from Section 3.5 and the "moving goalpost" prohibition from Section 5.6.
+
+**Prevention:** If IOI adoptions are included in the PIP, the counting methodology must use the definition that was in effect when the adoptions occurred. The methodology must be defined in writing in the PIP document. It cannot be changed during the PIP period. Any mid-PIP redefinition is per se evidence of bad faith. Additionally, Emily Kruger's challenge to the counting change means an internal witness is already on record objecting to the methodology shift. Her testimony will be available to plaintiff's counsel.
+
+### 5.12 Do Not Issue a PIP Based on a Policy-Violating Evaluation *(Added March 18)*
+
+**Why it's dangerous here:** Bloomberg's internal policy requires that employees returning from extended leave receive an individual assessment (not peer comparison) and that interim review conversations are "required." The February 2026 evaluation violated both: Teddy compared Sasha's 6-month data to peers' 12-month data, and the mid-year review was denied. A PIP built on an evaluation that violated the company's own rules is pretextual by construction. The company cannot enforce performance standards through a process that violated its own standards.
+
+**Prevention:** Before any PIP, a fresh evaluation must be conducted that follows Bloomberg's own extended-leave policy. The evaluation must assess Sasha's individual performance during his active months without peer comparison for the leave period, and must include the interim review conversations that the policy requires and that were denied.
 
 ---
 
@@ -850,9 +881,20 @@ Take no formal action. Monitor the employee's performance through normal channel
 
 *Disadvantages:* No formal accountability mechanism. If the employee is building a case, the absence of a PIP does not stop the lawsuit. The employee's claims are based on the evaluations, coverage stripping, and manager statements -- none of which require a PIP to be actionable. The PIP, if it existed and the employee failed it, would actually provide the company with a performance-based justification for any eventual separation.
 
-### 6.4 Recommendation *(Updated March 4 -- upgraded from "do not implement" to "DO NOT PIP UNDER ANY CIRCUMSTANCES until the HR complaint issue is resolved")*
+### 6.4 Recommendation *(Updated March 18 -- THE PIP IS A FULLY ARMED TRAP)*
 
-**DO NOT IMPLEMENT A FORMAL PIP.** The O&G engagement letter (March 4, sign by March 11), Nina Frank's HR retaliation complaint strategy ("I believe there's retaliation" -- creates protected activity), the performance rebuttal strategy (correct data on the record before PIP), sham coverage restoration (junk accounts assigned March 2-4), Platt dodging the follow-up meeting, Wigdor's explicit "come back if PIPed" invitation, and every previously documented factor have collectively made a PIP **the single most damaging action the company can take.** A PIP is no longer merely risky. It is actively harmful. It serves the plaintiff's interests more than the company's on every possible outcome. Pursue Option 2 (genuine coverage restoration -- not the sham assignments Platt is currently making -- with clear expectations) combined with Option 3 (monitored observation with documentation).
+**DO NOT IMPLEMENT A FORMAL PIP.** As of March 18, 2026, the employee's attorney has constructed a deliberate, sequential trap around any PIP issuance:
+
+- **Rebuttal letter: DELIVERED (March 13).** The evaluation's factual basis has been formally challenged with CRM data and forecast IDs. Bloomberg is now on notice that the evaluation contains errors.
+- **HR retaliation complaint: BEFORE MARCH 30.** Melissa's confirmed sequencing places the complaint before the next meeting. Any PIP after the complaint is double retaliation.
+- **March 30 meeting: WILL BE AUDIO RECORDED.** One-party consent state. Every word about the PIP becomes a litigation exhibit.
+- **Revenue at 104% of target ($119,611 vs. $115K).** There is no revenue-based PIP justification.
+- **Sasha is the only team member with zero raise AND zero bonus.** The PIP targets the sole zero-comp employee who took the most leave.
+- **Bloomberg's own eval policy violated.** The predicate evaluation does not comply with the company's own rules for extended-leave assessments.
+- **IOI counting changed 4 days after rebuttal.** Real-time demonstration of metric manipulation, challenged internally by Emily Kruger.
+- **Teddy says he is "happy" with Sasha.** PIP contradicts the manager's own recent statement.
+
+A PIP is no longer merely risky. It is actively harmful. It serves the plaintiff's interests more than the company's on every possible outcome. Pursue Option 2 (genuine coverage restoration -- not the sham assignments Platt is currently making -- with clear expectations) combined with Option 3 (monitored observation with documentation).
 
 **(March 9 evening update -- comp process and direct leave admission make this recommendation even more emphatic.)** Two new developments eliminate any remaining ambiguity. First, the comp process revelation: if evaluations are written after comp decisions are made, the February 2026 evaluation is a post-hoc justification document, not a performance assessment. The evaluation is the PIP's foundational document (Section 1.3, item 1). If the foundation is a justification document for a predetermined 0% comp outcome, the PIP built on it is pretextual by construction. Second, Platt's direct admission -- "mostly cuz I took 6 months off" -- connecting the 0% raise to Sasha's parental leave. This is no longer an inference. The manager stated the causal link. Under the Retaliation Cascade theory, the chain is: leave -> retaliatory comp (admitted) -> post-hoc evaluation (written to justify retaliatory comp) -> PIP. The evaluation itself may not survive as a legitimate document. A PIP built on a document that may not survive is indefensible. See Sections 1.12 and 6.1, factors 21-23.
 
@@ -903,6 +945,24 @@ Take no formal action. Monitor the employee's performance through normal channel
 22. *(Added March 9 evening)* **"Mostly cuz I took 6 months off" poisons any PIP.** Platt's direct admission tying the 0% raise to Sasha's parental leave is now in the case file. This is not an inference or a paraphrase. It is the manager's own words connecting compensation to leave. Under the Retaliation Cascade theory, if Cycle 1 compensation was retaliatory (as this admission concedes), and the evaluation was written to justify retaliatory compensation (as the comp process revelation suggests), then the PIP flowing from that evaluation is triple-layer retaliation: leave -> retaliatory comp -> post-hoc eval -> PIP. The admission transforms the PIP from "questionable performance management" to "documented execution of retaliation the manager admitted to." Combined with the Platt method admission ("talk as much shit as I can"), the case now has two separate admissions: one describing the method and one connecting it to leave. A PIP issued under these conditions is not defensible. It is evidence.
 
 23. *(Added March 9 evening)* **The evaluation rebuttal will challenge the PIP's factual basis before the PIP is delivered.** Nina Frank has advised Sasha to send a formal performance rebuttal to Platt and senior leadership, and Sasha is preparing it. The rebuttal will deploy: 4 GDSF forecasts (vs. the 1 cited in the evaluation), 19 C-days (vs. the 11 cited), team-leading client activity metrics, and 139% of prorated revenue target. Once Bloomberg receives this document, the specific factual claims in the evaluation that would underpin the PIP are formally disputed with Bloomberg's own CRM data. A PIP issued after receiving a documented factual challenge to its predicate evaluation -- and without first addressing or refuting the challenge -- is even more clearly pretextual. The company cannot simultaneously receive a data correction showing the evaluation was wrong on verifiable facts and then build a PIP on those same wrong facts. Phillips already has this data. The rebuttal will formalize it on Bloomberg's official record.
+
+24. *(Added March 18)* **Revenue is at 104% of target -- a PIP has no revenue basis.** Sasha produced $119,611 against a confirmed $115K target in 6 months of active work ($80,100 METC + $39,510.79 combined RFQE). He exceeded his full-year target while working half the year. A PIP alleging revenue underperformance against an employee who produced 104% of his annual target is not merely weak. It is affirmatively harmful to the defense because it proves the evaluation and PIP are disconnected from actual performance data.
+
+25. *(Added March 18)* **Sasha is the only team member with zero raise AND zero bonus.** No other team member received both 0% raise and 0% bonus. A PIP targeting the sole employee who was singled out for zero comp, who is also the employee who took the most parental leave, presents the most straightforward discriminatory pattern possible. A jury does not need to understand FMLA or NYCHRL. They need only see that everyone got something except the person who took leave, and then that person got a PIP.
+
+26. *(Added March 18)* **Bloomberg's own evaluation policy was violated.** Bloomberg's internal policy requires individual assessment (not peer comparison) for employees returning from extended leave, and interim review conversations are "required." Teddy violated both requirements. He compared Sasha's 6-month data to peers' 12-month data and denied the mid-year review. A PIP resting on a policy-violating evaluation is pretextual by definition. The company cannot enforce performance standards through a PIP when the predicate evaluation itself violated the company's own standards for conducting evaluations.
+
+27. *(Added March 18)* **IOI goalpost-moving demonstrates real-time metric manipulation.** On March 17 (4 days after the rebuttal letter), Teddy retroactively changed the IOI adoption counting methodology, erasing 19 of 20 Sasha adoptions. If IOI adoptions are included in any PIP, this counting change will be Exhibit A for the "manager controls the inputs" attack. Emily Kruger independently challenged the change on the same day, creating an internal witness to the manipulation. The IOI change is a live demonstration of exactly what the employee's team has been alleging: the manager redefines metrics after the employee demonstrates performance.
+
+28. *(Added March 18)* **The March 30 meeting will be audio recorded.** New York is a one-party consent state. Melissa has advised Sasha to record the March 30 meeting. Any PIP discussion at this meeting becomes a plaintiff's litigation exhibit. Every word about performance, targets, expectations, and the evaluation will be captured and analyzed by opposing counsel. The recording will be compared against the written evaluation and any subsequent PIP document for inconsistencies. Platt and Rich must assume every interaction with Sasha from this point forward is being recorded.
+
+29. *(Added March 18)* **Teddy says he is "happy" with Sasha.** Approximately one month after rating Sasha lowest on the team with zero comp, Teddy stated he is "happy" with Sasha's work. A PIP for someone the manager says he is "happy" with is self-contradictory. This statement, if captured in the March 30 recording or documented in messages on Bloomberg infrastructure, will be played or read alongside the PIP at trial.
+
+30. *(Added March 18)* **Emily Kruger is an active internal witness against the PIP's basis.** Emily defended Sasha to Teddy's face ("gave him no runway") and independently challenged the IOI counting change on March 17. She is generating evidence of unfair treatment through her own initiative, without being recruited by the employee's legal team. Any PIP process that Emily can testify was unfair or based on manipulated metrics strengthens the employee's case further. Emily does not need to cooperate with plaintiff's counsel to be devastating; her contemporaneous objections are already in the record.
+
+31. *(Added March 18)* **$175K target never communicated, and Pat has the same target with 2x coverage.** The 2026 revenue target was never formally communicated to Sasha. Pat (Patrick Hiller) has the same $175K target with approximately 2x Sasha's coverage plus the Boston territory. A PIP based on a target the employee was never told about, requiring per-firm productivity multiples above any peer, fails basic fairness requirements that even a sympathetic corporate jury would expect.
+
+32. *(Added March 18)* **Territory stripping timeline corrected: all strips occurred after SECOND leave return.** Houston, Tennessee, and Albany were stripped while Sasha was present and working, not during his absence. All three went to Patrick Hiller. The "operational coverage during absence" defense is inapplicable. These were affirmative decisions to reduce Sasha's territory after he returned from protected leave. A PIP that sets coverage-dependent targets after management deliberately reduced coverage is a closed-loop setup.
 
 **If a PIP becomes necessary after Q3 2026 despite the above,** it should follow the model in Section 2, with every prerequisite in Section 1 met (including Sections 1.7, 1.8, 1.9, 1.10, and 1.11), every attack in Section 3 armored against (including Section 3.10), and every prohibition in Section 5 observed (including Section 5.10). The PIP should be co-administered by HR, use metrics verified by finance or sales operations (not the manager), and include genuine support provisions that are actually provided and documented. Under the current scenario with Phillips retained (intake complete, evidence uploaded -- see Section 6.7), the PIP must be designed assuming Melissa will review it before Sasha responds and will use every element of it in discovery. Revenue metrics must be independently verified per Section 1.8. **Most critically, CT coverage must not have been stripped (see Section 1.1 critical update and Section 4.3 critical update -- the Tom shadowing trip on March 10 must not result in reassignment), and the PIP must overcome the double-retaliation inference created by the HR complaint (Section 1.10).** This requires all six conditions in Section 6.5 to be met. The standard is not "would this survive judicial review" but "would this survive being presented side-by-side with the HR retaliation complaint, Platt's admission, the performance rebuttal (showing the evaluation's data was wrong), the RFQe and CRM revenue manipulation allegations, Sabrina's BlackRock success, the sham coverage restoration (junk accounts March 2-4), the Tom CT shadowing-to-reassignment sequence, the coverage disparity data, the 52% target increase, Wigdor's explicit invitation to return if PIPed, Phillips's active case construction with Bloomberg's own documents, and the Sam Page pattern in front of an NYC jury instructed on NYCHRL's 'motivating factor' standard."
 
@@ -1003,7 +1063,7 @@ These are the employee's own claimed metrics from H1 2025, sourced from `Employe
 | Unique firms engaged | 177 (highest on team) | ~354 | ~88 |
 | Unique firms via visit/demo | 81 (second highest) | ~162 | ~40 |
 | Revenue (METC total) | $80,100 (70% of confirmed $115K target) | ~$160,200 | ~$40,000 |
-| Revenue (with RFQe) | ~$110,000 (96% of confirmed $115K target) | ~$220,000 | ~$55,000 |
+| Revenue (with all RFQE) | ~$119,611 (104% of confirmed $115K target) | ~$239,222 | ~$59,806 |
 | Revenue (midyear only) | $26,300 (1 GDSF forecast) | ~$52,600 | ~$13,150 |
 | RFQE onboards | 3 (PartnerRe, Mariner) | ~6 | ~1.5 |
 | Strategic adoptions | 3 (none sustained) | ~6 | ~1.5 |
@@ -1011,7 +1071,7 @@ These are the employee's own claimed metrics from H1 2025, sourced from `Employe
 | CT in-person meetings | 45 | ~90 | ~22.5 |
 | CT accounts visited | 18 | ~36 | ~9 |
 
-**Note on revenue complexity *(Updated March 2)*:** The employee's METC-tracked revenue of $80,100 includes $53,800 that booked during leave from pre-leave pipeline. His in-period revenue at midyear was $26,300 from a single forecast. However, the employee now alleges $30K+ in additional RFQe revenue generated in 2025 that the manager booked in January 2026 instead. If true, total 2025 revenue was ~$110K against a confirmed $115K target (96% of full-year target while working only 6 months). On a prorated basis (6 active months = $57.5K target), even the METC-only figure of $80,100 represents 139% of pace; with RFQe, it represents approximately 191%.
+**Note on revenue complexity *(Updated March 18)*:** The employee's METC-tracked revenue of $80,100 includes $53,800 that booked during leave from pre-leave pipeline. His in-period revenue at midyear was $26,300 from a single forecast. However, combined RFQE production now totals $39,510.79 (including Whitehaven options fees of $7,910.79 and previously documented RFQE revenue). Total 2025 production: approximately $119,611 against a confirmed $115K target (104% of full-year target while working only 6 months). On a prorated basis (6 active months = $57.5K target), even the METC-only figure of $80,100 represents 139% of pace; with all RFQE production, it represents approximately 208%.
 
 The confirmed 2025 target of $115K (from Bloomberg's METC screen) replaces the previously cited $100K informal estimate. The 2026 target of $175K represents a 52% increase over this confirmed baseline, which opposing counsel will present as a standalone adverse action when combined with the coverage disparity.
 
@@ -1021,7 +1081,71 @@ PIP revenue targets should be calibrated toward the higher end only if coverage 
 
 ---
 
-### Critical PIP Update (March 17, 2026): DO NOT ISSUE A PIP
+### Critical PIP Update (March 18, 2026): THE PIP IS A FULLY SET TRAP -- DO NOT ISSUE
+
+**The PIP is no longer merely inadvisable. It is a trap that has been deliberately constructed by the employee's attorney and is now fully armed.**
+
+Melissa (Phillips & Associates, Senior Litigation Associate) has explicitly advised Sasha to execute the following sequence:
+
+1. **Rebuttal letter: DELIVERED (March 13, after 5 PM).** Formally challenges the evaluation's factual basis with verifiable CRM data, forecast IDs, and MNDH pod revenue. Bloomberg now has a documented record showing the evaluation contained errors. The closing sentence -- "I hope... my leave does not result in any negative impact on my evaluation or coverage" -- is a legal notice marker under NYCHRL.
+
+2. **HR retaliation complaint: BEFORE March 30.** Melissa's confirmed sequencing places the HR complaint between the rebuttal delivery and the next scheduled meeting. The complaint creates a protected activity. Any PIP issued after it becomes independently actionable as retaliation for the complaint itself, separate from the leave-retaliation claim. This is the double-retaliation tripwire.
+
+3. **March 30 meeting: WILL BE AUDIO RECORDED.** New York is a one-party consent state. Melissa has advised Sasha to audio record the March 30 meeting. If the PIP is discussed, delivered, or even referenced at this meeting, every word becomes evidence in the hands of plaintiff's counsel. Every statement about performance, targets, expectations, and the evaluation will be transcribed and analyzed. The recording will capture tone, hesitation, evasiveness, and any statement that contradicts Bloomberg's documented position. Platt and Rich must assume they are being recorded at every interaction with Sasha from this point forward.
+
+**The trap is fully armed:** HR complaint filed (creating protected activity) + PIP delivered (adverse action after protected activity) + meeting audio recorded (capturing the delivery for plaintiff's use). This is not speculative. This is the confirmed sequence from the employee's retained attorney.
+
+---
+
+#### Ten Facts That Independently Destroy a PIP
+
+**Fact 1: Revenue at 104% of target.** Sasha produced $119,611 against his confirmed $115K target in 6 months of active work. This includes $80,100 METC revenue + $39,510.79 in combined RFQE production (Whitehaven options fees $7,910.79 + previously documented RFQE revenue). A PIP for someone who exceeded his prorated revenue target at 104% of the full-year number cannot be justified on revenue grounds. Opposing counsel's argument: "He hit 104% of his annual target working half the year. His manager's response was zero bonus, zero raise, and a PIP threat. The PIP is not about performance. It is about leave."
+
+**Fact 2: Sasha is the only team member with zero raise AND zero bonus.** No other team member received both 0% raise and 0% bonus. The sole distinguishing factor between Sasha and every other team member is that Sasha took the most parental leave. A PIP for the only person singled out for zero comp, who also happened to take the most leave, is the textbook definition of pretextual. Opposing counsel does not need to prove the PIP is retaliatory. They need only show the jury a chart: every team member's comp adjustment, and Sasha at the bottom. Then they ask: "What's different about him?"
+
+**Fact 3: Bloomberg's own evaluation policy was violated.** Bloomberg's internal policy requires that employees returning from extended leave receive an individual assessment (not peer comparison) and that interim review conversations are "required." Teddy did neither. He compared Sasha's 6-month numbers to peers' 12-month numbers and denied the mid-year review. A PIP based on an evaluation that violated the company's own policy is pretextual by definition. The evaluation does not comply with Bloomberg's own rules. A PIP built on a non-compliant evaluation inherits the non-compliance. Any PIP must be based on a NEW evaluation that follows the actual policy: individual assessment, no peer comparison for the leave period, and documented interim review conversations.
+
+**Fact 4: IOI goalpost-moving.** On March 17 (4 days after the rebuttal letter), Teddy retroactively changed the IOI adoption counting methodology, erasing 19 of Sasha's 20 IOI adoptions. The previous count was 20 adoptions across IOI types; the new count is 1 adoption under a narrower definition. If PIP metrics include IOI adoptions, the counting change will be attacked as rigging the metrics after the employee demonstrated performance. Opposing counsel's argument: "The employee had 20 adoptions. Four days after he challenged the evaluation, his manager changed the counting rules to make it 1. If they put IOI in the PIP, the same thing will happen: the employee will meet the target, and the manager will change how he counts." This is a real-time demonstration of the "manager controls the inputs" attack from Section 3.5.
+
+**Fact 5: Territory stripping timeline corrected.** Houston, Tennessee, and Albany were stripped after Sasha returned from his SECOND parental leave (not the first). All three territories went to Patrick Hiller. The previous defense theory ("operational coverage during absence") does not apply. These territories were stripped while Sasha was present and working. The PIP cannot set coverage-dependent targets when Sasha has the smallest coverage on the team (1,138 firms vs. next closest 2,529) because management deliberately stripped it after he returned from leave.
+
+**Fact 6: $175K target set silently.** The $175K 2026 revenue target was never formally communicated to Sasha. It represents a 52% increase over the confirmed $115K 2025 target. Pat (Patrick Hiller) has the same $175K target with approximately 2x Sasha's coverage plus the Boston territory. PIP targets must be communicated in advance and be achievable given coverage. A PIP based on a target the employee was never told about, set at a level that requires per-firm productivity 2x-5x higher than any peer, fails on both counts.
+
+**Fact 7: Teddy says he is "happy" with Sasha.** Approximately one month after rating Sasha lowest on the team with zero comp, Teddy told Sasha he is "happy" with his work. A PIP for someone the manager says he is "happy" with is contradictory on its face. If the manager is happy, what is the PIP improving? Opposing counsel will play this statement (or present it in deposition testimony) alongside the evaluation and the PIP: "He rated him lowest. He gave him nothing. Then he said he was happy. Then he put him on a PIP. Which is it?"
+
+**Fact 8: March 30 meeting will be audio recorded.** New York is a one-party consent state. Melissa has advised Sasha to record the March 30 meeting. If the PIP is discussed, delivered, or even mentioned at this meeting, the recording becomes a litigation exhibit. Every word Platt and Rich say about performance, targets, expectations, coverage, and the evaluation will be captured. Tone matters. Hesitation matters. Inconsistencies between what is said verbally and what was written in the evaluation matter. The recording will be analyzed by plaintiff's counsel and presented at deposition, mediation, or trial. Platt and Rich must assume every word is on the record.
+
+**Fact 9: Emily Kruger is an active internal witness.** Emily defended Sasha to Teddy's face ("gave him no runway") and independently challenged the IOI counting change on March 17. She is not a passive observer. She is an active participant who has vocally disagreed with how Sasha is being managed. Any PIP process that Emily can testify was unfair strengthens the employee's case. Emily's testimony that the IOI counting was changed after the rebuttal, that she challenged it, and that Teddy proceeded anyway is devastating. Emily does not need to be recruited by the employee's legal team. She is already generating evidence through her own actions.
+
+**Fact 10: The comp process revelation.** Evaluations are written after comp decisions are made. The February 2026 evaluation was not an assessment. It was a post-hoc justification for a predetermined 0% outcome. A PIP based on a justification document inherits the taint. See Section 1.12.
+
+---
+
+#### If a PIP Must Eventually Be Issued
+
+If, after the HR investigation is complete and defense counsel has approved, a PIP becomes necessary, it MUST meet ALL of the following requirements:
+
+1. **Based on a fresh evaluation that follows Bloomberg's own policy.** The February 2026 evaluation violated Bloomberg's policy on extended leave (requires individual assessment, not peer comparison; interim review conversations "required"). The PIP cannot rest on a non-compliant evaluation. A new assessment must be conducted that follows the actual policy: individual assessment of Sasha's performance during his active months, no comparison to peers who worked 12 months, and documented interim review conversations.
+
+2. **Targets account for coverage disparity.** Sasha has 1,138 firms. The team average is approximately 3,451. Pat has approximately 2x Sasha's coverage plus Boston. Any revenue or activity target must be proportional to coverage. A $175K target for 1,138 firms when Pat has the same target with 2,529+ firms is facially pretextual.
+
+3. **Coverage restoration as a company commitment.** The PIP document must include a binding commitment to restore Sasha's coverage to at least the next-lowest peer level before or simultaneously with PIP implementation. Coverage restoration must be genuine (real accounts, real territories) and not the sham assignments of March 2-4 (junk ETF accounts, problem broker-dealer, sell-side FNY).
+
+4. **Metrics communicated in advance (not retroactively narrowed).** The IOI counting change on March 17 demonstrates that metrics can be retroactively redefined to erase performance. PIP metrics must use definitions that were communicated before the PIP period begins, and those definitions must be locked. No mid-PIP redefinition. No retroactive narrowing. If IOI adoptions are included, the counting methodology must be defined in writing in the PIP document and cannot change.
+
+5. **Acknowledge the revenue already achieved.** The PIP must account for $119,611 in production against a $115K target (104%). The PIP cannot characterize Sasha as a revenue underperformer when his actual production exceeded his target. If the PIP is about something other than revenue (quality of interactions, sustained adoption, pipeline development), it must say so explicitly and explain why 104% revenue attainment is insufficient.
+
+6. **Include specific support resources.** Coaching sessions, coverage review, product training, client introduction support. All documented. All actually provided (see Section 5.4). The support log is as important as the performance data.
+
+7. **Reviewed by employment counsel before issuance.** Defense counsel must provide written confirmation that the PIP is defensible given: the HR retaliation complaint (filed), the rebuttal letter (on record with CRM data), the coverage disparity (1,138 vs. team average 3,451), Platt's admissions ("mostly cuz I took 6 months off" and "talk as much shit as I can"), the IOI counting change (4 days post-rebuttal), Emily Kruger's internal objections, the Sam Page pattern, Sabrina's corroboration, and the audio recording of the March 30 meeting.
+
+8. **Co-administered by someone other than Platt.** Given Platt's two admissions (method and leave connection), his pattern of meeting avoidance, the IOI counting change, and the sham coverage restoration, Platt cannot be the sole PIP administrator. HR or a second manager must co-administer every checkpoint.
+
+**Earliest defensible PIP date:** Late Q3 2026 at the absolute earliest, after: (a) HR complaint investigation is complete, (b) a fresh evaluation following Bloomberg's own policy has been conducted, (c) coverage has been genuinely restored, (d) Q2 2026 performance data exists as an independent basis, and (e) defense counsel has provided written approval.
+
+---
+
+#### Previous March 17 Analysis (Retained)
 
 **The PIP must not be issued in the current window.** Three developments since March 12 make any PIP issuance in March-April 2026 a trap:
 
@@ -1037,7 +1161,5 @@ PIP revenue targets should be calibrated toward the higher end only if coverage 
 - Complete the investigation with written findings
 - Only then, with defense counsel's guidance, decide whether a PIP is warranted
 - If a PIP is issued, it must address the rebuttal letter's factual claims and cannot repeat the evaluation's errors
-
-**Earliest defensible PIP date:** Mid-to-late April 2026, after HR investigation is complete.
 
 **Additional data undermining PIP basis:** The rebuttal letter introduces MNDH pod data ($1.5B traded YTD, $17K base fees from Sasha's onboarding during leave) and Whitehaven options fees ($7,910.79 from RFQE, invisible in metrics). Combined RFQE production: $39,510.79. Sasha completed Rich's pod project ahead of deadline, logged Point72 outreach in CRM, and ran 7 CT client meetings in a single day (March 11). Any PIP based on "underperformance" must account for these data points or it will be demolished by Phillips using Bloomberg's own records.
