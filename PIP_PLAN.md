@@ -1018,3 +1018,26 @@ The confirmed 2025 target of $115K (from Bloomberg's METC screen) replaces the p
 PIP revenue targets should be calibrated toward the higher end only if coverage is restored; toward the lower end if it is not. In all cases, revenue must be verified independently of the manager (see Section 1.8) to prevent the timing manipulation alleged in both the RFQe and CRM forecast incidents.
 
 **Note on assist credit (cross-product origination) *(Added March 9 evening)*:** Sasha's actual originated production includes approximately $24K in EMSX API deals where he sourced the client relationship and drove adoption, but the revenue was credited to another team (likely the EMSX product team or an API-specific sales line). This production does not appear in Sasha's METC figures. If PIP revenue targets are set against METC-only figures, they ignore $24K in production Sasha actually generated through cross-product origination. This creates two problems for PIP design: (1) the PIP understates his actual production capacity, making targets appear more generous than they are relative to his real output, and (2) opposing counsel will argue that the company measures Sasha on a metric he cannot fully control because revenue he originates gets credited elsewhere. PIP targets must either account for cross-product origination by including assist credits in the revenue total, or the revenue target must be reduced to reflect the fact that a portion of the employee's productive output is structurally invisible to the measurement system. A PIP that ignores assist credit revenue is attacking a metric the employee cannot fully influence, which is the definition of a setup-to-fail.
+
+---
+
+### Critical PIP Update (March 17, 2026): DO NOT ISSUE A PIP
+
+**The PIP must not be issued in the current window.** Three developments since March 12 make any PIP issuance in March-April 2026 a trap:
+
+1. **Rebuttal letter delivered March 13.** Sasha has formally challenged the evaluation's factual basis with verifiable CRM data. A PIP based on the same evaluation, issued after the rebuttal, will be framed as: "The employee proved the evaluation was wrong, and the company responded by PIping him." The PIP inherits every factual error in the evaluation.
+
+2. **HR retaliation complaint expected ~March 20.** Melissa's confirmed sequencing: rebuttal first (done), HR complaint ~1 week later, before any PIP. If Bloomberg issues a PIP after the HR complaint, the timeline is devastating: employee files formal complaint -> company issues PIP. Under NYCHRL, temporal proximity alone creates a presumption of retaliation that Bloomberg must rebut.
+
+3. **Intermittent leave ended March 6.** Sasha no longer has active leave status. Bloomberg may view this as the PIP window opening. But Melissa has deliberately timed the HR complaint to front-run the PIP. The end of leave is irrelevant to the retaliation analysis because the HR complaint creates a new protected activity that is independent of the leave.
+
+**The only viable PIP path is:**
+- Wait for the HR complaint to be filed (~March 20)
+- Conduct a thorough, documented investigation by someone outside Platt's chain (2-4 weeks)
+- Complete the investigation with written findings
+- Only then, with defense counsel's guidance, decide whether a PIP is warranted
+- If a PIP is issued, it must address the rebuttal letter's factual claims and cannot repeat the evaluation's errors
+
+**Earliest defensible PIP date:** Mid-to-late April 2026, after HR investigation is complete.
+
+**Additional data undermining PIP basis:** The rebuttal letter introduces MNDH pod data ($1.5B traded YTD, $17K base fees from Sasha's onboarding during leave) and Whitehaven options fees ($7,910.79 from RFQE, invisible in metrics). Combined RFQE production: $39,510.79. Sasha completed Rich's pod project ahead of deadline, logged Point72 outreach in CRM, and ran 7 CT client meetings in a single day (March 11). Any PIP based on "underperformance" must account for these data points or it will be demolished by Phillips using Bloomberg's own records.
